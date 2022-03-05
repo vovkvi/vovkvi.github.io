@@ -1,0 +1,3209 @@
+#EXTM3U
+#RADIOBROWSERUUID:399b7c2a-6680-11e8-b15b-52543be04c81
+#EXTINF:1,RMF FM
+http://195.150.20.242:8000/rmf_fm
+
+#RADIOBROWSERUUID:db1c1886-cfd1-4237-8104-1ddd3edf0bc4
+#EXTINF:1,Radio 357
+https://stream.rcs.revma.com/ye5kghkgcm0uv
+
+#RADIOBROWSERUUID:59e30dda-64bf-11ea-be63-52543be04c81
+#EXTINF:1,Radio Zet
+http://zet-net-01.cdn.eurozet.pl:8400/
+
+#RADIOBROWSERUUID:38166a4d-b50b-4fbf-b0cb-bd4d99c3b667
+#EXTINF:1,Radio Nowy Świat
+https://stream.open.fm/368?type=.aac&user=800043471858&player_group=WWW
+
+#RADIOBROWSERUUID:960d9241-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF FM
+http://195.150.20.9/RMFFM48
+
+#RADIOBROWSERUUID:961a56e9-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Polskie Radio 24
+http://stream3.polskieradio.pl:8080/;.mp3
+
+#RADIOBROWSERUUID:9610ee68-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Wnet
+http://audio.radiownet.pl:8000/stream
+
+#RADIOBROWSERUUID:9617d67b-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Antyradio
+https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5
+
+#RADIOBROWSERUUID:df363e70-8345-11e8-aa66-52543be04c81
+#EXTINF:1,Radio Złote Przeboje
+https://stream.open.fm/201
+
+#RADIOBROWSERUUID:878f3a15-8346-11e8-aa66-52543be04c81
+#EXTINF:1,80s Hits - Open FM
+https://stream.open.fm/3
+
+#RADIOBROWSERUUID:96117fec-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Polskie Radio Program 1
+http://mp3.polskieradio.pl:8900/
+
+#RADIOBROWSERUUID:964558ba-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Polskie Radio Jedynka
+http://mp3.polskieradio.pl:8900/;.mp3
+
+#RADIOBROWSERUUID:f5554e70-b78c-48df-9612-e1c42d5bc4e4
+#EXTINF:1,Tok FM 64k OGG
+http://wroclaw.radio.pionier.net.pl:8000/pl/radiotok3.ogg
+
+#RADIOBROWSERUUID:960dc513-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Classic
+http://31.192.216.8/RMFCLASSIC48
+
+#RADIOBROWSERUUID:52768156-3f43-11e8-b74d-52543be04c81
+#EXTINF:1,Radio Maryja
+https://usa12.fastcast4u.com/tunein/isnesllc.pls
+
+#RADIOBROWSERUUID:964aa3f1-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Trojka
+http://stream3.polskieradio.pl:8904/
+
+#RADIOBROWSERUUID:225a9d7f-c23d-442d-bbdc-c2000097db27
+#EXTINF:1,Radio Nowy Świat
+https://stream.nowyswiat.online/aac
+
+#RADIOBROWSERUUID:96110d73-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Italo Disco
+http://stream.open.fm/27
+
+#RADIOBROWSERUUID:698edc0e-7027-11ea-b1cf-52543be04c81
+#EXTINF:1,Wnet.fm
+https://media.wnet.fm/wnet.fm
+
+#RADIOBROWSERUUID:70a13580-8348-11e8-aa66-52543be04c81
+#EXTINF:1,500 Party Hits - Open FM
+https://stream.open.fm/81
+
+#RADIOBROWSERUUID:2a526572-4230-4b22-9e47-79383973ee0e
+#EXTINF:1,Radio RMF24.pl
+https://rs202-krk-cyfronet.rmfstream.pl/RMF24?aw_0_req.gdpr=false&aw_0_req.userConsentV2=&aw_0_1st.playerid=RMF_Player_JS_P&aw_0_1st.rmf_disable_preroll=true
+
+#RADIOBROWSERUUID:6bad94dd-e6fb-451b-9d6d-4681546cae6b
+#EXTINF:1,Vox FM
+https://radio.stream.smcdn.pl/icradio-p/3990-1.aac/playlist.m3u8
+
+#RADIOBROWSERUUID:960fdd64-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Zlote Przeboje
+http://stream5.radioagora.pl:8000/;
+
+#RADIOBROWSERUUID:725f361c-5646-4ec5-b74a-587ebd42905b
+#EXTINF:1,Eska ROCK
+https://waw.ic.smcdn.pl/5380-1.aac?timestamp=1620723825&hash=e00f1360dd1af5af9d7bde1dd83562fde83481602c0be94c52ce195414ebd441&rip=89.64.82.219&chstr=79e36d6ad70ff31bfe6276033406b4eb413aaaa6f0ffcbbbcff27dd43f6bc4d0
+
+#RADIOBROWSERUUID:960fd21f-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - 80s Hits
+http://stream.open.fm/3
+
+#RADIOBROWSERUUID:96166d6e-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Minimal Mix Radio
+http://minimalmix.com/minimalmixradio.pls
+
+#RADIOBROWSERUUID:961103ff-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Dance
+http://stream.open.fm/31
+
+#RADIOBROWSERUUID:65cd1362-71ab-4829-8a4a-f530caf3a465
+#EXTINF:1,Radio RMF MAXXX
+https://rs9-krk2-cyfronet.rmfstream.pl/RMFMAXXX48
+
+#RADIOBROWSERUUID:964e02cb-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Classic Metal
+http://stream.open.fm/108
+
+#RADIOBROWSERUUID:0013eb82-2dea-41f7-9534-936d0b2721b7
+#EXTINF:1,TokFM
+https://radiostream.pl/tuba10-1.mp3
+
+#RADIOBROWSERUUID:96110b50-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - House
+http://stream.open.fm/5
+
+#RADIOBROWSERUUID:96112605-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Trance
+http://stream.open.fm/7
+
+#RADIOBROWSERUUID:9610fa6a-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - 500 Reggae Hits
+http://stream.open.fm/30
+
+#RADIOBROWSERUUID:96110cbc-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Impreza
+http://stream.open.fm/2
+
+#RADIOBROWSERUUID:0c92803e-9028-499f-acfe-aa1502249c6d
+#EXTINF:1,TOK FM 48k
+https://stream.open.fm/200
+
+#RADIOBROWSERUUID:960dc18b-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF 90s
+http://31.192.216.7/90S
+
+#RADIOBROWSERUUID:960f6b39-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF 80s
+http://195.150.20.9/80S
+
+#RADIOBROWSERUUID:23364ae0-f561-11e8-a471-52543be04c81
+#EXTINF:1,eskaGO.pl - IMPREZA - Disco Party
+http://pldm.ml/radio.php?id=-1&url=http://www.eskago.pl/radio/disco-party
+
+#RADIOBROWSERUUID:16829065-cee9-49e2-b76e-a7242a12aaa9
+#EXTINF:1,Radio RMF24.PL
+https://rs201-krk.rmfstream.pl/RMF24
+
+#RADIOBROWSERUUID:2f4c5540-6ef1-4376-b76e-3c2883021f81
+#EXTINF:1,Muzo FM
+https://stream.rcs.revma.com/1nnezw8qz7zuv
+
+#RADIOBROWSERUUID:a116b8d9-f649-4928-81d7-7f975a755e7c
+#EXTINF:1,Radio Nowy Świat
+https://stream.nowyswiat.online/mp3
+
+#RADIOBROWSERUUID:96102577-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radioparty.pl
+http://s7.radioparty.pl:8000/
+
+#RADIOBROWSERUUID:9610d497-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Silesia
+http://s1.slotex.pl:7926/
+
+#RADIOBROWSERUUID:960f824a-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Polskie przeboje
+http://195.150.20.8/PPRZEBOJE
+
+#RADIOBROWSERUUID:7111b495-208d-4d8a-97aa-7d6d190126b7
+#EXTINF:1,Radio357
+https://stream.rcs.revma.com/an1ugyygzk8uv
+
+#RADIOBROWSERUUID:9611026d-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Chillout
+http://stream.open.fm/33
+
+#RADIOBROWSERUUID:3afa35f2-8346-11e8-aa66-52543be04c81
+#EXTINF:1,Disco Polo - Open FM
+https://stream.open.fm/21
+
+#RADIOBROWSERUUID:9611af5d-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Pogoda
+http://stream5.radioagora.pl/tuba38-1.mp3
+
+#RADIOBROWSERUUID:96115763-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Anime24
+http://91.232.4.33:7028/;
+
+#RADIOBROWSERUUID:7bec4961-9ba1-4db4-9ac8-19856d15dcf4
+#EXTINF:1,Radio VoxFm
+http://waw01-01.ic.smcdn.pl:8000/3990-1.aac
+
+#RADIOBROWSERUUID:fd0f123f-9522-47ea-b9f4-1a56b87580eb
+#EXTINF:1,Radioparty.pl Energy 2000 AAC+
+http://s2.radioparty.pl:8040/energy2000
+
+#RADIOBROWSERUUID:961111ec-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Odglosy Natury
+http://stream.open.fm/52
+
+#RADIOBROWSERUUID:96110669-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Disco Polo
+http://stream.open.fm/21
+
+#RADIOBROWSERUUID:960f7041-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Dance
+http://31.192.216.10/DANCE
+
+#RADIOBROWSERUUID:3a678190-738c-4a6d-b171-512aba7f1f53
+#EXTINF:1,RADIO NOWY ŚWIAT
+http://stream.open.fm/368
+
+#RADIOBROWSERUUID:91f56a46-8348-11e8-aa66-52543be04c81
+#EXTINF:1,Dance - Open FM
+https://stream.open.fm/31
+
+#RADIOBROWSERUUID:da0174e1-a1b0-447d-befb-087a6c88d6d4
+#EXTINF:1,Chilli Zet
+https://ch.cdn.eurozet.pl/chi-net.mp3
+
+#RADIOBROWSERUUID:9008eb96-32e0-11e9-8f31-52543be04c81
+#EXTINF:1,PR - Pink Floyd
+http://mp3.polskieradio.pl:8070/
+
+#RADIOBROWSERUUID:9611404d-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radioparty.pl Energy2000
+http://energy2000.radioparty.pl:8005/
+
+#RADIOBROWSERUUID:960f451a-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Hip-Hop PL
+http://stream.open.fm/24
+
+#RADIOBROWSERUUID:961b32f7-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Polskie Radio Katowice
+http://stream4.nadaje.com:9212/radiokatowice
+
+#RADIOBROWSERUUID:3adf4c27-9e18-46fb-8e3c-8883ce2c827a
+#EXTINF:1,eskaGO.pl - Kraków
+http://pldm.ml/radio.php?id=-1&url=http://www.eskago.pl/radio/eska-krakow
+
+#RADIOBROWSERUUID:960fd2d1-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - 90s Hits
+http://stream.open.fm/10
+
+#RADIOBROWSERUUID:960f7fd2-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Party
+http://195.150.20.7/PARTY
+
+#RADIOBROWSERUUID:6612150e-8346-11e8-aa66-52543be04c81
+#EXTINF:1,Hip-Hop PL - Open FM
+https://stream.open.fm/24
+
+#RADIOBROWSERUUID:3dd380f8-c162-44ef-8254-a455ddf03fe2
+#EXTINF:1,357
+http://stream.rcs.revma.com/ye5kghkgcm0uv
+
+#RADIOBROWSERUUID:49fddb46-0cd0-11e9-a80b-52543be04c81
+#EXTINF:1,PLUS
+http://plus-gdansk-01.eurozet.pl:8500/
+
+#RADIOBROWSERUUID:960f6e95-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Classic Rock
+http://31.192.216.10/CLASSICROCKVT
+
+#RADIOBROWSERUUID:96110744-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Drum'n'Bass
+http://stream.open.fm/41
+
+#RADIOBROWSERUUID:96117d6c-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Polskie Radio Program 2
+http://stream3.polskieradio.pl:8952/;.mp3
+
+#RADIOBROWSERUUID:964aec63-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Antyradio Warszawa
+http://ant-kat.cdn.eurozet.pl:8602/
+
+#RADIOBROWSERUUID:47c5dd82-470a-11e9-aa55-52543be04c81
+#EXTINF:1,RMF FM
+http://31.192.216.8/rmf_fm
+
+#RADIOBROWSERUUID:bd89329f-4e16-11e8-a4d1-52543be04c81
+#EXTINF:1,Polskie Radio - Czwórka
+http://stream3.polskieradio.pl:8906/;stream
+
+#RADIOBROWSERUUID:b1acf1df-8348-11e8-aa66-52543be04c81
+#EXTINF:1,House - Open FM
+https://stream.open.fm/5
+
+#RADIOBROWSERUUID:e87e534d-d92a-4699-a764-fafc5ba494c5
+#EXTINF:1,Radio 357 (mp3)
+http://n16a-eu.rcs.revma.com/an1ugyygzk8uv
+
+#RADIOBROWSERUUID:96113f20-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radioparty.pl Dj Mixes Party
+http://djmixes.radioparty.pl:8035/
+
+#RADIOBROWSERUUID:8f9d31e6-ec39-11e8-a471-52543be04c81
+#EXTINF:1,Radio Chrystusa Króla
+http://4stream.pl:18044/
+
+#RADIOBROWSERUUID:9d1c096c-44bf-4360-b33e-beb24244d6d9
+#EXTINF:1,Radiospacja
+https://s4.radio.co/s8c7d5e4e1/listen
+
+#RADIOBROWSERUUID:dd95fc78-2f9a-4fb1-8f15-440c6e5b08ff
+#EXTINF:1,Radio 357
+http://stream.rcs.revma.com/an1ugyygzk8uv
+
+#RADIOBROWSERUUID:75c6e53d-36db-4926-b7d2-a2ff514cd243
+#EXTINF:1,Radio Max Italo - New Generation
+https://ruby.torontocast.com:1525/stream#.mp3?ver=425798
+
+#RADIOBROWSERUUID:96110e2d-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Klub 90
+http://stream.open.fm/8
+
+#RADIOBROWSERUUID:c51365ec-9b37-40ee-86e5-768ae776c7fc
+#EXTINF:1,Radio 357 (aac)
+https://n14a-eu.rcs.revma.com/ye5kghkgcm0uv
+
+#RADIOBROWSERUUID:90877e51-c905-431d-aad2-cf7bea939a7b
+#EXTINF:1,Radio Nowy Świat 256k
+https://go-audio.toya.net.pl/63214
+
+#RADIOBROWSERUUID:96110817-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Dubstep
+http://stream.open.fm/68
+
+#RADIOBROWSERUUID:9648b98c-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Sexy: Soul & R'n'B
+http://stream.open.fm/18
+
+#RADIOBROWSERUUID:963a8960-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radioparty.pl House Party
+http://house.radioparty.pl:8010/
+
+#RADIOBROWSERUUID:cb39f162-3b40-11e8-b74d-52543be04c81
+#EXTINF:1,Toksyna FM PsyTrance
+http://www.toksyna.fm/psytrance.pls
+
+#RADIOBROWSERUUID:76205995-be2b-431f-86dc-5ccd808978a3
+#EXTINF:1,Radio Disco-Dance
+https://radiodd.cloud/radio/8000/radio.mp3
+
+#RADIOBROWSERUUID:9611778d-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio ItaloDance Neo80s
+http://neo80s.italodance.pl:7750/
+
+#RADIOBROWSERUUID:621f9bd0-b91e-414d-b72b-7b8f2374183f
+#EXTINF:1,Radio ZET
+https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5
+
+#RADIOBROWSERUUID:96475cd4-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Britpop
+http://stream.open.fm/159
+
+#RADIOBROWSERUUID:963456fb-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Polskie Radio - Czwórka (Program 4) (AAC+)
+http://stream3.polskieradio.pl:8956/;
+
+#RADIOBROWSERUUID:960f83fd-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF PRL
+http://195.150.20.8/PRL
+
+#RADIOBROWSERUUID:fd0590d4-8346-11e8-aa66-52543be04c81
+#EXTINF:1,Crema Café - Open FM
+https://stream.open.fm/76
+
+#RADIOBROWSERUUID:960d9954-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Jasna Gora
+http://online.radiojasnagora.pl:8000/rjg
+
+#RADIOBROWSERUUID:96111d21-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Rock Ballady
+http://stream.open.fm/61
+
+#RADIOBROWSERUUID:9612c646-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Rockserwis.fm
+http://radio.rockserwis.fm/live
+
+#RADIOBROWSERUUID:b322cb7b-6f84-45f4-a3c8-fd7b4ea42f67
+#EXTINF:1,Radioparty.pl Vocal Trance
+http://s2.radioparty.pl:8025/vocaltrance
+
+#RADIOBROWSERUUID:6b17348a-05c3-11e9-a3cd-52543be04c81
+#EXTINF:1,Polskie Radio Trojka AAC
+http://stream3.polskieradio.pl:8954/;.mp3
+
+#RADIOBROWSERUUID:96111451-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Po Polsku
+http://stream.open.fm/1
+
+#RADIOBROWSERUUID:d8108654-56da-410f-a4b0-cb1545d971b1
+#EXTINF:1,Radio Zlote Przeboje
+https://pl2-play.adtonos.com/zote-przeboje
+
+#RADIOBROWSERUUID:0c6098e2-8d63-4615-a622-074283819442
+#EXTINF:1,Radio Open FM - Italo Disco
+https://stream.open.fm/27
+
+#RADIOBROWSERUUID:c7ac7dd7-3459-43f4-9380-29a326272cf9
+#EXTINF:1,Radio 357
+http://193.222.135.71/378
+
+#RADIOBROWSERUUID:96110598-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Disco Polo Freszzz
+http://stream.open.fm/57
+
+#RADIOBROWSERUUID:b5eff1a0-6317-11e9-a622-52543be04c81
+#EXTINF:1,Akademickie Radio Kampus
+http://193.0.98.66:8005/listen.pls
+
+#RADIOBROWSERUUID:167ceaf6-05c3-11e9-a3cd-52543be04c81
+#EXTINF:1,Polskie Radio Jedynka AAC
+http://stream3.polskieradio.pl:8950/;.mp3
+
+#RADIOBROWSERUUID:961b5ae6-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio RAM
+http://stream4.nadaje.com:9220/ram.m3u
+
+#RADIOBROWSERUUID:a47e492d-38b0-4a30-b763-dea3e3ad2fcb
+#EXTINF:1,Radio Nowy Swiat OF
+https://stream.open.fm/368
+
+#RADIOBROWSERUUID:960fd7e9-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Chillout Radio
+http://panel.nadaje.com:9004/
+
+#RADIOBROWSERUUID:960ff7dc-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Katolickie Radio Rzeszow - VIA
+http://62.133.128.18:8040/
+
+#RADIOBROWSERUUID:964aa7ce-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - PolskieRadio24
+http://stream3.polskieradio.pl:8080/
+
+#RADIOBROWSERUUID:964e00e3-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Hip-Hop Klasyk
+http://stream.open.fm/107
+
+#RADIOBROWSERUUID:960f9400-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Polskie Radio RDC - Radio Dla Ciebie
+http://stream2.nadaje.com:11140/rdc
+
+#RADIOBROWSERUUID:5785313c-25f6-4e88-a382-756b69927ee2
+#EXTINF:1,RMF MAXXX 99.7 Pomorze
+https://rs202-krk-cyfronet.rmfstream.pl/rmf_maxxx?aw_0_1st.playerid=RMF_TuneIn&skey=1616600473
+
+#RADIOBROWSERUUID:9610f825-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - 500 Hip-Hop Hits
+http://stream.open.fm/84
+
+#RADIOBROWSERUUID:96111066-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Muzyka Filmowa
+http://stream.open.fm/38
+
+#RADIOBROWSERUUID:e90e36e3-ef1c-45b5-8895-73090b34dec9
+#EXTINF:1,Radio DHT (kanał główny)
+https://radiodht.com/stream_main/
+
+#RADIOBROWSERUUID:9610dec4-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio eM
+http://194.181.177.253:8000/
+
+#RADIOBROWSERUUID:964d425e-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF 80s Disco
+http://195.150.20.9/80SDISCO
+
+#RADIOBROWSERUUID:960f6dc1-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Chopin
+http://31.192.216.8/CHOPIN
+
+#RADIOBROWSERUUID:29022dee-e6de-487e-b965-ef2c992e9e44
+#EXTINF:1,Meloradio Acoustic
+https://ml.cdn.eurozet.pl/MELACO.mp3
+
+#RADIOBROWSERUUID:960fd000-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Classic Hits
+http://stream.open.fm/46
+
+#RADIOBROWSERUUID:960f4b0b-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Gdansk
+http://stream.task.gda.pl:8000/rg1
+
+#RADIOBROWSERUUID:96111c51-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Retro Café
+http://stream.open.fm/25
+
+#RADIOBROWSERUUID:3995d68b-bf16-11e8-aaf2-52543be04c81
+#EXTINF:1,SmoothJazz.com.pl Radio
+http://stream14.shoutcastsolutions.com:8057/256stream
+
+#RADIOBROWSERUUID:691b86e8-39cc-11e9-9b4e-52543be04c81
+#EXTINF:1,Polskie Radio Poznań
+http://stream4.nadaje.com:8578/poznan
+
+#RADIOBROWSERUUID:960f711b-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Depeche Mode
+http://31.192.216.7/DEPECHEMODE
+
+#RADIOBROWSERUUID:91338ac3-5dd3-4f7d-a630-4052775302a6
+#EXTINF:1,Radio DHT (kanał drugi)
+https://radiodht.com/stream_second/
+
+#RADIOBROWSERUUID:96111a8f-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Polski Rock
+http://stream.open.fm/29
+
+#RADIOBROWSERUUID:960f89bf-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Sloneczne Przeboje
+http://195.150.20.8/SPRZEBOJE
+
+#RADIOBROWSERUUID:9610cfd0-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Akademickie Radio Centrum UMCS
+http://5.201.13.191/live
+
+#RADIOBROWSERUUID:866491e3-f607-4e8a-915f-fb1d3b682cd8
+#EXTINF:1,Radio Mirage - Italo Dance
+https://ssl-1.radiohost.pl:9569/stream
+
+#RADIOBROWSERUUID:4dde2c57-d8f5-4e55-b685-51195ac3d0e5
+#EXTINF:1,Radioparty.pl ACC+
+http://s2.radioparty.pl:7000/stream64aac
+
+#RADIOBROWSERUUID:3221db96-f562-11e8-a471-52543be04c81
+#EXTINF:1,eskaGO.pl - LISTY PRZEBOJÓW - Disco Polo Top 40
+http://pldm.ml/radio.php?id=-1&url=http://www.eskago.pl/radio/disco-polo-top40
+
+#RADIOBROWSERUUID:6108cb63-8c12-428a-9a79-046ad3b4326b
+#EXTINF:1,OpenFM Trap USA
+https://stream.open.fm/354?type=.aac&user=800037879065&player_group=WWW
+
+#RADIOBROWSERUUID:af8934ea-67eb-11ea-be63-52543be04c81
+#EXTINF:1,Halo.Radio
+https://s3.radio.co/s6b9e36d1c/listen
+
+#RADIOBROWSERUUID:960f2b60-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Wroclaw
+http://stream4.nadaje.com:9240/prw
+
+#RADIOBROWSERUUID:960dc45b-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Celtic
+http://31.192.216.7/CELTIC
+
+#RADIOBROWSERUUID:bef586c2-8097-4e42-863b-8cb926b9d242
+#EXTINF:1,rockserwis.fm (ACC+)
+http://radio.rockserwis.fm/live.aac
+
+#RADIOBROWSERUUID:9610cc41-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Kampus
+http://193.0.98.66:8005/
+
+#RADIOBROWSERUUID:5fd5ce77-9442-4a67-93c5-5bc48d9696d6
+#EXTINF:1,Radio 357
+https://n19a-eu.rcs.revma.com/ye5kghkgcm0uv
+
+#RADIOBROWSERUUID:963a544f-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Polskie Radio Program 3 (OGG)
+http://41.dktr.pl:8000/trojka.ogg
+
+#RADIOBROWSERUUID:c264cc7d-3cc3-11e9-aa55-52543be04c81
+#EXTINF:1,newonce.radio
+https://streamer.radio.co/s93b51ccc1/listen
+
+#RADIOBROWSERUUID:962807b1-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Hip-Hop Ulica
+http://stream.open.fm/92
+
+#RADIOBROWSERUUID:960f667a-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF 2 Pop
+http://195.150.20.8/RMF2
+
+#RADIOBROWSERUUID:960fd0bc-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Classic Rock
+http://stream.open.fm/32
+
+#RADIOBROWSERUUID:38996cf5-f44c-470e-b7d7-59ea9fa8c298
+#EXTINF:1,Eska Wrocław
+https://radio.stream.smcdn.pl/icradio-p/2180-1.aac/playlist.m3u8
+
+#RADIOBROWSERUUID:961447b9-0601-11e8-ae97-52543be04c81
+#EXTINF:1,ModFM
+http://radio.modules.pl:8500/listen.pls
+
+#RADIOBROWSERUUID:964c065f-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Lejdis Party
+http://stream.open.fm/102
+
+#RADIOBROWSERUUID:96117f10-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio RM80
+http://91.232.4.33:9011/stream
+
+#RADIOBROWSERUUID:96111b81-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Punk Rock
+http://stream.open.fm/78
+
+#RADIOBROWSERUUID:f19cb3fc-21ca-4c53-87f6-3ee781b3aa3c
+#EXTINF:1,OpenFM - EDM Anthems
+https://stream.open.fm/361?type=.aac&user=800037879065&player_group=WWW
+
+#RADIOBROWSERUUID:960ff154-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Niepokalanow
+http://88.199.169.10:7600/rn.mp3
+
+#RADIOBROWSERUUID:96242f88-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Dwójka (AAC)
+http://mp3.polskieradio.pl:8952/
+
+#RADIOBROWSERUUID:162ca924-f55d-11e8-a471-52543be04c81
+#EXTINF:1,OPEN.FM - Radio Złote Przeboje
+http://stream.open.fm/201
+
+#RADIOBROWSERUUID:964c6716-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Smooth Jazz
+http://stream.open.fm/60
+
+#RADIOBROWSERUUID:9610f76f-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - 500 Heavy Hits
+http://stream.open.fm/54
+
+#RADIOBROWSERUUID:9610fbe4-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - 500 Rock Hits
+http://stream.open.fm/82
+
+#RADIOBROWSERUUID:960fa801-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Niepoprawne Radio PL
+http://87.117.193.13/;
+
+#RADIOBROWSERUUID:960fff6f-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Park FM
+http://sluchaj.radiopark.com.pl:8048/
+
+#RADIOBROWSERUUID:9611e22b-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Trendy Radio
+http://stream.trendyradio.pl:8000/h
+
+#RADIOBROWSERUUID:96151225-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Fitness
+http://31.192.216.7/FITNESS
+
+#RADIOBROWSERUUID:964e0457-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Praca
+http://stream.open.fm/109
+
+#RADIOBROWSERUUID:96247cb9-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Pro-Radio
+http://www.proradio.pl/listen.pls
+
+#RADIOBROWSERUUID:2feb2001-ac7b-45d6-8c71-c12079f72e0e
+#EXTINF:1,DISCOPARTY.PL - Kanał Club
+https://s3.slotex.pl/shoutcast/7354/stream
+
+#RADIOBROWSERUUID:960f774b-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Hip Hop
+http://195.150.20.8/HIPHOP
+
+#RADIOBROWSERUUID:9610f011-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - 00s Hits
+http://stream.open.fm/72
+
+#RADIOBROWSERUUID:894cf983-43d8-4473-afd4-fd1ddd746be4
+#EXTINF:1,Radio Italo4you 64kbps
+http://s0.radiohost.pl:8018/Italo4you
+
+#RADIOBROWSERUUID:b211d558-8345-11e8-aa66-52543be04c81
+#EXTINF:1,Impreza - Open FM
+https://stream.open.fm/2
+
+#RADIOBROWSERUUID:53e5a43c-2c3a-4847-8ff5-ff8a4ce271a2
+#EXTINF:1,Muzyczne Radio - Relax
+https://stream3.nadaje.com:8593/
+
+#RADIOBROWSERUUID:960fd5af-0601-11e8-ae97-52543be04c81
+#EXTINF:1,ZET Hits
+http://zethit-02.cdn.eurozet.pl:8428/
+
+#RADIOBROWSERUUID:9647a986-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Polskie Radio - Chopin (Radio Chopin) (AAC+)
+http://stream3.polskieradio.pl:8960/;
+
+#RADIOBROWSERUUID:ad320b38-45a1-44a2-bba4-7fb7fb8cb41c
+#EXTINF:1,Złote Przeboje Poznań
+http://radiostream.pl/tuba8926-1.mp3
+
+#RADIOBROWSERUUID:2474b5ce-4888-11e9-80ab-52543be04c81
+#EXTINF:1,Radio Mirage - Euro Dance
+http://s0.radiohost.pl:9569/;
+
+#RADIOBROWSERUUID:96104121-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Alternatywa
+http://195.150.20.7/ALTERNATYWA
+
+#RADIOBROWSERUUID:960fb5a3-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Italo4you
+http://s6.radiohost.pl:8080/
+
+#RADIOBROWSERUUID:96441519-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Giganci Rocka
+http://stream.open.fm/118
+
+#RADIOBROWSERUUID:960dc2ef-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Beatlemania
+http://195.150.20.8/BEATLEMANIA
+
+#RADIOBROWSERUUID:3e864568-0f70-11e8-ae97-52543be04c81
+#EXTINF:1,Weszlo FM
+http://weszlo.fm/live
+
+#RADIOBROWSERUUID:964e1775-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Hygge
+http://stream.open.fm/138
+
+#RADIOBROWSERUUID:388698fd-f555-49bc-9b8e-9297aa1c9b7e
+#EXTINF:1,Radio Rzeszów
+https://streaming.g-news.pl:8040/rzeszow
+
+#RADIOBROWSERUUID:9610e981-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Wesole Slonzoki
+http://s1.radiohost.pl:8126/
+
+#RADIOBROWSERUUID:feac9bcd-012c-4523-960c-307a52e08064
+#EXTINF:1,Twoja polska stacja
+https://twojapolskastacja.pl/sluchaj/tps_winamp.m3u
+
+#RADIOBROWSERUUID:d6a5af08-a762-405d-96e0-ea4e85dcb5ae
+#EXTINF:1,Muzyczne Radio - Best of
+https://stream3.nadaje.com:8601/
+
+#RADIOBROWSERUUID:1093bea5-909e-4f7b-8f46-c428fce5279f
+#EXTINF:1,RMF Beatlemania + FAKTY
+http://195.150.20.8/BEATLEMANIAF
+
+#RADIOBROWSERUUID:960ff089-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Krakow
+http://stream3.nadaje.com:9116/radiokrakow
+
+#RADIOBROWSERUUID:961b60a6-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Zielona Góra 97.1
+http://stream02.rzg.pl:10117/
+
+#RADIOBROWSERUUID:964e10e7-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Polo & Dance
+http://stream.open.fm/128
+
+#RADIOBROWSERUUID:962bd5e8-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - 100% Hits
+http://stream.open.fm/64
+
+#RADIOBROWSERUUID:30ae6de4-e01f-4c69-9417-ac4c0129b723
+#EXTINF:1,Eska Warszawa
+http://waw01-01.ic.smcdn.pl:8000/2380-1.aac
+
+#RADIOBROWSERUUID:cc342fe0-19c8-4f99-a158-45e1d7b92b49
+#EXTINF:1,OpenFM  Hip-Hop USA
+https://stream.open.fm/23?type=.aac&user=800037879065&player_group=WWW
+
+#RADIOBROWSERUUID:b7154644-7519-4c14-8891-023c23387e4f
+#EXTINF:1,Kapitał
+https://radiokapitalpl.out.airtime.pro/radiokapitalpl_a
+
+#RADIOBROWSERUUID:960fdc9a-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Baobab
+http://stream.radiobaobab.pl:8000/radiobaobab.mp3
+
+#RADIOBROWSERUUID:960f4431-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Kids
+http://stream.open.fm/16
+
+#RADIOBROWSERUUID:6e683c61-8cbd-4e4b-ae3a-2e65307feab5
+#EXTINF:1,Radio Eska - Kraków
+http://waw01-02.ic.smcdn.pl:8000/2070-1.aac
+
+#RADIOBROWSERUUID:9e72a466-4505-4a7c-bf68-57ce1a07ddb7
+#EXTINF:1,ESKA IMPREZA
+http://waw01-02.ic.smcdn.pl:8000/6100-1.mp3
+
+#RADIOBROWSERUUID:96112315-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Top 20 Impreza
+http://stream.open.fm/95
+
+#RADIOBROWSERUUID:e7c3fa86-0ff2-4dd9-8f3d-4e34d642c05c
+#EXTINF:1,JUMP Radio
+http://radioo.eu:9900/
+
+#RADIOBROWSERUUID:960c828f-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Akademickie Radio Luz
+http://156.17.39.65:8000/luzhifi.mp3
+
+#RADIOBROWSERUUID:1e6791e7-5448-42c7-95cb-a257294d86c7
+#EXTINF:1,newonce.radio
+https://stream-eu-a.rcs.revma.com/fq577gymev8uv
+
+#RADIOBROWSERUUID:964e2731-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Top Wszech Czasow - Rock
+http://stream.open.fm/153
+
+#RADIOBROWSERUUID:9610ed97-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Chrzescijanin Dzieci
+http://s1.slotex.pl:7410/;
+
+#RADIOBROWSERUUID:9608e2d0-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Sad
+http://stream.open.fm/103
+
+#RADIOBROWSERUUID:960b82ce-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Warszawa 106.2
+http://streaming01.technologicznie.net:8765/radio_warszawa.mp3
+
+#RADIOBROWSERUUID:a264f485-42f4-4e05-8526-bd61a11f8075
+#EXTINF:1,Radio Kraków Kultura
+https://stream4.nadaje.com:9777/RKKultura
+
+#RADIOBROWSERUUID:948756ac-9644-4f0e-9800-b6f557d9b7e8
+#EXTINF:1,InterStacja - Eurodance
+http://4stream.pl:18180/;
+
+#RADIOBROWSERUUID:960fcf2e-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Biesiada
+http://stream.open.fm/59
+
+#RADIOBROWSERUUID:d7bb11de-0f8d-4832-93e7-3061b1adfd33
+#EXTINF:1,Radio Italo4you 256kbps
+https://radioitalo4you.net/listen_url/italo4you_s0_256.pls
+
+#RADIOBROWSERUUID:960fcd70-0601-11e8-ae97-52543be04c81
+#EXTINF:1,EL-Stacja
+http://radio.el-stacja.pl:8000/elstacjaap320.ogg
+
+#RADIOBROWSERUUID:96110ee8-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Latino Hits
+http://stream.open.fm/19
+
+#RADIOBROWSERUUID:96111519-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Polskie Reggae
+http://stream.open.fm/22
+
+#RADIOBROWSERUUID:96109a62-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio ItaloDance
+http://radio.italodance.pl:7694/
+
+#RADIOBROWSERUUID:961b5e2a-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - 100% Grabaż
+http://stream.open.fm/114
+
+#RADIOBROWSERUUID:927987be-e772-4c15-89d1-cf0617e10286
+#EXTINF:1,Chilli ZET Deep
+http://ch02.cdn.eurozet.pl/CHIDEP.mp3
+
+#RADIOBROWSERUUID:21ba9188-59a9-11ea-be63-52543be04c81
+#EXTINF:1,RMF Dance
+http://rmfstream1.interia.pl:8000/rmf_dance
+
+#RADIOBROWSERUUID:96110c05-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Impreza PL
+http://stream.open.fm/12
+
+#RADIOBROWSERUUID:0be4eec2-281a-11e8-91bf-52543be04c81
+#EXTINF:1,Radio Derf Delta Blues
+http://178.19.96.111:8007/listen.pls
+
+#RADIOBROWSERUUID:f5fbfbf9-cf1d-48da-8819-3254c362f3ba
+#EXTINF:1,Radio Piekary
+https://stream.radiopiekary.pl/
+
+#RADIOBROWSERUUID:964e0921-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Relaks
+http://stream.open.fm/112
+
+#RADIOBROWSERUUID:961243df-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Damismania Dj Radio
+http://s1.slotex.pl:7512/
+
+#RADIOBROWSERUUID:eef2d43c-5756-11ea-be63-52543be04c81
+#EXTINF:1,Radio Paranormalium
+http://paranormalium.waw.pl/radio/8040/radio.mp3
+
+#RADIOBROWSERUUID:961100d4-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Ballady Wszech Czasow
+http://stream.open.fm/20
+
+#RADIOBROWSERUUID:9611214c-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Top 20 Disco Polo
+http://stream.open.fm/53
+
+#RADIOBROWSERUUID:964dff51-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Hip-Hop Freszzz
+http://stream.open.fm/93
+
+#RADIOBROWSERUUID:960f6f6a-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Cuba
+http://31.192.216.8/CUBA
+
+#RADIOBROWSERUUID:960feb0d-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Opole
+http://dab.radio.opole.pl:8070/1
+
+#RADIOBROWSERUUID:960ff8b5-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Muzyczne Radio
+http://stream3.nadaje.com:9000/;stream/1
+
+#RADIOBROWSERUUID:9626f407-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Classic Party
+http://stream.open.fm/50
+
+#RADIOBROWSERUUID:ceb9c95f-8d39-4035-8df4-99072ff750aa
+#EXTINF:1,Pogoda Wrocław
+https://pl-play.adtonos.com/8102/radio-pogoda-wrocaw?cache=1598128880
+
+#RADIOBROWSERUUID:0f811106-75bc-427c-9379-db38ccd8608a
+#EXTINF:1,Nasze Radio 104,7 FM
+https://online.nasze.fm:8443/stream
+
+#RADIOBROWSERUUID:96111128-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Muzyka Klasyczna
+http://stream.open.fm/67
+
+#RADIOBROWSERUUID:2411a9a2-d7c4-48b5-8b29-9ef8720219be
+#EXTINF:1,Radio Kuropatwa
+http://stream.radiojar.com/ypspphhxfm8uv
+
+#RADIOBROWSERUUID:0064b70d-87b1-4d05-805d-eb1f298aa285
+#EXTINF:1,KChT
+https://www.radioking.com/play/kcht/320404
+
+#RADIOBROWSERUUID:23552e90-a1d5-41a9-a24d-4cc9abdc79ef
+#EXTINF:1,Radio Derf Blues Standards
+http://178.19.96.111:8011/
+
+#RADIOBROWSERUUID:a2a01c36-0bfe-11e9-a80b-52543be04c81
+#EXTINF:1,Trójka online (ogg)
+http://w.dktr.pl:8000/trojka3.ogg
+
+#RADIOBROWSERUUID:4dbbf56b-33e8-492f-9093-02e9dd7b4a94
+#EXTINF:1,ESKA DANCE
+http://waw01-02.ic.smcdn.pl:8000/6180-1.aac
+
+#RADIOBROWSERUUID:bb81dab7-f569-11e8-a471-52543be04c81
+#EXTINF:1,eskaGO.pl - RELAKS - Rock Relaks
+http://pldm.ml/radio.php?id=-1&url=http://www.eskago.pl/radio/rock-relaks
+
+#RADIOBROWSERUUID:960f7588-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Grunge
+http://195.150.20.7/GRUNGE
+
+#RADIOBROWSERUUID:960f7e3a-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Ballady
+http://195.150.20.7/NOSTALGIA
+
+#RADIOBROWSERUUID:960daa01-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radioparty.pl Trance Party
+http://trance.radioparty.pl:8015/
+
+#RADIOBROWSERUUID:960f84d2-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Queen
+http://195.150.20.8/QUEEN
+
+#RADIOBROWSERUUID:960f8a9f-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Smooth Jazz
+http://31.192.216.8/SJAZZ
+
+#RADIOBROWSERUUID:e680995f-7675-11ea-b1cf-52543be04c81
+#EXTINF:1,Radiopik
+http://stream1.radiopik.pl:9006/;
+
+#RADIOBROWSERUUID:40b26d52-2a3f-4528-93a7-bf5236637bd1
+#EXTINF:1,eskaGO.pl - Warszawa
+http://pldm.ml/radio.php?id=-1&url=http://www.eskago.pl/radio/eska-warszawa
+
+#RADIOBROWSERUUID:960f4dc2-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio 90
+http://streams.radio90.pl:8000/radio90_128kbps_stereo.mp3
+
+#RADIOBROWSERUUID:204876d4-98d1-4919-95f0-c90a6e343ffe
+#EXTINF:1,radio
+https://c16.radioboss.fm:18014/stream
+
+#RADIOBROWSERUUID:5d3bb64b-dcf5-413f-a7ac-e81378235358
+#EXTINF:1,Radio Mirage - ItaloDance Channel
+http://91.232.4.33:9569/Stream1
+
+#RADIOBROWSERUUID:960f636d-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Gdynia Radio
+http://51.255.8.139:8064/stream
+
+#RADIOBROWSERUUID:964aaa5a-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Historia Zwiazku Radzieckiego
+http://stream3.polskieradio.pl:8112/
+
+#RADIOBROWSERUUID:26d920f1-a269-445a-bd81-f8f426afeda6
+#EXTINF:1,RMF MAXXX Mazowsze
+http://www.rmfon.pl/n/rmf_maxxx_cie.pls
+
+#RADIOBROWSERUUID:d1648c3a-ec30-11e8-a471-52543be04c81
+#EXTINF:1,Radio Różaniec
+http://radio2.rozaniec.info:5696/listen.pls?sid=1
+
+#RADIOBROWSERUUID:0dc48095-aa98-4d7f-b2fe-c15765371853
+#EXTINF:1,Radio 357 (rozgrzewka)
+https://n04a-eu.rcs.revma.com/ye5kghkgcm0uv?rj-ttl=5&rj-tok=AAABdo90znAA09XAMoof5wVkvw
+
+#RADIOBROWSERUUID:960db9c6-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Francais
+http://195.150.20.7/FRANCAIS
+
+#RADIOBROWSERUUID:4cfe24bb-9047-44bd-aa78-8e1461a4fbfc
+#EXTINF:1,Radio ZET - Gold Italo
+https://zgl.cdn.eurozet.pl/ZGLITA.mp3
+
+#RADIOBROWSERUUID:96242ecf-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Jedynka
+http://mp3.polskieradio.pl:8950/
+
+#RADIOBROWSERUUID:960f74a5-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Gold
+http://195.150.20.9/GOLD
+
+#RADIOBROWSERUUID:964e1aa7-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Cardio
+http://stream.open.fm/141
+
+#RADIOBROWSERUUID:0a13c62c-5560-47de-8a64-a33870ca3798
+#EXTINF:1,Polskie Radio Kierowców
+http://stream3.polskieradio.pl:8918/;
+
+#RADIOBROWSERUUID:4198a778-3870-406c-86d0-15137bc788aa
+#EXTINF:1,Zamek Nadaje
+https://streaming.radio.co/s65cef3a93/listen
+
+#RADIOBROWSERUUID:d681fe5d-5691-404c-ba53-c28df4b4a3c5
+#EXTINF:1,Radio Plus Lublin
+https://ext03.ic.smcdn.pl/4130-1.mp3
+
+#RADIOBROWSERUUID:0e62707a-e3e6-424f-921f-68598caad8f7
+#EXTINF:1,Studencka Agencja Radiowa
+https://archiwum.radiosar.pl/hdmain.mp3
+
+#RADIOBROWSERUUID:ad312071-8c69-11e9-ad01-52543be04c81
+#EXTINF:1,Aniol Beskidów
+http://media.aniolbeskidow.pl:22000/listen.pls?sid=1
+
+#RADIOBROWSERUUID:7d3a9441-8ce7-4ce1-873d-08c233493a73
+#EXTINF:1,Wawa Warszawa
+http://ext03.ic.smcdn.pl/1380-1.aac
+
+#RADIOBROWSERUUID:960dc3a5-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Blues
+http://31.192.216.10/BLUES
+
+#RADIOBROWSERUUID:d1014577-de4a-4737-b1de-833981a3328f
+#EXTINF:1,Radio Open FM - Trance
+https://stream.open.fm/7
+
+#RADIOBROWSERUUID:e8de12f6-3849-4992-8490-2240fb39f6f1
+#EXTINF:1,Mega Radio
+https://stream.rcs.revma.com/q18ty3qhwzzuv
+
+#RADIOBROWSERUUID:9610f58c-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - 500 Alternative Hits
+http://stream.open.fm/55
+
+#RADIOBROWSERUUID:9610f6aa-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - 500 Electronic Hits
+http://stream.open.fm/94
+
+#RADIOBROWSERUUID:3f05816f-7803-11e9-aa30-52543be04c81
+#EXTINF:1,Niepopraewne Radio PL
+http://87.117.193.10:8060/listen.pls
+
+#RADIOBROWSERUUID:964aa236-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Jedynka
+http://stream3.polskieradio.pl:8900/
+
+#RADIOBROWSERUUID:964ac588-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Przeboje PRL
+http://stream3.polskieradio.pl:8066/
+
+#RADIOBROWSERUUID:964d43f7-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF 90s Dance
+http://195.150.20.7/90SDANCE
+
+#RADIOBROWSERUUID:8da66dca-68a1-4512-956f-3faa7499438f
+#EXTINF:1,RMF Fitness + FAKTY
+http://31.192.216.7/FITNESSF
+
+#RADIOBROWSERUUID:960f781d-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Hot new
+http://195.150.20.9/HOTNEW
+
+#RADIOBROWSERUUID:960f7b1f-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Swieta
+http://195.150.20.7/SWIETA
+
+#RADIOBROWSERUUID:964e2410-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Top Wszech Czasow - Swiat
+http://stream.open.fm/151
+
+#RADIOBROWSERUUID:da6bf00e-3051-4d7b-a945-bf1f43ba0b69
+#EXTINF:1,PR24
+https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8
+
+#RADIOBROWSERUUID:9620719f-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Bohaterowie Naszych Lektur
+http://stream3.polskieradio.pl:8084/
+
+#RADIOBROWSERUUID:3aae8fad-132c-4012-9bde-abbac9e6dce9
+#EXTINF:1,Radio Profeto
+https://stream.profeto.pl/stream.mp3
+
+#RADIOBROWSERUUID:962307e0-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Relaks
+http://31.192.216.8/RELAKS
+
+#RADIOBROWSERUUID:961b5bb7-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Szczecin (128K MP3)
+http://stream4.nadaje.com:11986/prs
+
+#RADIOBROWSERUUID:21a59f6d-a10c-45cb-8dcb-ab20bd5e4f9e
+#EXTINF:1,Wasze Radio FM
+https://sluchaj.link:5443/wasze
+
+#RADIOBROWSERUUID:8ef7bd2d-742f-49bd-9503-aeb05d546ac4
+#EXTINF:1,PLANETA TRANCE
+http://pl01.cdn.eurozet.pl/PLATRA.mp3
+
+#RADIOBROWSERUUID:f1d49ce2-207a-43bb-aef5-9e172fb08c63
+#EXTINF:1,Disco Radio
+https://www.discoradio.net/stream
+
+#RADIOBROWSERUUID:c7046dd0-3ee2-4c94-bfa6-6f5214a7f367
+#EXTINF:1,Mittendrin ALT!NEU Radio der deutschen Minderheit
+http://s1.slotex.pl:7430/stream
+
+#RADIOBROWSERUUID:960fd16d-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - 1001 Hits
+http://stream.open.fm/11
+
+#RADIOBROWSERUUID:960fd43d-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Kraina Lagodnosci
+http://stream.open.fm/37
+
+#RADIOBROWSERUUID:d096f879-859c-45a1-bd31-988ce6eb086a
+#EXTINF:1,ESKA WARSZAWA
+http://waw01-02.ic.smcdn.pl:8000/2380-1.aac
+
+#RADIOBROWSERUUID:961101a3-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Biesiada Slaska
+http://stream.open.fm/66
+
+#RADIOBROWSERUUID:961104cc-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Disco Polo Classic
+http://stream.open.fm/49
+
+#RADIOBROWSERUUID:9611248f-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Top 20 Pop
+http://stream.open.fm/96
+
+#RADIOBROWSERUUID:9610f99e-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - 500 Party Hits
+http://stream.open.fm/81
+
+#RADIOBROWSERUUID:964aa95b-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Historia najnowsza - Polska
+http://stream3.polskieradio.pl:8082/
+
+#RADIOBROWSERUUID:882d3fa4-ef24-4be0-876a-93ff08f18f67
+#EXTINF:1,Radio Sierpc
+https://ssl-1.radiohost.pl:10700/stream
+
+#RADIOBROWSERUUID:964a72fd-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Chopin
+http://stream3.polskieradio.pl:8910/
+
+#RADIOBROWSERUUID:6129f6bd-ab0a-4448-8280-d3ad12603d84
+#EXTINF:1,Radio RAM (MP3)
+http://stream4.nadaje.com:9220/ram
+
+#RADIOBROWSERUUID:7c396e00-acce-4b86-bd88-a2e38689ce7b
+#EXTINF:1,Radio Lublin
+https://streaming.radio.lublin.pl:8843/128k
+
+#RADIOBROWSERUUID:fbb94dc5-f833-11e9-bbf2-52543be04c81
+#EXTINF:1,Radio Alex
+https://proxima.shoutca.st/tunein/frradioq.pls
+
+#RADIOBROWSERUUID:960f6809-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF 20 lat
+http://31.192.216.7/20LAT
+
+#RADIOBROWSERUUID:964e05f7-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Wesele
+http://stream.open.fm/110
+
+#RADIOBROWSERUUID:7b5906b8-2871-465e-8776-e92a5265def7
+#EXTINF:1,RMF Hip Hop + FAKTY
+http://195.150.20.8/HIPHOPF
+
+#RADIOBROWSERUUID:db96e768-c5f8-465b-b150-ef7b800ede30
+#EXTINF:1,LapDanceRadio
+http://server.lapdanceradio.eu:8000/stream.m3u
+
+#RADIOBROWSERUUID:960f87e5-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Rock Progresywny
+http://195.150.20.8/ROCKPROGRESYWNY
+
+#RADIOBROWSERUUID:4a2147a0-f04f-471a-a7c6-d8fc4d2b0bf4
+#EXTINF:1,RMF Muzyka_Filmowa
+http://www.miastomuzyki.pl/n/rmffilmowa.pls
+
+#RADIOBROWSERUUID:c9679a7e-8346-11e8-aa66-52543be04c81
+#EXTINF:1,Top Wszech Czasów - Polska - Open FM
+https://stream.open.fm/152
+
+#RADIOBROWSERUUID:c2196038-8a23-496c-9822-0cdb09fedce5
+#EXTINF:1,Eska Koszalin
+https://radio.stream.smcdn.pl/icradio-p/2270-1.aac/playlist.m3u8
+
+#RADIOBROWSERUUID:129c77fd-822d-11e9-aa30-52543be04c81
+#EXTINF:1,Radio Gra Torun
+http://31.192.216.7:8000/radio_gra
+
+#RADIOBROWSERUUID:9e28d6c8-40dd-4ee6-b991-526ba08ee717
+#EXTINF:1,Eska Poznań
+http://waw01-02.ic.smcdn.pl:8000/2140-1.mp3
+
+#RADIOBROWSERUUID:3de80364-ab6a-4085-a16a-748ab278e3d3
+#EXTINF:1,Radio Leliwa
+http://streaming.g-news.pl:8050/leliwa.m3u
+
+#RADIOBROWSERUUID:db7c38a0-7485-11ea-b1cf-52543be04c81
+#EXTINF:1,Radio Horyzont
+http://s1.slotex.pl:7328/stream/1/
+
+#RADIOBROWSERUUID:49e61ff6-2686-4fe0-ad27-26c99b91ce0c
+#EXTINF:1,WP Radio
+https://stream.open.fm/367?type=.aac&user=800035396554&player_group=WWWf
+
+#RADIOBROWSERUUID:b0fd47b3-8633-473b-9102-a6518386658b
+#EXTINF:1,SP3 Niepokalanów
+http://88.199.169.10:7500/stream
+
+#RADIOBROWSERUUID:89b7c2fb-91bd-4e4b-81aa-7bfcd06dc7be
+#EXTINF:1,DISCOPARTY.PL - Kanał disco
+https://s1.slotex.pl/shoutcast/7432/stream
+
+#RADIOBROWSERUUID:4329f312-5758-11ea-be63-52543be04c81
+#EXTINF:1,Radio Cenzura
+http://91.121.222.81:8234/stream1
+
+#RADIOBROWSERUUID:964e3029-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Polskie Ballady
+http://stream.open.fm/165
+
+#RADIOBROWSERUUID:960d9a05-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Kaszebe
+http://stream3.nadaje.com:8048/
+
+#RADIOBROWSERUUID:964cad9b-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Niezapomniane melodie
+http://31.192.216.10/NIEZAPOMNIANEMELODIE
+
+#RADIOBROWSERUUID:960f483f-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Club
+http://31.192.216.7/CLUB
+
+#RADIOBROWSERUUID:f9525da7-bb6a-4f72-9daf-311f859e13ad
+#EXTINF:1,RMF Classic Rock + FAKTY
+http://31.192.216.10/CLASSICROCKVTF
+
+#RADIOBROWSERUUID:964e28ba-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Grunge
+http://stream.open.fm/157
+
+#RADIOBROWSERUUID:bfe7368c-6b90-494c-ae7c-7a7d40663e92
+#EXTINF:1,Leliwa
+https://streaming.g-news.pl/radio/8050/leliwa
+
+#RADIOBROWSERUUID:d234b416-5eaf-4bf0-8511-44fa46251519
+#EXTINF:1,ChilliZet Covers
+https://ch01.cdn.eurozet.pl/CHICOV.mp3
+
+#RADIOBROWSERUUID:961b5fd0-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Zachód (AAC)
+http://stream02.zachod.pl:10113/
+
+#RADIOBROWSERUUID:b6cb718f-5c02-400c-ab34-512f8d861246
+#EXTINF:1,Radio FTB Disco Polo
+https://radioftb.net/disco.m3u
+
+#RADIOBROWSERUUID:9636b4af-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Nauka
+http://stream.open.fm/117
+
+#RADIOBROWSERUUID:bcb5c4af-dc66-11e9-a8ba-52543be04c81
+#EXTINF:1,Radio Łódź
+http://217.113.224.171/RadioLodz-1-HQ.aac
+
+#RADIOBROWSERUUID:6e105b9a-0cf4-4c07-b8c1-212f82ddc19e
+#EXTINF:1,Radio40plus
+http://s1.slotex.pl:7178/listen.xtl?sid=1
+
+#RADIOBROWSERUUID:a4650e30-3321-46e4-b60c-7995ba94991d
+#EXTINF:1,Dobre Radio 
+https://dobre.out.airtime.pro/dobre_a
+
+#RADIOBROWSERUUID:961115e3-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Polski Rock Classic
+http://stream.open.fm/45
+
+#RADIOBROWSERUUID:2d536238-8345-11e8-aa66-52543be04c81
+#EXTINF:1,Open FM - Praca
+https://stream.open.fm/109?type=.aac
+
+#RADIOBROWSERUUID:32c8e8d4-8348-11e8-aa66-52543be04c81
+#EXTINF:1,Top 20 Impreza - Open FM
+https://stream.open.fm/95
+
+#RADIOBROWSERUUID:9607642f-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Polskie Radio - Niezły Jazz
+http://stream3.polskieradio.pl:8184/
+
+#RADIOBROWSERUUID:be8ef7d3-db8f-40c4-aa70-d3d9f9008d02
+#EXTINF:1,Radio eska - Kraków
+http://waw01-02.ic.smcdn.pl:8000/2070-1.aac.m3u
+
+#RADIOBROWSERUUID:964e07a1-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Tylko Polskie Przeboje
+http://stream.open.fm/111
+
+#RADIOBROWSERUUID:960f78db-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF MAXXX Hop bec
+http://31.192.216.10/HOPBEC
+
+#RADIOBROWSERUUID:5aacf4a1-35ef-45cc-8f4c-1b1d1513377f
+#EXTINF:1,Radio Nadzieja Łomża
+http://streaming01.technologicznie.net:8000/;
+
+#RADIOBROWSERUUID:96115a67-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Chrzescijanin Muzyka instrumentalna
+http://s1.slotex.pl:7172/
+
+#RADIOBROWSERUUID:96488860-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Kosmos
+http://stream3.polskieradio.pl:8008/
+
+#RADIOBROWSERUUID:ca9648a3-1ce4-4cba-a68a-1664163d3a7d
+#EXTINF:1,Radio Eska - Łódź
+http://waw01-01.ic.smcdn.pl:8000/2100-1.mp3
+
+#RADIOBROWSERUUID:475a421f-9712-4a98-ab95-1ff46a3c08c1
+#EXTINF:1,InterStacja - Najnowsze Hity
+http://4stream.pl:18410/;
+
+#RADIOBROWSERUUID:ace1f943-37fc-4a8b-a7db-0f654437c53e
+#EXTINF:1,Polmax 3
+http://stream.zeno.fm/favya1hd8yzuv
+
+#RADIOBROWSERUUID:128bd0bb-26fc-480b-a6ab-249c1db7c0e1
+#EXTINF:1,RMF MAXXX KIELCE
+http://rs6-krk2.rmfstream.pl/rmf_maxxx_kie
+
+#RADIOBROWSERUUID:5eefea97-09ad-4943-be73-ea56ec6d7ed7
+#EXTINF:1,Radio RMF - 2000
+http://195.150.20.7/2000
+
+#RADIOBROWSERUUID:960f6740-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF 5 Lagodne Przeboje
+http://31.192.216.8/RMF5
+
+#RADIOBROWSERUUID:464d7aaf-cd4d-412e-bc43-691190405d54
+#EXTINF:1,Radio ZET - 2000
+https://zt04.cdn.eurozet.pl/ZET200.mp3
+
+#RADIOBROWSERUUID:960fc962-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Planeta FM
+http://pla-net-01.cdn.eurozet.pl:8700/
+
+#RADIOBROWSERUUID:10502f2b-c491-42a7-a524-35b2735e0a67
+#EXTINF:1,Radio ItaloDance
+http://radio.italodance.pl:7694/;stream.nsv
+
+#RADIOBROWSERUUID:1b585261-e86a-4172-afc1-c7d64dde388a
+#EXTINF:1,DiscoPlaneta.eu
+http://s1.slotex.pl:7384/stream/1/;
+
+#RADIOBROWSERUUID:594a96c8-8d78-11e9-a6c6-52543be04c81
+#EXTINF:1,4 Fun TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+
+#RADIOBROWSERUUID:9610fb27-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - 500 R'n'b Hits
+http://stream.open.fm/26
+
+#RADIOBROWSERUUID:2a3873b3-6e5c-4d5d-8846-3650ed8868ce
+#EXTINF:1,Radio Plus 106.1 Kraków
+https://waw.ic.smcdn.pl/4070-1.mp3
+
+#RADIOBROWSERUUID:9611222b-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Top 20 Hip-Hop
+http://stream.open.fm/98
+
+#RADIOBROWSERUUID:960f9341-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Polskie Radio Bialystok
+http://stream4.nadaje.com:15476/radiobialystok
+
+#RADIOBROWSERUUID:9610db71-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Jutrzenka
+http://sluchaj.radiojutrzenka.waw.pl:12854/test
+
+#RADIOBROWSERUUID:46c7773d-34a7-4e7b-9e53-e3bc6e011934
+#EXTINF:1,RMF 80s Disco + FAKTY
+http://195.150.20.9/80SDISCOF
+
+#RADIOBROWSERUUID:d47882bc-f58e-4fab-ac51-264169d1cebc
+#EXTINF:1,Hitradio
+http://51.255.8.139:9090/stream
+
+#RADIOBROWSERUUID:07f70f65-3e11-4c83-8110-db0a77674705
+#EXTINF:1,RMF Celtic + FAKTY
+http://31.192.216.7/CELTICF
+
+#RADIOBROWSERUUID:960f4c85-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF 2000
+http://31.192.216.7/2000
+
+#RADIOBROWSERUUID:9643da84-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Z archiwum Radia Wolna Europa
+http://stream3.polskieradio.pl:8088/
+
+#RADIOBROWSERUUID:345c58c1-0421-4541-a494-228d6695ac95
+#EXTINF:1,WP KLUB
+http://stream.open.fm/363
+
+#RADIOBROWSERUUID:964e25a7-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Top Wszech Czasow - Polska
+http://stream.open.fm/152
+
+#RADIOBROWSERUUID:7a058417-2892-11e8-91bf-52543be04c81
+#EXTINF:1,Radio Derf Soul
+http://178.19.96.111:8018/listen.pls
+
+#RADIOBROWSERUUID:9bc8365c-0099-4e77-9927-568e75ea2956
+#EXTINF:1,Radio 357
+https://n03a-eu.rcs.revma.com/an1ugyygzk8uv?rj-ttl=5&rj-tok=AAABfl9qksQARjWEzVOFLliJbQ
+
+#RADIOBROWSERUUID:961136c8-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Internetowe Radio Mittendrin
+http://s1.slotex.pl:7592/stream
+
+#RADIOBROWSERUUID:af7c7d49-dc2b-4e3c-9367-0683c56646a7
+#EXTINF:1,Nasze Radio 92,1 FM... nostalgicznie
+https://online.nasze.fm:9443/stream
+
+#RADIOBROWSERUUID:01af38db-c85c-4d4f-8766-9c8c7ced3f40
+#EXTINF:1,Express FM
+https://n08a-eu.rcs.revma.com/yx6cub73kwzuv?rj-ttl=5&rj-tok=AAABeUs-emEAX5Fo8_kce0uc8g
+
+#RADIOBROWSERUUID:6881a0db-52fc-11ea-be63-52543be04c81
+#EXTINF:1,Radio Racja
+http://air.racyja.com:8000/aacp128
+
+#RADIOBROWSERUUID:87dd73d9-c1f0-4258-ab8a-d048588edb65
+#EXTINF:1,Radio Kraków Kultura
+https://stream4.nadaje.com:9777/RKKultura
+
+#RADIOBROWSERUUID:960dc23c-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Dla dzieci
+http://195.150.20.8/BABY
+
+#RADIOBROWSERUUID:51856887-d740-4883-bcb4-fa9869cf68bc
+#EXTINF:1,ESKA GORĄCA 20
+http://waw01-02.ic.smcdn.pl:8000/6130-1.aac
+
+#RADIOBROWSERUUID:9630f45e-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radiomirage
+http://91.232.4.33:9709/stream
+
+#RADIOBROWSERUUID:9610fd66-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Alt Club
+http://stream.open.fm/9
+
+#RADIOBROWSERUUID:960fea51-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Olsztyn
+http://213.73.25.178:7066/
+
+#RADIOBROWSERUUID:b58c54a9-ec79-4e89-8099-3a54d7a78581
+#EXTINF:1,Eska Trójmiasto
+https://radio.stream.smcdn.pl/icradio-p/2170-1.aac/playlist.m3u8
+
+#RADIOBROWSERUUID:964bde93-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Alt Classic
+http://stream.open.fm/43
+
+#RADIOBROWSERUUID:b485cc96-397a-4f1e-8bc9-1f3f4407381c
+#EXTINF:1,RMF 5 Lagodne Przeboje + FAKTY
+http://31.192.216.8/RMF5F
+
+#RADIOBROWSERUUID:964e0a95-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Happy
+http://stream.open.fm/120
+
+#RADIOBROWSERUUID:94a33aba-7b3e-11e9-aa30-52543be04c81
+#EXTINF:1,Radio Kujawy
+http://radio.kujawy.info:9940/
+
+#RADIOBROWSERUUID:960f8682-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Reggae
+http://195.150.20.7/REGGAE
+
+#RADIOBROWSERUUID:67826f3c-5bf5-4084-8e30-97e043a8bf8d
+#EXTINF:1,Polskie Radio Kierowców
+http://stream3.polskieradio.pl:8918/
+
+#RADIOBROWSERUUID:c692ce46-4dfe-4d7b-867c-453fcfdb1281
+#EXTINF:1,Radio Biedrzychowice
+http://195.164.158.230:9070/stream
+
+#RADIOBROWSERUUID:962301b7-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Do Auta Rock
+http://stream.open.fm/113
+
+#RADIOBROWSERUUID:371648f7-bf6b-4abe-9082-87b9f50ce458
+#EXTINF:1,Radio RMF - 80s Disco
+http://31.192.216.10/80SDISCO
+
+#RADIOBROWSERUUID:a9f3b425-5b9f-48a5-b230-83269cd37879
+#EXTINF:1,STREFA FM
+http://51.77.58.124:8000/;stream/1
+
+#RADIOBROWSERUUID:be948551-d271-4928-bf2b-551bd119ce00
+#EXTINF:1,Radio Pogoda Poznań
+http://stream10.radioagora.pl/tuba138-1.mp3.m3u
+
+#RADIOBROWSERUUID:70367456-9499-40c2-bed2-112b79572678
+#EXTINF:1,InterStacja - Disco Polo
+http://4stream.pl:18274/;
+
+#RADIOBROWSERUUID:22ba1b6c-4888-11e9-80ab-52543be04c81
+#EXTINF:1,Radio Mirage
+http://s0.radiohost.pl:9709/;
+
+#RADIOBROWSERUUID:39b6a962-133a-46e0-a3eb-2b783dd0dd52
+#EXTINF:1,Radio Bielsko
+https://www.radiobielsko.pl/stream1
+
+#RADIOBROWSERUUID:9642e54b-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Derf Jazz
+http://178.19.96.111:8005/
+
+#RADIOBROWSERUUID:a97f83fd-3528-4c04-b989-6c4a755f1dca
+#EXTINF:1,Radio Góralskie
+https://s3.slotex.pl/shoutcast/7398/stream
+
+#RADIOBROWSERUUID:2013232f-fd1c-43bc-ad9f-cfa911ff1f1f
+#EXTINF:1,ESKA ROCK
+http://waw01-02.ic.smcdn.pl:8000/5380-1.aac
+
+#RADIOBROWSERUUID:960fc4ae-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Slonskie Radio Hitmix
+http://s1.slotex.pl:7294/
+
+#RADIOBROWSERUUID:96475bf2-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Radio Rak'n'Roll
+http://stream.open.fm/168
+
+#RADIOBROWSERUUID:9610ce7a-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Afera
+http://radio.afera.com.pl/afera128.mp3
+
+#RADIOBROWSERUUID:9611bad8-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Weekend FM
+http://stream.weekendfm.pl:8000/weekendfm_najlepsza.aac
+
+#RADIOBROWSERUUID:960fd8af-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Toksyna FM
+http://s01.toksyna.fm:8000/
+
+#RADIOBROWSERUUID:964aafe6-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Wieczor odkrywcow
+http://stream3.polskieradio.pl:8102/
+
+#RADIOBROWSERUUID:960fdb0a-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Toksyna FM Elektronica
+http://s01.toksyna.fm:8010/
+
+#RADIOBROWSERUUID:96498259-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Gold Live
+http://s1.slotex.pl:7062/;
+
+#RADIOBROWSERUUID:964ab4fe-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Genesis
+http://stream3.polskieradio.pl:8174/
+
+#RADIOBROWSERUUID:961b4c4e-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Plus 97.2 Legnica
+http://stream.plus.legnica.pl:8000/radioplus
+
+#RADIOBROWSERUUID:9a34f262-9991-4862-889b-eb1ff0a00ab6
+#EXTINF:1,TyfloRadio
+http://radio.tyflopodcast.net:8000/stream.mp3
+
+#RADIOBROWSERUUID:964ac75f-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Strefa rokendrola wolna od angola
+http://stream3.polskieradio.pl:8176/
+
+#RADIOBROWSERUUID:b3184308-9bd0-40d6-9dc8-53b72ecf194e
+#EXTINF:1,ESKA Białystok
+https://radio.stream.smcdn.pl/icradio-p/2020-1.aac/playlist.m3u8
+
+#RADIOBROWSERUUID:23709504-b6a0-429c-b19a-a963aec120bb
+#EXTINF:1,RMF 90s + FAKTY
+http://31.192.216.7/90SF
+
+#RADIOBROWSERUUID:bd0723dc-8521-46e6-8ecc-645f74b872c7
+#EXTINF:1,RMF 90s Dance + FAKTY
+http://195.150.20.7/90SDANCEF
+
+#RADIOBROWSERUUID:3379cdb1-ce15-4d3e-bb46-49a492da96b6
+#EXTINF:1,RMF Cuba + FAKTY
+http://31.192.216.8/CUBAF
+
+#RADIOBROWSERUUID:964e2da2-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Najwieksze Przeboje XX w.
+http://stream.open.fm/163
+
+#RADIOBROWSERUUID:b8988a60-d602-4e28-8fd4-db8ebe023993
+#EXTINF:1,RMF PRL + FAKTY
+http://195.150.20.8/PRLF
+
+#RADIOBROWSERUUID:96115321-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Chrzescijanin Biblia
+http://s1.slotex.pl:7116/;
+
+#RADIOBROWSERUUID:96124183-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Off Radio Krakow
+http://stream4.nadaje.com:13332/offradiokrakow
+
+#RADIOBROWSERUUID:d758c050-d1ff-4663-bfca-61e38413668d
+#EXTINF:1,Radio Mirage - Space
+https://ssl-1.radiohost.pl:9563/stream?ver=987766
+
+#RADIOBROWSERUUID:96368bb9-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Polskie Radio Bajki Samograjki
+http://stream3.polskieradio.pl:8052/;stream
+
+#RADIOBROWSERUUID:981f5f1c-c57e-4d5d-9665-45d1a1e66771
+#EXTINF:1,Radio Misiek
+http://stream.zeno.fm/5hfdntgf8yzuv
+
+#RADIOBROWSERUUID:b28ed0ea-bbc5-4127-a456-0a29a051e78c
+#EXTINF:1,Super FM
+http://stream.super.fm:8000/superfm.mp3
+
+#RADIOBROWSERUUID:96111389-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Po Polsku 80/90
+http://stream.open.fm/79
+
+#RADIOBROWSERUUID:96100b3f-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Katolickie Radio Podlasie
+http://s1.slotex.pl:7038/
+
+#RADIOBROWSERUUID:6cb945e1-508b-4aa9-b692-1ab4edad32a4
+#EXTINF:1,ESKA IMPREZKA
+http://waw01-02.ic.smcdn.pl:8000/6100-1.aac
+
+#RADIOBROWSERUUID:c5f814b3-10ff-4be2-be25-599c0b1638ba
+#EXTINF:1,ESKA DANCE & POP
+http://waw01-02.ic.smcdn.pl:8000/6140-1.aac
+
+#RADIOBROWSERUUID:9610ff01-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Alt PL
+http://stream.open.fm/36
+
+#RADIOBROWSERUUID:9a6838e9-6824-4e2a-97dd-8e8462b7053c
+#EXTINF:1,RADIO KOLOR
+http://stream.open.fm/331
+
+#RADIOBROWSERUUID:337e559c-1a92-42c9-92d4-97e3d1c32ade
+#EXTINF:1,ESKA POP & DANCE
+http://waw01-02.ic.smcdn.pl:8000/6140-1.mp3
+
+#RADIOBROWSERUUID:7efb93d7-191d-42d6-a74a-3a4985c2e761
+#EXTINF:1,ESKA PRZEMYSL
+http://waw01-02.ic.smcdn.pl:8000/2320-1.mp3
+
+#RADIOBROWSERUUID:1bacd2bd-8346-11e8-aa66-52543be04c81
+#EXTINF:1,Praca Rock - Open FM
+https://stream.open.fm/104
+
+#RADIOBROWSERUUID:9645b5c6-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Forever
+http://s1.slotex.pl:7134/
+
+#RADIOBROWSERUUID:960fee24-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio FIAT
+http://stream2.nadaje.com:8056/
+
+#RADIOBROWSERUUID:96100667-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Kolobrzeg
+http://graj.radiokolobrzeg.pl:8000/
+
+#RADIOBROWSERUUID:96111ec7-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Szanty
+http://stream.open.fm/28
+
+#RADIOBROWSERUUID:a1441b27-255a-4927-b046-93c91d210881
+#EXTINF:1,Metal Live Radio
+http://51.255.8.139:8738/stream
+
+#RADIOBROWSERUUID:96113c8d-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Polka Jammer Station
+http://199.58.161.66/
+
+#RADIOBROWSERUUID:96114bae-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Karolinka
+http://91.232.4.33:8358/stream
+
+#RADIOBROWSERUUID:964aa70b-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Radio Dzieciom
+http://stream3.polskieradio.pl:8916/
+
+#RADIOBROWSERUUID:962c100c-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio 7
+http://137.74.5.240:443/;stream.mp3
+
+#RADIOBROWSERUUID:37d64519-a0b9-4e23-a02c-7ad49ab13087
+#EXTINF:1,Radio Express
+https://stream.rcs.revma.com/yx6cub73kwzuv
+
+#RADIOBROWSERUUID:964ac2fa-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Prog Rock
+http://stream3.polskieradio.pl:8062/
+
+#RADIOBROWSERUUID:065971ca-2b0e-4982-9b6e-416b7b262e7e
+#EXTINF:1,Radio 5
+https://streaming.radio5.com.pl:8888/radio5suwalki
+
+#RADIOBROWSERUUID:964db20b-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Dobranoc
+http://stream.open.fm/74
+
+#RADIOBROWSERUUID:f5e33fd4-7edf-4b12-91de-a42472cc04f8
+#EXTINF:1,RMF Dance + FAKTY
+http://31.192.216.10/DANCEF
+
+#RADIOBROWSERUUID:964e1c41-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Kolysanki
+http://stream.open.fm/142
+
+#RADIOBROWSERUUID:960f88e0-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Rock
+http://195.150.20.7/ROCK
+
+#RADIOBROWSERUUID:2edd883e-376c-44b8-b370-1da891acd8f1
+#EXTINF:1,RMF Polskie przeboje + FAKTY
+http://195.150.20.8/PPRZEBOJEF
+
+#RADIOBROWSERUUID:960faf64-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Chillout
+http://31.192.216.8/CHILLOUT
+
+#RADIOBROWSERUUID:960fe76e-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Rodzina
+http://sluchaj.radiorodzina.pl/RadioRodzinaWroclawLIVE.mp3
+
+#RADIOBROWSERUUID:3c72f4b9-a6c0-11e9-a787-52543be04c81
+#EXTINF:1,CCM
+http://primary.moodyradiostream.org/radioccm
+
+#RADIOBROWSERUUID:518d37e6-78d0-4862-96ea-c68edc3eba31
+#EXTINF:1,Radio Parada 96.00 fm
+http://stream4.nadaje.com:15274/live
+
+#RADIOBROWSERUUID:1cff49e9-3efc-4d03-9bc9-16d325f1ed3c
+#EXTINF:1,Radio Plus Radom
+http://78.46.170.230:8040/
+
+#RADIOBROWSERUUID:cb086c3c-b66b-4087-ab64-51db840cbc89
+#EXTINF:1,Flash FM
+http://91.201.235.225:8017/stream/;
+
+#RADIOBROWSERUUID:961b3231-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Gorzów
+http://stream02.radiogorzow.pl:10115/
+
+#RADIOBROWSERUUID:960dc02c-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Ciezkie Brzmienia
+http://stream.open.fm/13
+
+#RADIOBROWSERUUID:8d505e01-7746-11ea-b1cf-52543be04c81
+#EXTINF:1,Bezpieczna podroz
+http://4stream.pl:18546/;
+
+#RADIOBROWSERUUID:1ea84dcc-cd86-463b-b5f0-6ac72186c189
+#EXTINF:1,Radio Świnoujście
+http://185.243.52.116:8010/stream
+
+#RADIOBROWSERUUID:dcf421fd-5ad5-4f64-b22b-500c9c1b6042
+#EXTINF:1,InterStacja - Club
+http://4stream.pl:18268/;stream.nsv
+
+#RADIOBROWSERUUID:960fd387-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Jazz
+http://stream.open.fm/166
+
+#RADIOBROWSERUUID:db2eb94a-be58-431d-86e8-94595509e793
+#EXTINF:1,ESKA POP
+http://waw01-02.ic.smcdn.pl:8000/6030-1.aac
+
+#RADIOBROWSERUUID:68b4efcd-4e86-4c0e-880e-91950166af3f
+#EXTINF:1,ESKA GORĄCA 20
+http://waw01-02.ic.smcdn.pl:8000/6130-1.mp3
+
+#RADIOBROWSERUUID:960fb82c-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Malbork
+http://stream3.nadaje.com:9022/
+
+#RADIOBROWSERUUID:961108ea-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Freszzz
+http://stream.open.fm/39
+
+#RADIOBROWSERUUID:96224577-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Dwójka (MP3)
+http://mp3.polskieradio.pl:8902/
+
+#RADIOBROWSERUUID:960fcafd-0601-11e8-ae97-52543be04c81
+#EXTINF:1,ZET Kids
+http://zetkid-02.cdn.eurozet.pl:8434/
+
+#RADIOBROWSERUUID:d848ad94-ada2-4f96-b129-b137a3f49757
+#EXTINF:1,Radio AKADERA
+http://stream4.nadaje.com:11846/;.m3u
+
+#RADIOBROWSERUUID:96114577-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Polo 1
+http://91.121.139.101:8000/
+
+#RADIOBROWSERUUID:9610fca4-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Alt Café
+http://stream.open.fm/34
+
+#RADIOBROWSERUUID:960fbb85-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Pielgrzym English
+http://shoutcast.com.pl:9448/
+
+#RADIOBROWSERUUID:964ab6ba-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Konkurs Chopinowski
+http://stream3.polskieradio.pl:8022/
+
+#RADIOBROWSERUUID:964abf78-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Pink Floyd
+http://stream3.polskieradio.pl:8070/
+
+#RADIOBROWSERUUID:964ac22b-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Polski top Wszech Czasow
+http://stream3.polskieradio.pl:8156/
+
+#RADIOBROWSERUUID:d0005f03-9798-4744-9bb3-eadc447f49a9
+#EXTINF:1,Radio Bielsko
+https://stream.rcs.revma.com/062uq3z3kwzuv
+
+#RADIOBROWSERUUID:964d46e4-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF w pracy
+http://31.192.216.10/WPRACY
+
+#RADIOBROWSERUUID:b93eb129-c65d-476c-8c7a-23d1660d4115
+#EXTINF:1,RMF Chillout + FAKTY
+http://31.192.216.8/CHILLOUTF
+
+#RADIOBROWSERUUID:e727be51-63bb-4e68-a48d-96123b515826
+#EXTINF:1,Radio Relax
+https://s2.slotex.pl/shoutcast/10028/stream
+
+#RADIOBROWSERUUID:96432874-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Michael Jackson
+http://195.150.20.9/MICHALEJACKSON
+
+#RADIOBROWSERUUID:6b0d1ba2-737f-4847-a05d-9825f2528902
+#EXTINF:1,RMF Party + FAKTY
+http://195.150.20.7/PARTYF
+
+#RADIOBROWSERUUID:419967de-2763-4357-9623-b3b6d243d8ea
+#EXTINF:1,Radiospacja open.fm
+https://stream.open.fm/375
+
+#RADIOBROWSERUUID:f02eeef9-51f4-445f-9917-eed18c9afc4f
+#EXTINF:1,RMF Rock Progresywny + FAKTY
+http://195.150.20.8/ROCKPROGRESYWNYF
+
+#RADIOBROWSERUUID:b44b8d20-99f2-4476-8305-0b5c0198c883
+#EXTINF:1,InterStacja - Disco Polo
+http://4stream.pl:18274/;stream.nsv
+
+#RADIOBROWSERUUID:361230c9-d0d1-4555-beb9-0a81fd22f838
+#EXTINF:1,RMF Szanty
+http://217.74.72.11/SZANTY
+
+#RADIOBROWSERUUID:9649331a-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Zapiski ze wspolczesnosci
+http://stream3.polskieradio.pl:8006/
+
+#RADIOBROWSERUUID:249daa77-f087-400e-b5bc-fbfc3973e1e5
+#EXTINF:1,Radio ZET Alternatywa
+https://zt04.cdn.eurozet.pl/ZETALT.mp3
+
+#RADIOBROWSERUUID:9626da80-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Koledy
+http://31.192.216.7/KOLEDY
+
+#RADIOBROWSERUUID:9b1c8073-0c1b-11e9-a80b-52543be04c81
+#EXTINF:1,eskaGO.pl - Starachowice
+http://pldm.ml/radio.php?id=-1&url=http://www.eskago.pl/radio/eska-starachowice
+
+#RADIOBROWSERUUID:67cd9df3-e39e-478c-9ab3-56f9d79e04c1
+#EXTINF:1,InterStacja - Club
+http://4stream.pl:18268/;
+
+#RADIOBROWSERUUID:9639e64c-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Underground
+http://s2.panelradiowy.pl:10070/
+
+#RADIOBROWSERUUID:dc579323-34b1-4b37-ad43-4db9cb00e710
+#EXTINF:1,Radio TOP80
+https://top80.pl:8000/listen.mp3
+
+#RADIOBROWSERUUID:f3faa91b-3964-425c-a5fe-59c6cd1b7433
+#EXTINF:1,radiospacja
+https://rdsp.out.airtime.pro/rdsp_a
+
+#RADIOBROWSERUUID:0f107bab-34ed-411f-8da0-79689acc39ec
+#EXTINF:1,Eska Iława
+https://radio.stream.smcdn.pl/icradio-p/2440-1.aac/playlist.m3u8
+
+#RADIOBROWSERUUID:960f9109-0601-11e8-ae97-52543be04c81
+#EXTINF:1,ArtRadio Bogatynia
+http://91.232.4.33:7096/
+
+#RADIOBROWSERUUID:0c412de8-d4ea-4585-bcbd-33bbbb3df5e9
+#EXTINF:1,PLANETA TRANCE
+http://pl01.cdn.eurozet.pl/PLATRA.mp3
+
+#RADIOBROWSERUUID:96114637-0601-11e8-ae97-52543be04c81
+#EXTINF:1,SoundFM
+http://s1.slotex.pl:7494/
+
+#RADIOBROWSERUUID:705a8ab6-9cae-436b-8bb7-b037680dbe7a
+#EXTINF:1,GAZETA CAFE
+http://stream10.radioagora.pl/tuba23-1.mp3
+
+#RADIOBROWSERUUID:9620597a-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Przezyjmy to jeszcze raz
+http://stream3.polskieradio.pl:8106/
+
+#RADIOBROWSERUUID:f6004872-9805-403c-8f61-f8cf694a78dc
+#EXTINF:1,VOX FM
+http://waw01-02.ic.smcdn.pl:8000/3990-1.aac
+
+#RADIOBROWSERUUID:d934f0d2-bb2e-4c35-bd1c-e33cecf36bfe
+#EXTINF:1,R357
+https://radio357.s3.eu-central-1.amazonaws.com/stream/29ce0221-3d37-47d9-97b9-559cfad16ed3.m3u8
+
+#RADIOBROWSERUUID:cec1a2ee-a183-4317-b98a-ba36b120ff38
+#EXTINF:1,ESKA DANCE
+http://waw01-02.ic.smcdn.pl:8000/6180-1.mp3
+
+#RADIOBROWSERUUID:7db05c8f-7374-47fe-a5c2-6b0006c14d19
+#EXTINF:1,Radio Kraków
+https://stream3.nadaje.com:9117/radiokrakow
+
+#RADIOBROWSERUUID:42016e3d-e5e3-45f3-9e0d-e743da9aa6f7
+#EXTINF:1,RADIO KOLOR
+http://193.222.135.71/331
+
+#RADIOBROWSERUUID:961112b7-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Po Polsku 60/70
+http://stream.open.fm/17
+
+#RADIOBROWSERUUID:c4e5cefb-37ff-11e8-bb9b-52543be04c81
+#EXTINF:1,Muzyczne Radio
+http://stream3.nadaje.com:9900/;stream/1
+
+#RADIOBROWSERUUID:39b7e18d-e632-4fc6-a219-44ed39203eb2
+#EXTINF:1,Radio Kapitał
+https://radiokapitalpl.out.airtime.pro/radiokapitalpl_a
+
+#RADIOBROWSERUUID:e32ec32a-6315-11e9-a622-52543be04c81
+#EXTINF:1,Radio Centrum Lublin
+https://centrum.fm/wp-content/themes/responsive/images/playlist.m3u
+
+#RADIOBROWSERUUID:9610e59c-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Slupsk
+http://91.232.4.33:8240/stream
+
+#RADIOBROWSERUUID:9611a61c-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Rumcajs
+http://sc1.readycast.org:8546/
+
+#RADIOBROWSERUUID:960fd97d-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Toksyna FM Chillout & More
+http://s01.toksyna.fm:8050/
+
+#RADIOBROWSERUUID:000cd462-2e04-4797-851d-ec83403f73aa
+#EXTINF:1,RMF Polski Rock
+http://195.150.20.9/rmf_polski_rock
+
+#RADIOBROWSERUUID:964ab960-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Mijaja lata zostaja piosenki
+http://stream3.polskieradio.pl:8168/
+
+#RADIOBROWSERUUID:189c71f0-9dc4-4a1e-9318-e9fa966f4c2f
+#EXTINF:1,Radio Open FM - Disco Polo Classic
+https://stream.open.fm/49
+
+#RADIOBROWSERUUID:23ba36c2-2bde-4b8c-8ed6-ddeae2eedcee
+#EXTINF:1,Goldstacja.FM
+http://s1.slotex.pl:7326/;
+
+#RADIOBROWSERUUID:964c6a62-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Miejska Stacja: Beats & Bass
+http://stream.open.fm/106
+
+#RADIOBROWSERUUID:964aa894-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Archeologia
+http://stream3.polskieradio.pl:8114/
+
+#RADIOBROWSERUUID:fcaa8088-8d1e-4c6b-aeec-523cec80f82e
+#EXTINF:1,RMF 2 Pop + FAKTY
+http://195.150.20.8/RMF2F
+
+#RADIOBROWSERUUID:abdd57f6-4578-48c2-8591-b9b6e962b73b
+#EXTINF:1,RMF 2000 + FAKTY
+http://31.192.216.7/2000F
+
+#RADIOBROWSERUUID:a0dbfece-78db-4eab-9bca-affcd1213946
+#EXTINF:1,RMF Club + FAKTY
+http://31.192.216.7/CLUBF
+
+#RADIOBROWSERUUID:9610e49b-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Koszalin
+http://91.232.4.33:9680/
+
+#RADIOBROWSERUUID:964e0f4d-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Weekend Hits
+http://stream.open.fm/127
+
+#RADIOBROWSERUUID:964e15c5-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Dobry Wieczor
+http://stream.open.fm/137
+
+#RADIOBROWSERUUID:9932e0fd-055f-44fb-89f0-67bb6e7a7498
+#EXTINF:1,RMF Francais + FAKTY
+http://195.150.20.7/FRANCAISF
+
+#RADIOBROWSERUUID:3e953305-e628-4bbb-91aa-1a48e4132402
+#EXTINF:1,RMF Reggae + FAKTY
+http://195.150.20.7/REGGAEF
+
+#RADIOBROWSERUUID:cb722f3a-96a0-463f-bc31-2dab0ee176fe
+#EXTINF:1,Radio7 Mława
+https://radio7.pl/listen.m3u
+
+#RADIOBROWSERUUID:960ff2e9-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Bravo
+http://31.192.216.8/BRAVO
+
+#RADIOBROWSERUUID:17b48500-b2b8-4b26-8c71-26aa01eff469
+#EXTINF:1,Radio Derf Polski blues
+http://178.19.96.111:8026/listen.pls
+
+#RADIOBROWSERUUID:96482cd6-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Spotkanie z mistrzem
+http://stream3.polskieradio.pl:8104/
+
+#RADIOBROWSERUUID:92681851-39cd-11e9-9b4e-52543be04c81
+#EXTINF:1,MC Radio
+http://stream4.nadaje.com:8624/mcradio
+
+#RADIOBROWSERUUID:1ad3def5-f5d6-11e9-bbf2-52543be04c81
+#EXTINF:1,Radio Kielce
+http://gra.radio.kielce.pl:8000/rk2.m3u
+
+#RADIOBROWSERUUID:b41931aa-4aa6-455a-9906-21bfe6391fa2
+#EXTINF:1,Polmax Kolędy
+http://stream.zeno.fm/buc6f68mmm0uv
+
+#RADIOBROWSERUUID:8414685e-0800-11e8-ae97-52543be04c81
+#EXTINF:1,Paranormalium
+http://shoutcast.paranormalium.pl:8000/5
+
+#RADIOBROWSERUUID:958073b3-a8e4-4371-a3a0-d23985d05d6f
+#EXTINF:1,Radio Fama Slupsk
+http://stream3.nadaje.com:9024/listen.pls?sid=1
+
+#RADIOBROWSERUUID:bbf989c9-e717-46a7-b7a1-2b14af15eeb3
+#EXTINF:1,FTB Flash FM
+https://radioftb.net/flashfm.m3u
+
+#RADIOBROWSERUUID:960faea3-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Szczecin (64K AAC)
+http://stream4.nadaje.com:11986/prs.aac
+
+#RADIOBROWSERUUID:6881c1eb-15c0-48dd-b5ad-1e4e7203cbe0
+#EXTINF:1,Radio Bzium
+http://s1.slotex.pl:7124/;
+
+#RADIOBROWSERUUID:1f8bc33c-9e3d-45cc-9e59-b5a40b444c68
+#EXTINF:1,PLANETA BEACH PARTY
+http://pl01.cdn.eurozet.pl/ALLBEA.mp3
+
+#RADIOBROWSERUUID:01d967a1-6031-4ce2-9b59-61d68fc66ff4
+#EXTINF:1,NOISE fm
+http://noisefm.ru:8000/play?type=.mp3/;stream.mp3
+
+#RADIOBROWSERUUID:c31f55bc-b0a3-4063-8947-2f6af4651708
+#EXTINF:1,PLANETA HOUSE
+http://pl01.cdn.eurozet.pl/PLAHOU.mp3
+
+#RADIOBROWSERUUID:960ff557-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Katolickie Radio Diecezji Plockiej
+http://s1.slotex.pl:7760/
+
+#RADIOBROWSERUUID:3ab49066-f835-11e9-bbf2-52543be04c81
+#EXTINF:1,Radio BonTon
+https://streaming.inten.pl:8020/bonton.mp3
+
+#RADIOBROWSERUUID:d8459b6d-9c3a-4deb-83a2-94fdf1c665d8
+#EXTINF:1,ESKA POP
+http://waw01-02.ic.smcdn.pl:8000/6030-1.aac
+
+#RADIOBROWSERUUID:fa03f4f6-bd6b-4311-b036-07e09387b220
+#EXTINF:1,Radio Chrzescijanin - 2
+http://s1.slotex.pl:7002/;
+
+#RADIOBROWSERUUID:bde5b794-eff2-4043-b6f9-4f1b3526d2a3
+#EXTINF:1,RMF Game Music
+http://195.150.20.243:8000/rmf_gamemusic
+
+#RADIOBROWSERUUID:9647bd6d-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - American Rock
+http://stream.open.fm/40
+
+#RADIOBROWSERUUID:9610df79-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio DOXA
+http://shot.inten.pl:10000/
+
+#RADIOBROWSERUUID:96110336-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Crema Café
+http://stream.open.fm/76
+
+#RADIOBROWSERUUID:964aa4b8-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Czworka
+http://stream3.polskieradio.pl:8906/
+
+#RADIOBROWSERUUID:72c3bc58-8c69-11e9-ad01-52543be04c81
+#EXTINF:1,Folk Kielce
+http://gra.radio.kielce.pl:8000/frmp3
+
+#RADIOBROWSERUUID:964ae6cc-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Bieganie
+http://stream.open.fm/116
+
+#RADIOBROWSERUUID:e6372fb6-d871-443a-a387-61b751a0a269
+#EXTINF:1,Radio Hit
+http://46.170.199.85:8000/
+
+#RADIOBROWSERUUID:964bdcf1-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Weekend Chill
+http://stream.open.fm/126
+
+#RADIOBROWSERUUID:964ac838-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Szanty
+http://stream3.polskieradio.pl:8120/
+
+#RADIOBROWSERUUID:964ac913-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - W jazzowym klimacie
+http://stream3.polskieradio.pl:8024/
+
+#RADIOBROWSERUUID:964ac9ef-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Wojciech Mann i Marek Niedzwiecki
+http://stream3.polskieradio.pl:8018/
+
+#RADIOBROWSERUUID:505a72f4-2a15-4672-a857-945f7cdd9b51
+#EXTINF:1,radio plus
+http://plus-warszawa-01.eurozet.pl:8500/listen.pls
+
+#RADIOBROWSERUUID:9610d15d-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Victoria
+http://stream.v4.radiovictoria.pl:8176/;
+
+#RADIOBROWSERUUID:9617feef-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Centrum Rzeszow
+http://62.93.41.27:8000/;stream/1
+
+#RADIOBROWSERUUID:964acd6f-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Lem FM
+http://lemfm.radiokitstream.org/lemfm.mp3
+
+#RADIOBROWSERUUID:ad95696d-c911-4a6c-bddf-d56b79082915
+#EXTINF:1,RMF 80s + FAKTY
+http://195.150.20.9/80SF
+
+#RADIOBROWSERUUID:c669dee5-0f34-4925-8785-c4c8d545f09b
+#EXTINF:1,Metal Live Radio
+https://s7.radiohost.pl:2199/tunein/merz.pls
+
+#RADIOBROWSERUUID:d9f79acb-1576-4e11-8972-b704c457c4c5
+#EXTINF:1,Polen - Polskie Radio - Archeologia
+http://mp3.polskieradio.pl:8114/
+
+#RADIOBROWSERUUID:d1737386-87bf-4388-8bb9-c47c9bbef494
+#EXTINF:1,RMF Blues + FAKTY
+http://31.192.216.10/BLUESF
+
+#RADIOBROWSERUUID:72fb93b4-efaf-4dc0-9725-cf7a2efabc56
+#EXTINF:1,RMF Depeche Mode + FAKTY
+http://31.192.216.7/DEPECHEMODEF
+
+#RADIOBROWSERUUID:04cff48a-d75d-4c30-bd0f-0bfd3e6a95b4
+#EXTINF:1,RMF Hot new + FAKTY
+http://195.150.20.9/HOTNEWF
+
+#RADIOBROWSERUUID:960f80a2-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Piosenka literacka
+http://31.192.216.7/PIOSENKALITERACKA
+
+#RADIOBROWSERUUID:964e20bc-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Spacer
+http://stream.open.fm/144
+
+#RADIOBROWSERUUID:11cb6339-2a7a-453c-941d-78b3c8aef19a
+#EXTINF:1,RMF Michael Jackson + FAKTY
+http://195.150.20.9/MICHALEJACKSONF
+
+#RADIOBROWSERUUID:37075faf-29f7-4b04-9070-8a106251a964
+#EXTINF:1,RMF Sloneczne Przeboje + FAKTY
+http://195.150.20.8/SPRZEBOJEF
+
+#RADIOBROWSERUUID:e2a1c91d-ea02-4e38-865b-10f7d79e4b50
+#EXTINF:1,Radio Open FM - Po Polsku 80
+https://stream.open.fm/79
+
+#RADIOBROWSERUUID:e09f904b-4cde-46a9-ae0d-d0dea1d077ac
+#EXTINF:1,RMF Styl + FAKTY
+http://31.192.216.7/STYLF
+
+#RADIOBROWSERUUID:fa4bbcbd-4970-49dc-85e2-800976639e05
+#EXTINF:1,RMF Swieta + FAKTY
+http://195.150.20.7/SWIETAF
+
+#RADIOBROWSERUUID:964e6afd-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Pasja - Chillout
+http://91.232.4.33:8108/
+
+#RADIOBROWSERUUID:e57fff59-15a8-4dcb-a345-7406cdbf454f
+#EXTINF:1,epwr
+http://d.liveatc.net/eppo_s_app
+
+#RADIOBROWSERUUID:6ce26389-86d0-4031-819f-06d71bc9136b
+#EXTINF:1,InterStacja
+http://4stream.pl:18322/;stream.nsv
+
+#RADIOBROWSERUUID:9647dfb4-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Trend sounds
+http://195.150.20.7/TRENDSOUNDS
+
+#RADIOBROWSERUUID:ba3bc408-ef10-4e65-9d75-2d58ef61a214
+#EXTINF:1,Radio Fraszka
+http://81.26.9.138:8000/RadioFraszka#.m3u
+
+#RADIOBROWSERUUID:60118daa-abe0-45dc-99dd-c16ba48c6abf
+#EXTINF:1,Konin FM
+http://stream2.technologicznie.net/konin.fm
+
+#RADIOBROWSERUUID:9611722b-0601-11e8-ae97-52543be04c81
+#EXTINF:1,JKS Radio Jolanda
+http://s1.slotex.pl:7962/;
+
+#RADIOBROWSERUUID:435425d6-8c65-11e9-ad01-52543be04c81
+#EXTINF:1,Polskie Radio LAS
+http://mp3.polskieradio.pl:8128/
+
+#RADIOBROWSERUUID:84492b61-a616-4827-baa0-b63675266ac9
+#EXTINF:1,Radio Elka Glogow
+http://live.elka.pl:8000/miedziowe.m3u
+
+#RADIOBROWSERUUID:8f556ae2-04c5-4fc6-b048-d82c543a7730
+#EXTINF:1,OPEN FM DAB+
+http://stream.open.fm/420
+
+#RADIOBROWSERUUID:768c7caa-a768-4735-a23f-ed4986b7275f
+#EXTINF:1,WP KLUB
+http://stream.open.fm//363
+
+#RADIOBROWSERUUID:4f04b81f-6c1b-4849-844b-93e81357f6c1
+#EXTINF:1,PLANETA EDM
+http://pl01.cdn.eurozet.pl/PLAEDM.mp3
+
+#RADIOBROWSERUUID:3b8b6d95-1fc6-41c7-a705-d8539f4ee22d
+#EXTINF:1,PLANETA EDM
+http://pl01.cdn.eurozet.pl/PLAEDM.mp3
+
+#RADIOBROWSERUUID:964ac499-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Przeboje Lata z Radiem
+http://stream3.polskieradio.pl:8026/
+
+#RADIOBROWSERUUID:a737008a-b835-420b-a59a-bff30f92e7ce
+#EXTINF:1,PLANETA FM
+http://pl01.cdn.eurozet.pl/pla-net.mp3
+
+#RADIOBROWSERUUID:9a28499e-2835-4a9c-9149-cb896426d620
+#EXTINF:1,RMF FITNESS FAKTY
+http://195.150.20.7/rmf_fitness_f
+
+#RADIOBROWSERUUID:1459d97a-fc0b-4e25-9df5-a30bae83919d
+#EXTINF:1,Radio Afera
+https://radio.afera.com.pl/afera128.ogg
+
+#RADIOBROWSERUUID:5974a09e-e810-49b8-94d8-d9510883eae1
+#EXTINF:1,radio 7 mlawa
+http://137.74.5.240:443/;
+
+#RADIOBROWSERUUID:d5acd7ea-f837-11e9-bbf2-52543be04c81
+#EXTINF:1,Radio Elka Leszno
+http://live.elka.pl:8000/elka.fm.m3u
+
+#RADIOBROWSERUUID:09df328d-b055-431a-a7cf-3d368e20c64c
+#EXTINF:1,SUPER NOVA RZESZÓW
+http://waw01-02.ic.smcdn.pl:8000/1240-1.aac
+
+#RADIOBROWSERUUID:b003e8d2-25e8-11e8-91bf-52543be04c81
+#EXTINF:1,Radio FTB Club
+http://radioftb.net/club.m3u
+
+#RADIOBROWSERUUID:960fb8fe-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio OKO
+http://stream2.nadaje.com:8094/
+
+#RADIOBROWSERUUID:960ffa4b-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Fara
+http://62.133.128.22:8000/
+
+#RADIOBROWSERUUID:0f906c10-6b27-41b4-a03d-ba5a4764398f
+#EXTINF:1,Radio ZET Alternatywa
+https://zt04.cdn.eurozet.pl/ZETALT.mp3
+
+#RADIOBROWSERUUID:5a94225c-5c8d-11e9-a622-52543be04c81
+#EXTINF:1,Radio derf Bluesrock
+http://178.19.96.111:8013/listen.pls
+
+#RADIOBROWSERUUID:961123d6-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Top 20 PL
+http://stream.open.fm/97
+
+#RADIOBROWSERUUID:96112549-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Top 20 Rock
+http://stream.open.fm/99
+
+#RADIOBROWSERUUID:961144b9-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Polo 2
+http://91.121.139.101:9000/
+
+#RADIOBROWSERUUID:96114949-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Kacik Rodzinny
+http://sc1.readycast.org:8516/;.mp3
+
+#RADIOBROWSERUUID:d00d2757-02f7-47b4-8fdd-96d8db5ddc4d
+#EXTINF:1,Punkowe Radio Underground
+http://s2.panelradiowy.pl:10070/listen.pls
+
+#RADIOBROWSERUUID:964ab275-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Zabawy z jezykiem
+http://stream3.polskieradio.pl:8000/
+
+#RADIOBROWSERUUID:964ab423-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Classic Rock
+http://stream3.polskieradio.pl:8060/
+
+#RADIOBROWSERUUID:e0361fcc-d3fe-4ce8-9c8c-f8805265cf78
+#EXTINF:1,Radio RAM (AAC)
+http://stream2.nadaje.com:9228/ram.aac
+
+#RADIOBROWSERUUID:964afcd7-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Maniak FM
+http://s1.slotex.pl:7396/
+
+#RADIOBROWSERUUID:964ab79b-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Las
+http://stream3.polskieradio.pl:8128/
+
+#RADIOBROWSERUUID:964b257a-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Rocks
+http://stream.open.fm/77
+
+#RADIOBROWSERUUID:964abc54-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Najpiekniejsze polskie piosenki
+http://stream3.polskieradio.pl:8020/
+
+#RADIOBROWSERUUID:15008a98-9ad0-11e9-a787-52543be04c81
+#EXTINF:1,Radio Opole 2
+http://193.47.151.4:8045/1
+
+#RADIOBROWSERUUID:e850d316-25c9-11e8-91bf-52543be04c81
+#EXTINF:1,Radio TCZEW
+http://195.191.180.5:8000/live
+
+#RADIOBROWSERUUID:963142ab-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Klasycy rocka
+http://stream3.polskieradio.pl:8166/
+
+#RADIOBROWSERUUID:96100030-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Jura
+http://streams.radiojura.com.pl:8000/jura_128kbps_stereo.mp3
+
+#RADIOBROWSERUUID:964c6564-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Fitness
+http://stream.open.fm/65
+
+#RADIOBROWSERUUID:bb29d62d-c3ba-4e4d-9fb3-545313e36801
+#EXTINF:1,Radio Open FM - 00s Hits
+https://stream.open.fm/72
+
+#RADIOBROWSERUUID:6dd63e89-113d-4770-be49-2f79107ffe9b
+#EXTINF:1,RMF 20 lat + FAKTY
+http://31.192.216.7/20LATF
+
+#RADIOBROWSERUUID:964e1dc8-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Muzyka Motywacyjna
+http://stream.open.fm/143
+
+#RADIOBROWSERUUID:85c5fb9a-8c66-11e9-ad01-52543be04c81
+#EXTINF:1,Polskie Radio - Muzyka źródeł
+http://mp3.polskieradio.pl:8158/
+
+#RADIOBROWSERUUID:96082ba4-2ae6-4c36-8f04-4ff6110101a9
+#EXTINF:1,RMF Alternatywa + FAKTY
+http://195.150.20.7/ALTERNATYWAF
+
+#RADIOBROWSERUUID:28203aa2-2d48-4be4-ab03-83fce95dc5a3
+#EXTINF:1,Polen - Polskie Radio - Ballady
+http://mp3.polskieradio.pl:8074/
+
+#RADIOBROWSERUUID:fd4fdf71-fe79-4e77-bf15-d468c3453e70
+#EXTINF:1,RMF Ballady + FAKTY
+http://195.150.20.7/NOSTALGIAF
+
+#RADIOBROWSERUUID:adebc5a2-06a3-4091-a342-24f8b2e2d663
+#EXTINF:1,RMF Bravo + FAKTY
+http://31.192.216.8/BRAVOF
+
+#RADIOBROWSERUUID:2c0a1676-ca18-445f-9d17-fe74dcc0d268
+#EXTINF:1,Radio Mbox
+https://s1.slotex.pl/shoutcast/7462/stream
+
+#RADIOBROWSERUUID:6b9146b4-7d20-4b86-a570-f6014e9b42d3
+#EXTINF:1,RMF Dla dzieci + FAKTY
+http://195.150.20.8/BABYF
+
+#RADIOBROWSERUUID:e86db912-f224-4004-9951-9aa000511e62
+#EXTINF:1,RMF Gold + FAKTY
+http://195.150.20.9/GOLDF
+
+#RADIOBROWSERUUID:457ec1ad-6c52-44ad-b632-6b7833ad6d84
+#EXTINF:1,RMF Niezapomniane melodie + FAKTY
+http://31.192.216.10/NIEZAPOMNIANEMELODIEF
+
+#RADIOBROWSERUUID:6a480375-e1f6-4c4a-8adc-0e244b99680b
+#EXTINF:1,RMF Queen + FAKTY
+http://195.150.20.8/QUEENF
+
+#RADIOBROWSERUUID:4203eb64-b41c-4a98-ad4c-c52243ff0d10
+#EXTINF:1,SmoothJazz.com.pl [AAC+]
+http://stream14.shoutcastsolutions.com:8057/64stream
+
+#RADIOBROWSERUUID:4887b039-57d8-46db-ad41-d26dc2652ea9
+#EXTINF:1,RMF Smooth Jazz + FAKTY
+http://31.192.216.8/SJAZZF
+
+#RADIOBROWSERUUID:7793f747-110f-4f02-8eab-1543781d21d1
+#EXTINF:1,RMF 70s
+http://31.192.216.7/70S
+
+#RADIOBROWSERUUID:9622d2a5-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Praca Rock
+http://stream.open.fm/104
+
+#RADIOBROWSERUUID:ba37f9e2-364a-44df-9cd9-7afd123d8b34
+#EXTINF:1,RMF w pracy + FAKTY
+http://31.192.216.10/WPRACYF
+
+#RADIOBROWSERUUID:964e6fc8-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Pasja - Relaks
+http://91.232.4.33:8102/
+
+#RADIOBROWSERUUID:964e719b-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Pasja - Dance
+http://91.232.4.33:9466/
+
+#RADIOBROWSERUUID:00b73e70-f83b-11e9-bbf2-52543be04c81
+#EXTINF:1,Radio Gniezno
+http://stream3.nadaje.com:8012/listen.pls
+
+#RADIOBROWSERUUID:964eea12-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio BIGBBS
+http://91.121.91.156:8000/
+
+#RADIOBROWSERUUID:79f8d8f2-804c-4cd0-9172-8c365f01cb88
+#EXTINF:1,Radio Nuta
+https://n11a-eu.rcs.revma.com/0004tehdxzzuv
+
+#RADIOBROWSERUUID:d4408651-3be0-4479-a27f-08f1f2d60e40
+#EXTINF:1,Eska Tarnów
+http://waw01-02.ic.smcdn.pl:8000/2160-1.mp3
+
+#RADIOBROWSERUUID:3a218cff-8f81-4643-8ae0-3d53f3cde682
+#EXTINF:1,POL.FM
+http://stream.zeno.fm/8yp2050crchvv
+
+#RADIOBROWSERUUID:a4ba185b-9cc0-4303-876c-a3e778361bd3
+#EXTINF:1,Radio Aniołek
+http://stream.zeno.fm/nvz73r6m7yzuv
+
+#RADIOBROWSERUUID:77c888b8-bf72-41cb-859f-1afd05103fa3
+#EXTINF:1,InterStacja - Kanał Główny
+http://4stream.pl:18322/;?nocache=1618962538
+
+#RADIOBROWSERUUID:f648712e-acb4-4ed2-93c2-7c49fc9cb27c
+#EXTINF:1,Radio Koszalin Slupsk
+http://91.232.4.33:8240/stream2
+
+#RADIOBROWSERUUID:961b5efc-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Wroclaw Kultura
+http://stream4.nadaje.com:9230/rwkultura
+
+#RADIOBROWSERUUID:741936b5-17eb-432b-9658-deb161702512
+#EXTINF:1,Radio FAMA Tomaszów
+http://stream2.nadaje.com:8078/listen.pls
+
+#RADIOBROWSERUUID:ff448574-53f2-11e8-a4d1-52543be04c81
+#EXTINF:1,Radio Pasja - Chillout 128kb/s
+http://91.232.4.33:8108/stream2
+
+#RADIOBROWSERUUID:96380dec-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Dzien Dobry!
+http://stream.open.fm/69
+
+#RADIOBROWSERUUID:ad8ac8fa-3b99-41cd-901b-2271c32365f1
+#EXTINF:1,Radio Manhattan
+http://s1.slotex.pl:7780/stream
+
+#RADIOBROWSERUUID:f03301f4-34ca-41e9-890a-ba50ed68ccee
+#EXTINF:1,RADIO TON PL
+http://s1.slotex.pl:7310/;
+
+#RADIOBROWSERUUID:84540a73-6a07-4eb7-9073-ec6361f04c66
+#EXTINF:1,Radio Starogard
+https://stream.rcs.revma.com/5wegfyrra2zuv
+
+#RADIOBROWSERUUID:2ebf910a-37e6-11ea-8dd7-52543be04c81
+#EXTINF:1,Pallotti.fm
+http://s1.slotex.pl:7074/stream
+
+#RADIOBROWSERUUID:8adad1bc-a6d6-469d-88b0-5fe73b66161b
+#EXTINF:1,Radio PRL Londyn
+https://stream.rcs.revma.com/prfmwmwy768uv
+
+#RADIOBROWSERUUID:c8be210e-9cc2-44f2-b206-5ad68f59257d
+#EXTINF:1,Radio Prestige
+https://s3.slotex.pl/shoutcast/7524/stream?nocache=1625577136
+
+#RADIOBROWSERUUID:960f61e3-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Top 20 Alt
+http://stream.open.fm/83
+
+#RADIOBROWSERUUID:9610e3de-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Polskie Radio Dla Zagranicy
+http://stream3.polskieradio.pl:8908/
+
+#RADIOBROWSERUUID:8c04cc73-2ab4-4e7e-8a58-13f4b349b376
+#EXTINF:1,InterStacja - Eurodance
+http://4stream.pl:18180/;stream.nsv
+
+#RADIOBROWSERUUID:960fd66a-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - We Dwoje
+http://stream.open.fm/4
+
+#RADIOBROWSERUUID:761c06ae-5d5c-4128-9e02-8f3e6c091cc2
+#EXTINF:1,rp
+http://s1.radioparty.pl:8000/stream
+
+#RADIOBROWSERUUID:1ac8bab7-691c-4488-bd0c-fb149463644d
+#EXTINF:1,Radio Chrześcijanin (Jakość dźwięku (MP3))
+http://s1.slotex.pl:7002/mountpoint
+
+#RADIOBROWSERUUID:eff4189d-3691-44b3-8a18-34da1ac28bd3
+#EXTINF:1,Eska Gdańsk
+https://radio.stream.smcdn.pl/icradio-p/2170-1.aac/playlist.m3u8
+
+#RADIOBROWSERUUID:8ade491f-7d40-4e8c-9c83-d1706bd70a21
+#EXTINF:1,VOX LATA 90
+http://waw01-02.ic.smcdn.pl:8000/6170-1.aac
+
+#RADIOBROWSERUUID:5a7e3c80-13fc-4068-8a09-0c1572bf2f10
+#EXTINF:1,RADIO GO
+http://waw01-02.ic.smcdn.pl:8000/6490-1.aac
+
+#RADIOBROWSERUUID:61edc9ab-283e-11e8-91bf-52543be04c81
+#EXTINF:1,Radio Nakło
+http://sluchaj2.107i5.fm:10750/
+
+#RADIOBROWSERUUID:efeb66ed-f5da-426d-9a0e-d3a5e4c59e8b
+#EXTINF:1,VOX FM RADOM
+http://waw01-02.ic.smcdn.pl:8000/3210-1.aac
+
+#RADIOBROWSERUUID:fd2d4d3f-8e0b-4c15-9a1c-07d386db7838
+#EXTINF:1,VOX FM GORZÓW
+http://waw01-02.ic.smcdn.pl:8000/3140-1.aac
+
+#RADIOBROWSERUUID:9610fe32-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Alt Freszzz
+http://stream.open.fm/6
+
+#RADIOBROWSERUUID:960f2e51-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio PiK
+http://stream.radiopik.pl:9004/
+
+#RADIOBROWSERUUID:96110a90-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Gwiazdy
+http://stream.open.fm/58
+
+#RADIOBROWSERUUID:623ba9ed-7af1-11ea-8a3b-52543be04c81
+#EXTINF:1,Rekord Radio Świętokrzyskie
+http://stream4.nadaje.com:8308/ostrowiec
+
+#RADIOBROWSERUUID:96100732-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Rekord FM
+http://stream2.nadaje.com:8108/
+
+#RADIOBROWSERUUID:96119d53-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Akord
+http://s1.slotex.pl:7122/
+
+#RADIOBROWSERUUID:620865ed-ee0c-4cbc-a92c-49560d94463a
+#EXTINF:1,Nowe Radio
+https://stream.profeto.pl/noweradio.mp3
+
+#RADIOBROWSERUUID:9611b956-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Pielgrzym Kazania
+http://radiointernetowe.net:9450/
+
+#RADIOBROWSERUUID:964aac04-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Radio Freud
+http://stream3.polskieradio.pl:8004/
+
+#RADIOBROWSERUUID:b08d1dda-53f3-11e8-a4d1-52543be04c81
+#EXTINF:1,Radio Pasja - Dance 128kb/s
+http://91.232.4.33:9466/stream2
+
+#RADIOBROWSERUUID:964aaf0a-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Studio Reportazu
+http://stream3.polskieradio.pl:8108/
+
+#RADIOBROWSERUUID:960fda44-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Toksyna FM DJ Channel
+http://s01.toksyna.fm:8040/
+
+#RADIOBROWSERUUID:964ab0bd-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Z dziejow Armii Krajowej
+http://stream3.polskieradio.pl:8054/
+
+#RADIOBROWSERUUID:964ab19d-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Za kulisami bezpieki i partii
+http://stream3.polskieradio.pl:8092/
+
+#RADIOBROWSERUUID:960fdbd1-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Toksyna FM New Romantic
+http://s01.toksyna.fm:8020/
+
+#RADIOBROWSERUUID:964ab34b-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Ballady
+http://stream3.polskieradio.pl:8074/
+
+#RADIOBROWSERUUID:964ab5db-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Koncerty w Trojce
+http://stream3.polskieradio.pl:8010/
+
+#RADIOBROWSERUUID:962ebb12-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Potrojne Pasmo Przenoszenia
+http://stream3.polskieradio.pl:8138/
+
+#RADIOBROWSERUUID:964ac3c8-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Program alternatywny
+http://stream3.polskieradio.pl:8134/
+
+#RADIOBROWSERUUID:964ac667-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Slynne glosy i wielkie interpretacje
+http://stream3.polskieradio.pl:8160/
+
+#RADIOBROWSERUUID:bdd3aaf5-45aa-4c75-ab03-0b85fef8995c
+#EXTINF:1,Radio Widok
+https://radiowidok.out.airtime.pro/radiowidok_a
+
+#RADIOBROWSERUUID:964af308-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Spioch
+http://s1.slotex.pl:7138/
+
+#RADIOBROWSERUUID:b853cc1c-154c-4011-be09-2024f4ce197b
+#EXTINF:1,RadioJazz.fm
+https://radiojazz.out.airtime.pro/radiojazz_a
+
+#RADIOBROWSERUUID:eb1321f0-39cd-11e9-9b4e-52543be04c81
+#EXTINF:1,Radio Emaus
+http://stream.radioemaus.pl:8000/oggstream
+
+#RADIOBROWSERUUID:504b80d0-53f3-11e8-a4d1-52543be04c81
+#EXTINF:1,Radio Pasja - Pop 128kb/s
+http://91.232.4.33:8084/stream2
+
+#RADIOBROWSERUUID:d5b9e6b3-05e6-4335-a979-5c5fc2599fa9
+#EXTINF:1,UJOT FM
+https://stream.ujot.fm/
+
+#RADIOBROWSERUUID:89a6d753-e409-4906-9d57-0e18318d9eb3
+#EXTINF:1,RMF Koledy + FAKTY
+http://31.192.216.7/KOLEDYF
+
+#RADIOBROWSERUUID:d17f0f4a-f71e-4916-a758-75815d586fc5
+#EXTINF:1,RMF LADY PANK + FAKTY
+http://195.150.20.9/LADYPANKF
+
+#RADIOBROWSERUUID:72f54352-4c0f-42a0-a5c1-98b83b0f4459
+#EXTINF:1,RMF MAXXX Hop bec + FAKTY
+http://31.192.216.10/HOPBECF
+
+#RADIOBROWSERUUID:37935da6-cdef-4793-93c3-e1510a5f0576
+#EXTINF:1,Radio Open FM - American Rock
+https://stream.open.fm/40
+
+#RADIOBROWSERUUID:964e2a46-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Koncentracja
+http://stream.open.fm/161
+
+#RADIOBROWSERUUID:96114d52-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Stars
+http://s1.slotex.pl:7288/;
+
+#RADIOBROWSERUUID:960fc577-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Studenckie Radio ZAK
+http://lodz.radio.pionier.net.pl:8000/radiozak.ogg
+
+#RADIOBROWSERUUID:5647fc57-fa62-426b-a392-d6cd822b4edd
+#EXTINF:1,RMF Rock + FAKTY
+http://195.150.20.7/ROCKF
+
+#RADIOBROWSERUUID:30600c02-759f-4366-9882-e162329560d6
+#EXTINF:1,Radio Open FM - Klub 90
+https://stream.open.fm/8
+
+#RADIOBROWSERUUID:cbc25f09-27aa-4b89-8dd0-4604eeba15e4
+#EXTINF:1,RMF Trend sounds + FAKTY
+http://195.150.20.7/TRENDSOUNDSF
+
+#RADIOBROWSERUUID:65513c73-5ea7-41db-baa5-fbdb151c2e33
+#EXTINF:1,Moje Polskie Genesis aac
+http://stream3.polskieradio.pl:8574/
+
+#RADIOBROWSERUUID:96115fd4-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio NoName
+http://91.232.4.33:8270/live/
+
+#RADIOBROWSERUUID:406a4194-1526-4c3e-b751-bf3060c698bc
+#EXTINF:1,Radio Spin
+http://s01.radiospin.pl:8080/listen.pls
+
+#RADIOBROWSERUUID:d90182d8-43a6-4acc-9967-5ffad77012c3
+#EXTINF:1,RMF LADY PANK
+http://195.150.20.9/LADYPANK
+
+#RADIOBROWSERUUID:c3ff1021-0e10-497e-859f-8c8ce6f201a0
+#EXTINF:1,Slonsky Radio
+https://slonskyradio.eu/_listen/listen.m3u
+
+#RADIOBROWSERUUID:7756f6bc-53f3-11e8-a4d1-52543be04c81
+#EXTINF:1,Radio Pasja - Relaks 128kb/s
+http://91.232.4.33:8102/stream2
+
+#RADIOBROWSERUUID:9610d22c-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Praga
+http://4stream.pl:18060/
+
+#RADIOBROWSERUUID:83db7e3d-9d06-47a3-8c43-7d7591869df5
+#EXTINF:1,Radio Danielka
+http://s3.slotex.pl:7088/
+
+#RADIOBROWSERUUID:9dd917a4-ecbb-4eec-a3d8-1f2511dbb787
+#EXTINF:1,Radio Ziemii Wieluńskiej
+https://stream2.nadaje.com:8023/;stream
+
+#RADIOBROWSERUUID:cf6f339c-f510-4dea-8cf6-63149ed2240a
+#EXTINF:1,Radio Elka Miedziowe
+http://live.elka.pl:8000/miedziowe.pl.m3u
+
+#RADIOBROWSERUUID:43ec2c5c-e801-4a27-972a-735f271cec3f
+#EXTINF:1,InterStacja - Oldies
+http://4stream.pl:18290/;
+
+#RADIOBROWSERUUID:214372a4-effd-4a56-92d2-aca525fb59ec
+#EXTINF:1,Radio FTB Rap Music
+http://radioftb.net/rap.m3u
+
+#RADIOBROWSERUUID:0df5a895-2fe8-4305-942d-c9e82636a328
+#EXTINF:1,Radio Aktywne
+https://listen.radioaktywne.pl:8443/raogg
+
+#RADIOBROWSERUUID:1c647721-62ef-47ab-99ab-e4868d4c2548
+#EXTINF:1,RMF3 Pop Rock
+http://195.150.20.8/RMF3
+
+#RADIOBROWSERUUID:b314dfbd-15fa-41e7-8de4-01a9e029cfad
+#EXTINF:1,RMF DANCE FAKTY
+http://195.150.20.7/rmf_dance_f
+
+#RADIOBROWSERUUID:ea305816-dc67-495e-a387-989e293074d1
+#EXTINF:1,RMF DANCE FAKTY
+http://195.150.20.7/rmf_dance_f
+
+#RADIOBROWSERUUID:fff2bc0d-2615-11e8-91bf-52543be04c81
+#EXTINF:1,Radio Manhattan
+http://s1.slotex.pl:7780/
+
+#RADIOBROWSERUUID:903bd3ca-bced-4a0f-8576-ad24ecdc6453
+#EXTINF:1,VOX FM Poznań
+http://waw01-02.ic.smcdn.pl:8000/3040-1.aac
+
+#RADIOBROWSERUUID:6edd0322-c477-4854-84ba-d7759aab6286
+#EXTINF:1,RADIO CCM
+http://stream.open.fm/336
+
+#RADIOBROWSERUUID:4c596a3c-80e8-4e94-9920-c785c33c5686
+#EXTINF:1,RADIO CCM
+http://193.222.135.71/336
+
+#RADIOBROWSERUUID:960fc899-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio UWM FM
+http://213.184.18.156:8000/
+
+#RADIOBROWSERUUID:9611972a-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Eden Fm
+http://s1.slotex.pl:7402/
+
+#RADIOBROWSERUUID:96115f0a-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Vegas
+http://s1.slotex.pl:7106/
+
+#RADIOBROWSERUUID:961168c7-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Avant
+http://sc1.readycast.org:8030/
+
+#RADIOBROWSERUUID:1721cf86-7886-48c2-9362-f832b25567d4
+#EXTINF:1,Radio TPI
+https://s2.slotex.pl/shoutcast/10002/stream
+
+#RADIOBROWSERUUID:964aa576-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - РАДИО ПОЛЬША
+http://stream3.polskieradio.pl:8914/
+
+#RADIOBROWSERUUID:96110fa6-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Lejdis Café
+http://stream.open.fm/48
+
+#RADIOBROWSERUUID:964aab39-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Jan Pawel II w Radiach Wolnosci
+http://stream3.polskieradio.pl:8180/
+
+#RADIOBROWSERUUID:964aad44-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Reportaz w Trojce
+http://stream3.polskieradio.pl:8012/
+
+#RADIOBROWSERUUID:961b5d5b-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Szczecin Extra
+http://stream3.nadaje.com:8200/szczecinfm.m3u
+
+#RADIOBROWSERUUID:964aba3c-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Minimax
+http://stream3.polskieradio.pl:8046/
+
+#RADIOBROWSERUUID:964abeb1-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Nowa Tradycja
+http://stream3.polskieradio.pl:8146/
+
+#RADIOBROWSERUUID:964ac10b-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Piosenki Niezaleznych
+http://stream3.polskieradio.pl:8178/
+
+#RADIOBROWSERUUID:c956de79-b2ce-4b4c-abe1-414db17fca98
+#EXTINF:1,Radio Imperium
+https://stream.radioimperium.pl:8443/stream
+
+#RADIOBROWSERUUID:3e7afee9-90cd-400b-8955-733d8a3e04c7
+#EXTINF:1,radio ony
+http://stream.rcs.revma.com/yxv344rra2zuv
+
+#RADIOBROWSERUUID:960dce7f-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio eM Kielce
+http://78.46.170.230:8000/
+
+#RADIOBROWSERUUID:961867f1-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Pasja
+http://91.232.4.33:8049/
+
+#RADIOBROWSERUUID:0e739811-f5c8-4132-8fd9-91ad7c5e99fc
+#EXTINF:1,Radio Nowinki
+http://nowinki.pk.edu.pl:8000/nowinki
+
+#RADIOBROWSERUUID:cff50d8d-b639-4e6f-9815-32eb3c24081c
+#EXTINF:1,RMF Chopin + FAKTY
+http://31.192.216.8/CHOPINF
+
+#RADIOBROWSERUUID:e7e50006-ec2f-11e8-a471-52543be04c81
+#EXTINF:1,Radio Logos
+http://panel.nadaje.com:11058/
+
+#RADIOBROWSERUUID:964e0c28-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Love
+http://stream.open.fm/121
+
+#RADIOBROWSERUUID:312f45dc-fc16-43ec-a3c0-8212f786b110
+#EXTINF:1,RMF Grunge + FAKTY
+http://195.150.20.7/GRUNGEF
+
+#RADIOBROWSERUUID:960fc00f-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio SUD
+http://stream2.nadaje.com:8012/
+
+#RADIOBROWSERUUID:80b7bbc8-0d95-479f-a2cf-1b9f8fae2261
+#EXTINF:1,Radio Centrum
+http://shot4.inten.pl:8888/rcfm.mp3.m3u
+
+#RADIOBROWSERUUID:e9950e27-36c1-45c8-90b4-c367c77f9e09
+#EXTINF:1,Radio Vanessa
+http://s1.slotex.pl:7358/;;
+
+#RADIOBROWSERUUID:dcdc4908-287a-4f3a-91fa-b6b82b6635d6
+#EXTINF:1,Radio Lemko
+http://shoutcast.com.pl:7990/;
+
+#RADIOBROWSERUUID:960f8b81-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Styl
+http://31.192.216.7/STYL
+
+#RADIOBROWSERUUID:238188f2-242f-11ea-aa0c-52543be04c81
+#EXTINF:1,Norda FM
+http://ls.tkchopin.pl:1935/norda/nordafm_aac_128/playlist.m3u8
+
+#RADIOBROWSERUUID:33aea839-44c8-47d2-8189-494b355967dd
+#EXTINF:1,Radio Mirage - Prywatka Channel
+http://91.232.4.33:7214/Stream1
+
+#RADIOBROWSERUUID:7c6b3885-6647-475e-90b9-2e5ed2b7b5a5
+#EXTINF:1,mikrofon w Puszczy Zielonce
+https://zte.heterodyne.eu:8443/mic
+
+#RADIOBROWSERUUID:0faff471-63bb-4dc8-8555-415f3f0b6736
+#EXTINF:1,Radio Stargard 90,3 FM - Twoje pierwsze radio
+http://51.77.59.65:8100/stream.mp3
+
+#RADIOBROWSERUUID:b4c32130-ee35-4054-ab06-7696b81b2407
+#EXTINF:1,Sizeer
+https://rs103-krk-cyfronet.rmfstream.pl/sizeer_fm
+
+#RADIOBROWSERUUID:960ff985-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Bogoria
+http://91.232.4.22:8888/
+
+#RADIOBROWSERUUID:cd0e38d4-943c-11e8-a767-52543be04c81
+#EXTINF:1,Wieczor-odkrywcow
+http://mp3.polskieradio.pl:8102/
+
+#RADIOBROWSERUUID:964e6c97-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Pasja - Pop
+http://91.232.4.33:8084/
+
+#RADIOBROWSERUUID:96113935-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio FAMA
+http://stream2.nadaje.com:8076/
+
+#RADIOBROWSERUUID:968bcf52-bc41-4ec4-9de9-d4b408e990f0
+#EXTINF:1,Radio Płońsk
+http://stream.radioplonsk.pl:9360/
+
+#RADIOBROWSERUUID:96474c5b-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Polskie Radio Rytm (AAC+)
+http://stream3.polskieradio.pl:8594/;
+
+#RADIOBROWSERUUID:9611699e-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RMF Przeboj roku
+http://31.192.216.10/PRZEBOJROKU
+
+#RADIOBROWSERUUID:9f8d430a-9df5-44ba-a715-7da09812c207
+#EXTINF:1,Głos Nadziei
+https://ssl-1.radiohost.pl:9548/index
+
+#RADIOBROWSERUUID:d1f966b9-9ace-11e9-a787-52543be04c81
+#EXTINF:1,Radio Opole 2
+http://193.47.151.4:8060/1
+
+#RADIOBROWSERUUID:9611b77e-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RadioTP
+http://radiotp.pl:8058/stream
+
+#RADIOBROWSERUUID:95dc0cfd-1331-420e-a049-361c15d7a553
+#EXTINF:1,Radio Mirage - Prywatka
+https://ssl-1.radiohost.pl:7214/stream?ver=661798
+
+#RADIOBROWSERUUID:6d60d9b5-399d-49be-b2f4-ee778e271486
+#EXTINF:1,Radio Q
+http://37.130.30.166:8020/;stream.mp3
+
+#RADIOBROWSERUUID:90f91a37-5126-4114-af6b-bd5ff7c9be6e
+#EXTINF:1,Radio Imperium Gliwice
+http://91.193.208.8:8000/
+
+#RADIOBROWSERUUID:3bfe4800-8c0e-44d1-a192-96ad18c13c59
+#EXTINF:1,Radio Eska - Płock
+http://waw01-02.ic.smcdn.pl:8000/2250-1.mp3.m3u
+
+#RADIOBROWSERUUID:f17a150e-d783-4a56-9ed8-791b76c6abd4
+#EXTINF:1,Radio Kraków Kultura
+https://stream4.nadaje.com:9777/RKKultura
+
+#RADIOBROWSERUUID:7117001a-8e20-40eb-9d51-e297f92e6d52
+#EXTINF:1,Radio Jard
+http://online.jard.pl:8744/jard1
+
+#RADIOBROWSERUUID:15abed74-ab08-4d55-bb98-995bac82e754
+#EXTINF:1,Radio Opatów
+http://stream2.nadaje.com:11144/;stream
+
+#RADIOBROWSERUUID:9636b64d-0601-11e8-ae97-52543be04c81
+#EXTINF:1,OpenFM - Trening
+http://stream.open.fm/101
+
+#RADIOBROWSERUUID:1b38404a-9b7b-44c0-9c57-a051d3367e88
+#EXTINF:1,Polmax 2
+http://stream.zeno.fm/szxcunxzbceuv
+
+#RADIOBROWSERUUID:7deba7f1-b706-4437-b981-479c59ae1ce8
+#EXTINF:1,park
+http://sluchaj1.radiopark.biz.pl:8048/
+
+#RADIOBROWSERUUID:48e11bb9-6d5e-4804-b768-dbd6d49d8c1e
+#EXTINF:1,Radio Prestige
+https://s3.slotex.pl/shoutcast/7524/stream
+
+#RADIOBROWSERUUID:0eb1e751-bccb-4d0f-8c97-fcfed355a35b
+#EXTINF:1,PLANETA CLUBBING
+http://pl01.cdn.eurozet.pl/PLACLU.mp3
+
+#RADIOBROWSERUUID:949241ec-53f3-11e8-a4d1-52543be04c81
+#EXTINF:1,Radio Pasja - Klubowa 128kb/s
+http://91.232.4.33:9460/stream2
+
+#RADIOBROWSERUUID:da730a0a-8134-4964-b425-197d5343a567
+#EXTINF:1,Radio Rekord
+https://stream3.nadaje.com:8007/radom2
+
+#RADIOBROWSERUUID:24b41635-2ba8-45a2-a3fc-0dea9eff7996
+#EXTINF:1,Radio LUZ
+http://radioluz.pwr.wroc.pl:8000/luz_hifi
+
+#RADIOBROWSERUUID:82b2031c-aa30-43af-9faf-027b5392b9ce
+#EXTINF:1,Fred Film Radio(Polski)
+https://s10.webradio-hosting.com/proxy/fredradiopo/stream
+
+#RADIOBROWSERUUID:ee0bc55c-2f03-4150-89d7-b52d08115654
+#EXTINF:1,Radio Piotrków
+https://t.co/OA2kwYS1gB?amp=1
+
+#RADIOBROWSERUUID:9610d098-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Znin FM
+http://stream4.nadaje.com:8052/
+
+#RADIOBROWSERUUID:9610de08-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Glos
+http://87.204.92.180:8000/
+
+#RADIOBROWSERUUID:962c1f25-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Ostrowiec 95.2 FM
+http://s1.slotex.pl:7050/stream/1/;?type=http
+
+#RADIOBROWSERUUID:6c10f2a3-fc65-4047-8df4-c839364dd947
+#EXTINF:1,Radio Koszalin Słupsk
+https://ssl-1.radiohost.pl:8240/stream?type=https&nocache=
+
+#RADIOBROWSERUUID:96116f8d-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Puzzle
+http://s1.slotex.pl:7572/
+
+#RADIOBROWSERUUID:9611714f-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Brylant
+http://s1.slotex.pl:7212/
+
+#RADIOBROWSERUUID:961244ae-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Pasta
+http://polysix.pl:8000/radio-pasta
+
+#RADIOBROWSERUUID:964abb5e-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Muzyka zrodel
+http://stream3.polskieradio.pl:8158/
+
+#RADIOBROWSERUUID:66afc42c-fe3c-4b01-b515-6b200bfdf3df
+#EXTINF:1,Radio Dimash
+https://samcloud.spacial.com/API/listen?sid=125052&rid=262397&f=mp3,any%20&br=128000,any&m=m3u
+
+#RADIOBROWSERUUID:964acacc-0601-11e8-ae97-52543be04c81
+#EXTINF:1,MojePolskieRadio - Wywiady Marka Niedzwieckiego
+http://stream3.polskieradio.pl:8016/
+
+#RADIOBROWSERUUID:ad0fbfa6-8041-4fc7-85d3-c3883f98f8c1
+#EXTINF:1,Radio FSSPX
+http://fsspx.pl:8000/radio.mp3
+
+#RADIOBROWSERUUID:964180aa-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Nysa FM
+http://stream2.nadaje.com:8066/
+
+#RADIOBROWSERUUID:9610e72e-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Twoje Radio Lipsko
+http://s1.slotex.pl:7298/
+
+#RADIOBROWSERUUID:9055386f-8c65-11e9-ad01-52543be04c81
+#EXTINF:1,PR LAS ACC
+http://mp3.polskieradio.pl:8528/
+
+#RADIOBROWSERUUID:f64db40a-29dd-11e9-96d1-52543be04c81
+#EXTINF:1,Kujawy TV
+http://stream.kujawy.info:8080/live/broadcast.m3u8
+
+#RADIOBROWSERUUID:5e70f601-19f7-4c51-8085-1cea0565af0e
+#EXTINF:1,RMF Piosenka literacka + FAKTY
+http://31.192.216.7/PIOSENKALITERACKAF
+
+#RADIOBROWSERUUID:495085b6-6319-4acc-8db8-2d7249df65a3
+#EXTINF:1,RMF Przeboj roku + FAKTY
+http://31.192.216.10/PRZEBOJROKUF
+
+#RADIOBROWSERUUID:4be638d8-51b1-48cc-a194-763f5618cc60
+#EXTINF:1,RMF Relaks + FAKTY
+http://31.192.216.8/RELAKSF
+
+#RADIOBROWSERUUID:cceb76f6-b605-4358-b0d9-2f9dc9365fef
+#EXTINF:1,Twoje Radio Szczecin
+http://51.77.59.65:8000/stream.ogg
+
+#RADIOBROWSERUUID:f951a3fe-c3b0-448e-96be-497d274e2713
+#EXTINF:1,Radiospin
+http://s01.toksyna.fm:8100/
+
+#RADIOBROWSERUUID:964e6906-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Pasja - Klubowa
+http://91.232.4.33:9460/
+
+#RADIOBROWSERUUID:d5745e59-53f2-11e8-a4d1-52543be04c81
+#EXTINF:1,Radio Pasja 128kb/s
+http://91.232.4.33:8049/stream2
+
+#RADIOBROWSERUUID:964e88ca-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Forte
+http://s1.slotex.pl:7856/
+
+#RADIOBROWSERUUID:ba48b605-b52d-4eb9-a8f9-25cfbe731691
+#EXTINF:1,Radio SOK Sulecin
+https://s3.slotex.pl/shoutcast/7230/stream?sid=1
+
+#RADIOBROWSERUUID:9611a7b7-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio LagoonFm
+http://s1.slotex.pl:7828/
+
+#RADIOBROWSERUUID:96318b3f-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Ocean Dusz
+http://s1.slotex.pl:7022/
+
+#RADIOBROWSERUUID:961b3559-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Kraków - Sport
+http://stream3.nadaje.com:9128/radiokrakow
+
+#RADIOBROWSERUUID:ed920b7f-a0f6-4158-af8a-06290f5229f2
+#EXTINF:1,Radio FTB Retro DJ
+http://radioftb.net/retrodj_ftb.m3u
+
+#RADIOBROWSERUUID:db846e19-4533-4dbb-94a6-5ca3cea59596
+#EXTINF:1,Polmax FM
+http://stream.zeno.fm/1gg3kbnzbceuv
+
+#RADIOBROWSERUUID:cee9e8b0-a0bc-4009-a91b-dc7ecd1611cd
+#EXTINF:1,RMF MAXXX KROSNO 
+http://rs6-krk2.rmfstream.pl/rmf_maxxx_ksn
+
+#RADIOBROWSERUUID:4ee2c1c9-4356-49f5-9b72-a390679417dc
+#EXTINF:1,Radio Open FM - Rocks
+https://stream.open.fm/77
+

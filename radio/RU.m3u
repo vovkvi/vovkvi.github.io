@@ -1,0 +1,4541 @@
+#EXTM3U
+#RADIOBROWSERUUID:960b9e98-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Вести ФМ (Vesti FM)
+http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
+
+#RADIOBROWSERUUID:9622cd46-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Europa Plus
+http://ep256.hostingradio.ru:8052/europaplus256.mp3
+
+#RADIOBROWSERUUID:962a1abd-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Радио «Комсомольская Правда» | КП Россия
+http://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3
+
+#RADIOBROWSERUUID:960de706-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Шансон Радио
+http://chanson.hostingradio.ru:8041/chanson128.mp3
+
+#RADIOBROWSERUUID:961e5274-0601-11e8-ae97-52543be04c81
+#EXTINF:1,дорожное радио (Dorognoe Radio)
+http://dorognoe.hostingradio.ru:8000/dorognoe
+
+#RADIOBROWSERUUID:961c96ef-0601-11e8-ae97-52543be04c81
+#EXTINF:1,ROCK FM
+http://nashe1.hostingradio.ru/rock-128.mp3
+
+#RADIOBROWSERUUID:963b0de6-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Business FM
+http://m1.bfm.ru:8000/fm64
+
+#RADIOBROWSERUUID:964fade0-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Ретро FM
+http://retroserver.streamr.ru:8043/retro256.mp3
+
+#RADIOBROWSERUUID:563f5559-105c-11e9-a80b-52543be04c81
+#EXTINF:1,DFM RUSSIAN DANCE
+https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp?0.9987259013359274
+
+#RADIOBROWSERUUID:9614aa8d-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Радио Маяк (Radio Mayak)
+http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
+
+#RADIOBROWSERUUID:9611bd40-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Радио Звезда
+http://89.208.99.16:8088/zvezda_128
+
+#RADIOBROWSERUUID:96163b46-0601-11e8-ae97-52543be04c81
+#EXTINF:1,комерсант (Kommersant FM) 93.6 Moscow
+http://kommersant77.hostingradio.ru:8016/kommersant64.mp3
+
+#RADIOBROWSERUUID:f796d445-4314-4eb6-a09d-bcac5d474661
+#EXTINF:1,Дискотека СССР
+http://pub0302.101.ru:8000/stream/pro/aac/64/144?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjUuMTguMjQ4Ljk4IiwidXNlcmFnZW50IjoiTW96aWxsYVwvNS4wIChYMTE7IExpbnV4IHg4Nl82NDsgcnY6ODIuMCkgR2Vja29cLzIwMTAwMTAxIEZpcmVmb3hcLzgyLjAiLCJ1aWRfY2hhbm5lbCI6IjE0NCIsInR5cGVfY2hhbm5lbCI6ImNoYW5uZWwiLCJleHAiOjE2MDU5NjQ1MTZ9.Ln1wEJ8cHHzK_Ea6Zr8J8acdny0R9ShZ_KUKVf6TmQA
+
+#RADIOBROWSERUUID:165eab56-4a14-11e9-a4d7-52543be04c81
+#EXTINF:1,DFM Дискач 90-х
+https://dfm-disc90.hostingradio.ru/disc9096.aacp
+
+#RADIOBROWSERUUID:e3d8f94f-156e-11e9-a80b-52543be04c81
+#EXTINF:1,Вести FM
+http://icecast.vgtrk.cdnvideo.ru/vestifm
+
+#RADIOBROWSERUUID:96127b62-0601-11e8-ae97-52543be04c81
+#EXTINF:1,8bitFM
+http://8bit.fm:8000/live
+
+#RADIOBROWSERUUID:961799c0-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Спокойное радио
+https://listen1.myradio24.com/6262
+
+#RADIOBROWSERUUID:964da270-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Радио Русские Песни
+http://listen.rusongs.ru/ru-mp3-128
+
+#RADIOBROWSERUUID:0a364b59-56b6-11e9-aa33-52543be04c81
+#EXTINF:1,Дорожное радио
+http://dorognoe.hostingradio.ru:8000/radio
+
+#RADIOBROWSERUUID:1daf83f3-6b68-11ea-b1cf-52543be04c81
+#EXTINF:1,Авторадио - FM 90.3 - Москва
+http://ic4.101.ru:8000/v3_1
+
+#RADIOBROWSERUUID:96266006-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Радио Книга
+http://bookradio.hostingradio.ru:8069/fm
+
+#RADIOBROWSERUUID:964fafaf-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Ретро FM 80e
+http://stream.dar.fm/123879
+
+#RADIOBROWSERUUID:1fbda80a-41a7-11ea-a95e-52543be04c81
+#EXTINF:1,Comedy Radio new link
+http://ic6.101.ru:8000/stream/air/aac/64/202
+
+#RADIOBROWSERUUID:960c83b0-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Юмор FM (Humor FM)
+http://listen.vdfm.ru:8000/humor
+
+#RADIOBROWSERUUID:e1de02d9-2c68-11e9-a35e-52543be04c81
+#EXTINF:1,Серебряный Дождь (Silver)
+http://213.59.4.27:8000/silver128.mp3
+
+#RADIOBROWSERUUID:9618a7b8-0601-11e8-ae97-52543be04c81
+#EXTINF:1,DiscoverTranceRadio (MP3 HQ stereo 192kBit/s)
+http://www.discovertrance.com/DiscoverTrance-high.m3u
+
+#RADIOBROWSERUUID:960faade-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Ретро FM 70e
+http://retro70.hostingradio.ru:8025/retro70-128.mp3
+
+#RADIOBROWSERUUID:3829af7a-b9a3-11e8-aaf2-52543be04c81
+#EXTINF:1,Радиостация Маяк Москва 128kbs
+http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps
+
+#RADIOBROWSERUUID:961a35ee-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Говорит Москва
+http://media.govoritmoskva.ru:8880/ru64.mp3
+
+#RADIOBROWSERUUID:63688c44-e90b-11e8-a471-52543be04c81
+#EXTINF:1,РАДИО ВАНЯ
+https://icecast-radiovanya.cdnvideo.ru/radiovanya
+
+#RADIOBROWSERUUID:9ecb2533-eee0-11e9-a96c-52543be04c81
+#EXTINF:1,Русский Рок - Russian Rock
+http://rock.volna.top/RusRock
+
+#RADIOBROWSERUUID:996ea893-621d-11e9-a622-52543be04c81
+#EXTINF:1,Наше Радио
+http://nashe.streamr.ru/nashe-128.mp3
+
+#RADIOBROWSERUUID:960b1967-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Nashe Radio
+http://nashe1.hostingradio.ru/nashe-128.mp3
+
+#RADIOBROWSERUUID:960947ce-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Вести ФМ (Vesti FM)
+http://online.gtrkchita.ru:8100/vestifm32aacp
+
+#RADIOBROWSERUUID:9621b80c-0601-11e8-ae97-52543be04c81
+#EXTINF:1,коммерсант
+http://kommersant77.hostingradio.ru:8016/kommersant128.mp3
+
+#RADIOBROWSERUUID:518d02e0-9301-4358-bf25-4ed57372fd2d
+#EXTINF:1,Instrumental Jazz
+https://jfm1.hostingradio.ru:14536/ijstream.mp3
+
+#RADIOBROWSERUUID:510e842c-ae56-11e9-88f4-52543be04c81
+#EXTINF:1,Hard Rock FM
+http://stream.hardrockfm.ru:8100/hardrockfm-320.mp3
+
+#RADIOBROWSERUUID:964bdb24-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Модель для сборки
+http://mds-station.com:8000/mds
+
+#RADIOBROWSERUUID:676dafe0-13d8-4caf-aced-bfd5fbf78a1c
+#EXTINF:1,101.ru - Deep House
+https://pub0202.101.ru:8000/stream/trust/mp3/128/173
+
+#RADIOBROWSERUUID:5cb1f0de-d005-49c0-8b4c-76432e846fb5
+#EXTINF:1,Радио Рекорд Медляк FM
+http://radiorecord.hostingradio.ru/mdl96.aacp
+
+#RADIOBROWSERUUID:962100a0-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Fantastika
+http://fantasyradioru.no-ip.biz:8002/live
+
+#RADIOBROWSERUUID:9643f966-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Радио Шансон - Radio Shanson
+http://chanson.hostingradio.ru:8041/chanson256.mp3
+
+#RADIOBROWSERUUID:a0d30a64-51e5-11e8-a4d1-52543be04c81
+#EXTINF:1,Маруся FM
+http://radio-holding.ru:9000/marusya_aac_64
+
+#RADIOBROWSERUUID:711f2e4e-90b0-4117-86dd-7905f0e1c27e
+#EXTINF:1,Вести FM (AAC)
+https://icecast-vgtrk.cdnvideo.ru/vestifm_aac_64kbps
+
+#RADIOBROWSERUUID:b3c3ac25-ea2c-4865-8444-7ba9a71960f8
+#EXTINF:1,Radio Record - Russian Mix
+https://radiorecord.hostingradio.ru/rus96.aacp
+
+#RADIOBROWSERUUID:960b7dcb-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Ultra
+http://nashe1.hostingradio.ru/ultra-192.mp3
+
+#RADIOBROWSERUUID:750df04f-9bc0-11e8-a767-52543be04c81
+#EXTINF:1,Говорит Москва
+http://media.govoritmoskva.ru:8880/rufm_m.mp3
+
+#RADIOBROWSERUUID:9606d076-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Радио России (Radio Russia)
+http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps
+
+#RADIOBROWSERUUID:e4a7e1e4-263c-11e9-a80b-52543be04c81
+#EXTINF:1,Радио 7 на семи холмах
+http://radio7server.streamr.ru:8040/radio7256.mp3
+
+#RADIOBROWSERUUID:9f659bab-5f7f-11e9-a622-52543be04c81
+#EXTINF:1,ЗвукоКнига
+http://94.181.45.104:8005/;stream
+
+#RADIOBROWSERUUID:c4175f89-69da-11ea-b1cf-52543be04c81
+#EXTINF:1,Бизнес FM
+https://bfm.hostingradio.ru:9075/fm
+
+#RADIOBROWSERUUID:b6f672e3-eedf-11e9-a96c-52543be04c81
+#EXTINF:1,РЕТРО ХИТ - RETRO HIT
+http://retro.volna.top/Retro
+
+#RADIOBROWSERUUID:3a726fdc-259a-4c17-b76a-6f08196b2cb7
+#EXTINF:1,101.ru Trance
+http://pub0101.101.ru:8000/stream/trust/mp3/128/19?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6Ijc5LjI1My4xMy43MSIsInVzZXJhZ2VudCI6Ik1vemlsbGFcLzUuMCAoWDExOyBMaW51eCB4ODZfNjQ7IHJ2Ojk0LjApIEdlY2tvXC8yMDEwMDEwMSBGaXJlZm94XC85NC4wIiwidWlkX2NoYW5uZWwiOiIxOSIsInR5cGVfY2hhbm5lbCI6ImNoYW5uZWwiLCJleHAiOjE2MzY4ODYwMzJ9.0vfq2B5eNRtuEwE42pHUS9Sf_GosTmrQs0aHcPvbFj8
+
+#RADIOBROWSERUUID:9606035b-0601-11e8-ae97-52543be04c81
+#EXTINF:1,DROP THE BASS
+http://icecast.dropthebass.ru:8000/stream
+
+#RADIOBROWSERUUID:962f1f74-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Enigmatic Station 1
+http://listen2.myradio24.com:9000/8226
+
+#RADIOBROWSERUUID:b78025cf-e68d-43f9-8e59-2a68ae84e7d7
+#EXTINF:1,Noise FM - It's Your Lifestyle!
+http://play.sas-media.ru/play_256
+
+#RADIOBROWSERUUID:21be48dd-4c30-11ea-b877-52543be04c81
+#EXTINF:1,101.ru - Techno
+http://pub0201.101.ru:8000/stream/trust/mp3/128/18
+
+#RADIOBROWSERUUID:961471c9-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Вести ФМ (Vesti FM)
+http://online.gtrkchita.ru:8100/vestifm64
+
+#RADIOBROWSERUUID:96206484-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Радио Вера
+http://radiovera.hostingradio.ru:8007/radiovera_128
+
+#RADIOBROWSERUUID:58293c1c-bf04-49ea-8b02-387017af4347
+#EXTINF:1,Русское Радио: Родные Нулевые
+https://rr-rodnye00.hostingradio.ru/rodnye0096.aacp
+
+#RADIOBROWSERUUID:be1bce0f-a057-11e8-a9f3-52543be04c81
+#EXTINF:1,Russkoye Radio Nizhny Novgorod 102.9 FM
+http://online2.gkvr.ru:8000/rusradio_nno_64.aac
+
+#RADIOBROWSERUUID:7eadf977-e8de-11e9-a96c-52543be04c81
+#EXTINF:1,Radio Caprice - Relaxation Music
+http://79.120.39.202:9109/
+
+#RADIOBROWSERUUID:87335ed7-b625-11e9-acb2-52543be04c81
+#EXTINF:1,Радиоканал "Мелодия"
+http://stream128.melodiafm.spb.ru:8000/melodia128
+
+#RADIOBROWSERUUID:7a557162-0f89-11e9-a80b-52543be04c81
+#EXTINF:1,Радио Юность
+http://icecast-vgtrk.cdnvideo.ru/unost_mp3_192kbps
+
+#RADIOBROWSERUUID:ac1d7b5c-18e6-11e9-a80b-52543be04c81
+#EXTINF:1,THT Music Radio
+http://tntradio.hostingradio.ru:8027/tntradio128.mp3
+
+#RADIOBROWSERUUID:ba22b24f-4510-4a50-8a42-a0e0f3dee242
+#EXTINF:1,Radio Monte Carlo 105.9 FM
+https://icecast227.ptspb.ru:8443/monte
+
+#RADIOBROWSERUUID:961da649-0601-11e8-ae97-52543be04c81
+#EXTINF:1,вести фм (Vesti FM)
+http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_64kbps
+
+#RADIOBROWSERUUID:f41af1e0-4b16-4760-ae85-232c3b1a8fce
+#EXTINF:1,РАДИО ДЛЯ ВЗРОСЛЫХ
+http://listen6.myradio24.com:9000/alex542888
+
+#RADIOBROWSERUUID:860f522f-1ef5-11e9-a80b-52543be04c81
+#EXTINF:1,Новое Радио 91.1 (СПб)
+http://emgspb.hostingradio.ru/novoespb128.mp3
+
+#RADIOBROWSERUUID:f851b5a1-e0e8-4b56-938d-cbdf161376c5
+#EXTINF:1,101.ru - Drum & Bass
+https://pub0302.101.ru:8000/stream/pro/aac/64/6?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjIxMi41MS4xNDIuMTY2IiwidXNlcmFnZW50IjoiTW96aWxsYVwvNS4wIChYMTE7IFVidW50dTsgTGludXggeDg2XzY0OyBydjo4OC4wKSBHZWNrb1wvMjAxMDAxMDEgRmlyZWZveFwvODguMCIsInVpZF9jaGFubmVsIjoiNiIsInR5cGVfY2hhbm5lbCI6ImNoYW5uZWwiLCJleHAiOjE2MTU0NjYxNDh9.ReVmj9UP8k1j83oPOXewKDc37Me9RpR3wA3nm5bMWmE
+
+#RADIOBROWSERUUID:7f3e194e-9ff6-4530-8b71-216b892aad39
+#EXTINF:1,101,ru Russian Dance
+https://pub0302.101.ru:8443/stream/trust/mp3/128/17?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjQ5LjM3LjE1MS42IiwidXNlcmFnZW50IjoiTW96aWxsYVwvNS4wIChYMTE7IExpbnV4IHg4Nl82NDsgcnY6ODguMCkgR2Vja29cLzIwMTAwMTAxIEZpcmVmb3hcLzg4LjAiLCJ1aWRfY2hhbm5lbCI6IjE3IiwidHlwZV9jaGFubmVsIjoiY2hhbm5lbCIsImV4cCI6MTYxODUwMTYyM30.vsWQ1s12RL1P3yuD4Eb6E2Og6YaLbXceO-cfhhhwl5s
+
+#RADIOBROWSERUUID:9e4f0920-a3bd-4884-9e98-fbd0051215ed
+#EXTINF:1,Radio record - Main Channel
+https://radiorecord.hostingradio.ru/rr_main96.aacp
+
+#RADIOBROWSERUUID:fdeba66e-534d-4129-b3ce-aad4656a58d8
+#EXTINF:1,Sounpark Deep
+https://radiotoolkit.com/spdeep320.m3u
+
+#RADIOBROWSERUUID:96176bfb-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Зайцев.FM Шансон
+https://zaycevfm.cdnvideo.ru/ZaycevFM_shanson_256.mp3
+
+#RADIOBROWSERUUID:964fb174-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Ретро FM 90e
+http://retro90.hostingradio.ru:8025/retro90-128.mp3
+
+#RADIOBROWSERUUID:f343d346-b625-11e9-acb2-52543be04c81
+#EXTINF:1,Радиола
+http://online1.gkvr.ru:8000/radiola_eka_128.mp3
+
+#RADIOBROWSERUUID:963f5372-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Retrowave
+http://79.120.39.202:9125/
+
+#RADIOBROWSERUUID:d847db37-5f89-48a5-be32-b10e5406f0e6
+#EXTINF:1,Mixadance FM
+https://stream.mixadance.fm/mixadance
+
+#RADIOBROWSERUUID:d5ce45dd-0ce8-11e9-a80b-52543be04c81
+#EXTINF:1,Радио России (AAC)
+http://icecast.vgtrk.cdnvideo.ru/rrzonam_aac_64kbps
+
+#RADIOBROWSERUUID:96394377-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Synthradio
+http://synth-radio.ru/synthradio192.m3u
+
+#RADIOBROWSERUUID:96098960-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Вести ФМ (Vesti FM)
+http://online.gtrkchita.ru:8100/vestifm32
+
+#RADIOBROWSERUUID:b11b8bc9-bc18-4f68-9bb1-cfdecc539c98
+#EXTINF:1,Sovietwave
+http://station.waveradio.org/soviet.mp3
+
+#RADIOBROWSERUUID:30c38245-b3f4-4481-abe4-79b8f07a5a7c
+#EXTINF:1,Шансон без цензуры
+http://chanson.hostingradio.ru:8041/chanson-uncensored256.mp3
+
+#RADIOBROWSERUUID:0854bfd2-2c68-11e9-a35e-52543be04c81
+#EXTINF:1,Радио Maximum
+https://maximum.hostingradio.ru/maximum128.mp3
+
+#RADIOBROWSERUUID:87008f72-3741-11ea-8dd7-52543be04c81
+#EXTINF:1,DFM
+https://dfm.hostingradio.ru/dfm96.aacp?0.28225617725168517
+
+#RADIOBROWSERUUID:7eba77a9-067e-11e9-a80b-52543be04c81
+#EXTINF:1,Радио Орфей 99.2 FM
+http://orfeyfm.hostingradio.ru:8034/orfeyfm192.mp3
+
+#RADIOBROWSERUUID:1a8df17d-5a57-11e9-a622-52543be04c81
+#EXTINF:1,Radio Chocolate
+http://choco.hostingradio.ru:10010/fm
+
+#RADIOBROWSERUUID:961662de-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Ретро ФМ
+http://retroserver.streamr.ru:8043/retro128
+
+#RADIOBROWSERUUID:e91a3589-12ce-4ba2-a8da-88ff6bf94a57
+#EXTINF:1,Радио Кассета / Cassette Radio
+http://radio.dline-media.com/kasseta.mp3
+
+#RADIOBROWSERUUID:ca2965a2-a22c-479d-b320-b0e82ef2a5d5
+#EXTINF:1,101.ru: Виктор Цой и группа «КИНО»
+http://pub0201.101.ru:8000/stream/pro/aac/64/103
+
+#RADIOBROWSERUUID:7085d935-1801-11e8-ae97-52543be04c81
+#EXTINF:1,Ghost Anime Radio
+http://animeradio.su:8000/;
+
+#RADIOBROWSERUUID:962e3cc6-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Ocean Radio Chilled
+http://philae.shoutca.st:8446/stream
+
+#RADIOBROWSERUUID:962125ef-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Anima Amoris Dub Techno
+http://amoris.sknt.ru:8000/;
+
+#RADIOBROWSERUUID:2575e5e6-bf7c-11e9-8502-52543be04c81
+#EXTINF:1,Radio Caprice - Classical Baroque
+http://79.111.14.76:8002/baroque
+
+#RADIOBROWSERUUID:53c29beb-295c-11ea-aa0c-52543be04c81
+#EXTINF:1,russkoe radio
+http://rusradio.hostingradio.ru/rusradio96.aacp
+
+#RADIOBROWSERUUID:964d5296-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Anima Amoris - Goa Psy Trance
+http://amoris.sknt.ru/goa.mp3
+
+#RADIOBROWSERUUID:77623f34-e920-4aad-8982-d3261729e69c
+#EXTINF:1,Радио Рекорд Remix
+http://radiorecord.hostingradio.ru/rmx96.aacp
+
+#RADIOBROWSERUUID:856bb2ce-ac41-46a4-8f99-e0678fc0d04a
+#EXTINF:1,Вечеринка Ретро FM
+http://hls-01-retro-vecherinka.emgsound.ru/20/128/playlist.m3u8
+
+#RADIOBROWSERUUID:600873fa-b6b8-11e8-aaf2-52543be04c81
+#EXTINF:1,Radio 80 Russia
+http://radio80.ru:7777/
+
+#RADIOBROWSERUUID:d1a7b1dd-60c7-4b3d-8dfe-c1b470cc485d
+#EXTINF:1,Musical Decadence Radio
+https://stream.musicaldecadence.ru/live
+
+#RADIOBROWSERUUID:8ca69d04-f863-11e8-a237-52543be04c81
+#EXTINF:1,MAYAK
+http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_64kbps
+
+#RADIOBROWSERUUID:34975d5d-6386-4a01-89f7-6f1aef02b585
+#EXTINF:1,Любимые хиты
+https://a9.radioheart.ru:9037/RH48997
+
+#RADIOBROWSERUUID:ee8d173c-e8de-11e9-a96c-52543be04c81
+#EXTINF:1,Radio Caprice - Instrumental Rock
+http://79.120.39.202:8002/instrumentalrock
+
+#RADIOBROWSERUUID:11b52be4-df72-11e9-a8ba-52543be04c81
+#EXTINF:1,Enigmatic 3 - Magnetic Chillout
+http://radio.enigmatic.su:8050/radio
+
+#RADIOBROWSERUUID:2fb91a5e-11bb-11e9-a80b-52543be04c81
+#EXTINF:1,Atmosfera
+http://185.53.169.117:8000/320.m3u
+
+#RADIOBROWSERUUID:04b6c9f9-9bb2-11e8-a767-52543be04c81
+#EXTINF:1,ULTRA
+http://nashe1.hostingradio.ru/ultra-256
+
+#RADIOBROWSERUUID:59a283e1-4a13-11e9-a4d7-52543be04c81
+#EXTINF:1,DFM Trap
+https://dfm-dfmtrap.hostingradio.ru/dfmtrap96.aacp
+
+#RADIOBROWSERUUID:961155c1-0601-11e8-ae97-52543be04c81
+#EXTINF:1,мир (Radio Mir)
+http://icecast.mirtv.cdnvideo.ru:8000/radio_mir128
+
+#RADIOBROWSERUUID:033fe547-b71c-4ea0-8274-e6522444629c
+#EXTINF:1,Русское Радио
+https://rusradio.hostingradio.ru/rusradio96.aacp
+
+#RADIOBROWSERUUID:b1f42e1f-8aee-11e9-ad01-52543be04c81
+#EXTINF:1,Radio Caprice - Erotic
+http://79.120.39.202:8000/erotic
+
+#RADIOBROWSERUUID:961acb20-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Радио Культура / Radio Kultura
+http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps
+
+#RADIOBROWSERUUID:f9989a26-5f8a-4820-96a7-7cbb334f8954
+#EXTINF:1,Radio 80 Russia
+http://radio80.ru:7777/;?1506192616425
+
+#RADIOBROWSERUUID:ae048365-23cf-11e9-a80b-52543be04c81
+#EXTINF:1,Питер FM - Санкт-Петербург 100.9 МГц
+http://icecast-piterfm.cdnvideo.ru/piterfm
+
+#RADIOBROWSERUUID:a6db1ebf-4a4d-4e89-987d-81dbe836a8ee
+#EXTINF:1,Дискач 90s Мегахит ДНР
+http://stream.laut.fm/radio90s
+
+#RADIOBROWSERUUID:dd4b79ec-23fb-11e8-91bf-52543be04c81
+#EXTINF:1,Best FM
+http://nashe.streamr.ru/best-128.mp3
+
+#RADIOBROWSERUUID:8f5caf82-56b6-11e9-aa33-52543be04c81
+#EXTINF:1,КЕКС FM
+http://emg02.hostingradio.ru/keksfm64.aac
+
+#RADIOBROWSERUUID:e3645baf-5e7d-11e8-b715-52543be04c81
+#EXTINF:1,Радио МЕГАПОЛИС
+http://online.radio-megapolis.ru:8000/megapolis
+
+#RADIOBROWSERUUID:961c19d4-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Радонеж
+http://icecast.radonezh.cdnvideo.ru:8000/rad
+
+#RADIOBROWSERUUID:3cd58592-e487-420a-9c14-ae29aa4a9483
+#EXTINF:1,Радио Рекорд Russian Gold
+http://radiorecord.hostingradio.ru/russiangold96.aacp
+
+#RADIOBROWSERUUID:8108c4ad-71c3-11ea-b1cf-52543be04c81
+#EXTINF:1,Наше Радио Панки-ХОЙ!
+http://nashe1.hostingradio.ru/nashepunks.mp3
+
+#RADIOBROWSERUUID:e5d549e3-2fb0-11e9-8f31-52543be04c81
+#EXTINF:1,Ретро Хит
+http://air.volna.top/Retro
+
+#RADIOBROWSERUUID:963b429e-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Power Metal
+http://79.120.77.11:9099/
+
+#RADIOBROWSERUUID:ab70ee31-fcdd-49fa-baca-beb0f0542fcf
+#EXTINF:1,Дорожное Радио - Ностальгия
+https://hls-01-dorognoe-nostalgia.emgsound.ru/19/96/playlist.m3u8
+
+#RADIOBROWSERUUID:4b6929cc-619f-11e8-b15b-52543be04c81
+#EXTINF:1,Радио Классик Essential Classic
+http://jfm1.hostingradio.ru:14536/ecstream.mp3
+
+#RADIOBROWSERUUID:962331e5-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Goa trance
+http://79.120.39.202:9105/
+
+#RADIOBROWSERUUID:96168de9-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Зайцев.FM Pop (Zayzev FM)
+https://zaycevfm.cdnvideo.ru/ZaycevFM_pop_256.mp3
+
+#RADIOBROWSERUUID:9646a06f-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Uplifting Trance
+http://79.111.119.111:9019/;
+
+#RADIOBROWSERUUID:689df9c5-b393-11e8-afe1-52543be04c81
+#EXTINF:1,Radio Caprice - Dark Techno
+http://79.111.14.76:9139/
+
+#RADIOBROWSERUUID:62ee9983-4775-4714-853b-60b162edb73c
+#EXTINF:1,Wave Anime Radio
+https://otsu.s04.radio-tochka.com:5475/mount
+
+#RADIOBROWSERUUID:698ab82f-5089-46cc-b513-0317f3db367a
+#EXTINF:1,ГопФМ
+https://radiorecord.hostingradio.ru/gop96.aacp
+
+#RADIOBROWSERUUID:8c3ba60f-3dbb-11e8-b74d-52543be04c81
+#EXTINF:1,Royal Trance
+http://193.33.170.218:8000/RoyalTrance
+
+#RADIOBROWSERUUID:191bc3a9-845b-4e9f-aca9-e3c7344b6a87
+#EXTINF:1,Deep One
+https://stream.deep1.ru/deep1mp3
+
+#RADIOBROWSERUUID:1b614b21-2b31-4839-ac47-81023a71f7ac
+#EXTINF:1,Град Петров
+http://stream.grad-petrov.ru:8093/aac
+
+#RADIOBROWSERUUID:9635a37c-0601-11e8-ae97-52543be04c81
+#EXTINF:1,МДС
+http://stream.kazancity.net:8000/27-mds
+
+#RADIOBROWSERUUID:96393d3c-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Europa Plus (128 kbps)
+http://ep128.streamr.ru/
+
+#RADIOBROWSERUUID:2e2b04b9-dabf-496d-b0cd-3912a525936c
+#EXTINF:1,анекдот фм
+http://ic6.101.ru:8000/stream/trust/mp3/128/20
+
+#RADIOBROWSERUUID:5173cfb0-5f75-11e9-a622-52543be04c81
+#EXTINF:1,Gimadut Radio Book
+http://gimadut.ddns.net:8000/book
+
+#RADIOBROWSERUUID:05d4781a-0f67-11e9-a80b-52543be04c81
+#EXTINF:1,Калина Красная
+http://icecast-studio21.cdnvideo.ru/KalynaK_1a
+
+#RADIOBROWSERUUID:bcd73a4d-6661-41d8-963a-9d8a5fcdb3c3
+#EXTINF:1,Radio Record Chill-Out
+https://radiorecord.hostingradio.ru/chil32.aacp
+
+#RADIOBROWSERUUID:42faff49-ef4a-11e9-a96c-52543be04c81
+#EXTINF:1,Radio Caprice - Progressive Rock
+http://79.111.119.111:9121/
+
+#RADIOBROWSERUUID:03f1c130-247f-11e8-91bf-52543be04c81
+#EXTINF:1,Anima Amoris Drum and Bass
+http://amoris.sknt.ru:8008/;
+
+#RADIOBROWSERUUID:961a5d60-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Старое радио - Музыка
+http://www.staroeradio.ru/music128.m3u
+
+#RADIOBROWSERUUID:e5a8aea3-4050-11e9-aa55-52543be04c81
+#EXTINF:1,Radio Caprice - Instrumental Hip-hop
+http://79.120.77.11:8000/instrumentalhiphop
+
+#RADIOBROWSERUUID:6ffa5e26-6d29-4f77-82ba-41a5fd24400b
+#EXTINF:1,Радио Рекорд Russian Mix
+http://radiorecord.hostingradio.ru/rus96.aacp
+
+#RADIOBROWSERUUID:962d550e-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Радио Родных Дорог
+http://stream1.radiord.ru:8000/live96.aac
+
+#RADIOBROWSERUUID:960dbea6-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Вести ФМ (Vesti FM)
+http://online.gtrkchita.ru:8100/vestifm64aacp
+
+#RADIOBROWSERUUID:1614f160-619f-11e8-b15b-52543be04c81
+#EXTINF:1,Радио Классик Classic Gold
+http://jfm1.hostingradio.ru:14536/gcstream.mp3
+
+#RADIOBROWSERUUID:89e60b46-9e6e-4493-bfe7-a8c8bd3693d8
+#EXTINF:1,Радио Дача 320
+http://178.217.40.125:8000/rdsat
+
+#RADIOBROWSERUUID:7492c9b3-7266-11e9-af37-52543be04c81
+#EXTINF:1,Big Tunes Radio - Trance
+https://bigtunesradio.com:8000/trance.mp3
+
+#RADIOBROWSERUUID:de658a92-238d-11e9-a80b-52543be04c81
+#EXTINF:1,Soyuz TV
+http://tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+
+#RADIOBROWSERUUID:964e5727-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Радио Сектор / Sector SPACE
+http://89.223.45.5:8000/space-160
+
+#RADIOBROWSERUUID:f6c52fa9-8a7b-457a-862f-447d7aaccb27
+#EXTINF:1,101.ru СССР 30-50
+http://pub0201.101.ru:8000/stream/pro/aac/64/46
+
+#RADIOBROWSERUUID:96200832-0601-11e8-ae97-52543be04c81
+#EXTINF:1,эльдорадио (Eldo Radio) 101.4 St. Petersburg
+http://emgspb.hostingradio.ru/eldoradio128.mp3
+
+#RADIOBROWSERUUID:1296af61-71c3-11ea-b1cf-52543be04c81
+#EXTINF:1,Наше Радио Классик Рок
+http://nashe1.hostingradio.ru/nasheclassic.mp3
+
+#RADIOBROWSERUUID:644f021d-19b2-4320-9354-94d449df2b73
+#EXTINF:1,ШАНСОН БЕЗ ЦЕНЗУРЫ [CHANSONUNCENSORED]
+http://chanson.hostingradio.ru:8041/chanson-uncensored128.mp3
+
+#RADIOBROWSERUUID:0835df24-5aa3-40f4-9a19-9298aadbdebb
+#EXTINF:1,3 Music Radio - Harmony
+http://misato.ru-hoster.com:8057/stream
+
+#RADIOBROWSERUUID:71d1622f-f9a1-11e8-a97a-52543be04c81
+#EXTINF:1,HIT FM
+https://hitfm.hostingradio.ru/hitfm96.aacp
+
+#RADIOBROWSERUUID:963b2e7a-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Jazz 89.1 - JAZZ Vocals
+http://jfm1.hostingradio.ru:14536/jvstream.mp3
+
+#RADIOBROWSERUUID:504e3cdf-dc53-11e9-a8ba-52543be04c81
+#EXTINF:1,HIP HOP RADIO
+https://tntradio.hostingradio.ru:8027/hhr128.mp3
+
+#RADIOBROWSERUUID:bc13fcf0-a153-4b54-9ea1-6888f9151734
+#EXTINF:1,Radio Caprice - Dream Trance
+http://79.120.39.202:9029/
+
+#RADIOBROWSERUUID:96301d18-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Russian Rock
+http://79.120.77.11:9029/listen.pls
+
+#RADIOBROWSERUUID:6884c612-eb30-4b6f-aa1c-7458a0caaa2e
+#EXTINF:1,Kamchatka Live Chillout
+https://radio.kamchatkalive.ru:8103/chillout
+
+#RADIOBROWSERUUID:3739b4ef-3da7-463a-8219-6feeb3c77ac7
+#EXTINF:1,Радио Романтика
+https://pub0202.101.ru:8443/stream/air/aac/64/101
+
+#RADIOBROWSERUUID:d6404f1d-7da5-4991-9439-4939fb8e13cf
+#EXTINF:1,101.ru - French Chanson
+http://ic6.101.ru:8000/stream/pro/aac/64/146
+
+#RADIOBROWSERUUID:7aafcdc7-73b9-11e9-af37-52543be04c81
+#EXTINF:1,Искатель
+http://iskatel.hostingradio.ru:8015/iskatel-128.mp3
+
+#RADIOBROWSERUUID:962716fc-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Старое радио - Детское радио
+http://www.staroeradio.ru/detskoe128.m3u
+
+#RADIOBROWSERUUID:9411e6f4-09c2-11e8-ae97-52543be04c81
+#EXTINF:1,Anima Amoris Dub Techno Mix
+http://amoris.sknt.ru/dubtechnomix.mp3
+
+#RADIOBROWSERUUID:e96c7ca7-b2fa-11e8-afe1-52543be04c81
+#EXTINF:1,Radio Caprice - Acoustic Guitar
+http://79.120.39.202:8002/acousticguitar
+
+#RADIOBROWSERUUID:31f02e35-b2f3-11e8-afe1-52543be04c81
+#EXTINF:1,Radio Caprice - Free Jazz
+http://79.111.14.76:8002/freejazz
+
+#RADIOBROWSERUUID:55b43658-ac97-11e9-88f4-52543be04c81
+#EXTINF:1,Радио России
+http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
+
+#RADIOBROWSERUUID:96602485-0e66-11e9-a80b-52543be04c81
+#EXTINF:1,Europa Plus
+http://europaplus.hostingradio.ru:8014/europaplus320f.mp3
+
+#RADIOBROWSERUUID:08abd710-3ddb-4ae2-b3ab-d47a5cc05ee5
+#EXTINF:1,Радио Рекорд EDM
+http://radiorecord.hostingradio.ru/club96.aacp
+
+#RADIOBROWSERUUID:22b2fdfc-e8dd-11e9-a96c-52543be04c81
+#EXTINF:1,Radio Caprice - New Age
+http://79.120.77.11:8002/newage
+
+#RADIOBROWSERUUID:9a1deed5-46f9-11e9-aa55-52543be04c81
+#EXTINF:1,Радио Монте-Карло
+https://mc-mcgold.hostingradio.ru/mcgold96.aacp
+
+#RADIOBROWSERUUID:679e8795-bd0d-4110-9ab0-02704190bb58
+#EXTINF:1,Retrowave One
+http://85.234.59.191:8000/stream
+
+#RADIOBROWSERUUID:964207bc-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Eurodance
+http://79.120.39.202:9003/
+
+#RADIOBROWSERUUID:6590ea1a-cd5a-4b98-a4fb-b15d9900b3b7
+#EXTINF:1,Relax FM Latino
+https://pub0302.101.ru:8443/stream/trust/mp3/128/265
+
+#RADIOBROWSERUUID:6561364d-771a-409f-8b64-57bddd71db7b
+#EXTINF:1,Radio Caprice - Cyberpunk [3]
+http://79.120.12.130:8004/cyberpunk
+
+#RADIOBROWSERUUID:184a235c-65fe-4a34-ab96-b471e95d74c6
+#EXTINF:1,«Открытое Слово»
+https://rs.radioslovo.net:4395/radio?1619347398976
+
+#RADIOBROWSERUUID:961840e1-0601-11e8-ae97-52543be04c81
+#EXTINF:1,DiscoverTranceRadio (MP3 MQ stereo 128kBit/s)
+http://www.discovertrance.com/DiscoverTrance-med.m3u
+
+#RADIOBROWSERUUID:e6eacee7-b2ef-11e8-afe1-52543be04c81
+#EXTINF:1,Radio Caprice - Guitar Jazz
+http://79.120.77.11:8002/guitarjazz
+
+#RADIOBROWSERUUID:80addf91-0862-11e9-a80b-52543be04c81
+#EXTINF:1,161.fm
+http://stream.161.fm:8000/128
+
+#RADIOBROWSERUUID:18a7a98c-1eec-40fa-a854-8299caf92e08
+#EXTINF:1,Radio Record Hardstyle
+https://radiorecord.hostingradio.ru/teo96.aacp
+
+#RADIOBROWSERUUID:5256bbb3-87f0-4caf-9bc0-0a9ba8cadfdb
+#EXTINF:1,Radio Caprice - Old School Hip-Hop / Rap
+http://213.141.131.10:8002/oldschoolhiphop
+
+#RADIOBROWSERUUID:e23a948f-b571-49be-85a2-4f6df822fc00
+#EXTINF:1,Европа плюс
+http://ep128server.streamr.ru:8030/ep128
+
+#RADIOBROWSERUUID:442f0ac5-f8aa-4f3d-a180-3878572ba5cc
+#EXTINF:1,Русское Радио: Русский Рок
+https://rr-russkijrok.hostingradio.ru/russkijrok96.aacp.m3u
+
+#RADIOBROWSERUUID:7a823372-e083-46ef-9b53-33a6afd1312e
+#EXTINF:1,Ethno/world jazz - Radio Caprice
+http://79.120.39.202:8004/ethnojazz
+
+#RADIOBROWSERUUID:96215b97-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Anison.FM
+http://anison.fm/anison.m3u
+
+#RADIOBROWSERUUID:87f1e543-354a-11e9-8f31-52543be04c81
+#EXTINF:1,MDS
+http://ice.planeset.ru:8000/mds_voice.mp3
+
+#RADIOBROWSERUUID:28b6841b-21a9-43f3-bfd2-9d95a113374c
+#EXTINF:1,Радио Новая Жизнь
+https://nlradio.stream/hifi
+
+#RADIOBROWSERUUID:fb804c5c-8a3b-4afd-be5f-048ddb6ae436
+#EXTINF:1,Диско-радио SOVA
+https://stream.gtf.club:1145/stream
+
+#RADIOBROWSERUUID:020ff018-3030-4707-92c3-5f9cd0f619c5
+#EXTINF:1,101.ru СССР 50-70
+http://pub0302.101.ru:8000/stream/pro/aac/64/47
+
+#RADIOBROWSERUUID:9618ef0f-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Yoga Radio
+http://play.yogaradio.fm:8000/YOGAr256.m3u
+
+#RADIOBROWSERUUID:9645ec00-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - АВТОРСКАЯ / БАРДОВСКАЯ ПЕСНЯ
+http://79.120.39.202:9021/
+
+#RADIOBROWSERUUID:964fa5f7-0601-11e8-ae97-52543be04c81
+#EXTINF:1,16Bit FM CAFE Channel 192K stream#1 MOSCOW
+http://16bitfm.com:8000/cafe_mp3_192
+
+#RADIOBROWSERUUID:8413b8e0-28d2-495f-a099-449c4f028ae9
+#EXTINF:1,101.ru ABBA
+http://pub0101.101.ru:8000/stream/pro/aac/64/104?
+
+#RADIOBROWSERUUID:708c36fd-ee58-46d8-914d-53769e5cbd0f
+#EXTINF:1,Radio Caprice - Indian Classical
+http://79.111.14.76:8004/indianfolk
+
+#RADIOBROWSERUUID:43613886-a3d8-11e9-a787-52543be04c81
+#EXTINF:1,Пионер FM Russian Wave
+http://radio.dline-media.com/ru-wave.mp3
+
+#RADIOBROWSERUUID:96476da2-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Progressive Trance
+http://79.120.39.202:9025/;
+
+#RADIOBROWSERUUID:1e34b73f-0a71-11e8-ae97-52543be04c81
+#EXTINF:1,Anima Amoris [Trance]
+http://anima.sknt.ru/trance.mp3
+
+#RADIOBROWSERUUID:9644cbb5-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Depressive Black Metal
+http://79.111.119.111:9011/;
+
+#RADIOBROWSERUUID:1721ee9e-ed31-4ed9-9171-b2ab0d636bc4
+#EXTINF:1, Trap Radio
+http://radio-nice.ru:4290/radio
+
+#RADIOBROWSERUUID:4461c574-4215-43b8-aeb1-dfcfc0965b2f
+#EXTINF:1,Radio Record Ambient
+http://radiorecord.hostingradio.ru/ambient96.aacp
+
+#RADIOBROWSERUUID:7ece0249-60e0-43bc-ac78-7d16b5c6c97a
+#EXTINF:1,Radio Caprice - Indian Cinema Music
+http://79.120.39.202:8004/indiancinema
+
+#RADIOBROWSERUUID:960734bd-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Старое радио - Old Radio
+http://195.91.237.50:8000/ices128
+
+#RADIOBROWSERUUID:af625f9a-63b0-4a6c-94a2-726660143ba5
+#EXTINF:1,Radio Caprice - Latin / Afro-Cuban Jazz
+http://79.111.119.111:8002/latinjazz
+
+#RADIOBROWSERUUID:a26ef8af-a6a4-4706-ac12-9c664949a136
+#EXTINF:1,Романтический шансон
+http://chanson.hostingradio.ru:8041/chanson-romantic256.mp3
+
+#RADIOBROWSERUUID:bbe9c8bf-cdd9-4ef4-9704-fecf552e5d52
+#EXTINF:1,Dendy Collection
+https://s01.radio-tochka.com:4485/radio
+
+#RADIOBROWSERUUID:961f97be-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Roots Reggae
+http://79.111.119.111:9047/
+
+#RADIOBROWSERUUID:2f05efaf-bf54-482d-a410-f9cfb8484728
+#EXTINF:1,Noise FM - It's Your Lifestyle!
+http://play.sas-media.ru/play_256
+
+#RADIOBROWSERUUID:5e8c366c-9360-4074-ab8e-27f1c8f60b0b
+#EXTINF:1,Dubstep Light Radio
+http://dubstep-light.info:8000/dubsteplight.mp3
+
+#RADIOBROWSERUUID:b3976db4-5daa-11ea-be63-52543be04c81
+#EXTINF:1,Radio Caprice - Melodic Death Metal
+http://79.120.77.11:8002/melodicdeath
+
+#RADIOBROWSERUUID:72cee345-1c4b-4f84-92d8-22fc7e24cfda
+#EXTINF:1,Радио Эрмитаж
+http://hermitage.hostingradio.ru/hermitage128.mp3
+
+#RADIOBROWSERUUID:dce03d36-e06a-4b56-b3d5-bc52ef6c1ca4
+#EXTINF:1,LoFi World
+http://stream.zeno.fm/7w72va6s7k0uv
+
+#RADIOBROWSERUUID:847ada85-2396-11e9-a80b-52543be04c81
+#EXTINF:1,MIR 24 TV
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#RADIOBROWSERUUID:96492b58-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Рок АРСЕНАЛ - Rock Arsenal
+http://online.rockarsenal.ru:8000/rockarsenal
+
+#RADIOBROWSERUUID:d8726af1-f0a5-4d02-9b72-6750a5bbfe72
+#EXTINF:1,101.ru - Electronic
+http://pub0302.101.ru:8000/stream/pro/aac/64/132
+
+#RADIOBROWSERUUID:913d7095-6f94-4cce-b2b0-e7960b30ac2c
+#EXTINF:1,Radio Monte Carlo Golf Club
+http://montecarlo.hostingradio.ru/golfcup96.aacp
+
+#RADIOBROWSERUUID:96245018-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio7 104.7 Moscow
+https://hls-01-radio7.emgsound.ru/13/128/playlist.m3u8
+
+#RADIOBROWSERUUID:961bc942-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Brutal Death Metal
+http://79.111.119.111:9075/;
+
+#RADIOBROWSERUUID:c02a069b-7945-45e1-878c-148344960c1a
+#EXTINF:1,Radio Record Liquid Funk
+https://radiorecord.hostingradio.ru/liquidfunk96.aacp
+
+#RADIOBROWSERUUID:cd7a8a5a-ef37-11e9-a96c-52543be04c81
+#EXTINF:1,Radio Caprice - Underground Rap
+http://79.111.14.76:8000/undergroundrap.m3u
+
+#RADIOBROWSERUUID:28c93ddf-f084-11e8-a471-52543be04c81
+#EXTINF:1,Piano Di Notte
+http://radio.anothermusicproject.com:8000/pianodinotte
+
+#RADIOBROWSERUUID:2e924fe9-2979-11e8-91bf-52543be04c81
+#EXTINF:1,PromoDJ - Trance
+http://radio.promodj.com/fullmoon-192
+
+#RADIOBROWSERUUID:a66d27f9-a065-11e8-a9f3-52543be04c81
+#EXTINF:1,Dorozhnoye Radio Nizhny Novgorod 105.4 FM
+https://hls-01-dorognoe.emgsound.ru/15/128/playlist.m3u8
+
+#RADIOBROWSERUUID:ed3fa807-2412-11e9-a80b-52543be04c81
+#EXTINF:1,radio mantra
+http://a6.radioheart.ru:8012/nonstop
+
+#RADIOBROWSERUUID:5ce32d19-1a9e-41e4-9815-2491a7264eb2
+#EXTINF:1,Атмосфера
+http://185.53.169.128:8000/192
+
+#RADIOBROWSERUUID:cbfa5160-eee0-11e9-a96c-52543be04c81
+#EXTINF:1,Детский Хит - Kids Hit
+http://deti.volna.top/Deti
+
+#RADIOBROWSERUUID:61d03c60-10e5-11e9-a80b-52543be04c81
+#EXTINF:1,Lounge Beats
+https://myradio24.org/loungebe
+
+#RADIOBROWSERUUID:37cd9e61-24a1-4bbe-967c-432516bf224d
+#EXTINF:1,Литературное радио
+http://79.137.234.183:8000/;stream.mp3
+
+#RADIOBROWSERUUID:c86496ec-a00e-11e9-a787-52543be04c81
+#EXTINF:1,Radio Caprice - Chicago blues
+http://79.111.14.76:8000/chicagoblues
+
+#RADIOBROWSERUUID:bbd423d5-cc32-11e9-8502-52543be04c81
+#EXTINF:1,Radonezh
+http://icecast.radonezh.cdnvideo.ru:8000/rad128
+
+#RADIOBROWSERUUID:96411ca7-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Dark Electro / Aggrotech
+http://79.120.39.202:8002/darkelectro
+
+#RADIOBROWSERUUID:85813cf6-df6e-11e9-a8ba-52543be04c81
+#EXTINF:1,Radio Caprice - Space Music
+http://79.111.119.111:8000/spacemusic
+
+#RADIOBROWSERUUID:c4ad50e6-da4d-49f2-abeb-8bbcb1ebfbdf
+#EXTINF:1,Radio Caprice Industrial/Dark/Ritual Ambient
+http://79.120.39.202:9095/
+
+#RADIOBROWSERUUID:96454f2b-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Atmospheric/Ambient Black Metal
+http://79.120.39.202:9093/
+
+#RADIOBROWSERUUID:38faf427-b967-4716-a5b4-69ed6d955fc5
+#EXTINF:1,Радио Рекорд Trancemission
+http://radiorecord.hostingradio.ru/tm96.aacp
+
+#RADIOBROWSERUUID:126f6f82-1ff7-4f48-9399-116b1cd39c48
+#EXTINF:1,Радио первый канал
+http://46.191.234.120:55000/live
+
+#RADIOBROWSERUUID:1fcb8e26-f904-11e9-bbf2-52543be04c81
+#EXTINF:1,Art Remix
+https://myradio24.org/2236
+
+#RADIOBROWSERUUID:96176cac-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Зайцев.FM Disco
+https://zaycevfm.cdnvideo.ru/ZaycevFM_disco_256.mp3
+
+#RADIOBROWSERUUID:780b212d-189c-45e2-828d-76cc6164ef5f
+#EXTINF:1,Юмор FM
+http://pub0101.101.ru:8000/stream/air/aac/64/102
+
+#RADIOBROWSERUUID:56f5f685-8293-4778-baa5-aef23d340c37
+#EXTINF:1,Радио Рекорд Russian Hits
+http://radiorecord.hostingradio.ru/russianhits96.aacp
+
+#RADIOBROWSERUUID:67868e42-bc30-4d97-8db7-f214c38166c5
+#EXTINF:1,Радио Русские Песни
+https://listen.rusongs.ru/ru-aac-64
+
+#RADIOBROWSERUUID:f8ae9676-2309-4ad0-a3be-4210463d438d
+#EXTINF:1,Радио Рекорд Rap Hits
+http://radiorecord.hostingradio.ru/rap96.aacp
+
+#RADIOBROWSERUUID:961bb746-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Радио СПУТНИК / Radio Sputnik
+http://online.sputnikfm.ru:8000/sputnik_mp3
+
+#RADIOBROWSERUUID:6ebe9442-7a8b-44f7-bbea-619b385aa50c
+#EXTINF:1,Radio Caprice - Instrumental Metal
+http://79.111.119.111:8004/instrumentalmetal
+
+#RADIOBROWSERUUID:12d5d853-eee0-11e9-a96c-52543be04c81
+#EXTINF:1,РАДИО КАФЕ - Radio CAFE
+http://cafe.volna.top/Cafe
+
+#RADIOBROWSERUUID:b1e9deb1-755a-43fb-a543-a1439493044c
+#EXTINF:1,Радио Рекорд Pirate Station
+http://radiorecord.hostingradio.ru/ps96.aacp
+
+#RADIOBROWSERUUID:74fa9703-e694-11e9-a96c-52543be04c81
+#EXTINF:1,Ностальгия FM
+http://93.189.147.117:8000/nostalgia256.mp3
+
+#RADIOBROWSERUUID:6ef3c28c-0684-11e9-a80b-52543be04c81
+#EXTINF:1,Radio 7
+http://europaplus.hostingradio.ru:8014/radiosept320.mp3
+
+#RADIOBROWSERUUID:0bebe5e6-5630-11e9-a4d7-52543be04c81
+#EXTINF:1,MixCult
+http://radio.mixcult.net:8000/MixCult_256kbps
+
+#RADIOBROWSERUUID:9614750c-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Радио России (Radio Russia)
+http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps
+
+#RADIOBROWSERUUID:4e6f2032-f908-11e9-bbf2-52543be04c81
+#EXTINF:1,Enigma
+http://stream.dar.fm/125334
+
+#RADIOBROWSERUUID:f1ac3923-3db9-11e8-b74d-52543be04c81
+#EXTINF:1,Royal Попса
+http://193.33.170.218:8000/RoyalPopsa
+
+#RADIOBROWSERUUID:b6ad9c3e-280c-44e7-a92c-5feed138aad8
+#EXTINF:1,HDR [Hard Dance Radio]
+http://hdr.asuscomm.com:8000/hard_dance.m3u
+
+#RADIOBROWSERUUID:ef17dc85-7a1a-4f0c-ae1a-97d0c4c47927
+#EXTINF:1,101.ru ДДТ
+https://pub0101.101.ru/stream/pro/aac/64/112
+
+#RADIOBROWSERUUID:043ca8f3-bc59-11e9-acb2-52543be04c81
+#EXTINF:1,caprice indian folk
+http://79.111.14.76:8002/indianfolk
+
+#RADIOBROWSERUUID:c921edcb-1759-11ea-a620-52543be04c81
+#EXTINF:1,Radio Caprice - Stoner Metal
+http://79.120.77.11:9089/
+
+#RADIOBROWSERUUID:0a117f0e-9544-4e78-8d5a-91ec2063989c
+#EXTINF:1,ДЕТСКОЕ РАДИО [DETSKOE RADIO BABY FM
+http://a5.radioheart.ru:8012/nonstop
+
+#RADIOBROWSERUUID:e6363a82-b2f0-11e8-afe1-52543be04c81
+#EXTINF:1,Radio Caprice - Piano Jazz / Stride / Ragtime
+http://79.111.119.111:8002/pianojazz
+
+#RADIOBROWSERUUID:b73821db-127a-11e9-a80b-52543be04c81
+#EXTINF:1,Пи FM
+http://cdn.pifm.ru/mp3
+
+#RADIOBROWSERUUID:4776d6e8-a5e9-11e8-abb8-52543be04c81
+#EXTINF:1,Silver Rain
+http://213.59.4.27:8000/silver64.aac
+
+#RADIOBROWSERUUID:0eb8f033-9c0e-4073-b25d-2cc8aef1d129
+#EXTINF:1,Radio Caprice - Medieval Folk
+http://213.141.131.10:8004/medievalfolk
+
+#RADIOBROWSERUUID:963400ea-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Jazz 89.1 - Classic JAZZ
+http://jfm1.hostingradio.ru:14536/ijstream.mp3
+
+#RADIOBROWSERUUID:eb683436-348a-41e5-bf67-0788ec6ff89e
+#EXTINF:1,Anima Amoris New Age
+https://amoris.sknt.ru/newage.mp3
+
+#RADIOBROWSERUUID:d5bb77fd-087f-4b4d-8942-1a604ccf9c5a
+#EXTINF:1,1970's music collection
+http://213.141.131.10:8004/70collection
+
+#RADIOBROWSERUUID:a050faa8-a0e6-47a9-a654-ee4e3607ff99
+#EXTINF:1,Radio Caprice Organ (Classic)
+http://79.120.77.11:9051/
+
+#RADIOBROWSERUUID:4ccbc462-5fe5-41a1-8771-654d2f5eae3e
+#EXTINF:1,Radio Caprice - Jewish Music/Klezmer
+http://79.120.39.202:8002/klezmer
+
+#RADIOBROWSERUUID:5a571c53-7c35-4a1b-825c-40b15a87c469
+#EXTINF:1,Garage FM Online
+http://music.garagefm.ru:8005/Garagefm128
+
+#RADIOBROWSERUUID:22f9f10e-39af-494f-8d6d-2e8c4be718ef
+#EXTINF:1,Радио Рекорд Супердискотека 90-х
+http://radiorecord.hostingradio.ru/sd9096.aacp
+
+#RADIOBROWSERUUID:9ef7bad9-c786-4029-a70b-b9b14fb29966
+#EXTINF:1,Радио Рекорд Trancehouse
+http://radiorecord.hostingradio.ru/trancehouse96.aacp
+
+#RADIOBROWSERUUID:7b0baa6d-b2d7-11e8-afe1-52543be04c81
+#EXTINF:1,Radio Caprice - Instrumental Rock
+http://79.120.39.202:9077/
+
+#RADIOBROWSERUUID:f9cd8131-01fb-11ea-bbf2-52543be04c81
+#EXTINF:1,Радио «Luxury Lounge»
+http://188.40.109.122:8000/ices1
+
+#RADIOBROWSERUUID:45fb942f-aafe-4eb8-af62-c4d677ec3919
+#EXTINF:1,Retro FM 105.0 Serpukhov
+http://188.164.138.46:8010/retrofm.m3u
+
+#RADIOBROWSERUUID:96470ece-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Vocal Trance
+http://79.120.39.202:9031/;
+
+#RADIOBROWSERUUID:849ab588-43f8-11e8-b74d-52543be04c81
+#EXTINF:1,Шансон Плюс
+http://radio.radioshansonplus.com:8000/radio
+
+#RADIOBROWSERUUID:962ed23b-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Death Metal
+http://79.120.77.11:9083/
+
+#RADIOBROWSERUUID:960d297c-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Ska
+http://79.111.119.111:9043/
+
+#RADIOBROWSERUUID:239de5e8-f90a-11e9-bbf2-52543be04c81
+#EXTINF:1,Modern Talking
+http://stream.dar.fm/119941
+
+#RADIOBROWSERUUID:962fad53-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Rock Ballads
+http://79.120.77.11:9059/;stream.aac
+
+#RADIOBROWSERUUID:720784ea-7266-11e9-af37-52543be04c81
+#EXTINF:1,Big Tunes Radio - House
+https://bigtunesradio.com:8000/house.mp3
+
+#RADIOBROWSERUUID:517216ad-2395-11e9-a80b-52543be04c81
+#EXTINF:1,MIR TV
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+
+#RADIOBROWSERUUID:4090c429-71c2-11ea-b1cf-52543be04c81
+#EXTINF:1,Наше Радио 2.0
+https://nashe1.hostingradio.ru:18000/nashe20-128.mp3
+
+#RADIOBROWSERUUID:21e914f0-b2fb-11e8-afe1-52543be04c81
+#EXTINF:1,Radio Caprice - Instrumental Music
+http://79.120.77.11:8002/instrumental
+
+#RADIOBROWSERUUID:02840a88-853c-11e8-aa66-52543be04c81
+#EXTINF:1,MOTORADIO
+http://stream.motoradio.online:8000/high-aac
+
+#RADIOBROWSERUUID:03ccced6-b2f8-11e8-afe1-52543be04c81
+#EXTINF:1,Radio Caprice - Folk Rock
+http://79.111.14.76:8002/folkrock
+
+#RADIOBROWSERUUID:8715c311-ac15-45ba-8775-995747959b15
+#EXTINF:1,Radio Caprice - Future Garage / Chillstep / Deep / Post Dubstep
+http://79.120.39.202:8002/futuregarage
+
+#RADIOBROWSERUUID:23b07f92-4b89-46c6-8ee5-054e8c266126
+#EXTINF:1,Relax Fm Тюмень
+http://relaxfm72.ru:8000/stream
+
+#RADIOBROWSERUUID:4386c35c-3d1e-11e9-aa55-52543be04c81
+#EXTINF:1,Radio Caprice - Dark Jazz
+http://79.120.39.202:9137/
+
+#RADIOBROWSERUUID:96176d5f-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Зайцев.FM Club
+https://zaycevfm.cdnvideo.ru/ZaycevFM_electronic_256.mp3
+
+#RADIOBROWSERUUID:81fbf5ab-0936-4a8d-8457-82ca8eda2af6
+#EXTINF:1,Klubb
+http://radio.promodj.com/klubb-192
+
+#RADIOBROWSERUUID:961f3645-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Jazz Fusion
+http://79.111.119.111:9009/;
+
+#RADIOBROWSERUUID:0bd5a906-bba0-4678-ad38-c680131a53fa
+#EXTINF:1,Radio GamePLay
+https://c22.radioboss.fm:18144/GamePlay
+
+#RADIOBROWSERUUID:a7955208-a64e-4430-b41c-62de37b14562
+#EXTINF:1,Radio Caprice - Dub Techno [2]
+http://79.120.39.202:8000/dubtechno
+
+#RADIOBROWSERUUID:b649aa78-0bd3-454b-bf1f-0a0466a03555
+#EXTINF:1,Monte Carlo Gold Collection
+https://montecarlo.hostingradio.ru/mcgold96.aacp
+
+#RADIOBROWSERUUID:ace79f98-2978-11e8-91bf-52543be04c81
+#EXTINF:1,PromoDJ - Dubstep
+http://radio.promodj.com/dubstep-192
+
+#RADIOBROWSERUUID:2e358bb7-247f-11e8-91bf-52543be04c81
+#EXTINF:1,Anima Amoris Ambient
+http://amoris.sknt.ru:8014/;
+
+#RADIOBROWSERUUID:f99e4bda-71b9-11ea-b1cf-52543be04c81
+#EXTINF:1,rockfm.ru heavy
+https://jfm1.hostingradio.ru:14536/metal.mp3
+
+#RADIOBROWSERUUID:96202df9-0601-11e8-ae97-52543be04c81
+#EXTINF:1,CORE Radio!
+http://194.58.97.117:8000/coreradio
+
+#RADIOBROWSERUUID:7fa7e6a3-e50d-11e9-a96c-52543be04c81
+#EXTINF:1,Zaycev FM Club
+https://zaycevfm.cdnvideo.ru/ZaycevFM_club_256.mp3
+
+#RADIOBROWSERUUID:b496860a-dfed-494d-b69f-3c2f0a5ba8eb
+#EXTINF:1,Пилигрим. Библия
+http://radiopiligrim.ru:8000/bible
+
+#RADIOBROWSERUUID:6f308362-9ad5-11e8-a767-52543be04c81
+#EXTINF:1,8bit.fm - AY music
+http://8bit.fm:8000/ay
+
+#RADIOBROWSERUUID:eff291fd-7546-11e8-83fa-52543be04c81
+#EXTINF:1,BadBeatRadio
+http://misato.ru-hoster.com:8061/badbeatradio
+
+#RADIOBROWSERUUID:644572eb-a4f4-4e34-9e47-125a074f94e6
+#EXTINF:1,Радио Рекорд Hardstyle
+http://radiorecord.hostingradio.ru/teo96.aacp
+
+#RADIOBROWSERUUID:471b7d53-32ce-11e9-8f31-52543be04c81
+#EXTINF:1,Moskva FM
+http://icecast.vgtrk.cdnvideo.ru/moscowfm128?v=1550419566950
+
+#RADIOBROWSERUUID:78014391-df73-11e9-a8ba-52543be04c81
+#EXTINF:1,Enigmatic Drive
+http://radio.enigmatic.su:8090/radio
+
+#RADIOBROWSERUUID:1577922b-0dc0-11ea-a87e-52543be04c81
+#EXTINF:1,Радио Сектор / Sector SPACE (flac)
+http://89.223.45.5:8000/space-flac
+
+#RADIOBROWSERUUID:805f1eec-fe7a-4f49-ac0e-2665323734e3
+#EXTINF:1,101 ru enigmatic 
+https://101.ru:8143/?date=201405&hash=1979c180fe0ba452a76f00d8a0f0c452&start=209
+
+#RADIOBROWSERUUID:1df2dedb-1fc8-4235-9331-73068fec098f
+#EXTINF:1,Deep One
+https://stream.deep1.ru/deep1aac
+
+#RADIOBROWSERUUID:e7061969-b61e-11e9-acb2-52543be04c81
+#EXTINF:1,Радио Джаз 89,1FM
+http://jazz.streamr.ru/jazz-128.mp3
+
+#RADIOBROWSERUUID:96265f1b-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Russian Folk
+http://79.120.77.11:9057/;
+
+#RADIOBROWSERUUID:5870e509-e511-11e9-a96c-52543be04c81
+#EXTINF:1,Zaycev FM РуРок
+https://zaycevfm.cdnvideo.ru/ZaycevFM_rurock_256.mp3
+
+#RADIOBROWSERUUID:bdeb172f-15d9-11e9-a80b-52543be04c81
+#EXTINF:1,Радио 1 - Первое Подмосковное
+http://cdn.radio1.news:8000/rtvp_mp3
+
+#RADIOBROWSERUUID:96176a9f-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Зайцев.FM Rus
+https://zaycevfm.cdnvideo.ru/ZaycevFM_rus_256.mp3
+
+#RADIOBROWSERUUID:88b3a415-2b06-4d21-8c80-dfdba0dd5029
+#EXTINF:1,Радио Ностальжи Россия
+http://listen7.myradio24.com:9000/alexx333.m3u
+
+#RADIOBROWSERUUID:93fdf2d5-c8e0-45be-8642-56d3c1f2e711
+#EXTINF:1,DONAT FM - Русский рок
+http://c6.radioboss.fm:8097/stream
+
+#RADIOBROWSERUUID:a9d0648c-25cf-436b-9f43-3debfa49fa19
+#EXTINF:1,DEEP IN SPACE
+http://sound.dzhon.top:8000/deepinspace
+
+#RADIOBROWSERUUID:f9b39c50-863a-484b-8110-181b12009cb1
+#EXTINF:1,Radio Caprice - Chicago Blues
+http://79.111.14.76:8002/chicagoblues
+
+#RADIOBROWSERUUID:56c8ce67-f72e-11e8-a471-52543be04c81
+#EXTINF:1,Радио Нашествие
+http://320kbps.radio-nashestvie.ru:9000/9857
+
+#RADIOBROWSERUUID:95665424-8edb-43c7-bb77-f7b964e57d80
+#EXTINF:1,Radio Caprice - Americana / American Roots
+http://213.141.131.10:8002/americana
+
+#RADIOBROWSERUUID:96446fd7-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Surf Rock
+http://79.111.119.111:8000/surfrock
+
+#RADIOBROWSERUUID:96474790-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Thrash Metal
+http://79.120.77.11:9101/
+
+#RADIOBROWSERUUID:470106de-7105-11e9-af37-52543be04c81
+#EXTINF:1,MAXIMUM
+https://maximum.hostingradio.ru/maximum96.aacp
+
+#RADIOBROWSERUUID:24842d04-9ae0-4800-840b-d87f00495940
+#EXTINF:1,Graal Radio Sensual
+https://graalradio.com:8124/sensual
+
+#RADIOBROWSERUUID:cc4e23dd-5485-4176-9ade-0a79a08b3ee1
+#EXTINF:1,Country/folk blues - Radio Caprice
+http://79.120.77.11:8004/countryblues
+
+#RADIOBROWSERUUID:96201a86-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Verdure Station
+http://air.verdure.net:8881/stream
+
+#RADIOBROWSERUUID:a29e5de7-b2f0-11e8-afe1-52543be04c81
+#EXTINF:1,Radio Caprice - Bebop / Be-bop / Bop
+http://79.111.14.76:8002/bebop
+
+#RADIOBROWSERUUID:96404108-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Eurobeat/Hi-NRG
+http://79.120.39.202:9159/listen.pls
+
+#RADIOBROWSERUUID:961fdc04-0601-11e8-ae97-52543be04c81
+#EXTINF:1,grad-petrov 73.1 FM St. Petersburg
+http://www.grad-petrov.ru:8093/mp3-40
+
+#RADIOBROWSERUUID:ae109e79-71c3-11ea-b1cf-52543be04c81
+#EXTINF:1,Наше Радио ЩАС СПОЮ
+http://nashe1.hostingradio.ru/nashesongs.mp3
+
+#RADIOBROWSERUUID:6835faba-627f-11e8-b15b-52543be04c81
+#EXTINF:1,Radio Caprice - Post-Punk
+http://79.120.39.202:9071/
+
+#RADIOBROWSERUUID:29a68b7f-f573-4b19-b3ba-cdbb0979e348
+#EXTINF:1,Вести FM (AAC)
+https://icecast-vgtrk.cdnvideo.ru/vestifm_aac_32kbps
+
+#RADIOBROWSERUUID:6d266cee-fe00-43e7-ab8c-1759fb3efa6b
+#EXTINF:1,101.ru Bard songs - Авторская Песня
+https://ic6.101.ru:8000/stream/pro/aac/64/35
+
+#RADIOBROWSERUUID:eeed3248-a3d7-11e9-a787-52543be04c81
+#EXTINF:1,Пионер FM Dance9.0
+http://radio.dline-media.com/ppr_90.mp3
+
+#RADIOBROWSERUUID:96275a97-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RadioGora - Electro
+http://listen.radiogora.ru:8000/electro128
+
+#RADIOBROWSERUUID:b89002ec-9749-4797-b6ca-54b4e9f9c44d
+#EXTINF:1,Radio Extasy | Power Metal
+https://onrb.play.extasy.es/
+
+#RADIOBROWSERUUID:960bedb0-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Mayak - MP3 128kb/s
+http://online.gtrkchita.ru:8100/mayak128
+
+#RADIOBROWSERUUID:853ef384-382a-4556-8193-d265b56fe19a
+#EXTINF:1,Radio Caprice - Viking Metal
+http://79.111.14.76:8000/vikingmetal.m3u
+
+#RADIOBROWSERUUID:96176ec9-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Зайцев.FM RnB
+https://zaycevfm.cdnvideo.ru/ZaycevFM_rnb_256.mp3
+
+#RADIOBROWSERUUID:3749a83f-5418-11e8-b0ce-52543be04c81
+#EXTINF:1,Radio Caprice TripHop
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://79.111.14.76:9013/listen.pls&t=.pls
+
+#RADIOBROWSERUUID:a99b8e66-522f-45d4-a4ae-1a0b8d8f9ce3
+#EXTINF:1,Caprice Dance Pop
+http://79.120.77.11:8000/dancepop
+
+#RADIOBROWSERUUID:88c30fc6-9a43-426d-a879-076804424459
+#EXTINF:1,Радио Рекорд Big Hits
+http://radiorecord.hostingradio.ru/bighits96.aacp
+
+#RADIOBROWSERUUID:eeccf6a2-9ccb-44dc-8635-b75796898971
+#EXTINF:1,101.ru - Boney M.
+http://pub0302.101.ru:8000/stream/pro/aac/64/114
+
+#RADIOBROWSERUUID:742fba11-eff1-11e8-a471-52543be04c81
+#EXTINF:1,Lradio
+https://96mp3.lradio.ru/lradio.stereo.96.mp3
+
+#RADIOBROWSERUUID:d27e8af1-b2f7-11e8-afe1-52543be04c81
+#EXTINF:1,Radio Caprice - Indie Folk
+http://79.111.14.76:8002/indiefolk
+
+#RADIOBROWSERUUID:470342f1-f44e-4b58-aa55-af2c84e35a4e
+#EXTINF:1,Европа + ResiDance
+http://emg02.hostingradio.ru/ep-residance128.mp3
+
+#RADIOBROWSERUUID:df0ec465-dfcd-4cd4-a727-1ad34e1b4de0
+#EXTINF:1,Радио Ретроклуб
+http://retroclub.hostingradio.ru/retroclub128.aacp
+
+#RADIOBROWSERUUID:9f13811e-3f74-11e9-aa55-52543be04c81
+#EXTINF:1,Юлдаш радиоһы
+http://radio.mediacdn.ru/uldash.mp3
+
+#RADIOBROWSERUUID:e7312e4b-444e-45d8-afc9-c11c24aeef13
+#EXTINF:1,Discoteca 80
+https://pub0302.101.ru:8443/stream/pro/aac/64/1?
+
+#RADIOBROWSERUUID:063f65ee-059f-41c0-87d1-0e36d547b2a0
+#EXTINF:1,Radio Caprice - Drum 'n' Bass [1]
+http://79.111.14.76:8002/drumbass
+
+#RADIOBROWSERUUID:0cac8897-2fbf-404e-8ce6-ff3fe1afed73
+#EXTINF:1,Радио Рекорд Dubstep
+http://radiorecord.hostingradio.ru/dub96.aacp
+
+#RADIOBROWSERUUID:0124caa4-ac97-11e9-88f4-52543be04c81
+#EXTINF:1,Sputnik 
+http://audio2.video.ria.ru/voicerus
+
+#RADIOBROWSERUUID:964aa057-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Чипльдук
+http://radio.4duk.ru/4duk128.mp3
+
+#RADIOBROWSERUUID:9610a657-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Disney Russia
+http://disney2.streamr.ru:8060/disney
+
+#RADIOBROWSERUUID:36282d23-3db7-11e8-b74d-52543be04c81
+#EXTINF:1,Royal Drum
+http://193.33.170.218:8000/RoyalDrum
+
+#RADIOBROWSERUUID:8963775b-3445-4623-bf53-650298f5de57
+#EXTINF:1,radio caprice dark Techno HQ
+http://79.111.14.76:8000/darktechno
+
+#RADIOBROWSERUUID:3f537d76-6041-4200-8804-c5b9f618ab5a
+#EXTINF:1,Культура (AAC+)
+https://icecast-vgtrk.cdnvideo.ru/kulturafm_aac_64kbps
+
+#RADIOBROWSERUUID:e672ee25-472a-40e1-92c6-6d8225f22d7e
+#EXTINF:1,Radio Caprice - Harp
+http://213.141.131.10:8000/harp
+
+#RADIOBROWSERUUID:fe708740-0f2e-47ef-8995-9caf0c863676
+#EXTINF:1,Donat FM - Russian Rock
+http://c6.radioboss.fm:8097/autodj
+
+#RADIOBROWSERUUID:846d7844-4fa3-49ec-96bc-0692d762a6a9
+#EXTINF:1,Hit Dance Moskow
+http://live.hitdance.ru:8000/hitd_320
+
+#RADIOBROWSERUUID:9c0fc311-238c-11e9-a80b-52543be04c81
+#EXTINF:1,AIST TV
+http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+
+#RADIOBROWSERUUID:b77ff005-3b78-495a-b705-828c44a96fac
+#EXTINF:1,Радио Рекорд Tech House
+http://radiorecord.hostingradio.ru/techouse96.aacp
+
+#RADIOBROWSERUUID:83f1b97e-4d6c-44ae-8a8e-8abcb3cc12c2
+#EXTINF:1,Radio Record VIP House
+https://radiorecord.hostingradio.ru/vip96.aacp
+
+#RADIOBROWSERUUID:01a52f87-4b9c-4158-bfbe-d7abbab8feda
+#EXTINF:1,Воскресение
+http://217.24.181.164:8000/stream.ogg
+
+#RADIOBROWSERUUID:2d2f0f10-5ea9-400b-a61b-f2c6c8ed7963
+#EXTINF:1,Радио Монте Карло
+https://montecarlo.hostingradio.ru/montecarlo128.mp3
+
+#RADIOBROWSERUUID:6d8e0ec2-a126-4c50-8fcf-2fb0c39a9ba0
+#EXTINF:1,NewSovietwave
+https://newsovietwave.ru/radio/8000/radio.mp3
+
+#RADIOBROWSERUUID:5df04cd5-27e8-4418-800a-0c6cfe7a30ef
+#EXTINF:1,Radio Tourist
+http://stream.radiojar.com/av2rrf6547zuv
+
+#RADIOBROWSERUUID:5f4acaa8-7791-4591-919f-4741f418c99b
+#EXTINF:1,Радио 7 - Наедине с музыкой
+http://hls-01-radio7-alone.emgsound.ru/16/96/playlist.m3u8
+
+#RADIOBROWSERUUID:10d8155a-e511-11e9-a96c-52543be04c81
+#EXTINF:1,Zaycev FM Love
+https://zaycevfm.cdnvideo.ru/ZaycevFM_holiday_256.mp3
+
+#RADIOBROWSERUUID:364de0a8-9c40-4295-aff7-f41b916c7c73
+#EXTINF:1,Biker FM
+https://listen4.myradio24.com/69846
+
+#RADIOBROWSERUUID:30623ca5-2500-4182-b09e-a1ce1fd972bd
+#EXTINF:1,101.ru ДДТ
+http://pub0302.101.ru:8000/stream/pro/aac/64/112?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6Ijg4LjIyMy42OC44NCIsInVzZXJhZ2VudCI6Ik1vemlsbGFcLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjo5MS4wKSBHZWNrb1wvMjAxMDAxMDEgRmlyZWZveFwvOTEuMCBXYXRlcmZveFwvOTEuNC4yIiwidWlkX2NoYW5uZWwiOiIxMTIiLCJ0eXBlX2NoYW5uZWwiOiJjaGFubmVsIiwiZXhwIjoxNjQxNjcxOTg3fQ.k_WsYHWH-yoxEogmsvirk_IcKDdHKpTLDj5rCoF0B2E
+
+#RADIOBROWSERUUID:64a64fad-f583-4c5e-a725-68f84d90716d
+#EXTINF:1,Mixadance FM Fitness
+https://stream.mixadance.fm/fitness
+
+#RADIOBROWSERUUID:96466522-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Drone Ambient
+http://79.111.119.111:9135/;
+
+#RADIOBROWSERUUID:2b9e162b-498f-11e9-a4d7-52543be04c81
+#EXTINF:1,Radio Caprice - Computer / Video Game Music (Ost / Score / Soundrack)
+http://79.120.39.202:9139/
+
+#RADIOBROWSERUUID:19df2ea5-a069-11e8-a9f3-52543be04c81
+#EXTINF:1,Radio Shanson Nizhny Novgorod 106.9 FM
+http://online2.gkvr.ru:8000/chanson_nno_64.aac
+
+#RADIOBROWSERUUID:d166fb70-727a-4552-8978-7dc1f968df44
+#EXTINF:1,Радио Рекорд House Classics
+http://radiorecord.hostingradio.ru/houseclss96.aacp
+
+#RADIOBROWSERUUID:3da9aa9b-2391-11e9-a80b-52543be04c81
+#EXTINF:1,Shanson TV
+http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/chunklist_b1996000.m3u8
+
+#RADIOBROWSERUUID:1642bd62-3728-11e8-bb9b-52543be04c81
+#EXTINF:1,Europa Plus Acoustic
+http://epdop.hostingradio.ru:8033/acoustic128.mp3
+
+#RADIOBROWSERUUID:602b8e7c-103b-4621-b783-6e6ac2b068ba
+#EXTINF:1,DONAT FM - Музыка СССР
+http://c6.radioboss.fm:8098/stream
+
+#RADIOBROWSERUUID:7346d3f5-7266-11e9-af37-52543be04c81
+#EXTINF:1,Big Tunes Radio - Bass
+https://bigtunesradio.com:8000/bass.mp3
+
+#RADIOBROWSERUUID:fbff95d6-c354-475b-b46d-c958af090803
+#EXTINF:1,DubStep Radio
+http://radio-nice.ru:8230/stream
+
+#RADIOBROWSERUUID:6f666ad6-e510-11e9-a96c-52543be04c81
+#EXTINF:1,Zaycev FM Rap
+https://zaycevfm.cdnvideo.ru/ZaycevFM_rap_256.mp3
+
+#RADIOBROWSERUUID:96111df3-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Borneo
+http://live.borneo.ru:8888/128
+
+#RADIOBROWSERUUID:4184c33a-a4f5-4323-95a5-75a698ced0c8
+#EXTINF:1,Radio Caprice - Indian Spiritual Music
+http://213.141.131.10:8004/mantras
+
+#RADIOBROWSERUUID:cc883873-ef4b-11e9-a96c-52543be04c81
+#EXTINF:1,Radio Caprice - Instrumental Music
+http://79.120.77.11:8000/instrumental
+
+#RADIOBROWSERUUID:20cc3a40-40f5-456b-a0f1-4bdecdbb9309
+#EXTINF:1,Mixadance FM Relax
+https://stream.mixadance.fm/relax#.m4a
+
+#RADIOBROWSERUUID:a4315fd1-19d6-411e-9f65-b87fc7acf989
+#EXTINF:1,Kazak FM`
+https://radio.mediacdn.ru/kazak_fm.mp3
+
+#RADIOBROWSERUUID:ede106e1-61c2-4ef2-9183-79576b4e001e
+#EXTINF:1,Radio Record Electro
+https://radiorecord.hostingradio.ru/elect96.aacp
+
+#RADIOBROWSERUUID:77f06769-59fb-11ea-be63-52543be04c81
+#EXTINF:1,Маяк (Кузбасс)
+http://212.75.194.94:8000/KemMayakFM
+
+#RADIOBROWSERUUID:eb8d804b-deb2-4a7b-9fd2-e127a9326f52
+#EXTINF:1,Радио Рекорд Innocence
+http://radiorecord.hostingradio.ru/ibiza96.aacp
+
+#RADIOBROWSERUUID:41ec1907-e10e-4559-970b-c2e6b25a4939
+#EXTINF:1,[RockTime-Radio]
+http://a9.radioheart.ru:8049/rocktime
+
+#RADIOBROWSERUUID:9d02c5d0-0707-422d-8b50-fe139ee74296
+#EXTINF:1,Radio Caprice - PSYCHOBILLY
+http://79.111.119.111:8002/psychobilly
+
+#RADIOBROWSERUUID:b55b73da-120a-11ea-a87e-52543be04c81
+#EXTINF:1,Novoe radio
+http://icecast.newradio.cdnvideo.ru/newradio3
+
+#RADIOBROWSERUUID:34c748be-0241-4c0e-be79-9a34c41eaeaa
+#EXTINF:1,Дорожное Радио - Рок Клуб
+https://hls-01-dorognoe-rock.emgsound.ru/18/96/playlist.m3u8
+
+#RADIOBROWSERUUID:3d25967d-ad85-4815-a262-8a8032be65c7
+#EXTINF:1,Radio Caprice Math Rock
+http://79.120.39.202:8000/mathrock
+
+#RADIOBROWSERUUID:c2f91214-b1ee-11e9-acb2-52543be04c81
+#EXTINF:1,EuropaPplus Top 40
+http://eptop128.streamr.ru/
+
+#RADIOBROWSERUUID:964e557e-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Радио Сектор / Sector Progressive (flac)
+http://89.223.45.5:8000/progressive-flac
+
+#RADIOBROWSERUUID:d300ce35-b078-11e8-afe1-52543be04c81
+#EXTINF:1,Nashe 2.0
+http://nashe.streamr.ru/nashe20-128.mp3
+
+#RADIOBROWSERUUID:17bcbf47-984e-4a6e-bfdd-cd87ccef8621
+#EXTINF:1,Radio Caprice - Renaissance Music
+http://213.141.131.10:8000/renaissance
+
+#RADIOBROWSERUUID:9643fe29-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Symphony
+http://79.111.14.76:9079/;
+
+#RADIOBROWSERUUID:249d45c8-3711-488a-8d40-904f4fa930b1
+#EXTINF:1,Radio Caprice - Melodic Power Metal
+http://79.111.119.111:8000/melodicpower.m3u
+
+#RADIOBROWSERUUID:77b30659-0b86-42d5-a657-3f12e8f8f463
+#EXTINF:1,Радио Рекорд Neurofunk
+http://radiorecord.hostingradio.ru/neurofunk96.aacp
+
+#RADIOBROWSERUUID:9669f12c-97de-11e8-a767-52543be04c81
+#EXTINF:1,Promodj Too Nu
+http://radio.promodj.com/toonu-192
+
+#RADIOBROWSERUUID:07a80e06-df73-11e9-a8ba-52543be04c81
+#EXTINF:1,Enigmatic Immersion
+http://radio.enigmatic.su:8040/radio
+
+#RADIOBROWSERUUID:e7b99972-57a4-4a34-9a13-c17bb86f550b
+#EXTINF:1,Radiorecord.RU techno
+https://hls-01-radiorecord.hostingradio.ru/record-techno/96/playlist.m3u8
+
+#RADIOBROWSERUUID:9640449d-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Progressive House
+http://79.111.119.111:9021/
+
+#RADIOBROWSERUUID:c9fbf7d5-c9bc-432b-a97e-dd0cc83d7813
+#EXTINF:1,Вечеринка Ретро FM (32 kbps)
+http://hls-01-retro-vecherinka.emgsound.ru/20/32/playlist.m3u8
+
+#RADIOBROWSERUUID:2b9ea1ed-31ae-4ecf-bd4a-05a253690f71
+#EXTINF:1,Radio Vanya
+http://icecast-radiovanya.cdnvideo.ru/radiovanya
+
+#RADIOBROWSERUUID:4559c086-b2f7-11e8-afe1-52543be04c81
+#EXTINF:1,Radio Caprice - Jazz Rock
+http://79.111.119.111:8002/jazzrock
+
+#RADIOBROWSERUUID:3d26494e-0f9f-4d5c-b35d-507acf2fe572
+#EXTINF:1,Comedy Radio
+https://pub0201.101.ru:8000/stream/air/aac/64/202?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiJlMjdlOTQ1MTVhMDE0YzI0ZTM3YTE4YjUxMjAyNjM2NyIsIklQIjoiOTUuNTQuMjE0LjI0MSIsIlVBIjoiTW96aWxsYVwvNS4wIChXaW5kb3dzIE5UIDEwLjA7IHJ2OjkxLjApIEdlY2tvXC8yMDEwMDEwMSBGaXJlZm94XC85MS4wIiwidWlkX2NoYW5uZWwiOiIyMDIiLCJ0eXBlX2NoYW5uZWwiOiJjaGFubmVsIiwidHlwZURldmljZSI6IlBDIiwiQnJvd3NlciI6IkZpcmVmb3giLCJCcm93c2VyVmVyc2lvbiI6IjkxLjAiLCJTeXN0ZW0iOiJXaW5kb3dzIDEwIiwiZXhwIjoxNjQ1MDEzMjI0fQ.YBQN6kgAT4VH6QxZEbpi5bpUnqKk68QHa5MNiWGBKuo
+
+#RADIOBROWSERUUID:96446763-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Dark Psytrance
+http://79.111.119.111:9057/;
+
+#RADIOBROWSERUUID:fa1684ed-7e25-4ce2-bff5-e62d33ea2acf
+#EXTINF:1,Литературное радио
+http://79.137.234.183:8005/;stream.mp3
+
+#RADIOBROWSERUUID:83f5c323-df6c-11e9-a8ba-52543be04c81
+#EXTINF:1,RADIO CAPRICE - K-POP (KOREAN POP)
+http://79.111.119.111:8002/kpop
+
+#RADIOBROWSERUUID:bce8bb51-4109-11e8-b74d-52543be04c81
+#EXTINF:1,Discover Trance Radio
+http://chicago.discovertrance.com:9218/
+
+#RADIOBROWSERUUID:cb5454b6-16b5-4c8c-89e3-19e64bb1eea5
+#EXTINF:1,Donat FM - European hits
+http://c6.radioboss.fm:8089/autodj
+
+#RADIOBROWSERUUID:9646c036-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Chill Out
+http://79.111.14.76:9067/
+
+#RADIOBROWSERUUID:96079683-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Серебряный
+http://213.59.4.27:8000/stream48.mp3
+
+#RADIOBROWSERUUID:b37b2379-5b0b-11e9-a622-52543be04c81
+#EXTINF:1,Orthodox Chants
+http://orthodox-chants.ru:8000/128kb
+
+#RADIOBROWSERUUID:96427c67-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Black Metal
+http://79.120.77.11:9003/
+
+#RADIOBROWSERUUID:960b6384-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Capital FM Moscow
+http://icecast.vgtrk.cdnvideo.ru/capitalfmmp3
+
+#RADIOBROWSERUUID:3dd63f93-4d16-11e9-a4d7-52543be04c81
+#EXTINF:1,Radio Caprice - Liquid Funk
+http://79.111.119.111:8002/liquidfunk
+
+#RADIOBROWSERUUID:9b274cba-30c6-431f-b586-4910ec065f64
+#EXTINF:1,Радио Рекорд House Hits
+http://radiorecord.hostingradio.ru/househits96.aacp
+
+#RADIOBROWSERUUID:cfbe088e-df6e-11e9-a8ba-52543be04c81
+#EXTINF:1,Radio Caprice - Space Rock
+http://79.111.119.111:8000/spacerock
+
+#RADIOBROWSERUUID:9620af1f-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Psychedelic Rock
+http://79.111.119.111:9027/listen.pls
+
+#RADIOBROWSERUUID:9bba005f-71aa-4e5a-846f-42428b7104ed
+#EXTINF:1,RED FM
+http://www.icecast.redfm.ru:8000/REDFM192.m3u
+
+#RADIOBROWSERUUID:3a75deb5-3dbc-11e8-b74d-52543be04c81
+#EXTINF:1,Royal Trap
+http://193.33.170.218:8000/RoyalTrap
+
+#RADIOBROWSERUUID:961d7c0b-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Alt Country
+http://79.111.119.111:9103/
+
+#RADIOBROWSERUUID:896d5e59-2c6c-11e9-a35e-52543be04c81
+#EXTINF:1,Мария FM
+http://mariafm.ru:8000/maria-fm.mp3
+
+#RADIOBROWSERUUID:6c02556b-02fc-4bd3-a11f-454b74d7ebe4
+#EXTINF:1,Радио первый канал
+http://46.191.234.120:55000/live
+
+#RADIOBROWSERUUID:32440be9-e510-11e9-a96c-52543be04c81
+#EXTINF:1,Zaycev FM K-Pop
+https://zaycevfm.cdnvideo.ru/ZaycevFM_kpop_256.mp3
+
+#RADIOBROWSERUUID:7006a9c5-97c9-11e8-a767-52543be04c81
+#EXTINF:1,Promodj Top100
+http://radio.promodj.com/top100-192
+
+#RADIOBROWSERUUID:10807e2b-63d9-4cd5-beed-86cdee450fbe
+#EXTINF:1,Звезда ТВ🌟(ТВЧ)📺
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+
+#RADIOBROWSERUUID:f68bc39b-0f7a-4787-8aec-19da4f1daa8a
+#EXTINF:1,Радио СИ
+http://188.128.117.99:8000/radioc
+
+#RADIOBROWSERUUID:f1d48470-3ac9-11ea-8dd7-52543be04c81
+#EXTINF:1,WRN Rus
+http://shoutcast.wrn.org:8025/WRN-R
+
+#RADIOBROWSERUUID:cb48078d-4f1b-11e9-a4d7-52543be04c81
+#EXTINF:1,Zaycev fm pop
+http://zaycevfm.cdnvideo.ru/ZaycevFM_pop_128.mp3
+
+#RADIOBROWSERUUID:89ec6bdc-fce8-454a-b2a5-d019859d8917
+#EXTINF:1,Radio Caprice - Speedmetal
+http://79.111.119.111:8000/speedmetal
+
+#RADIOBROWSERUUID:8dff953e-e92b-4e05-ba07-863eb9d6b169
+#EXTINF:1,Radio Caprice - Folk Metal
+http://79.120.39.202:8000/folkmetal.m3u
+
+#RADIOBROWSERUUID:d987a1f5-b201-4483-8e3a-b99b134a2f33
+#EXTINF:1,Orthodox Chants
+http://orthodox-chants.ru:8000/128kb
+
+#RADIOBROWSERUUID:96148180-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Mayak - MP3 64kb/s
+http://online.gtrkchita.ru:8100/mayak64
+
+#RADIOBROWSERUUID:64fcc6f6-de56-4d84-a4a8-b9572c0096c4
+#EXTINF:1,Dzhon Radio
+http://i-radio.info:8090/stream
+
+#RADIOBROWSERUUID:da13bfcb-158b-11e9-a80b-52543be04c81
+#EXTINF:1,DIM FM
+http://stream3.radio-21.ru:8080/Dimfm-128-Ulyanovsk
+
+#RADIOBROWSERUUID:c0ba593e-deb1-4902-b63f-2a7cfd598a57
+#EXTINF:1,Радио Рекорд Lo-Fi
+http://radiorecord.hostingradio.ru/lofi96.aacp
+
+#RADIOBROWSERUUID:2a8536c3-a0a0-11e9-a787-52543be04c81
+#EXTINF:1,Radio Caprice - Mass/Chorus/Cantana
+http://79.120.39.202:8002/chorus
+
+#RADIOBROWSERUUID:bd87c63e-5848-42b4-b9e9-9ded33960c0c
+#EXTINF:1,Спутник
+http://audio2.video.ria.ru/voicerus
+
+#RADIOBROWSERUUID:20fa636d-baa4-46c8-80f0-2d62b27cb21e
+#EXTINF:1,101.ru Любэ
+https://pub0302.101.ru:8000/stream/pro/aac/64/158?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6Ij
+
+#RADIOBROWSERUUID:732bae83-1a25-11e8-a334-52543be04c81
+#EXTINF:1,Gay Moscow Radio
+http://s3.radioheart.ru:8027/gaymoscowradio
+
+#RADIOBROWSERUUID:bad410e0-6e67-4097-83a6-1d40dfec4868
+#EXTINF:1,Avtoradio 105.5 FM Serpukhov
+http://77.73.90.46:1055/avtoradio
+
+#RADIOBROWSERUUID:961192e7-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Native American
+http://79.111.119.111:9071/;
+
+#RADIOBROWSERUUID:581283d7-5030-4776-8f5c-6c71885ea90e
+#EXTINF:1,Юмор ФМ
+https://fed.fmplay.ru:8000/humor-32.aac
+
+#RADIOBROWSERUUID:ba5499dd-d47f-4c72-8629-85e8caeafeb9
+#EXTINF:1,JAZZ MANOUCHE / GYPSY JAZZ / GYPSY SWING - Radio Caprice
+http://79.120.77.11:8004/manouche
+
+#RADIOBROWSERUUID:bbe22a84-0de9-400b-896b-430fddc2ed4a
+#EXTINF:1,Radio Caprice - Heavy Metal
+http://79.111.14.76:8000/heavymetal.m3u
+
+#RADIOBROWSERUUID:3e9ce415-2411-11e9-a80b-52543be04c81
+#EXTINF:1,Orgasma sloboda
+http://listen2.orgasma.fm/sloboda
+
+#RADIOBROWSERUUID:debc0c84-b2f9-11e8-afe1-52543be04c81
+#EXTINF:1,Radio Caprice - Progressive Metal
+http://79.120.77.11:8002/progmetal
+
+#RADIOBROWSERUUID:7097d085-7266-11e9-af37-52543be04c81
+#EXTINF:1,Big Tunes Radio - Oldschool
+https://bigtunesradio.com:8000/oldschool.mp3
+
+#RADIOBROWSERUUID:9614c444-0601-11e8-ae97-52543be04c81
+#EXTINF:1,16Bit FM PRObeat Channel 192K stream#1 MOSCOW
+http://16bitfm.com:8000/main_mp3_192
+
+#RADIOBROWSERUUID:1836405c-b1f1-11e9-acb2-52543be04c81
+#EXTINF:1,EuropaPplus Party
+http://epdop.hostingradio.ru:8033//epparty128.mp3
+
+#RADIOBROWSERUUID:ba718fe1-b2fa-11e8-afe1-52543be04c81
+#EXTINF:1,Radio Caprice - Piano
+http://79.120.77.11:8002/piano
+
+#RADIOBROWSERUUID:7bee9647-c466-4c93-9450-86092a4ac846
+#EXTINF:1,Радио Рекорд - Супердискотека 90-х
+https://hls-01-radiorecord.hostingradio.ru/record-sd90/playlist.m3u8
+
+#RADIOBROWSERUUID:2c017506-175a-11ea-a620-52543be04c81
+#EXTINF:1,Radio Caprice - Stoner Rock
+http://79.111.119.111:9025/
+
+#RADIOBROWSERUUID:27ee1ab2-45af-4f2d-a420-294567aa36c8
+#EXTINF:1,101.ru СССР 30-50
+http://pub0302.101.ru:8000/stream/pro/aac/64/46
+
+#RADIOBROWSERUUID:68b283e7-29ea-478e-ac77-9f08f9682762
+#EXTINF:1,Radio Caprice - Medieval Music
+http://213.141.131.10:8000/medieval
+
+#RADIOBROWSERUUID:964117d5-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Радио "Редкие Рыбы" - Rare Fishes radio
+https://listen1.myradio24.com/8317
+
+#RADIOBROWSERUUID:d372e5d7-498c-47d0-9e9c-6c64a70bf620
+#EXTINF:1,Брежнев FM
+http://185.20.226.222:8000/brezhnev
+
+#RADIOBROWSERUUID:03636116-d1d3-4ef9-86e8-3ce1ef35b9ab
+#EXTINF:1,Radio Monte Carlo - Bossa Nova
+https://mc-mcbossa.hostingradio.ru/mcbossa96.aacp?listening-from-radio-garden=1645969315
+
+#RADIOBROWSERUUID:876788ce-0639-4118-b67f-d5d8050a4b03
+#EXTINF:1,Radio Caprice - Traditional Electronic
+http://79.111.14.76:8002/tradelectronic
+
+#RADIOBROWSERUUID:a4a7b490-e634-11e8-a9cc-52543be04c81
+#EXTINF:1,Радио Олимп
+http://online.olimpfm.ru:8000/olimp
+
+#RADIOBROWSERUUID:f3638b19-e63a-4d0b-b116-f1e834e5479c
+#EXTINF:1,RetroWave One Radio
+http://85.234.59.191:8000/stream
+
+#RADIOBROWSERUUID:97b61547-7b63-499c-929b-0baca54867bb
+#EXTINF:1,Radio Caprice - Power Metal
+http://79.120.77.11:8000/powermetal.m3u
+
+#RADIOBROWSERUUID:964f3d3e-0601-11e8-ae97-52543be04c81
+#EXTINF:1,16BIT FM I.D.E.A. Channel 192K stream#1 MOSCOW
+http://16bitfm.com:8000/idea_mp3_192
+
+#RADIOBROWSERUUID:1767124e-d30c-4d17-8273-530f515c6376
+#EXTINF:1,Радио Рекорд 80-х
+http://radiorecord.hostingradio.ru/198096.aacp
+
+#RADIOBROWSERUUID:8f29faf7-5672-481c-b56e-a531ed0e0d38
+#EXTINF:1,Radio Caprice - Neue Deutsche Härte
+http://213.141.131.10:8000/ndh.m3u
+
+#RADIOBROWSERUUID:7fddc129-b1f1-11e9-acb2-52543be04c81
+#EXTINF:1,EuropaPplus Urban
+http://epdop.hostingradio.ru:8033/ep-urban128.mp3
+
+#RADIOBROWSERUUID:603e9b6c-cfb1-44cf-b41f-23fbc6ac809e
+#EXTINF:1,Radio Caprice - Acoustic Guitar
+http://79.120.39.202:8000/acousticguitar.m3u
+
+#RADIOBROWSERUUID:5541c423-e898-4fbc-9fb7-d4562bf750e6
+#EXTINF:1,Радио Рекорд
+http://23.111.104.132:9010/rr_main
+
+#RADIOBROWSERUUID:a404381d-5419-11e8-b0ce-52543be04c81
+#EXTINF:1,Radio Caprice - Breakbeat
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://79.120.39.202:9051/listen.pls&t=.pls
+
+#RADIOBROWSERUUID:ee052392-bb7d-41da-a0f2-9d27f45aedb4
+#EXTINF:1,Radio Caprice-Gregorian Chant
+http://213.141.131.10:8002/chants
+
+#RADIOBROWSERUUID:96109e33-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Радио Континенталь
+http://stream01.radiocon.ru:8000/live.m3u
+
+#RADIOBROWSERUUID:68eb8989-e50f-11e9-a96c-52543be04c81
+#EXTINF:1,Zaycev FM Relax
+https://zaycevfm.cdnvideo.ru/ZaycevFM_relax_256.mp3
+
+#RADIOBROWSERUUID:de896f2b-4758-4748-9236-a2dff1c50995
+#EXTINF:1,Радио День
+https://radiopotok.ru/f/station_m3u/station_617.m3u
+
+#RADIOBROWSERUUID:8db67f2f-6dc0-4599-91e6-e6c384242493
+#EXTINF:1,HavenFM
+https://fr.havenband.ru/stream
+
+#RADIOBROWSERUUID:82b16073-0133-4893-882c-39b4834380eb
+#EXTINF:1,Ретро FM 80e (64 kbps, m3u8)
+http://hls-01-retro80.emgsound.ru/2/64/playlist.m3u8
+
+#RADIOBROWSERUUID:afb42642-71b9-11ea-b1cf-52543be04c81
+#EXTINF:1,rockfm.ru progressive
+https://jfm1.hostingradio.ru:14536/prog.mp3
+
+#RADIOBROWSERUUID:6a1341b8-1737-11e9-a80b-52543be04c81
+#EXTINF:1,Радио Томский Благовест
+http://176.65.38.3:8000/blagovest
+
+#RADIOBROWSERUUID:2eb3a74d-0a71-11ea-a87e-52543be04c81
+#EXTINF:1,Ностальгия - Дорожное радио
+http://stream1.hostingradio.ru:8010/19_mp3_128
+
+#RADIOBROWSERUUID:679274f4-b2f3-11e8-afe1-52543be04c81
+#EXTINF:1,Radio Caprice - Contemporary Jazz
+http://79.111.119.111:8002/contemporaryjazz
+
+#RADIOBROWSERUUID:962cabc8-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Death Doom Metal
+http://79.120.39.202:9007/
+
+#RADIOBROWSERUUID:96426965-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Betelgeuse / Радио Бетельгейзе
+http://sat.radio-betelgeuse.com:8000/live
+
+#RADIOBROWSERUUID:9dc82d50-2f8b-478b-b790-60737987627f
+#EXTINF:1,Radio Caprice - Russian Club Dance Music [1]
+http://79.120.77.11:8002/clubru
+
+#RADIOBROWSERUUID:6bd27b06-cbe7-4f9a-9b00-0bf3f11a0367
+#EXTINF:1,Chillout Radio by ECCOsea - HQ
+http://eccosea.com:9000/Chillout_HQ
+
+#RADIOBROWSERUUID:b39b7e65-2c6b-11e9-a35e-52543be04c81
+#EXTINF:1,Татар радиосы (Tatar Radiosi)
+http://stream.tatarradio.ru:2068/;stream/1
+
+#RADIOBROWSERUUID:9cec8bfa-825f-4081-81a0-55ac30cccbc9
+#EXTINF:1,Radio Caprice - Gothic Metal
+http://79.120.77.11:8002/gothicmetal
+
+#RADIOBROWSERUUID:a770be35-1869-11e8-9a35-52543be04c81
+#EXTINF:1,Zaycev FM
+https://zaycevfm.cdnvideo.ru/ZaycevFM_rus_64.aac
+
+#RADIOBROWSERUUID:49c160f5-db16-49a6-92ff-d664b32c1cdf
+#EXTINF:1,Детское Христианское Радио
+http://live.detskoeradio.org/radio.mp3
+
+#RADIOBROWSERUUID:6e285729-085e-4dc8-8305-531e5f5c11fe
+#EXTINF:1,Радио Рекорд Future Bass
+http://radiorecord.hostingradio.ru/fbass96.aacp
+
+#RADIOBROWSERUUID:14b0fe6c-eddf-411a-8cee-3c100da950fc
+#EXTINF:1,Radio Caprice - Drum 'n' Bass [2]
+http://79.111.14.76:8000/drumbass
+
+#RADIOBROWSERUUID:adcad839-f92a-4754-a0c5-1ad8340ae9f5
+#EXTINF:1,Radio Caprice Heavy blues
+http://79.120.77.11:9119/
+
+#RADIOBROWSERUUID:c65d3283-8b22-4181-aa73-99a516686d14
+#EXTINF:1,Wave Anime Radio
+https://otsu.s04.radio-tochka.com:4265/mount
+
+#RADIOBROWSERUUID:1f25f542-09de-4f78-b049-a1fe59fa0035
+#EXTINF:1,ultima.fm
+http://hls.ultima.fm:8000/ultima/laradio.mp3
+
+#RADIOBROWSERUUID:f4eb8505-0f89-415a-b7c6-070e79a70490
+#EXTINF:1,Radio Caprice Minimalism
+http://213.141.131.10:8000/minimalism
+
+#RADIOBROWSERUUID:4cbccef4-1b8e-4d00-95cc-ce213d51f7d4
+#EXTINF:1,Радио Рекорд Eurodance
+http://radiorecord.hostingradio.ru/eurodance96.aacp
+
+#RADIOBROWSERUUID:256c4873-a40a-4eff-8926-a0d06f8b2f10
+#EXTINF:1,Радио Рекорд Маятник Фуко
+http://radiorecord.hostingradio.ru/mf96.aacp
+
+#RADIOBROWSERUUID:6d79d7b9-8462-4aeb-8f16-9f7b52a2fe2e
+#EXTINF:1,101.ru Любэ
+https://pub0202.101.ru:8443/stream/pro/aac/64/158?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6Ijg4LjIyMy42OC44NCIsInVzZXJhZ2VudCI6Ik1vemlsbGFcLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjo5MS4wKSBHZWNrb1wvMjAxMDAxMDEgRmlyZWZveFwvOTEuMCBXYXRlcmZveFwvOTEuNC4yIiwidWlkX2NoYW5uZWwiOiIxNTgiLCJ0eXBlX2NoYW5uZWwiOiJjaGFubmVsIiwiZXhwIjoxNjQxNDk1ODAyfQ.2YgDCLuIC__-n8AY73kSBt8QOOhNqcfO5RQ6Snikehc
+
+#RADIOBROWSERUUID:ca7e6260-6bd5-4615-ac32-d38c57205117
+#EXTINF:1,STUDIO 21
+https://icecast-studio21.cdnvideo.ru/S21cl_1s
+
+#RADIOBROWSERUUID:9629fd74-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Electro House
+http://79.111.14.76:9075/
+
+#RADIOBROWSERUUID:1d209449-d62e-442d-bbd6-eb3bcf53ff67
+#EXTINF:1,Radio Caprice Industrial/Dark/Ritual Ambient
+http://79.120.39.202:8002/darkambient
+
+#RADIOBROWSERUUID:015801b6-2396-11e9-a80b-52543be04c81
+#EXTINF:1,MIR Premium TV
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+
+#RADIOBROWSERUUID:e83a1bb8-5a6b-11e8-b0ce-52543be04c81
+#EXTINF:1,Ретро FM Москва
+http://hls-01-retro.emgsound.ru/12/128/playlist.m3u8
+
+#RADIOBROWSERUUID:bb824676-8d83-423d-b7f2-b3100e82cbce
+#EXTINF:1,Zydeco / Cajun / Creole Music - Radio Caprice
+http://213.141.131.10:8002/zydeco
+
+#RADIOBROWSERUUID:3bb39345-6311-4744-8a6f-91912b91cec4
+#EXTINF:1,Radio Record Synthwave
+http://radiorecord.hostingradio.ru/synth96.aacp
+
+#RADIOBROWSERUUID:d60507e7-da30-4d8f-82d7-5a44ba0133ee
+#EXTINF:1,Радио Рекорд - Dream Dance
+https://hls-01-radiorecord.hostingradio.ru/record-dream/playlist.m3u8
+
+#RADIOBROWSERUUID:d174fe61-cc39-11e9-8502-52543be04c81
+#EXTINF:1,Радио Мята
+http://radio.dline-media.com/myata
+
+#RADIOBROWSERUUID:a888a1b2-e722-4e8b-8798-fb5fbc8838d9
+#EXTINF:1,Барнаул Вести
+http://gtrk22.ru:8000/vesti22
+
+#RADIOBROWSERUUID:a9bae3c0-3a7e-11e9-9b4e-52543be04c81
+#EXTINF:1,Около Джазза
+https://www.radioforest.net/radio/604292.pls?bitrate=256
+
+#RADIOBROWSERUUID:738a639b-8f64-4959-84af-6136cea81737
+#EXTINF:1,Новосибирск Городская волна
+http://online.gorvolna.ru:8000/gorvolna
+
+#RADIOBROWSERUUID:12e1c51a-aedf-4e43-9e8f-1912b98ba23e
+#EXTINF:1,Radio Record Uplifting
+https://str.pcradio.ru/record_uplift-hi
+
+#RADIOBROWSERUUID:e1f8ba34-15f2-11e8-ae97-52543be04c81
+#EXTINF:1,Radio DFM Ufa 91.5 FM
+http://92.50.177.134:8000/dfm_ufa
+
+#RADIOBROWSERUUID:ec2adc92-6165-40ad-b605-d2b87863e826
+#EXTINF:1,Радио Рекорд (основной канал)
+http://radiorecord.hostingradio.ru/rr_main96.aacp
+
+#RADIOBROWSERUUID:715ee16f-1a7f-4d82-9451-4a6df6eda983
+#EXTINF:1,Радио Рекорд Rap Classics
+http://radiorecord.hostingradio.ru/rapclassics96.aacp
+
+#RADIOBROWSERUUID:961ab766-0601-11e8-ae97-52543be04c81
+#EXTINF:1,DiscoverTranceRadio (MP3 LQ stereo 96kBit/s)
+http://www.discovertrance.com/DiscoverTrance-low.m3u
+
+#RADIOBROWSERUUID:b487c749-610e-413d-b960-3584958352a4
+#EXTINF:1,Открытое Слово
+https://rs.radioslovo.net:4275/stream?1619440624532
+
+#RADIOBROWSERUUID:d17218d6-3481-4021-b488-46a83912ffd5
+#EXTINF:1,Радио Рекорд Jungle
+http://radiorecord.hostingradio.ru/jungle96.aacp
+
+#RADIOBROWSERUUID:649beea0-5b30-11e9-a622-52543be04c81
+#EXTINF:1,Radio "Orthodox-chants" (64 kbps)
+http://orthodox-chants.ru:8000/64kb
+
+#RADIOBROWSERUUID:a15d6a19-3c6a-4bc6-ac70-de2a906683a3
+#EXTINF:1,Радио 7 - Музыка счастья
+http://hls-01-radio7-happiness.emgsound.ru/10/96/playlist.m3u8
+
+#RADIOBROWSERUUID:cfb9e951-11a0-450b-ba4c-6afe87499cde
+#EXTINF:1,VO TV  Russian
+http://votv.pp.ua/hls/online-ru-hotbird-high/playlist.m3u8
+
+#RADIOBROWSERUUID:b611e6e6-45fd-11ea-a860-52543be04c81
+#EXTINF:1,Radio Caprice WITCH HOUSE
+http://79.120.77.11:8002/witchhouse
+
+#RADIOBROWSERUUID:685ba884-847f-48aa-8c1e-9e459d354950
+#EXTINF:1,Вечеринка Ретро FM (64 kbps)
+http://hls-01-retro-vecherinka.emgsound.ru/20/64/playlist.m3u8
+
+#RADIOBROWSERUUID:3bd970e6-6f77-49a3-9546-3aff74fd945b
+#EXTINF:1,Radio Caprice - Nu Metal (128)
+http://79.111.14.76:8000/numetal
+
+#RADIOBROWSERUUID:492b96ce-629b-11e8-b15b-52543be04c81
+#EXTINF:1,Radio Caprice - Lo-Fi
+http://79.111.14.76:8000/lo-fi
+
+#RADIOBROWSERUUID:0915063c-cb95-49bb-97a2-5ffd35849213
+#EXTINF:1,Radio Caprice - Saxophone
+http://79.120.77.11:8000/saxophone?
+
+#RADIOBROWSERUUID:61e24c8a-fad7-4494-8856-56b12394e1b3
+#EXTINF:1,SW-Radio Russisch AAC
+http://segenswelle.de:8000/russ
+
+#RADIOBROWSERUUID:9623562e-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Jazz 89.1 FM
+http://nashe.streamr.ru/jazz-128.mp3.m3u
+
+#RADIOBROWSERUUID:b75e0adb-ec78-47bb-8459-145d22b6a782
+#EXTINF:1,Parice_fm novinki 2020
+https://stream.zeno.fm/uad2cu946qzuv
+
+#RADIOBROWSERUUID:82da0ba5-cbc8-11e8-a54a-52543be04c81
+#EXTINF:1,Metaradio
+http://s2.metaradio.ru/mradio.rbi1
+
+#RADIOBROWSERUUID:78be8a22-fed9-4df8-b1c6-3e5712fc5688
+#EXTINF:1,РЕТРО FM 320k
+http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
+
+#RADIOBROWSERUUID:5faae7eb-f58e-4c38-8fee-aeae75b69aa8
+#EXTINF:1,UltraFan
+http://radioultrafan.ru:8000/192
+
+#RADIOBROWSERUUID:90c69e5f-b2f4-11e8-afe1-52543be04c81
+#EXTINF:1,Radio Caprice - Neo-progressive Rock
+http://79.111.119.111:8002/neoprogrock
+
+#RADIOBROWSERUUID:78677595-7d16-40e3-8371-e1661290e774
+#EXTINF:1,Radio Caprice - Rock Ballads
+http://79.120.77.11:8000/rockballads.m3u
+
+#RADIOBROWSERUUID:dcafe6bd-5f7a-11e9-a622-52543be04c81
+#EXTINF:1,СВЕЖЕЕ Europa Plus
+http://hls-01-fresh.emgsound.ru/9/playlist.m3u8
+
+#RADIOBROWSERUUID:904bc329-68a9-41db-8544-740653b2fc94
+#EXTINF:1,DONAT FM - Шансон
+http://c6.radioboss.fm:8096/stream
+
+#RADIOBROWSERUUID:1875156e-2a22-4ecb-8b07-5d554d059ba3
+#EXTINF:1,Европа Плюс Уфа
+https://hls-01-regions.emgsound.ru/11_ufa/96/playlist.m3u8
+
+#RADIOBROWSERUUID:1327e76c-5ab1-4d04-91fe-be10bc0755b0
+#EXTINF:1,Имя радио: Новая волна (107,9 FM г.Владимир)
+https://icecast-trc33.cdnvideo.ru/stream
+
+#RADIOBROWSERUUID:39bc5cd2-dd2a-11e8-a9cc-52543be04c81
+#EXTINF:1,Graal Radio Stream Soace - Atmo Breaks
+http://graalradio.com:8123/space
+
+#RADIOBROWSERUUID:a675d6f7-28ce-4727-a014-09c19ec78a22
+#EXTINF:1,Ника FM Калуга
+https://radio.nikatv.ru/;.mp4
+
+#RADIOBROWSERUUID:1279d9ff-4a07-4178-a491-6f592712d8ee
+#EXTINF:1,Radio Caprice - Electro Techno [3]
+http://213.141.131.10:8004/electrotechno
+
+#RADIOBROWSERUUID:3e38f9f7-1e42-416e-b45c-c2629798f447
+#EXTINF:1,Radio Caprice - Psychedelic Folk
+http://213.141.131.10:8000/psychfolk.m3u
+
+#RADIOBROWSERUUID:5c9c5075-c7b9-4dc7-8463-6b37d518705f
+#EXTINF:1,Радио Рекорд VIP House
+http://radiorecord.hostingradio.ru/vip96.aacp
+
+#RADIOBROWSERUUID:9622bdc5-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Dark / Neo / Apocalyptic Folk
+http://79.111.119.111:9053/listen.pls
+
+#RADIOBROWSERUUID:702eca2f-0aa0-4f08-9747-45f2abb244cd
+#EXTINF:1,Radio Caprice - Music of Siberia & Mongolia
+http://79.111.119.111:8004/siberia
+
+#RADIOBROWSERUUID:e6fdf858-0731-46d7-8f79-ab69c3e37d5a
+#EXTINF:1,Radio Caprice - Female vocal in metal music
+http://79.111.14.76:8000/femalemetal?type=.mp3
+
+#RADIOBROWSERUUID:570d7dc0-6e4e-11e8-b15b-52543be04c81
+#EXTINF:1,Radio Classic FM Poetry
+http://jfm1.hostingradio.ru:14536/pcstream.mp3
+
+#RADIOBROWSERUUID:574b28f1-b2fb-11e8-afe1-52543be04c81
+#EXTINF:1,Radio Caprice - Easy Listening
+http://79.111.14.76:8002/easylistening
+
+#RADIOBROWSERUUID:4760f774-8aaf-4c35-b0a4-67026b0d32c0
+#EXTINF:1,Radio Caprice - Cyberpunk
+http://79.120.12.130:8004/cyberpunk
+
+#RADIOBROWSERUUID:ffd27e61-2f7d-4cd1-898c-e9e741d4bdce
+#EXTINF:1,Радио Рекорд - Russian Gold
+https://hls-01-radiorecord.hostingradio.ru/record-russiangold/playlist.m3u8
+
+#RADIOBROWSERUUID:50e1bbdd-2abc-4696-be20-cc619a6b26c1
+#EXTINF:1,МЭТР GOLDEN HITS
+http://178.208.82.95:8000/MGH
+
+#RADIOBROWSERUUID:3eeb41ca-5457-46d4-8d8c-16a20e8e73f2
+#EXTINF:1,Радио Славянский Мир
+http://hls-01-slavmir.hostingradio.ru/slavmir/96/playlist.m3u8
+
+#RADIOBROWSERUUID:7d9f0314-6848-4d15-8a0e-6f444efe2da4
+#EXTINF:1,Радио Bob Jazz - Chelyabinsk
+http://stream01.radiocon.ru:8000/bobjazz
+
+#RADIOBROWSERUUID:96453752-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Atm.Fm
+http://station-sound.ru:8000/pt-2
+
+#RADIOBROWSERUUID:81b64296-600b-429a-a5e3-5f4d56359761
+#EXTINF:1,Говорит Москва
+http://media.govoritmoskva.ru:8880/ru32.mp3
+
+#RADIOBROWSERUUID:a766146d-d522-4a55-aa33-b3e14a3550e0
+#EXTINF:1,Radio Record Chill House
+https://radiorecord.hostingradio.ru/organic96.aacp
+
+#RADIOBROWSERUUID:ddbf17ed-088d-4d50-8d3c-fc0b78b07da0
+#EXTINF:1,NRJ Energy 88.2 Уфа
+https://hitster.hostingradio.ru:8010/nrjufa128.mp3
+
+#RADIOBROWSERUUID:4cbc95e8-3356-42d1-b50e-8c521e084fa4
+#EXTINF:1,Soundpark
+http://95.213.237.115:8000/sp320
+
+#RADIOBROWSERUUID:810fc679-cc8c-46b8-809a-cc365e5fcb7e
+#EXTINF:1,СПРАВЕДЛИВАЯ РОССИЯ
+https://spravedlivo.hostingradio.ru:8022/spravedlivo128.mp3
+
+#RADIOBROWSERUUID:38a23769-f2a6-4f20-b3d7-a192d75817cd
+#EXTINF:1,Radio Caprice - Heavy Power Metal
+http://79.111.14.76:8000/heavypowermetal.m3u
+
+#RADIOBROWSERUUID:964f75d0-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Graal Future
+http://graalradio.com:8123/future
+
+#RADIOBROWSERUUID:3eb457dc-9ed6-426c-a55a-e7dc17a235f1
+#EXTINF:1,Радио Рекорд Rave FM
+http://radiorecord.hostingradio.ru/rave96.aacp
+
+#RADIOBROWSERUUID:cbebd137-976f-418a-b753-f09594e80502
+#EXTINF:1,101.ru Victory Day - День Победы
+https://pub0302.101.ru:8443/stream/pro/aac/64/178
+
+#RADIOBROWSERUUID:191da48e-2977-11e8-91bf-52543be04c81
+#EXTINF:1,PromoDJ - Too Deep
+http://radio.promodj.com:8000/toodeep-192
+
+#RADIOBROWSERUUID:ab8f8277-619e-11e8-b15b-52543be04c81
+#EXTINF:1,Радио Классик Classic Vocals
+http://jfm1.hostingradio.ru:14536/cvstream.mp3
+
+#RADIOBROWSERUUID:a2dbcc72-6b83-4b6d-a221-f2b5053ef319
+#EXTINF:1,Radio Caprice - Suomisaundi / Freeform Psytrance / Spugedelic Trance [2]
+http://79.120.77.11:8000/suomisaundi
+
+#RADIOBROWSERUUID:d2b9f6f4-2e2b-11e9-a35e-52543be04c81
+#EXTINF:1,Graal Radio Highway
+http://graalradio.com:8123/highway
+
+#RADIOBROWSERUUID:243c8986-c0d6-11e8-aaf2-52543be04c81
+#EXTINF:1,Rock FM
+http://nashe.streamr.ru/rock-128.mp3
+
+#RADIOBROWSERUUID:a4f7f09e-0b92-47ff-9c38-88fae37cdbd2
+#EXTINF:1,ЯсенБит 192Kbit/s
+http://radio.yasenbit.net:8000/yasenbit192k
+
+#RADIOBROWSERUUID:961de578-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Dub
+http://79.111.14.76:9029/
+
+#RADIOBROWSERUUID:a0033d33-aaf8-4c6f-86c6-84728841f6a7
+#EXTINF:1,Ретро FM 80e (32 kbps, m3u8)
+http://hls-01-retro80.emgsound.ru/2/32/playlist.m3u8
+
+#RADIOBROWSERUUID:5c1becf4-d9f0-4e96-8a10-7088c19fdd05
+#EXTINF:1,101.ru: Виктор Цой и группа «КИНО»
+http://pub0302.101.ru:8000/stream/pro/aac/64/103?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6Ijc4LjEwMi4yMzEuMTYiLCJ1c2VyYWdlbnQiOiJNb3ppbGxhXC81LjAgKFdpbmRvd3MgTlQgNi4zOyBXaW42NDsgeDY0OyBydjo5NS4wKSBHZWNrb1wvMjAxMDAxMDEgRmlyZWZveFwvOTUuMCIsInVpZF9jaGFubmVsIjoiMTAzIiwidHlwZV9jaGFubmVsIjoiY2hhbm5lbCIsImV4cCI6MTY0MDY4NTcwNH0.lnoDlTGctdMYI221sL4xM2B60tGLcLY5nYiv8bu1vNs
+
+#RADIOBROWSERUUID:b3f0403b-b228-11e9-acb2-52543be04c81
+#EXTINF:1,DWG Radio ru
+https://server32349.streamplus.de/;stream.mp3
+
+#RADIOBROWSERUUID:96416f86-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Cool Jazz
+http://79.120.39.202:9085/;
+
+#RADIOBROWSERUUID:f9c3e4a3-22db-427d-ae87-1d36f025c519
+#EXTINF:1,Clarinet, oboe, bassoon
+http://213.141.131.10:8002/clarinet
+
+#RADIOBROWSERUUID:6a7f1af3-aebb-4a93-a416-d07107518b00
+#EXTINF:1,Lounge Vibes
+http://stream.zeno.fm/n35hs4hcmzzuv
+
+#RADIOBROWSERUUID:a38fbecf-61f6-4f69-87ab-76607f05f4d3
+#EXTINF:1,Radio Caprice - Symponic Metal
+http://79.120.77.11:8004/symphometal
+
+#RADIOBROWSERUUID:016bd78f-238b-11e9-a80b-52543be04c81
+#EXTINF:1,Ugra TV
+http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/chunklist_b7192000.m3u8
+
+#RADIOBROWSERUUID:cdf06b22-cabb-49d6-8505-a4fea17df1c6
+#EXTINF:1,Благо
+https://live.radioblago.ru/live-2.ogg
+
+#RADIOBROWSERUUID:1f0ce089-b50e-4d2c-9e81-0c7352fe59cd
+#EXTINF:1,Свободное радио 
+http://nradio.net/freemp3
+
+#RADIOBROWSERUUID:05c2da07-2c6b-11e9-a35e-52543be04c81
+#EXTINF:1,БИМ-радио
+http://av.bimradio.ru:8066/bim_mp3_128k
+
+#RADIOBROWSERUUID:e910b141-9ab0-47be-bf7e-33d63d3807c4
+#EXTINF:1,Anima Amoris Deep Tech House
+https://amoris.sknt.ru/deeptech.mp3
+
+#RADIOBROWSERUUID:f51e5bac-175b-47c6-b5ef-b4138259758c
+#EXTINF:1,VostokFM-MSK
+https://air2.volna.top/VostokFM-MSK
+
+#RADIOBROWSERUUID:340943b9-96aa-46d3-8a51-14d0ab88792a
+#EXTINF:1,Звезда ТВ🌟(ТСЧ)
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+
+#RADIOBROWSERUUID:808b9ee0-b2ea-11e8-afe1-52543be04c81
+#EXTINF:1,Radio Caprice - Cello / Violoncelo
+http://79.111.14.76:8002/cello
+
+#RADIOBROWSERUUID:2ea918d2-e9e3-11e9-a96c-52543be04c81
+#EXTINF:1,Балтик Плюс
+http://bp.koenig.ru:8000/Baltic_Plus_mp3_128.mp3
+
+#RADIOBROWSERUUID:ac737e16-5a55-11e9-a622-52543be04c81
+#EXTINF:1,Radio Caprice - Organ Music
+http://79.120.77.11:8002/organ
+
+#RADIOBROWSERUUID:1557885d-00c3-4421-bb46-3ac43ab72e0e
+#EXTINF:1,Radio Caprice - Metal Groove (128k)
+http://79.120.39.202:8004/groovemetal
+
+#RADIOBROWSERUUID:d098d6c3-cfe4-4d4b-916d-f6dc055f9690
+#EXTINF:1,Radio Caprice - Minimal Tech House [1]
+http://79.111.119.111:8002/mintechhouse
+
+#RADIOBROWSERUUID:9844d092-3c18-46d9-b812-75dfea6b94d0
+#EXTINF:1,Radio Caprice - Minimal Tech House [3]
+http://79.111.119.111:8004/mintechhouse
+
+#RADIOBROWSERUUID:efb36d12-e145-4caf-9c7e-1283e00d8b96
+#EXTINF:1,RadioMv.com | Russian Old Testament (128Kbps)
+https://ice.radiomv.co:8440/russian_old_testament.mp3
+
+#RADIOBROWSERUUID:9da77d2d-2977-11e8-91bf-52543be04c81
+#EXTINF:1,PromoDJ - Yoo
+http://radio.promodj.com:8000/yo-192
+
+#RADIOBROWSERUUID:7e3b2ab1-6f95-4bc4-988f-c575427e510b
+#EXTINF:1,101.ru Любэ
+https://pub0101.101.ru/stream/pro/aac/64/158
+
+#RADIOBROWSERUUID:356e423a-c730-4260-92c2-b2ac94a6a33c
+#EXTINF:1,PromoDJ TOP-100
+http://radio.promodj.com/top100
+
+#RADIOBROWSERUUID:daad83e4-5125-415c-9005-bb8f347d908b
+#EXTINF:1,Radio Caprice - Drum 'n' Bass [3]
+http://79.111.14.76:8004/drumbass
+
+#RADIOBROWSERUUID:ba299aa5-81ed-4a00-abeb-74539bcd3192
+#EXTINF:1,Восток FM 64
+https://stream2.n340.com:8443/18_vostok_64_reg_1?type=.aac&UID=EC5491F18FAAB118956F9F115B96A498
+
+#RADIOBROWSERUUID:a05df5ad-b2fb-11e8-afe1-52543be04c81
+#EXTINF:1,Radio Caprice - Neoclassical Music
+http://79.120.39.202:8002/neoclassical
+
+#RADIOBROWSERUUID:27e4e138-615f-4e92-b22e-886a787fd87f
+#EXTINF:1,Alex
+https://myradio24.org/walcon
+
+#RADIOBROWSERUUID:2a116dbb-b2c2-11e8-afe1-52543be04c81
+#EXTINF:1,KEXXX FM
+http://listen6.myradio24.com:9000/5390
+
+#RADIOBROWSERUUID:27039d46-8593-4ea1-aaeb-0190f21b1baa
+#EXTINF:1,Radio Caprice - Downtempo / Downbeat [2]
+http://79.120.77.11:8000/downtempo
+
+#RADIOBROWSERUUID:8927bae9-411b-4d12-aa8b-2546eda90cdc
+#EXTINF:1,Radio CAFE
+http://s03.radio-tochka.com:6045/;stream.nsv
+
+#RADIOBROWSERUUID:201e3643-c0ef-11e9-8502-52543be04c81
+#EXTINF:1,Радио России Томск
+http://www.tvtomsk.ru:8000/russia
+
+#RADIOBROWSERUUID:8a5a0bc8-d8ba-4bc6-8683-6e7021dff9c3
+#EXTINF:1,Radio Caprice - Russian Pop music 80-90's
+http://79.120.77.11:8002/80ru
+
+#RADIOBROWSERUUID:8856dcb8-5a51-11e9-a622-52543be04c81
+#EXTINF:1,Radio Caprice - Orthodox Spiritual Music
+http://79.111.14.76:8002/orthodox
+
+#RADIOBROWSERUUID:64b0967d-c5b4-4aa8-b40d-10fbaa413693
+#EXTINF:1,AngelsRadio
+http://channel.angelsradio.ru:9000/angels
+
+#RADIOBROWSERUUID:61052a63-7168-49d1-8643-4df4cf35a316
+#EXTINF:1,Радио Монте Карло Песни оЛюбви
+https://mc-pesniolyubvi.hostingradio.ru/pesniolyubvi96.aacp?95a0
+
+#RADIOBROWSERUUID:56363639-4dfd-4354-a4cf-16f56c70c851
+#EXTINF:1,Radio Caprice - Love Songs
+http://79.120.39.202:8004/erotic
+
+#RADIOBROWSERUUID:c8a459da-3dbc-11e8-b74d-52543be04c81
+#EXTINF:1,Royal 98,6 FM
+http://185.39.195.90:8000/royal_live
+
+#RADIOBROWSERUUID:a02b959a-7c66-11e9-aa30-52543be04c81
+#EXTINF:1,Mega Radio
+http://stream.megaradio.pro/MegaRadio48
+
+#RADIOBROWSERUUID:64ad4a90-b2ef-11e8-afe1-52543be04c81
+#EXTINF:1,Radio Caprice - Bossa Nova
+http://79.111.14.76:8002/bossanova
+
+#RADIOBROWSERUUID:92d640be-4031-4f96-b471-40bf7532f451
+#EXTINF:1,Radio Caprice - Post-rock
+http://79.111.14.76:8004/postrock
+
+#RADIOBROWSERUUID:0ebe3b8d-3b42-4a08-880d-3d5691058dbe
+#EXTINF:1,Радио Рекорд Trap
+http://radiorecord.hostingradio.ru/trap96.aacp
+
+#RADIOBROWSERUUID:ba3477ca-f6b4-4ac9-a33f-e1d45c84e8f2
+#EXTINF:1,Anima Amoris IDM
+https://amoris.sknt.ru/idm.mp3
+
+#RADIOBROWSERUUID:4dcc8231-f338-4b7b-b1a2-bcdf725e59a3
+#EXTINF:1,101.ru Bard songs - Авторская Песня
+http://ic6.101.ru:8000/stream/pro/aac/64/35
+
+#RADIOBROWSERUUID:43e64ad6-ac2c-4765-8b57-a69dd0aca6ce
+#EXTINF:1,Радио Монте Карло - Meditation
+https://mc-meditation.hostingradio.ru/meditation96.aacp
+
+#RADIOBROWSERUUID:962e7288-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Punk
+http://79.120.77.11:9045/
+
+#RADIOBROWSERUUID:28864ad0-6505-485c-914e-e64772039fc7
+#EXTINF:1,РАДИО СТОЛИЦА
+https://myradio24.org/1458
+
+#RADIOBROWSERUUID:2006984b-601f-433e-969a-6f827eff01fb
+#EXTINF:1,Like FM Moscow, Russia
+http://pub0302.101.ru:8000/stream/air/aac/64/219
+
+#RADIOBROWSERUUID:acfc6c65-e69a-11e9-a96c-52543be04c81
+#EXTINF:1,Ностальгия FM
+http://93.189.147.117:8000/nostalgia64.aac
+
+#RADIOBROWSERUUID:7bf00d34-b2e7-11e8-afe1-52543be04c81
+#EXTINF:1,Radio Caprice - Celtic
+http://79.111.14.76:8002/celtic
+
+#RADIOBROWSERUUID:f2508ebb-36ca-488e-81a6-c850fef32271
+#EXTINF:1,Радио Рекорд - Technopop
+https://hls-01-radiorecord.hostingradio.ru/record-technopop/playlist.m3u8
+
+#RADIOBROWSERUUID:fa9d5209-9288-4d9d-908e-836b279c1f71
+#EXTINF:1,Radio Caprice - Pop rock / soft rock / power pop
+http://79.120.77.11:8002/poprock
+
+#RADIOBROWSERUUID:2cbba83f-f6ac-488f-8eef-9e675ea57905
+#EXTINF:1,Radio Caprice - Dream Trance
+http://79.120.39.202:8002/dreamtrance
+
+#RADIOBROWSERUUID:eaa33085-ed50-4dce-88aa-a02846513452
+#EXTINF:1,RadCap - Symphonic Death Metal
+http://213.141.131.10:8000/symphodeath.m3u
+
+#RADIOBROWSERUUID:2b832c3e-fb73-4116-be08-5abf86ff42c6
+#EXTINF:1,RadioMv.com | Russian Christian Radio
+http://142.44.243.11:2202/;
+
+#RADIOBROWSERUUID:0d73733d-5fdd-4c97-91ad-02d96514652c
+#EXTINF:1,RadioMv.com | Russian Kids (24Kbps)
+http://ru-kh-low.radiomv.co:1210/;
+
+#RADIOBROWSERUUID:fa350362-6859-4135-b906-2135b084479c
+#EXTINF:1,Радио Рекорд Gold
+http://radiorecord.hostingradio.ru/gold96.aacp
+
+#RADIOBROWSERUUID:417e89f0-9f5e-4d16-a68a-6e00fb0de6ce
+#EXTINF:1,Radio Caprice - Symphonic Power Metal
+http://213.141.131.10:8000/symphopower.m3u
+
+#RADIOBROWSERUUID:36308feb-29f3-11e9-96d1-52543be04c81
+#EXTINF:1,CHANSON
+http://chanson.hostingradio.ru:8041/chanson128.mp3?md5=2eMCvcYXPx0fjyorGnLWuw&e=1545675080
+
+#RADIOBROWSERUUID:9614859a-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Mayak - AAC+ 32kb/s
+http://online.gtrkchita.ru:8100/mayak32aacp
+
+#RADIOBROWSERUUID:d6413007-80c9-471a-a3a0-d4c2e94411ed
+#EXTINF:1,Radio Caprice - Electroclash / Synthcore / Tech Pop / Nouveau Disco [1]
+http://79.120.39.202:8002/electroclash
+
+#RADIOBROWSERUUID:dcbfa1fe-693b-4bec-94b3-e9c3e2e56111
+#EXTINF:1,Power FM Murmansk
+https://radio-node-4.dline-media.com/powerhit128
+
+#RADIOBROWSERUUID:a4428c4a-0cf9-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Flute
+http://79.111.14.76:9101/;
+
+#RADIOBROWSERUUID:767d0e62-dcb3-45d8-8832-c16b70610e29
+#EXTINF:1,Зайцев.FM Хвиля
+https://zaycevfm.cdnvideo.ru/ZaycevFM_hvilya_256.mp3
+
+#RADIOBROWSERUUID:4740845c-1647-11e9-a80b-52543be04c81
+#EXTINF:1,Страна FM
+http://icecast.stranafm.cdnvideo.ru/stranafm
+
+#RADIOBROWSERUUID:1feaa38f-bff0-11e8-aaf2-52543be04c81
+#EXTINF:1,Radio Caprice - Hammond Organ
+http://79.120.39.202:9079/
+
+#RADIOBROWSERUUID:251e6b0c-2536-4a15-a948-2f6bbf5fb14b
+#EXTINF:1,Radio Record Lo-Fi
+https://radiorecord.hostingradio.ru/lofi96.aacp
+
+#RADIOBROWSERUUID:96486e75-0601-11e8-ae97-52543be04c81
+#EXTINF:1,KEYGEN FM (OGG)
+http://stream.keygen-fm.ru:8042/live.ogg.m3u
+
+#RADIOBROWSERUUID:82919afc-b49f-45b2-9eb8-74a00dc5c90e
+#EXTINF:1,Alex
+https://myradio24.org/walcon
+
+#RADIOBROWSERUUID:da8fff1b-2977-11e8-91bf-52543be04c81
+#EXTINF:1,PromoDJ - Pop
+http://radio.promodj.com/pop-192
+
+#RADIOBROWSERUUID:8c876a9d-8956-4082-bda3-01f4d18b1d4e
+#EXTINF:1,Zaycev.fm-Шансон/Москва/128-MP3
+http://zaycevfm.cdnvideo.ru/ZaycevFM_shanson_128.mp3
+
+#RADIOBROWSERUUID:da2444ae-42be-48fa-a652-f5db15db8983
+#EXTINF:1,Радио Рекорд Руки Вверх!
+http://radiorecord.hostingradio.ru/rv96.aacp
+
+#RADIOBROWSERUUID:6127cfeb-0004-4bb3-a28f-4bc16374422c
+#EXTINF:1,Радио Рекорд Гор FM
+http://radiorecord.hostingradio.ru/gop96.aacp
+
+#RADIOBROWSERUUID:491da56b-6409-4687-b7e2-586cc1110a0f
+#EXTINF:1,Радио Рекорд Веснушка FM
+http://radiorecord.hostingradio.ru/deti96.aacp
+
+#RADIOBROWSERUUID:a2a7607a-71ba-11ea-b1cf-52543be04c81
+#EXTINF:1,rockfm.ru rock80s
+https://jfm1.hostingradio.ru:14536/rock80.mp3
+
+#RADIOBROWSERUUID:6cc8ec34-404e-11e9-aa55-52543be04c81
+#EXTINF:1,Radio Caprice - Abstract Hip-hop
+http://79.111.14.76:9093/;stream/1
+
+#RADIOBROWSERUUID:ec3f930b-238e-11e9-a80b-52543be04c81
+#EXTINF:1,Vmeste RF TV
+http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
+
+#RADIOBROWSERUUID:777b6eff-5dfe-45a6-906e-fe8df7baf1fc
+#EXTINF:1,Radio Caprice Sinphonic Music
+http://79.120.77.11:9019/
+
+#RADIOBROWSERUUID:0e11c0b4-8edf-42ea-a32d-267d704eb4de
+#EXTINF:1,shocolate 98fm
+https://choco.hostingradio.ru:10010/fm
+
+#RADIOBROWSERUUID:98d1b72a-8044-11e9-aa30-52543be04c81
+#EXTINF:1,Радио Сектор / Sector Nota (flac)
+http://89.223.45.5:8000/nota-flac
+
+#RADIOBROWSERUUID:f6e71bc7-f0fe-11e8-a471-52543be04c81
+#EXTINF:1,ZIKKURAT-RADIO
+http://46.105.180.202:8077/stream
+
+#RADIOBROWSERUUID:9636e8f8-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Jazz 89.1 - JAZZ Legends
+http://jfm1.hostingradio.ru:14536/jlstream.mp3
+
+#RADIOBROWSERUUID:14fdafb5-3b8b-499b-aaa4-4aec802fab8f
+#EXTINF:1,Radio Caprice - Oldies
+http://79.120.77.11:8004/oldies
+
+#RADIOBROWSERUUID:d9876efe-fbd8-4b09-a352-1bf80e978a20
+#EXTINF:1,URALSOUND FM | DEEP RADIO
+http://188.17.157.29:8000/uralsoundfm.m3u
+
+#RADIOBROWSERUUID:7f79ab9a-1362-11e9-a80b-52543be04c81
+#EXTINF:1,Алания FM
+http://vgtrk15.hostingradio.ru:8011/vgtrk15128.mp3
+
+#RADIOBROWSERUUID:5ca01c69-efc7-4422-a759-ce4a2416a11f
+#EXTINF:1,Radiola
+https://radiola.hostingradio.ru/radiola_eka_64.aac
+
+#RADIOBROWSERUUID:fc842c49-91d9-4a34-9aa9-ed49515f3285
+#EXTINF:1,Radio AnimKLATU
+https://stream.laut.fm/animklatu
+
+#RADIOBROWSERUUID:9b24fd06-ef49-11e9-a96c-52543be04c81
+#EXTINF:1,Radio Caprice - Symphonic Rock
+http://79.120.39.202:8002/symphorock
+
+#RADIOBROWSERUUID:6076a0e4-a314-11e8-abb8-52543be04c81
+#EXTINF:1,Trance Century Radio
+http://109.105.59.27:8000/tcr192
+
+#RADIOBROWSERUUID:96292f3f-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Classical Piano
+http://79.120.39.202:9069/;
+
+#RADIOBROWSERUUID:9611911f-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Psybient
+http://79.111.14.76:9023/;
+
+#RADIOBROWSERUUID:7cfea78d-8db9-44dc-a308-437eeaf71a9e
+#EXTINF:1,Первое Спортивное
+https://icecast-radiosport.cdnvideo.ru/radio_sport_moscow
+
+#RADIOBROWSERUUID:962c20a9-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Harmonica Blues
+http://79.120.39.202:9081/
+
+#RADIOBROWSERUUID:fc792aad-1dec-4a91-94a1-3c5d1d183d30
+#EXTINF:1,Радио Монте Карло - Wonderful Blues
+https://mc-blues.hostingradio.ru/blues96.aacp
+
+#RADIOBROWSERUUID:b5cc328c-5f4f-11e9-a622-52543be04c81
+#EXTINF:1,Радио Лайк ФМ Москва 87,9
+http://ic7.101.ru:8000/v12_1?
+
+#RADIOBROWSERUUID:78c48ebf-ea50-418a-a155-bb9b232a2545
+#EXTINF:1,Radio Caprice - Athmospheric Doom Metal
+http://213.141.131.10:8002/atmosphericdoom
+
+#RADIOBROWSERUUID:3acdab07-aee8-4875-8d27-adbb8c6ae95c
+#EXTINF:1,Royal Radio Lounge
+https://lounge.royalmusic.keenetic.pro/
+
+#RADIOBROWSERUUID:1e0c10a3-214e-4cfd-9c19-241e4c37decf
+#EXTINF:1,Caprise Eurodance
+http://79.120.39.202:9003/
+
+#RADIOBROWSERUUID:c66ca422-2bb8-4263-84d3-46cbf2451c79
+#EXTINF:1,РАДИО РЕКОРД 256k
+http://radiorecord.hostingradio.ru/rr_spb
+
+#RADIOBROWSERUUID:4395a02f-f749-47c9-b4b3-ef30b98d67e3
+#EXTINF:1,Parice_fm Retro
+https://stream.zeno.fm/seedhh4zetzuv
+
+#RADIOBROWSERUUID:a8b978aa-29bc-4468-9ea0-8a45e4c1413c
+#EXTINF:1,RadioMv.com | Russian New Testament (24Kbps)
+http://ru-nt-low.radiomv.co:1212/;
+
+#RADIOBROWSERUUID:c589af7b-ff36-4937-a80a-a71a1592f847
+#EXTINF:1,Radio Caprice - Melodic Heavy Metal
+http://79.111.119.111:8000/melodicheavy.m3u
+
+#RADIOBROWSERUUID:0f129823-2b5b-4ea3-a4f9-d1e6eeddf1bf
+#EXTINF:1,Radio Caprice - Epic Metal
+http://79.111.119.111:8000/epicmetal.m3u
+
+#RADIOBROWSERUUID:896a7b65-55fa-406b-8aa3-e92a149c5581
+#EXTINF:1,Radio Caprice - Hard Bob
+http://79.111.14.76:8000/hardbop.m3u
+
+#RADIOBROWSERUUID:785ffadb-7c12-4577-a79e-ab037765794c
+#EXTINF:1,smooth
+http://jfm1.hostingradio.ru:14536/sjstream.mp3
+
+#RADIOBROWSERUUID:34aed61f-f87f-4e99-87d4-2d8a11491805
+#EXTINF:1,Radio Caprice - Melodic Death Metal
+http://79.120.77.11:8000/melodicdeath.m3u
+
+#RADIOBROWSERUUID:3d15593b-43a7-48c1-b499-e692d952e6b0
+#EXTINF:1,Радио Jazz
+http://nashe1.hostingradio.ru/jazz-256
+
+#RADIOBROWSERUUID:9a544b89-b2ef-11e8-afe1-52543be04c81
+#EXTINF:1,Radio Caprice - Dixieland
+http://79.120.39.202:8002/dixieland
+
+#RADIOBROWSERUUID:bf59092f-0785-11e9-a80b-52543be04c81
+#EXTINF:1,Приморская Волна 90.0 FM
+http://inhold.org:8000/primvolna-ussuriysk
+
+#RADIOBROWSERUUID:eb441ed2-fef9-11e9-bbf2-52543be04c81
+#EXTINF:1,PromoDJ Full Moon
+https://radio.promodj.com/fullmoon
+
+#RADIOBROWSERUUID:d3f02e34-e510-11e9-a96c-52543be04c81
+#EXTINF:1,Zaycev FM Bass
+https://zaycevfm.cdnvideo.ru/ZaycevFM_bass_256.mp3
+
+#RADIOBROWSERUUID:3b9ea753-1779-4437-b87e-ca2c2ce7c224
+#EXTINF:1,16Bit.FM Cafe
+http://16bitfm.com:8000/cafe_mp3_128
+
+#RADIOBROWSERUUID:859609d3-c0ee-11e9-8502-52543be04c81
+#EXTINF:1,Радио России Чита
+http://online.gtrkchita.ru:8100/radiorus64
+
+#RADIOBROWSERUUID:4e5e93d9-fbf6-406b-afa6-d7406d4c0f1e
+#EXTINF:1,Радио 7 - Музыка любви
+http://hls-01-radio7-love.emgsound.ru/8/96/playlist.m3u8
+
+#RADIOBROWSERUUID:af8b7f22-d44f-411b-8966-a1eed269a8bf
+#EXTINF:1,Русская Волна
+https://ru2.volna.top/RuWave48
+
+#RADIOBROWSERUUID:2302d1ec-e43b-4191-8834-90ea3dac3e42
+#EXTINF:1,Radio Caprice - Art Rock
+http://79.120.39.202:8000/artrock
+
+#RADIOBROWSERUUID:8cbd2268-e83e-489d-a059-187167358177
+#EXTINF:1,Radio Record Future House
+http://radiorecord.hostingradio.ru/fut96.aacp
+
+#RADIOBROWSERUUID:da9ad2f7-10a7-11e9-a80b-52543be04c81
+#EXTINF:1,Wasteland Radio (128 kbps)
+http://wasteland.su:8080/radio
+
+#RADIOBROWSERUUID:e7bc85d6-3f7c-11e9-aa55-52543be04c81
+#EXTINF:1,Ашҡаҙар
+http://radio.mediacdn.ru/ashkadar.mp3
+
+#RADIOBROWSERUUID:72da720b-2473-4bae-bf2b-3b0c74c6515f
+#EXTINF:1,Radio Caprice - Ballroom Dance
+http://79.111.14.76:9089/
+
+#RADIOBROWSERUUID:c1973549-71c2-11ea-b1cf-52543be04c81
+#EXTINF:1,Наше Радио СПБ
+https://nashe1.hostingradio.ru:80/nashespb128.mp3
+
+#RADIOBROWSERUUID:670c98e3-5347-4912-a90c-60974e3db805
+#EXTINF:1,Радио Рекорд GOA/PSY
+http://radiorecord.hostingradio.ru/goa96.aacp
+
+#RADIOBROWSERUUID:96176e13-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Зайцев.FM (Zaycev FM) New Rock
+https://zaycevfm.cdnvideo.ru/ZaycevFM_alternative_256.mp3
+
+#RADIOBROWSERUUID:a7e94899-4ee2-4292-bf37-2608964c58d0
+#EXTINF:1,Ataman.fm
+https://myradio24.org/ataman
+
+#RADIOBROWSERUUID:96420d3a-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Suomisaundi / Freeform Psytrance
+http://79.120.77.11:9147/;
+
+#RADIOBROWSERUUID:5bbaeb6f-049c-49dc-907d-c7ec8caf49a6
+#EXTINF:1,рекорд чилл
+http://radiorecord.hostingradio.ru/chil96.aacp
+
+#RADIOBROWSERUUID:64b958b6-404f-11e9-aa55-52543be04c81
+#EXTINF:1,Radio Caprice - Hip-hop
+http://79.120.77.11:9067/;stream/1
+
+#RADIOBROWSERUUID:51b523e7-a055-11e8-a9f3-52543be04c81
+#EXTINF:1,DFM Nizhny Novgorod 94.7 FM
+http://176.67.240.10:8000/DFM-NN(128)?param=n
+
+#RADIOBROWSERUUID:964e520c-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Радио Сектор / Sector Progressive
+http://89.223.45.5:8000/progressive-160
+
+#RADIOBROWSERUUID:31e57d17-ba61-4c63-9a1b-a2555ae6074e
+#EXTINF:1,Melon Radio Soulful
+http://stream.melonradio.com/soulful
+
+#RADIOBROWSERUUID:2f44e86c-28ef-4a5a-841f-74d2e20679fc
+#EXTINF:1,Radio Caprice - Neurofunk
+http://79.111.119.111:8004/neurofunk
+
+#RADIOBROWSERUUID:299be297-681d-48b4-9329-1a1b36eab278
+#EXTINF:1,Radio Caprice - Ethnic Electronica
+http://79.120.39.202:8004/ethnotronica
+
+#RADIOBROWSERUUID:30b38ce8-295e-11ea-aa0c-52543be04c81
+#EXTINF:1,russian radio golden gramophone
+http://rr-zolotoigrammofon.hostingradio.ru/zolotoigrammofon96.aacp
+
+#RADIOBROWSERUUID:f4d3ca7d-9e35-4f5d-b7c7-7ceeb51ece57
+#EXTINF:1,Radio Caprice - Sonatas
+http://213.141.131.10:8000/sonata
+
+#RADIOBROWSERUUID:b72ab256-c0ec-11e9-8502-52543be04c81
+#EXTINF:1,Радио России Челябинск
+http://radiorusd.cheltv.ru/stream
+
+#RADIOBROWSERUUID:dbda0e65-b1f1-11e9-acb2-52543be04c81
+#EXTINF:1,EuropaPplus Residance
+http://mp3128.residance.streamr.ru/
+
+#RADIOBROWSERUUID:96259855-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Progressive Metal
+http://79.120.77.11:8000/progmetal
+
+#RADIOBROWSERUUID:4bfdee5a-cc91-49c8-a42f-a1f5d9e165c2
+#EXTINF:1,Soundpark Deep
+https://radiotoolkit.com/spdeep320.m3u
+
+#RADIOBROWSERUUID:4dd48108-a67c-46ef-81bd-528876649a48
+#EXTINF:1,Radio Record BREAKS AAC
+https://radiorecord.hostingradio.ru/brks96.aacp
+
+#RADIOBROWSERUUID:3a3d8a53-b29b-4e06-9405-c28c7ac69bd5
+#EXTINF:1,Радио Рекорд Hypnotic
+http://radiorecord.hostingradio.ru/hypno96.aacp
+
+#RADIOBROWSERUUID:9dcf8c77-b69c-4914-9eae-491548ba1b83
+#EXTINF:1,101.ru Стас Михайлов
+http://pub0201.101.ru:8000/stream/pro/aac/64/154?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjE3OC4yMzQuMTYuMTM5IiwidXNlcmFnZW50IjoiTW96aWxsYVwvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjgzLjApIEdlY2tvXC8yMDEwMDEwMSBGaXJlZm94XC84My4wIiwidWlkX2NoYW5uZWwiOiIxNTQiLCJ0eXBlX2NoYW5uZWwiOiJjaGFubmVsIiwiZXhwIjoxNjA5MzQ3ODA5fQ.yfZ7mXPRXBji-XuWbVXngAb3hpj9bLiPWNGimuqLCSM
+
+#RADIOBROWSERUUID:de55e346-c36e-4593-90c1-cac0f3ebf8e3
+#EXTINF:1,LightRadio
+https://lightradio.radiostream.pro/mp3
+
+#RADIOBROWSERUUID:1cc1ba1a-79e5-44f0-a529-bb89d8c92a9d
+#EXTINF:1,Angel Radio 
+http://live.myradio24.com:9000/radioangel_live
+
+#RADIOBROWSERUUID:9615c816-0601-11e8-ae97-52543be04c81
+#EXTINF:1,VBC Radio
+http://air.radiovbc.ru:8000/Radio256
+
+#RADIOBROWSERUUID:1e2cfd5c-c2c7-4a41-b706-0328745fadc0
+#EXTINF:1,Radio Caprice - Dub Techno [3]
+http://79.120.39.202:8004/dubtechno
+
+#RADIOBROWSERUUID:b828bae6-3dcf-4cff-9e83-98ea75928930
+#EXTINF:1,Radio Caprice - Dub Techno [1]
+http://79.120.39.202:8002/dubtechno
+
+#RADIOBROWSERUUID:8918ea01-ae78-4cf7-a906-d033ffea75d1
+#EXTINF:1,Radio Caprice - Russian Club Dance Music [3]
+http://79.120.77.11:8004/clubru
+
+#RADIOBROWSERUUID:7af99af4-b691-4b5a-ac2b-bcaa8e895652
+#EXTINF:1,Наше Радио
+http://nashe1.hostingradio.ru/nashe-256
+
+#RADIOBROWSERUUID:a6d1ec53-051a-4dc5-878f-9a07e6f3274e
+#EXTINF:1,Ретро Хит
+https://retro.volna.top/Retro
+
+#RADIOBROWSERUUID:9647e4b6-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RadioGora - HitMix
+http://listen.radiogora.ru:8000/hitmix128
+
+#RADIOBROWSERUUID:9647e593-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RadioGora - Oldies
+http://listen.radiogora.ru:8000/oldies128
+
+#RADIOBROWSERUUID:9647e74f-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RadioGora - RedNoise
+http://listen.radiogora.ru:8000/rednoise128
+
+#RADIOBROWSERUUID:b94ff99a-e41e-11e9-a8ba-52543be04c81
+#EXTINF:1,Типичное FM
+http://play.tipfm.ru:9000/9696
+
+#RADIOBROWSERUUID:0d4d4e0b-f6f2-4cb8-85e0-9f9a7f0e1f7b
+#EXTINF:1,Bible Radio - Holy Synodal Version
+http://streamingbibleradio.org:8001/Russian
+
+#RADIOBROWSERUUID:c7df7574-1d55-49b3-b15c-5769cc267ec5
+#EXTINF:1,Radio Caprice - Brutal Death Metal
+http://79.111.119.111:8000/brutaldeathmetal.m3u
+
+#RADIOBROWSERUUID:15d585e0-0698-4576-af8f-d267f63cc995
+#EXTINF:1,Radio Caprice - Glitch / Glitch-Hop [2]
+http://79.111.14.76:8000/glitch
+
+#RADIOBROWSERUUID:84884322-c3b3-4fda-97e5-040fd84c1a38
+#EXTINF:1,Radio Caprice - Lounge [2]
+http://79.111.14.76:8000/lounge
+
+#RADIOBROWSERUUID:8dd00528-b7c5-49f5-9e63-5fdb60179b41
+#EXTINF:1,Открытое Слово
+https://rs.radioslovo.net:4145/stream?1619440063877
+
+#RADIOBROWSERUUID:e0a99c09-026e-424c-840b-2a01b28dafe1
+#EXTINF:1,Радио Рекорд
+http://23.111.104.132:9010/rr_main
+
+#RADIOBROWSERUUID:3d0f7895-73a3-4942-a7a9-468c702258c2
+#EXTINF:1,Радио Рекорд EDM Classics
+http://radiorecord.hostingradio.ru/edmhits96.aacp
+
+#RADIOBROWSERUUID:961a076e-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Veda Radio
+http://listen.vedaradio.fm:8000/veryhigh.m3u
+
+#RADIOBROWSERUUID:dd7b4ee6-d2dc-4ea4-8800-c7c1ac4bf2d5
+#EXTINF:1,Бард-Радио
+https://listen.myrh.ru/Bard-Radio
+
+#RADIOBROWSERUUID:4c5ff97b-104b-11e9-a80b-52543be04c81
+#EXTINF:1,Radio Caprice Indie Electronic
+http://79.111.119.111:8002/indieelectronic
+
+#RADIOBROWSERUUID:f6205c07-ed82-47fc-b971-4907384c7a69
+#EXTINF:1,Радио Рекорд Black Rap
+http://radiorecord.hostingradio.ru/yo96.aacp
+
+#RADIOBROWSERUUID:29723ddb-1784-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Orthodox
+http://79.111.14.76:9127/
+
+#RADIOBROWSERUUID:bc290413-5fe7-11ea-be63-52543be04c81
+#EXTINF:1,Radio Caprice NWOBHM
+http://79.111.14.76:8000/nwobhm
+
+#RADIOBROWSERUUID:f567f131-c8dc-4ea2-9cd4-defc9a1ce0e1
+#EXTINF:1,Radio Caprice - Downtempo / Downbeat [3]
+http://79.120.77.11:8004/downtempo
+
+#RADIOBROWSERUUID:ce30f656-2758-4b7f-b1ee-2cef50ae83c8
+#EXTINF:1,Radio Caprice - Symphonic Gothic Metal
+http://213.141.131.10:8002/symphogoth
+
+#RADIOBROWSERUUID:6c62aa4f-c78d-423a-94c0-aea9e989eda1
+#EXTINF:1,Dancefloor Radio
+https://air.broadcastinggroup.ro/Dancefloor_m
+
+#RADIOBROWSERUUID:964c0ab6-0601-11e8-ae97-52543be04c81
+#EXTINF:1,KEYGEN FM
+http://stream.keygen-fm.ru:8082/listen.pls
+
+#RADIOBROWSERUUID:1446c567-0e98-4f51-a2f3-fe8b5b12cd9a
+#EXTINF:1,Radio Caprice - Experimental Techno [1]
+http://213.141.131.10:8002/experimentaltechno
+
+#RADIOBROWSERUUID:cbc17a92-53cd-49e5-85f9-73c60233faf9
+#EXTINF:1,101.ru: Виктор Цой и группа «КИНО»
+http://pub0302.101.ru:8000/stream/pro/aac/64/103
+
+#RADIOBROWSERUUID:a925ee80-9b35-424e-9989-345e8d0a2d63
+#EXTINF:1,Радио Рекорд Нафталин FM
+http://radiorecord.hostingradio.ru/naft96.aacp
+
+#RADIOBROWSERUUID:2b1aae2b-71b9-11ea-b1cf-52543be04c81
+#EXTINF:1,rockfm.ru
+https://nashe1.hostingradio.ru:80/rock-128.mp3
+
+#RADIOBROWSERUUID:b82c27f2-7ec1-4e98-90b9-7351c4bb2b1b
+#EXTINF:1,Ретро FM Сан-Ремо (128 kbps, m3u8)
+http://hls-01-sanremo.emgsound.ru/5/128/playlist.m3u8
+
+#RADIOBROWSERUUID:d78140f7-71c2-11ea-b1cf-52543be04c81
+#EXTINF:1,Наше Радио ЕКБ
+https://nasheekt.hostingradio.ru:80/nasheekt128.mp3
+
+#RADIOBROWSERUUID:6f4fcf89-22a0-11e9-a80b-52543be04c81
+#EXTINF:1,Prosveshenie TV
+https://cdn-01.bonus-tv.ru:8090/prosveschenie_edge/tracks-v1a1/mono.m3u8
+
+#RADIOBROWSERUUID:3ed65c3e-6f5c-481e-b418-0de93ab5f38b
+#EXTINF:1,Радио Центр
+http://stream.radiocenter.net:9960/
+
+#RADIOBROWSERUUID:9622f83a-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Post Grunge
+http://79.111.119.111:9073/listen.pls
+
+#RADIOBROWSERUUID:2328ae1b-587b-49df-8afd-f7f83a8314e8
+#EXTINF:1,Радио Рекорд Dancecore
+http://radiorecord.hostingradio.ru/dc96.aacp
+
+#RADIOBROWSERUUID:18aa5bf5-44f4-4ba3-bf44-0a19f089e593
+#EXTINF:1,Radio Caprice - Slavonic [2]
+http://213.141.131.10:8004/slavonicneofolk
+
+#RADIOBROWSERUUID:567483dc-b2f0-11e8-afe1-52543be04c81
+#EXTINF:1,Radio Caprice - Jazz Fusion
+http://79.111.119.111:8002/jazzfusion
+
+#RADIOBROWSERUUID:964333c0-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Hit Orsk 103.7 FM
+http://hit.trkeurasia.ru:8000/hit128
+
+#RADIOBROWSERUUID:28691244-c23d-4afb-bd17-bcdce2b1983e
+#EXTINF:1,Big Room
+https://pub0302.101.ru:8443/stream/trust/mp3/128/220
+
+#RADIOBROWSERUUID:8e6e12f8-3712-41b2-88eb-c3712d90e005
+#EXTINF:1,Europa plus НН
+https://ep128.hostingradio.ru:8030/ep128
+
+#RADIOBROWSERUUID:d7e3c1ea-7c9d-11e8-b68b-52543be04c81
+#EXTINF:1,Radio Anonymous
+http://anon.fm:8000/radio.m3u
+
+#RADIOBROWSERUUID:65c5713a-b2f8-11e8-afe1-52543be04c81
+#EXTINF:1,Radio Caprice - Eclectic Prog
+http://79.111.14.76:8002/eclecticprog
+
+#RADIOBROWSERUUID:490f1696-a3d4-4832-84cf-9fc61a5c8c69
+#EXTINF:1,Anima Amoris Trip Hop Lounge
+https://amoris.sknt.ru/triphop.mp3
+
+#RADIOBROWSERUUID:44145952-faaa-4eb3-9400-225b137516e0
+#EXTINF:1,Радио "Голос Библии"
+https://radio.tserkovhristova.com:8000/radio.mp3
+
+#RADIOBROWSERUUID:2cd252a1-8ba4-4717-90a9-21947bb49360
+#EXTINF:1,Сapital fm
+https://icecast-vgtrk.cdnvideo.ru/capitalfmmp3
+
+#RADIOBROWSERUUID:c4a3979a-45f5-45e0-aa1a-fee65b19c24e
+#EXTINF:1,Омский Благгвестник
+http://segenswelle.de:8000/BG-Omsk
+
+#RADIOBROWSERUUID:962da54b-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Радио Мария
+http://dreamsiteradiocp4.com:8002/
+
+#RADIOBROWSERUUID:67429101-daa8-4fc9-941f-8c82f655fbc6
+#EXTINF:1,Dharma1937
+http://dharma1937.fm:7777/live
+
+#RADIOBROWSERUUID:be296b4e-ffcc-11e9-bbf2-52543be04c81
+#EXTINF:1,Radio Deluxe
+http://radiodeluxe.hostingradio.ru:8027/radiodeluxe.mp3
+
+#RADIOBROWSERUUID:9efc1935-20a8-460d-9ec3-fa8f65a2ef1c
+#EXTINF:1,Спутник ФМ - Уфимская Волна
+https://radio.mediacdn.ru/sputnik_fm.mp3
+
+#RADIOBROWSERUUID:7b2c71f0-710b-479b-bc09-43976a66088d
+#EXTINF:1,Барнаул Россия
+http://gtrk22.ru:8000/russia22
+
+#RADIOBROWSERUUID:b3d8d888-a2eb-43c9-a85c-4a309d7e724e
+#EXTINF:1,Радио Лисица
+https://a7.radioheart.ru:8005/RH24945
+
+#RADIOBROWSERUUID:54501180-bd1a-4de4-9b3c-77f191ef89b3
+#EXTINF:1,Joy Hits
+https://joyhits.online/joyhits.aac.m3u
+
+#RADIOBROWSERUUID:09a7100d-b923-4300-96fe-9ab3327f7c80
+#EXTINF:1,Radio Caprice - Minimal Tech House [2]
+http://79.111.119.111:8000/mintechhouse
+
+#RADIOBROWSERUUID:c0ec20cf-cd62-4a4a-9ad3-fe9d63b86c66
+#EXTINF:1,Радио Образ НН
+http://213.177.106.78:8006/;?
+
+#RADIOBROWSERUUID:fd524810-7c9b-11e8-b68b-52543be04c81
+#EXTINF:1,Rock FM
+http://nashe2.hostingradio.ru/rock-128.mp3
+
+#RADIOBROWSERUUID:b5848eac-1539-4b28-a43e-3861b1fb2e23
+#EXTINF:1,Радио Рекорд Rock
+http://radiorecord.hostingradio.ru/rock96.aacp
+
+#RADIOBROWSERUUID:114e2ff6-2c27-4bfb-8082-915f4714038e
+#EXTINF:1,Народное Славянское Радио
+https://slavradio.org:8443/nsr/1
+
+#RADIOBROWSERUUID:3e923cfd-eede-11e9-a96c-52543be04c81
+#EXTINF:1,ХАЙП FM - HYPE FM
+http://hfm.volna.top/HypeFM
+
+#RADIOBROWSERUUID:f722c8a6-23fa-11e8-91bf-52543be04c81
+#EXTINF:1,Волгоград ФМ
+http://online.volgogradfm.ru:8000/vfm
+
+#RADIOBROWSERUUID:897e7233-a796-4d77-96ed-b6fdf49614fc
+#EXTINF:1,Radio Caprice - Lounge [1]
+http://79.111.14.76:8002/lounge
+
+#RADIOBROWSERUUID:354ff888-83d7-45a2-bef9-911dd772ec82
+#EXTINF:1,Радио Рекорд Old School
+http://radiorecord.hostingradio.ru/pump96.aacp
+
+#RADIOBROWSERUUID:52284783-a0f6-4d1d-b62d-887c18287f19
+#EXTINF:1,Радио Благовест
+http://176.65.38.3:8000/blagovest
+
+#RADIOBROWSERUUID:9614837f-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Mayak - MP3 32kb/s
+http://online.gtrkchita.ru:8100/mayak32
+
+#RADIOBROWSERUUID:fa9cbb15-dabf-4a93-804e-160583473a4b
+#EXTINF:1,brightbass
+http://brightbass.com:6235/
+
+#RADIOBROWSERUUID:c4a5a851-e50f-11e9-a96c-52543be04c81
+#EXTINF:1,Zaycev FM Зайчата
+https://zaycevfm.cdnvideo.ru/ZaycevFM_zaychata_256.mp3
+
+#RADIOBROWSERUUID:aec569c4-d2bb-424d-aa5b-947e13403cc4
+#EXTINF:1,Radio Caprice - Suomisaundi / Freeform Psytrance / Spugedelic Trance [3]
+http://79.120.77.11:8004/suomisaundi
+
+#RADIOBROWSERUUID:37ef1c7c-16e8-49c4-8544-0e91538a04d4
+#EXTINF:1,Maximum Heavy Monday
+https://s.fmplay.ru/3ce8899d
+
+#RADIOBROWSERUUID:2cca79f7-5f3c-4844-a3a8-c73624d63203
+#EXTINF:1,Maximum Heavy Monday
+https://s.fmplay.ru/3ce8899d
+
+#RADIOBROWSERUUID:72cf8197-dc93-4849-b33d-d763e8897d8a
+#EXTINF:1,Радио Рекорд Groove/Tribal
+http://radiorecord.hostingradio.ru/groovetribal96.aacp
+
+#RADIOBROWSERUUID:ccaf9855-83ab-4367-ba77-2af21ab374e9
+#EXTINF:1,Radio Caprice - Avant-Garde Jazz / Free Improvisation [2]
+http://79.111.119.111:8000/avantgardejazz
+
+#RADIOBROWSERUUID:229cc66b-a057-11e8-a9f3-52543be04c81
+#EXTINF:1,Vesti FM Nizhny Novgorod 98.6 FM
+http://icecast.vgtrk.cdnvideo.ru/vestifm_nn
+
+#RADIOBROWSERUUID:f021636a-7bf0-11ea-8a3b-52543be04c81
+#EXTINF:1,Радио Олдхит
+http://radio.oldxit.ru:8030/radio
+
+#RADIOBROWSERUUID:3a4f9953-48c0-484f-a6dc-02e73436b3ed
+#EXTINF:1,record luquid
+http://23.111.104.132:9010/liquidfunk_320
+
+#RADIOBROWSERUUID:9a730296-a01a-11e9-a787-52543be04c81
+#EXTINF:1,Radio Caprice - MainstreamJazz
+http://79.111.14.76:8000/mainstreamjazz
+
+#RADIOBROWSERUUID:0cac3504-11b1-4667-8539-7423a79e80b6
+#EXTINF:1,Авторская песня.101
+https://pub0101.101.ru:8000/stream/pro/aac/64/35
+
+#RADIOBROWSERUUID:588a1856-12bd-11e9-a80b-52543be04c81
+#EXTINF:1,Национальное Радио Чувашии / Chuvash National Radio
+http://icecast.ntrk21.ru:8000/nacradio
+
+#RADIOBROWSERUUID:67d2e0b4-6cde-4792-9c99-46e5185de985
+#EXTINF:1,Radio Caprice - Art Rock
+http://79.120.39.202:8002/artrock
+
+#RADIOBROWSERUUID:ea41c785-5fe7-11ea-be63-52543be04c81
+#EXTINF:1,Radio Caprice NWOBHM
+http://79.111.14.76:8004/nwobhm
+
+#RADIOBROWSERUUID:6835c5fc-eee0-11e9-a96c-52543be04c81
+#EXTINF:1,РАДИО ФРЕШ - Radio FRESH
+http://fresh.volna.top/Fresh
+
+#RADIOBROWSERUUID:c1577fe8-0dbb-11ea-a87e-52543be04c81
+#EXTINF:1,Радио Сектор / Sector Geny (flac)
+http://89.223.45.5:8000/geny-flac
+
+#RADIOBROWSERUUID:76d5bfe4-77c8-48b6-ae7b-e8c185666e72
+#EXTINF:1,Радио Ultra
+https://nashe2.hostingradio.ru/ultra-128.mp3
+
+#RADIOBROWSERUUID:abdc5da5-79bb-4052-a726-2d6d9c4ea7b6
+#EXTINF:1,Радио Рекорд Christmas Chill
+http://radiorecord.hostingradio.ru/christmaschill96.aacp
+
+#RADIOBROWSERUUID:6397f250-256e-11e8-91bf-52543be04c81
+#EXTINF:1,Radio Caprice - Crust Punk
+http://79.120.39.202:9123/
+
+#RADIOBROWSERUUID:209571c2-bbd7-4f08-b083-4aa74c620642
+#EXTINF:1,mayakfm_mp3_128kbps
+https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps
+
+#RADIOBROWSERUUID:6404a3d2-2eab-4b69-bd0a-5d9ad2e69ff7
+#EXTINF:1,Жара FM 100.5 FM (Zhara Fm)
+https://hls02.zharafm.ru/hls/live.m3u8
+
+#RADIOBROWSERUUID:089bee75-6965-4187-b635-c2e09f6b547c
+#EXTINF:1,KIDS HITS
+http://92.255.229.74:8888/;
+
+#RADIOBROWSERUUID:ca9f6464-8c3c-11e8-aa66-52543be04c81
+#EXTINF:1,Радио Jazz
+http://nashe1.hostingradio.ru/jazz-128.mp3
+
+#RADIOBROWSERUUID:9757e9da-5a7c-11e9-a622-52543be04c81
+#EXTINF:1,RADIO MARIA RUSSIA
+http://dreamsiteradiocp4.com:8002/stream
+
+#RADIOBROWSERUUID:69ac8bdf-0feb-4939-9e27-4eac566ec985
+#EXTINF:1,URAL SOUND FM | DEEP RADIO
+http://188.17.157.29:8000/uralsoundfm
+
+#RADIOBROWSERUUID:f3dd3e60-e93c-4aa0-9771-fdc1bf83a21e
+#EXTINF:1,Nashe Radio 106.0 FM Serpukhov
+http://77.73.90.46:1055/nasheradio
+
+#RADIOBROWSERUUID:cd1f5fee-e9e4-4bc0-abb0-25a4112d1eba
+#EXTINF:1,Radio Shanson 101.5 FM Serpukhov
+http://185.6.124.103:8000/example1.ogg
+
+#RADIOBROWSERUUID:5bfb100e-a057-11e8-a9f3-52543be04c81
+#EXTINF:1,Radio Record Nizhny Novgorod 100.9 FM
+http://online2.gkvr.ru:8000/record_nno_64.aac
+
+#RADIOBROWSERUUID:4398a732-ec21-4e16-8f09-e4e6ac4e24f8
+#EXTINF:1,Радио 19-22
+http://onair.radio1922.ru:8000/192.mp3
+
+#RADIOBROWSERUUID:60b48773-b2f1-11e8-afe1-52543be04c81
+#EXTINF:1,Radio Caprice - Swing / Neo-swing
+http://79.120.39.202:8002/swing
+
+#RADIOBROWSERUUID:a5fb052e-59ff-11e9-a622-52543be04c81
+#EXTINF:1,Радио Пассаж
+http://listen.radiopassazh.ru/aac-48
+
+#RADIOBROWSERUUID:d7394d2d-9355-11e8-a767-52543be04c81
+#EXTINF:1,Radio Caprice - Strings
+http://79.120.39.202:9133/
+
+#RADIOBROWSERUUID:a02e29e7-d611-4f28-ac90-390e00d0761b
+#EXTINF:1,Anima Amoris Electronic Styles
+https://amoris.sknt.ru/electronic.mp3
+
+#RADIOBROWSERUUID:cf5a266a-def8-435e-ad0f-22c721834e4f
+#EXTINF:1,Anima Amoris Bible
+https://amoris.sknt.ru/bible.mp3
+
+#RADIOBROWSERUUID:9eac4bec-e510-11e9-a96c-52543be04c81
+#EXTINF:1,Zaycev FM Metal
+https://zaycevfm.cdnvideo.ru/ZaycevFM_metal_256.mp3
+
+#RADIOBROWSERUUID:dffe3446-e93d-4a02-b0c1-0c555463b8f8
+#EXTINF:1,Megapolis FM 89.5
+https://fed.fmplay.ru:8000/megapolis-48.aac
+
+#RADIOBROWSERUUID:19c63388-6827-11ea-9d09-52543be04c81
+#EXTINF:1,Радио Восток России
+http://138.201.190.251:8000/;stream.nsv
+
+#RADIOBROWSERUUID:e025935d-1b07-4d7a-b638-86923d4b4c66
+#EXTINF:1,Пилот FM
+https://online.pilotfm.ru/pilot
+
+#RADIOBROWSERUUID:a46abbb0-3a76-11e9-9b4e-52543be04c81
+#EXTINF:1,teos.fm
+http://stream.teos.fm:8004/mp3_hq
+
+#RADIOBROWSERUUID:ebf777c9-9fa5-48b8-a88f-a2a6cd64234f
+#EXTINF:1,doo-wop/early pop/early r'n'b
+http://79.120.77.11:8004/oldies
+
+#RADIOBROWSERUUID:63b00b57-f3c0-4618-a750-1d5b56f96831
+#EXTINF:1,Chillout Radio by ECCOsea - LQ
+http://eccosea.com:9000/Chillout_LQ
+
+#RADIOBROWSERUUID:634bd02b-9f28-4ebe-995a-ffdb76cb6a35
+#EXTINF:1,Radio Caprice - Punk Post-Hardcore (128k)
+http://79.111.119.111:8000/posthardcore
+
+#RADIOBROWSERUUID:97d05857-6444-42b8-bbbf-e153c9702fe8
+#EXTINF:1,Radio Caprice - Punk Post-Hardcore Emo/Screamo
+http://79.111.119.111:8000/screamoemo
+
+#RADIOBROWSERUUID:d148adc2-782e-4a7d-8ccc-dee45f7fd5eb
+#EXTINF:1,Читаем Добротолюбие
+https://radio.azbyka.ru/dobrotolubie
+
+#RADIOBROWSERUUID:906797b4-97c7-11e8-a767-52543be04c81
+#EXTINF:1,Promodj Nu
+http://radio.promodj.com/nu-192
+
+#RADIOBROWSERUUID:cf9c7adc-6125-4c77-b5d9-c6e186670642
+#EXTINF:1,Народное Славянское Радио муз. канал
+https://slavradio.org:8443/nsr/3
+
+#RADIOBROWSERUUID:3e87d29e-1f97-4d6d-9ac3-47ba69f724ac
+#EXTINF:1,Радио Рекорд Organic
+http://radiorecord.hostingradio.ru/organic96.aacp
+
+#RADIOBROWSERUUID:825f9b87-59fc-11ea-be63-52543be04c81
+#EXTINF:1,Радио ВОС
+http://radiovos.ru:9000/radiovos-128
+
+#RADIOBROWSERUUID:193ce893-b2f4-11e8-afe1-52543be04c81
+#EXTINF:1,Radio Caprice - AOR / Melodic Hard Rock
+http://79.111.14.76:8002/aor
+
+#RADIOBROWSERUUID:9614848b-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Mayak - AAC+ 64kb/s
+http://online.gtrkchita.ru:8100/mayak64aacp
+
+#RADIOBROWSERUUID:03defd2b-47c9-4bdd-ae77-d42b01d88019
+#EXTINF:1,Radio Caprice - Metalcore
+http://79.120.39.202:8000/metalcore.m3u
+
+#RADIOBROWSERUUID:b15dcc70-9de7-448f-8b14-aeef41a14383
+#EXTINF:1,Radio Caprice - Celtic
+http://79.111.14.76:8000/celtic.m3u
+
+#RADIOBROWSERUUID:add8cf0b-1a07-4f1c-921f-981325dd3fed
+#EXTINF:1,РетроФМ
+http://europaplus.hostingradio.ru:8014/retro320.mp3
+
+#RADIOBROWSERUUID:ab0c15bf-5571-4bdd-a96d-5869111e33c5
+#EXTINF:1,Radio Caprice - Musique Concrete / Acousmatic / Electroacoustic [3]
+http://213.141.131.10:8004/musiqueconcrete
+
+#RADIOBROWSERUUID:9e667f7c-a054-11e8-a9f3-52543be04c81
+#EXTINF:1,Radio Mayak Nizhny Novgorod
+http://icecast.vgtrk.cdnvideo.ru/mayak_nn
+
+#RADIOBROWSERUUID:811012d9-a9cf-466d-a1a7-1a3c0a62b5b3
+#EXTINF:1,DONAT FM - Русская Поп-музыка
+http://c6.radioboss.fm:8099/stream
+
+#RADIOBROWSERUUID:28a9d517-b2ef-11e8-afe1-52543be04c81
+#EXTINF:1,Radio Caprice - Smooth Jazz
+http://79.120.39.202:8002/smoothjazz
+
+#RADIOBROWSERUUID:996cb5ca-8b58-4241-90eb-902f931a7418
+#EXTINF:1,Радио Рекорд Breaks
+http://radiorecord.hostingradio.ru/brks96.aacp
+
+#RADIOBROWSERUUID:421dc93b-f989-47e1-8a90-e597029473fc
+#EXTINF:1,Classical avant-garde - Radio Caprice
+http://213.141.131.10:8004/classavant
+
+#RADIOBROWSERUUID:e4a3cd42-10a9-41fd-b128-94686ee1997f
+#EXTINF:1,Radio Caprice - Grunge
+http://79.120.39.202:8000/grunge
+
+#RADIOBROWSERUUID:ee7826f9-2428-4eb8-a022-ab5025d854aa
+#EXTINF:1,Radio Record - Pirate Station
+https://hls-01-radiorecord.hostingradio.ru/record-ps/96/playlist.m3u8
+
+#RADIOBROWSERUUID:12ad3e14-0f31-48ea-9b9c-e4871af092c9
+#EXTINF:1,HavenFM OGG
+http://fr-havenfm.karamush.ru:8000/stream.ogg
+
+#RADIOBROWSERUUID:89519b1d-c748-11e9-8502-52543be04c81
+#EXTINF:1,Победа FM
+http://193.107.103.41:1696/pobeda
+
+#RADIOBROWSERUUID:4ebdd41e-1fef-4378-81b2-b335b077ed60
+#EXTINF:1,Radio Caprice - Classical Symphonic Music
+http://79.120.77.11:8002/classical
+
+#RADIOBROWSERUUID:3184b82d-f51d-4e8d-8617-c70a2a5b26b3
+#EXTINF:1,Radio Caprice - Downtempo / Downbeat [1]
+http://79.120.77.11:8002/downtempo
+
+#RADIOBROWSERUUID:cf371712-4bf6-46c3-826a-886695bec1e1
+#EXTINF:1,Ретро FM Санкт-Петербург (192 kbps, m3u8)
+http://hls-01-retro.emgsound.ru/12/192/playlist.m3u8
+
+#RADIOBROWSERUUID:27299bff-f0f3-49a6-8bad-3f1f6a96aad9
+#EXTINF:1,Pump
+https://radiorecord.hostingradio.ru/pump96.aacp
+
+#RADIOBROWSERUUID:4d469e31-aaa8-437f-ab70-de2ef9beaa18
+#EXTINF:1,Radio Caprice - Experimental Techno [2]
+http://213.141.131.10:8000/experimentaltechno
+
+#RADIOBROWSERUUID:a32f144e-27a7-4a21-bdfe-0b893a6babcd
+#EXTINF:1,Radio Caprice - Industrial Music [1]
+http://79.111.14.76:8002/industrial
+
+#RADIOBROWSERUUID:04a7c775-4b77-4a98-8674-4e3ba02138eb
+#EXTINF:1,Ретро FM 90e (32 kbps, m3u8)
+http://hls-01-retro90.emgsound.ru/3/32/playlist.m3u8
+
+#RADIOBROWSERUUID:f193cddc-24b9-476c-8b4b-eb53d0498766
+#EXTINF:1,Radio Caprice - Progressive Folk
+http://213.141.131.10:8000/progfolk.m3u
+
+#RADIOBROWSERUUID:d1b2d4c0-71ba-11ea-b1cf-52543be04c81
+#EXTINF:1,rockfm.ru rock70
+https://jfm1.hostingradio.ru:14536/rock70.mp3
+
+#RADIOBROWSERUUID:bd1bf31f-b2f3-11e8-afe1-52543be04c81
+#EXTINF:1,Radio Caprice - Cool / West Coast Jazz
+http://79.120.39.202:8002/cooljazz
+
+#RADIOBROWSERUUID:b0b58293-81dd-43c9-8a13-3399a84dad3d
+#EXTINF:1,Пионер FM DANCE 9.0
+https://radio-node-2.dline-media.com/ppr_90.mp3
+
+#RADIOBROWSERUUID:2c2a1002-506d-4429-9793-3fbbb7cf566a
+#EXTINF:1,Radio Caprice - Hard Bop
+http://79.111.14.76:8002/hardbop
+
+#RADIOBROWSERUUID:421c9216-dd9e-4e70-993a-708a47e5c29a
+#EXTINF:1,Caprice - Surf Rock
+http://79.111.119.111:8002/surfrock
+
+#RADIOBROWSERUUID:9214ebab-e324-4ded-ae68-f0843f358f1f
+#EXTINF:1,WalсonFM
+https://myradio24.org/walcon
+
+#RADIOBROWSERUUID:0aec8c2f-3c51-4730-880d-ab6dc6f97fb6
+#EXTINF:1,Радио Монте Карло - Bossa Nova
+https://mc-mcbossa.hostingradio.ru/mcbossa96.aacp
+
+#RADIOBROWSERUUID:5c5dd1fa-1b9e-4541-8c16-4c62d5413a0a
+#EXTINF:1,POWER FM RUSSIA
+http://radio-connect.dline-media.com/powerfm
+
+#RADIOBROWSERUUID:13a3d1b9-2225-4ce7-ab2e-6a88330c143b
+#EXTINF:1,Europa Plus 102.9 FM Serpukhov
+http://188.164.138.46:8010/europa_efir
+
+#RADIOBROWSERUUID:c805f160-3720-40ac-b46e-7a29fde85101
+#EXTINF:1,vigilante 2084
+http://radiotower.netstalking.ru/vigilante_2084_320.m3u
+
+#RADIOBROWSERUUID:5e6bc3a0-3dba-11e8-b74d-52543be04c81
+#EXTINF:1,Royal Rock
+http://193.33.170.218:8000/RoyalRock
+
+#RADIOBROWSERUUID:f19c561c-4107-40e2-9709-fd1b3ca80111
+#EXTINF:1,Дорожное радио НН
+https://dorognoe.hostingradio.ru/dorognoe_acc
+
+#RADIOBROWSERUUID:6ec05e08-39d9-47cd-a342-02930c66cc70
+#EXTINF:1,Business FM Уфа
+http://92.50.139.190:8005/bfmufa
+
+#RADIOBROWSERUUID:bd435043-c16c-4771-a831-a351b442fe74
+#EXTINF:1,Anima Amoris Dub Step
+https://amoris.sknt.ru/dubstep.mp3
+
+#RADIOBROWSERUUID:4c06a43a-d0ef-4288-812e-076e2d0feaf6
+#EXTINF:1,mayak22
+http://gtrk22.ru:8000/mayak22
+
+#RADIOBROWSERUUID:7fab7ed8-ec1a-4b9c-8f79-ecea0c9b27a0
+#EXTINF:1,Радио Рекорд Technopop
+http://radiorecord.hostingradio.ru/technopop96.aacp
+
+#RADIOBROWSERUUID:a33ee679-842c-4ce5-9441-3ec7b5925ddd
+#EXTINF:1,Мир Белогорья
+http://mirbelogorya.ru:8008/nonstop2
+
+#RADIOBROWSERUUID:7a21bc2b-b2f9-11e8-afe1-52543be04c81
+#EXTINF:1,Radio Caprice - Crossover Prog
+http://79.111.14.76:8002/crossoverprog
+
+#RADIOBROWSERUUID:c23165e8-cae7-449b-8c95-166a84c07f39
+#EXTINF:1,Global Dance Radio
+http://free.radioheart.ru:8000/RH20472
+
+#RADIOBROWSERUUID:8765bc45-2e1a-462c-ab5f-775fbd8c0da5
+#EXTINF:1,Mилли радио Китап
+http://radio.tatmedia.com:8800/kitapfm
+
+#RADIOBROWSERUUID:267ef74d-28d6-4ced-b582-cc719fafec29
+#EXTINF:1,Radio Caprice - Garage / New York House [1]
+http://79.120.12.130:8002/garagehouse
+
+#RADIOBROWSERUUID:13b99f79-529a-11e8-a4d1-52543be04c81
+#EXTINF:1,Kamchatka Live Rock
+http://home.kamchatkalive.ru:8000/rock
+
+#RADIOBROWSERUUID:3690a5c2-5f3b-48d0-8476-bc845023300d
+#EXTINF:1,Radio Caprice - Minimal Techno [3]
+http://79.120.39.202:8004/mintechno
+
+#RADIOBROWSERUUID:e56c6943-73c8-4cc9-80fb-f528ff79dae2
+#EXTINF:1,http://79.111.119.111:8000/paganmetal.m3u
+http://79.111.119.111:8000/paganmetal.m3u
+
+#RADIOBROWSERUUID:b3dda11e-22a3-11e9-a80b-52543be04c81
+#EXTINF:1,Three Angels TV
+http://hls.tv.3angels.ru/stream/HQ.m3u8
+
+#RADIOBROWSERUUID:f64559c4-faa2-4c17-b042-00ab4a921dfb
+#EXTINF:1,Radio Caprice - Nu Metal
+http://79.111.14.76:8000/numetal.m3u
+
+#RADIOBROWSERUUID:4fd83432-38a6-4693-83d7-6aa8aa921444
+#EXTINF:1,Неусыпаемая Псалтирь
+https://radio.azbyka.ru/psaltir-rus
+
+#RADIOBROWSERUUID:a6a1e795-5d16-4fe7-87e2-74d5b985ec0b
+#EXTINF:1,Радио Рекорд - Gop FM
+https://hls-01-radiorecord.hostingradio.ru/record-gop/playlist.m3u8
+
+#RADIOBROWSERUUID:7d2f26fd-5c3b-4fbf-9219-e71b7246f0ca
+#EXTINF:1,вести фм (Кузбасс)
+http://icecast.vgtrk.cdnvideo.ru/vestifm_aac_64kbps
+
+#RADIOBROWSERUUID:96262008-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio 42 FM — Радио «Воруй-Убивай»
+http://listen.42fm.ru:8000/stealkill-8.0.ogg
+
+#RADIOBROWSERUUID:55777a00-33f0-4811-8f92-8d0d3f12622c
+#EXTINF:1,Radio Caprice - Celtic
+http://79.111.14.76:8000/celtic.m3u
+
+#RADIOBROWSERUUID:158fe6c0-5822-4ecd-8284-a506b3f1191d
+#EXTINF:1,Radio Caprice - Balearic House / Balearic Beat [3]
+http://213.141.131.10:8004/balearichouse
+
+#RADIOBROWSERUUID:847ed86f-0131-11ea-bbf2-52543be04c81
+#EXTINF:1,rtm sound system
+http://rtmfm.ru:8000/
+
+#RADIOBROWSERUUID:1b4d51de-5e52-45aa-994c-040c5ddaa135
+#EXTINF:1,Radio Caprice - Classic Rock
+http://79.120.77.11:8000/rock.m3u
+
+#RADIOBROWSERUUID:e629e09d-c0ee-11e9-8502-52543be04c81
+#EXTINF:1,Радио России Якутск
+http://gtrksakha.ru:12345/test.mp3
+
+#RADIOBROWSERUUID:7a889e77-b933-4597-9b21-defc5465ad46
+#EXTINF:1,Радио Рекорд Dream Dance
+http://radiorecord.hostingradio.ru/dream96.aacp
+
+#RADIOBROWSERUUID:c4e9d737-4caf-483b-ae63-6454e0a70c68
+#EXTINF:1,MGN RADIO
+https://stream.gtf.club:8035/stream
+
+#RADIOBROWSERUUID:0c9dfdfc-bb23-4f4b-911e-6a9e1432afad
+#EXTINF:1,Радио Рекорд Complextro
+http://radiorecord.hostingradio.ru/complextro96.aacp
+
+#RADIOBROWSERUUID:96486d9c-0601-11e8-ae97-52543be04c81
+#EXTINF:1,KEYGEN FM (ACC)
+http://stream.keygen-fm.ru:8080/listen.pls
+
+#RADIOBROWSERUUID:0337f819-959d-11e9-a605-52543be04c81
+#EXTINF:1,Radio 42 FM — Радио «Воруй-Radio 42 FM — Радио «Воруй-Убивай»Убивай»
+http://listen.42fm.ru:8000/stealkill
+
+#RADIOBROWSERUUID:963e068d-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Радио Сити Тюмень (Radio City Tyumen)
+http://online.100i6fm.ru:8000/city_mp3
+
+#RADIOBROWSERUUID:fd2b40ff-14e6-4dd3-aa53-bb067f2ffbdf
+#EXTINF:1,record luquid
+http://23.111.104.132:9010/liquidfunk_320
+
+#RADIOBROWSERUUID:f9cfaf42-d121-11e9-a861-52543be04c81
+#EXTINF:1,За облаками
+http://195.88.63.114:8000/zaoblakami?type=.pls
+
+#RADIOBROWSERUUID:2f0fabd6-b2ea-11e8-afe1-52543be04c81
+#EXTINF:1,Radio Caprice - Contemporary Classical
+http://79.111.119.111:8002/contclass
+
+#RADIOBROWSERUUID:4191fcd6-5acc-4552-ba0d-0da8c19c8e1a
+#EXTINF:1,MCM
+https://webradio.mcm.fm:10443/hit128
+
+#RADIOBROWSERUUID:963791b5-0601-11e8-ae97-52543be04c81
+#EXTINF:1,SW-Radio Russisch
+http://www.segenswelle.de:8000/russisch
+
+#RADIOBROWSERUUID:28ef754f-7109-4da8-83c4-607405a94c05
+#EXTINF:1,Радио России Калуга
+http://radio.gtrk-kaluga.ru/russiafm_kaluga
+
+#RADIOBROWSERUUID:7dcdcfb3-b056-44c8-9b97-3d18d0a1f1a9
+#EXTINF:1,Radio Caprice Jazz Modern Creative
+http://79.120.77.11:8000/mcreative
+
+#RADIOBROWSERUUID:6e9c32b8-519f-4daa-8b01-50bab7975694
+#EXTINF:1,Wave Anime Radio
+https://otsu.s04.radio-tochka.com:5465/mount
+
+#RADIOBROWSERUUID:3d494edd-a065-11e8-a9f3-52543be04c81
+#EXTINF:1,Europa Plus Nizhny Novgorod 103.9 FM
+http://hls-02-europaplus.emgsound.ru/11/128/playlist.m3u8
+
+#RADIOBROWSERUUID:0a47eb7d-1190-4d78-8f0d-2124d1054edb
+#EXTINF:1,RTFM.fm
+http://stream.rtfm.fm/aac256
+
+#RADIOBROWSERUUID:69790b8f-3a69-4862-a3f5-2ce926e69067
+#EXTINF:1,Ретро FM 70e (128 kbps, m3u8)
+http://hls-01-retro70.emgsound.ru/1/128/playlist.m3u8
+
+#RADIOBROWSERUUID:78ea79d9-9c5a-437b-93f5-c564a5dff5fe
+#EXTINF:1,Radio Caprice - Experimental Techno [3]
+http://213.141.131.10:8004/experimentaltechno
+
+#RADIOBROWSERUUID:c76fe84b-1b0f-4a18-b6ed-e9181714e2cf
+#EXTINF:1,Радио Рекорд Симфония FM
+http://radiorecord.hostingradio.ru/symph96.aacp
+
+#RADIOBROWSERUUID:cc54bbdf-a94e-4728-b142-95ac8fed6ded
+#EXTINF:1,Radio Caprice - Noise / Power Noise / Electronics [2]
+http://79.120.39.202:8000/noise
+
+#RADIOBROWSERUUID:905d7df5-34f0-4f05-9d17-6caef9773a94
+#EXTINF:1,Ретро FM 90e (128 kbps, m3u8)
+http://hls-01-retro90.emgsound.ru/3/128/playlist.m3u8
+
+#RADIOBROWSERUUID:2e484f9c-71ba-11ea-b1cf-52543be04c81
+#EXTINF:1,rockfm.ru rock00s
+https://jfm1.hostingradio.ru:14536/rock00.mp3
+
+#RADIOBROWSERUUID:96416a61-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Full-on
+http://79.111.14.76:9019/
+
+#RADIOBROWSERUUID:277807f3-9753-11e9-a605-52543be04c81
+#EXTINF:1,The Pain Radio
+http://radio.paindealers.org:7777/
+
+#RADIOBROWSERUUID:a292b1ca-642e-11ea-be63-52543be04c81
+#EXTINF:1,Радио Меридиан
+https://stream.gtf.club:8035/stream
+
+#RADIOBROWSERUUID:73744ce2-240b-11e9-a80b-52543be04c81
+#EXTINF:1,ChillHop радио
+http://media-the.musicradio.com/ChillMP3
+
+#RADIOBROWSERUUID:00afce9b-b2f7-11e8-afe1-52543be04c81
+#EXTINF:1,Radio Caprice - Classic Rock / Rock
+http://79.120.77.11:8002/rock
+
+#RADIOBROWSERUUID:3330532a-2370-4d5d-8544-eb3725ab7591
+#EXTINF:1,Радио Рекорд 2step
+http://radiorecord.hostingradio.ru/2step96.aacp
+
+#RADIOBROWSERUUID:17376d43-9344-4c06-a3fa-4d0b7ede48ce
+#EXTINF:1,Радио Сибирь Хакасия
+https://ctv7.ru/radio/
+
+#RADIOBROWSERUUID:fbacdb66-3f71-11e9-aa55-52543be04c81
+#EXTINF:1,Роксана радиосы
+https://listen1.myradio24.com/2761
+
+#RADIOBROWSERUUID:e47313ef-19cd-11ea-a620-52543be04c81
+#EXTINF:1,RADIO CAPRICE - TRIP-HOP
+http://79.111.14.76:8002/triphop
+
+#RADIOBROWSERUUID:9642d65d-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Rossii Karelia 102.2 FM
+http://212.109.14.73:8585/radiokarelia.mp3
+
+#RADIOBROWSERUUID:d59bbb09-d855-46b7-bf21-ddb203dfff71
+#EXTINF:1,Radio Caprice - Chiptune
+http://79.111.119.111:8004/chiptune
+
+#RADIOBROWSERUUID:d015b2c3-b2fb-11e8-afe1-52543be04c81
+#EXTINF:1,Radio Caprice - Modern Classical
+http://79.120.39.202:8002/modernclassical
+
+#RADIOBROWSERUUID:415f8725-b1f1-11e9-acb2-52543be04c81
+#EXTINF:1,EuropaPplus Lihgt
+http://mp3128.light.streamr.ru/
+
+#RADIOBROWSERUUID:dde8432b-3cec-11e8-b74d-52543be04c81
+#EXTINF:1,Radio Nami
+http://5.9.2.139:8000/any-anime.ru
+
+#RADIOBROWSERUUID:a4e5f185-1c19-4c37-b7a8-971ef02e404c
+#EXTINF:1,Пилигрим. Музыка
+http://radiopiligrim.ru:8000/none-stop
+
+#RADIOBROWSERUUID:611ae83b-20b1-4a34-ae5a-ffdceb04df90
+#EXTINF:1,Авторадио НН
+https://pub0202.101.ru:8443/stream/reg/mp3/128/region_avto_120?
+
+#RADIOBROWSERUUID:d6ed3e95-0943-4fd7-9281-cae9caf5362c
+#EXTINF:1,Милицейская волна НН
+https://radiomv.hostingradio.ru:80/radiomv128.mp3
+
+#RADIOBROWSERUUID:550869ac-e710-4b17-9f24-bbc7852cc3f9
+#EXTINF:1,Татарстан Авазы
+http://listen6.myradio24.com:9000/gtrk
+
+#RADIOBROWSERUUID:b5594dac-2dc3-48ef-a8f0-e65d0fef128c
+#EXTINF:1,Radio Caprice - Jazz / Fusion Metal
+http://213.141.131.10:8002/jazzmetal
+
+#RADIOBROWSERUUID:c033d342-c0f9-11e9-8502-52543be04c81
+#EXTINF:1,Радио Карл
+http://air.volna.top/Karl
+
+#RADIOBROWSERUUID:534cdd4e-b6c5-4ccc-8580-dab81153371d
+#EXTINF:1,Nui Radio
+https://a2.radioheart.ru:9003/nuiradio
+
+#RADIOBROWSERUUID:6fc82acb-a036-4537-9fe4-a315db1e2456
+#EXTINF:1,DevZen Podcast
+https://live.devzen.ru/stream?type=.mp3
+
+#RADIOBROWSERUUID:8b672b47-c500-4110-9035-d05bdd485ef9
+#EXTINF:1,Радио Рекорд Summer Dance
+http://radiorecord.hostingradio.ru/summerparty96.aacp
+
+#RADIOBROWSERUUID:5fe6d923-b1f1-11e9-acb2-52543be04c81
+#EXTINF:1,EuropaPplus New
+http://mp3128.new.streamr.ru/
+
+#RADIOBROWSERUUID:2a5c8f2e-65ae-11e9-a622-52543be04c81
+#EXTINF:1,Большое радио Мурманск
+http://listen2.myradio24.com:9000/8286?2
+
+#RADIOBROWSERUUID:eb7a5d01-6225-40a1-8369-1e0ac9013bb2
+#EXTINF:1,Хакасия ФМ
+https://tvrts.ru:8443/kh.mp3
+
+#RADIOBROWSERUUID:49d58862-1f99-4d04-9374-b3c1cfbdc092
+#EXTINF:1,Radio Caprice - Deep / Chill House [1]
+http://79.120.39.202:8002/deephouse
+
+#RADIOBROWSERUUID:e57a9db1-3083-470d-8b0e-5acac0b38f54
+#EXTINF:1,VIBEdaPLANET
+http://vibedaplanet.com/radio-stream/VIBEdaPLANET.m3u
+
+#RADIOBROWSERUUID:efd49f8d-a056-11e8-a9f3-52543be04c81
+#EXTINF:1,Radio Obraz 98.0 FM
+http://213.177.106.78:8006/listen.pls
+
+#RADIOBROWSERUUID:800fa270-d90c-45bb-bdbd-7849f9d13a42
+#EXTINF:1,Radio Caprice - Russian Club Dance Music [2]
+http://79.120.77.11:8000/clubru
+
+#RADIOBROWSERUUID:631049dc-60cf-4e27-95c8-8593e03aee20
+#EXTINF:1,Radio Record Bass House
+https://radiorecord.hostingradio.ru/jackin96.aacp
+
+#RADIOBROWSERUUID:baeed5f0-b6b2-451e-a873-4c780a56ee8d
+#EXTINF:1,Радио Рекорд - Dancecore
+https://hls-01-radiorecord.hostingradio.ru/record-dc/playlist.m3u8
+
+#RADIOBROWSERUUID:9647e670-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RadioGora - Drive
+http://listen.radiogora.ru:8000/drive128
+
+#RADIOBROWSERUUID:cdd5ce80-c3d1-426d-832e-56b0c22cc590
+#EXTINF:1,Радио Рекорд - 80's Dance
+https://hls-01-radiorecord.hostingradio.ru/record-1980/playlist.m3u8
+
+#RADIOBROWSERUUID:084a8b9f-40c1-4e1b-97c7-7f1ae8188be1
+#EXTINF:1,РАДИО ДВИЖЕНИЕ
+https://c4.radioboss.fm:18218/stream
+
+#RADIOBROWSERUUID:9647e837-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RadioGora - ATD
+http://listen.radiogora.ru:8000/atd128
+
+#RADIOBROWSERUUID:f91f9262-b2f5-11e8-afe1-52543be04c81
+#EXTINF:1,Radio Caprice - Chamber / Baroque / Pop / Rock
+http://79.111.14.76:8002/chamberpop
+
+#RADIOBROWSERUUID:18fdfd0b-e541-4e79-bd18-cd39a7c35f54
+#EXTINF:1,Parice _fm Disko 90
+https://stream.zeno.fm/ndm5u33z8qzuv
+
+#RADIOBROWSERUUID:8694d429-d064-4e1a-b7f0-159b550cf890
+#EXTINF:1,Radio Caprice - Minimal Techno [2]
+http://79.120.39.202:8000/mintechno
+
+#RADIOBROWSERUUID:b1a42552-2734-4b57-8835-4612ab7ad03f
+#EXTINF:1,Барнаул АлтайФМ
+http://193.233.155.253:8000/radio
+
+#RADIOBROWSERUUID:28ade4d2-26a4-43b4-9721-43cb956addd6
+#EXTINF:1,Radio Caprice - Dance Pop
+http://79.120.77.11:8002/dancepop
+
+#RADIOBROWSERUUID:a46a98c5-ee12-44ff-9a5b-01eb503007eb
+#EXTINF:1,Радио Пассаж
+http://listen.radiopassazh.ru/aac-64
+
+#RADIOBROWSERUUID:9cabd2b9-50dd-4eda-b8ec-ea301cf2b5fb
+#EXTINF:1,Radio Caprice - Symphonic Death Metal
+http://213.141.131.10:8000/symphodeath.m3u
+
+#RADIOBROWSERUUID:169825b7-9188-43a9-89e5-73be1b1c2d79
+#EXTINF:1,RadioMv.com | Russian Music (24Kbps)
+http://163.172.137.24:1920/;
+
+#RADIOBROWSERUUID:86a396c8-8ecd-487b-adf4-02ae81255865
+#EXTINF:1,Жития святых
+https://radio.azbyka.ru/lives
+
+#RADIOBROWSERUUID:33699965-5ab2-4edf-8d2c-833ca135843c
+#EXTINF:1,Два Берега (Two Coast)
+http://2beregafm.ru:8100/ber_FM.ogg
+
+#RADIOBROWSERUUID:67db7a0f-0057-42bc-93c1-4abac91e82cb
+#EXTINF:1,Radio Caprice - Glitch / Glitch-Hop [1]
+http://79.111.14.76:8002/glitch
+
+#RADIOBROWSERUUID:b7339b85-bf4e-4841-a911-41f21de81808
+#EXTINF:1,Азбука молитвы
+https://radio.azbyka.ru/azbyka-molitvy
+
+#RADIOBROWSERUUID:c1d32b98-4b5d-4793-a8db-006fecfb2084
+#EXTINF:1,Radio Caprice - Glitch / Glitch-Hop [3]
+http://79.111.14.76:8004/glitch
+
+#RADIOBROWSERUUID:6af4d45b-1d2b-4cda-b1c3-fd3da2869b33
+#EXTINF:1,Радио Рекорд Progressive
+http://radiorecord.hostingradio.ru/progr96.aacp
+
+#RADIOBROWSERUUID:970d0b78-9272-432c-89cf-76c3bfa46ba6
+#EXTINF:1,Читаем Евангелие (цся)
+https://radio.azbyka.ru/chitaem-evangelie-csya
+
+#RADIOBROWSERUUID:1176add7-3ee6-4012-ad14-8b2676723c02
+#EXTINF:1,Читаем Евангелие (синод. муз.)
+https://radio.azbyka.ru/chitaem-evangelie-sinod-muz
+
+#RADIOBROWSERUUID:2938add4-f546-400d-aba3-7ace9a03edbc
+#EXTINF:1,Radio Caprice - Illbient [3]
+http://213.141.131.10:8004/illbient
+
+#RADIOBROWSERUUID:c641a383-c682-41fc-a552-996c37f2aaf8
+#EXTINF:1,иван
+http://falcon.shoutca.st:8166/stream
+
+#RADIOBROWSERUUID:4fa6d1b5-f15c-4e21-9c7a-0e3fa876ab3a
+#EXTINF:1,Radio Caprice - Balearic House / Balearic Beat [1]
+http://213.141.131.10:8002/balearichouse
+
+#RADIOBROWSERUUID:36d2f90a-baf1-4abb-bf7b-55536d606f93
+#EXTINF:1,Radio Caprice - Hard Rock
+http://79.120.77.11:8000/hardrock.m3u
+
+#RADIOBROWSERUUID:04641e29-3c8d-4ce0-b579-4009df10c5db
+#EXTINF:1,Радио Образ
+http://213.177.106.78:8006/
+
+#RADIOBROWSERUUID:3fad299d-0ec0-11e9-a80b-52543be04c81
+#EXTINF:1,Радио Зенит
+http://variant.fm:8000/ZENIT-192
+
+#RADIOBROWSERUUID:ea30836b-8043-11e9-aa30-52543be04c81
+#EXTINF:1,Радио Сектор / Sector Nota (opus)
+http://89.223.45.5:8000/nota-56
+
+#RADIOBROWSERUUID:3e22f705-9c89-4f6a-ac5e-be05ca04e55b
+#EXTINF:1,RadioNet HD
+http://unit.radionet.ml:8000/music
+
+#RADIOBROWSERUUID:a3dde78a-e48e-437a-a6be-84ad689c8f1e
+#EXTINF:1,Radio Caprice - Electro / Electro Funk [2]
+http://79.111.119.111:8000/electro
+
+#RADIOBROWSERUUID:a9364108-aa86-4eda-8dca-2ba83865999b
+#EXTINF:1,RadioNet HD2
+http://198.100.145.190:8001/00000.mp3
+
+#RADIOBROWSERUUID:99e54111-b655-4bfd-a059-02de5c7197f9
+#EXTINF:1,Radio Caprice - Avant-Garde Jazz / Free Improvisation [1]
+http://79.111.119.111:8002/avantgardejazz
+
+#RADIOBROWSERUUID:e202e0c1-74b1-4b0b-b0c3-359f06bf641e
+#EXTINF:1,Radio Caprice - Musique Concrete / Acousmatic / Electroacoustic [2]
+http://213.141.131.10:8000/musiqueconcrete
+
+#RADIOBROWSERUUID:0bf01ace-c0f0-11e9-8502-52543be04c81
+#EXTINF:1,Радио России Нижний Новгород
+http://icecast.vgtrk.cdnvideo.ru/russiafm_nn
+
+#RADIOBROWSERUUID:73c92180-c0ed-11e9-8502-52543be04c81
+#EXTINF:1,Радио России Уфа
+http://109.233.169.131:8000/radio_rrb
+
+#RADIOBROWSERUUID:c6cb364e-2802-11e8-91bf-52543be04c81
+#EXTINF:1,bTuner
+http://radio.btuner.ru:8000/live.ogg
+
+#RADIOBROWSERUUID:0506e59d-ba22-4fdd-a49a-06de7d9a823f
+#EXTINF:1,DONAT FM - Зарубежные хиты
+http://c6.radioboss.fm:8089/stream
+
+#RADIOBROWSERUUID:a9e72cc3-f737-412d-8012-a499ae486be7
+#EXTINF:1,Retro FM 80s
+http://hls-01-retro80.emgsound.ru/2/128/playlist.m3u8
+
+#RADIOBROWSERUUID:6f790da8-9545-11e8-a767-52543be04c81
+#EXTINF:1,vladivostok-fm
+http://vladfm.com:8000/vfm
+
+#RADIOBROWSERUUID:7dc31af1-6bfd-4c69-8b09-e768a109e182
+#EXTINF:1,uezdnoe
+http://62.192.226.178:8001/stream.ogg
+
+#RADIOBROWSERUUID:964a4a26-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Радио «Ulitka» WarThunder
+http://air.radioulitka.ru:8000/ulitka_128
+
+#RADIOBROWSERUUID:da2e4dab-240e-11e9-a80b-52543be04c81
+#EXTINF:1,soulplay.ru
+http://s1.radioheart.ru:8018/live
+
+#RADIOBROWSERUUID:8508c7ca-0ece-4f14-a19d-382163e22a81
+#EXTINF:1,Радио 54
+http://91.202.68.50:8000/;stream.mp3
+
+#RADIOBROWSERUUID:59bc8af2-3f68-11e9-aa55-52543be04c81
+#EXTINF:1,Күңел радиосы
+http://live.kunelradio.ru:8000/128.mp3
+
+#RADIOBROWSERUUID:482475e8-69e5-4548-9860-3944c74ad216
+#EXTINF:1,Радио Ногинска
+http://radio-noginska.ru:8000/radio_mount.mp3
+
+#RADIOBROWSERUUID:04dba7b5-c08f-49c8-b690-9954226185ff
+#EXTINF:1,Radio Caprice Dance Pop
+http://79.120.77.11:9053/
+
+#RADIOBROWSERUUID:94713734-6406-4bf8-a4fc-a34d926aae98
+#EXTINF:1,Радио 40 Калуга
+http://195.112.119.187:8000/Radio40
+
+#RADIOBROWSERUUID:90927765-7e2b-11ea-8a3b-52543be04c81
+#EXTINF:1,BAG
+http://radio-holding.ru:9000/rfm_aac_64
+
+#RADIOBROWSERUUID:527f617f-d787-49f9-b4e2-e2e0788b6d97
+#EXTINF:1,Ретро FM Санкт-Петербург (32 kbps, m3u8)
+http://hls-01-retro.emgsound.ru/12/32/playlist.m3u8
+
+#RADIOBROWSERUUID:961e3de7-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Caprice - Rapcore
+http://79.120.39.202:9043/;
+
+#RADIOBROWSERUUID:1b364a9c-f308-49df-be90-51725d264493
+#EXTINF:1,Ретро FM Санкт-Петербург (128 kbps, mp3)
+http://emgspb.hostingradio.ru/retrofmspb128.mp3
+
+#RADIOBROWSERUUID:7cbc6d0d-a1bf-431a-a128-6f67b9da7c6d
+#EXTINF:1,Radio Caprice - Electro Techno [2]
+http://213.141.131.10:8000/electrotechno
+
+#RADIOBROWSERUUID:0a246d97-14b4-404a-9d8b-694e5e9a43f7
+#EXTINF:1,Ретро FM 70e (64 kbps, m3u8)
+http://hls-01-retro70.emgsound.ru/1/64/playlist.m3u8
+
+#RADIOBROWSERUUID:c678fd49-688e-4a7f-acb2-559ba99a793f
+#EXTINF:1,Radio Caprice - Industrial Music [2]
+http://79.111.14.76:8000/industrial
+
+#RADIOBROWSERUUID:1ba40476-32e5-432c-ae38-146d277c5387
+#EXTINF:1,Radio Caprice - Noise / Power Noise / Electronics [1]
+http://79.120.39.202:8002/noise
+
+#RADIOBROWSERUUID:0f56480f-92bc-4626-ae0d-7e0fea9078e1
+#EXTINF:1,Radio caprice - pop ballads
+http://79.120.77.11:8002/popballads
+
+#RADIOBROWSERUUID:6a7046aa-2914-11e9-a80b-52543be04c81
+#EXTINF:1,chanson
+http://chanson.hostingradio.ru:8041/chanson256.mp3?md5=oVvCwE7WBb8Y7wl1S_2xCQ&e=1549278452
+
+#RADIOBROWSERUUID:c8e61136-d053-4528-be40-3624943f4b3f
+#EXTINF:1,Radio Caprice - Noise / Power Noise / Electronics [3]
+http://79.120.39.202:8004/noise
+
+#RADIOBROWSERUUID:6bbbb8a4-71ba-11ea-b1cf-52543be04c81
+#EXTINF:1,rockfm.ru rock90s
+https://jfm1.hostingradio.ru:14536/rock90.mp3
+
+#RADIOBROWSERUUID:7ab58ff1-2e22-4108-8cf9-c589b4724a73
+#EXTINF:1,Ретро FM Сан-Ремо (64 kbps, m3u8)
+http://hls-01-sanremo.emgsound.ru/5/64/playlist.m3u8
+
+#RADIOBROWSERUUID:831da962-4c7d-4c10-b141-82726fbbab0a
+#EXTINF:1,Everhoof
+http://everhoof.ru:8000/320
+
+#RADIOBROWSERUUID:59a87080-cf06-4916-bb4c-34520969b677
+#EXTINF:1,Радио Рекорд Uplifting
+http://radiorecord.hostingradio.ru/uplift96.aacp
+
+#RADIOBROWSERUUID:c3c4e52d-a380-4a9b-9585-4af5c7d36496
+#EXTINF:1,Радио Рекорд Tropical
+http://radiorecord.hostingradio.ru/trop96.aacp
+
+#RADIOBROWSERUUID:9a89c637-3db6-11e8-b74d-52543be04c81
+#EXTINF:1,Royal Club
+http://193.33.170.218:8000/RoyalClub
+
+#RADIOBROWSERUUID:bb9b38ed-a068-11e8-a9f3-52543be04c81
+#EXTINF:1,Radio 7 Nizhny Novgorod 100.0 FM
+http://online2.gkvr.ru:8000/radio7_nno_64.aac
+
+#RADIOBROWSERUUID:2d3eecee-c0ee-11e9-8502-52543be04c81
+#EXTINF:1,Радио России Приморье
+http://mp3.vestiprim.ru:8000/Radio128
+
+#RADIOBROWSERUUID:e795ecf8-0f77-11e9-a80b-52543be04c81
+#EXTINF:1,Болгар Радиосы
+http://89.232.125.186/hls/tnv/radio/radio.m3u8
+
+#RADIOBROWSERUUID:51e636be-42f3-42d7-b442-8af95232868a
+#EXTINF:1,super-radio
+http://aska.ru-hoster.com:8000/stream
+
+#RADIOBROWSERUUID:fd778027-6157-45d3-8879-8178e7827bde
+#EXTINF:1,Радио Трансмит
+http://95.182.123.24:8000/transmit
+
+#RADIOBROWSERUUID:c56a8e6d-18bb-4af2-9ca2-f0619bf2147b
+#EXTINF:1,Royal Radio Ambient
+https://ambient.royalmusic.keenetic.pro/
+
+#RADIOBROWSERUUID:30e3d9f1-c7ed-11e9-8502-52543be04c81
+#EXTINF:1,Радио Югра
+http://ugra.cdnradio.ru/radiougra
+
+#RADIOBROWSERUUID:37f50736-3db6-11e8-b74d-52543be04c81
+#EXTINF:1,Royal Love
+http://193.33.170.218:8000/RoyaLove
+
+#RADIOBROWSERUUID:59b3931d-bea1-4f76-af7e-910d33e1e2ad
+#EXTINF:1,Radio Caprice - Broken Beat / Bruk [1]
+http://79.120.77.11:8002/brokenbeat
+
+#RADIOBROWSERUUID:aef3637f-0166-41f1-9f67-146a43d81196
+#EXTINF:1,Radio Caprice - Caucasus
+http://213.141.131.10:8004/caucasus
+
+#RADIOBROWSERUUID:9642d868-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Radio Mayak Karelia 107.9 FM
+http://212.109.14.73:8585/mayakkarelia.mp3
+
+#RADIOBROWSERUUID:9c0b6a14-7b77-11e9-aa30-52543be04c81
+#EXTINF:1,Second Shadow of The Yellow Submarine I
+http://radio.rikt.ru:8000/ys-radio.m3u
+
+#RADIOBROWSERUUID:db665e3e-3db8-11e8-b74d-52543be04c81
+#EXTINF:1,Royal Lounge
+http://193.33.170.218:8000/RoyalLounge
+
+#RADIOBROWSERUUID:832fcf11-f926-11e8-a97a-52543be04c81
+#EXTINF:1,Big Radio Murmansk
+https://listen2.myradio24.com/8286
+
+#RADIOBROWSERUUID:d610b05e-ad95-4ca3-b919-6fb2422d39e4
+#EXTINF:1,Свободное радио
+http://nradio.net/free
+
+#RADIOBROWSERUUID:483c37f4-c7c0-474c-a665-a51132d7376b
+#EXTINF:1,Absolute Spitzer (Mixcult)
+http://mixcult.net/assets/files/spitzer_mixcult_ambient_320_kbps.m3u
+
+#RADIOBROWSERUUID:2d819a1d-6c99-43e9-8ccb-72b947472df2
+#EXTINF:1,Радио МЕТРО 102,4
+http://stream.radiometro.ru:8230/
+
+#RADIOBROWSERUUID:31384e3b-8044-11e9-aa30-52543be04c81
+#EXTINF:1,Радио Сектор / Sector Nota
+http://89.223.45.5:8000/nota-160
+
+#RADIOBROWSERUUID:34add9f8-6f99-473c-8efc-9e4a186004a4
+#EXTINF:1,Zhara FM Жара ФМ
+https://live1.zharafm.ru/internet
+
+#RADIOBROWSERUUID:9f2d7f4e-6825-11ea-9d09-52543be04c81
+#EXTINF:1,Rock’n’Roll FM
+https://a6.radioheart.ru:9046/RH1972
+
+#RADIOBROWSERUUID:212f20d4-036e-4eff-a539-b16784a05dcd
+#EXTINF:1,Royal Radio 96.8FM
+https://c22.radioboss.fm/stream/186
+
+#RADIOBROWSERUUID:c6f353ca-1814-443b-9844-0c4df6db0ee0
+#EXTINF:1,Барнаул HeartFM
+http://gtrk22.ru:8000/HFMhigh
+
+#RADIOBROWSERUUID:7010ac93-3336-4304-95af-6d7fe11efd7c
+#EXTINF:1,Радио Рекорд Tecktonik
+http://radiorecord.hostingradio.ru/tecktonik96.aacp
+
+#RADIOBROWSERUUID:e211d055-9161-4c86-a4e0-f240361d7158
+#EXTINF:1,Royal Radio Retro
+https://retro.royalmusic.keenetic.pro/
+
+#RADIOBROWSERUUID:24aaaf59-ace4-4686-aefc-6acf461c4c4c
+#EXTINF:1,Church
+http://c16.radioboss.fm:8238/stream
+
+#RADIOBROWSERUUID:dd52a222-6d0f-4cda-8fbf-642c7aedc16b
+#EXTINF:1,Радио Монте-Карло омск
+https://radio.mediacdn.ru/shanson_omsk.mp3
+
+#RADIOBROWSERUUID:52f44de7-02cb-49e3-ab36-459e116c12cb
+#EXTINF:1,Radio Caprice - Illbient [1]
+http://213.141.131.10:8002/illbient
+
+#RADIOBROWSERUUID:9647851a-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RadioGora - Et Cetera
+http://listen.radiogora.ru:8000/etc128
+
+#RADIOBROWSERUUID:9647e3db-0601-11e8-ae97-52543be04c81
+#EXTINF:1,RadioGora - Groove Cafe
+http://listen.radiogora.ru:8000/groovecafe320
+
+#RADIOBROWSERUUID:b64f0c4d-9e41-4a51-b928-0d230f85bbca
+#EXTINF:1,Радио Рекорд - Нафталин FM
+https://hls-01-radiorecord.hostingradio.ru/record-naft/playlist.m3u8
+
+#RADIOBROWSERUUID:963aba9f-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Kir98 Radio station
+http://kir98.no-ip.org/aac
+
+#RADIOBROWSERUUID:19c57c60-bf6f-481b-9197-cb7e4f58c589
+#EXTINF:1,Radio Caprice - Minimal Techno [1]
+http://79.120.39.202:8002/mintechno
+
+#RADIOBROWSERUUID:6c2ec0d6-31af-40f0-ae97-0a0071b3f519
+#EXTINF:1,Radio Caprice - Pagan Metal
+http://79.111.119.111:8000/paganmetal.m3u
+
+#RADIOBROWSERUUID:70823d01-4901-4ec4-9038-8bc57646b577
+#EXTINF:1,Читаем Евангелие
+https://radio.azbyka.ru/evangelie
+
+#RADIOBROWSERUUID:9644518b-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Радио Сектор / Sector NEXT (flac)
+http://89.223.45.5:8000/next-flac
+
+#RADIOBROWSERUUID:74425709-e421-4907-889e-bfacaaf37089
+#EXTINF:1,Неусыпаемая Псалтирь (рус. муз.)
+https://radio.azbyka.ru/psaltir-rus-muz
+
+#RADIOBROWSERUUID:237e1d1c-25c4-4f9a-9a56-2b8e0baabbda
+#EXTINF:1,Radio Caprice - Easy Listening
+http://79.111.14.76:8000/easylistening.m3u
+
+#RADIOBROWSERUUID:1f4536f1-24a6-4c22-ae07-0110aa58d5fd
+#EXTINF:1,Неусыпаемая Псалтирь (цся)
+https://radio.azbyka.ru/psaltir
+
+#RADIOBROWSERUUID:54fe3155-57ac-4c49-8e4c-ad81560596a6
+#EXTINF:1,Неслучайное Радио
+http://aska.ru-hoster.com:8006/stream
+
+#RADIOBROWSERUUID:001771bd-76da-4776-b625-7977d2656302
+#EXTINF:1,Radio Caprice - Electro / Electro Funk [1]
+http://79.111.119.111:8002/electro
+
+#RADIOBROWSERUUID:e9fd79a6-3761-4e55-8887-d0904a7825c6
+#EXTINF:1,Radio Caprice - Electroclash / Synthcore / Tech Pop / Nouveau Disco [2]
+http://79.120.39.202:8000/electroclash
+
+#RADIOBROWSERUUID:1c24c150-afd5-4739-9c75-0b0fb90c37b3
+#EXTINF:1,Radio Caprice - Electroclash / Synthcore / Tech Pop / Nouveau Disco [3]
+http://79.120.39.202:8004/electroclash
+
+#RADIOBROWSERUUID:79aa47f3-4876-49b3-9edc-0e2b6938e216
+#EXTINF:1,Radio Caprice - Avant-Prog / RIO / Canterbury Scene / Zeuhl
+http://79.111.119.111:8002/avantprog
+
+#RADIOBROWSERUUID:17e43b79-1457-4339-834d-652903a094cb
+#EXTINF:1,Радио Рекорд Christmas
+http://radiorecord.hostingradio.ru/christmas96.aacp
+
+#RADIOBROWSERUUID:fb247121-5cb7-11ea-be63-52543be04c81
+#EXTINF:1,Radio Everypony.ru
+http://radio.alterpony.ru/320
+
+#RADIOBROWSERUUID:c07ed710-e37d-44d2-b40c-688382822bdf
+#EXTINF:1,радио Актан
+http://195.191.78.200:8081/mp
+
+#RADIOBROWSERUUID:28359493-e133-4c5c-96a0-45b658715f16
+#EXTINF:1,Radio Caprice - Broken Beat / Bruk [2]
+http://79.120.77.11:8000/brokenbeat
+
+#RADIOBROWSERUUID:cd32cbc3-7c5c-46a9-bd0b-ab80cb706f3f
+#EXTINF:1,Radio Caprice - Broken Beat / Bruk [3]
+http://79.120.77.11:8004/brokenbeat
+
+#RADIOBROWSERUUID:a0fc627f-f17e-4778-b108-0dadae8e3a1c
+#EXTINF:1,MoyChay
+https://r.moychay.ru/radio.m3u8
+
+#RADIOBROWSERUUID:5a2f21ab-10a6-11e9-a80b-52543be04c81
+#EXTINF:1,Wasteland Radio
+http://wasteland.su:8080/radio.aac
+
+#RADIOBROWSERUUID:d43876ca-e447-11e8-a9cc-52543be04c81
+#EXTINF:1,Hitradio Center Megamix
+http://212.30.80.195:8066/stream
+
+#RADIOBROWSERUUID:1ef1c764-c0f1-11e9-8502-52543be04c81
+#EXTINF:1,Радио России Татарстан
+http://94.180.249.163:8000/tatar64kbps.mp3
+
+#RADIOBROWSERUUID:af67a5c4-fa73-4f49-96de-6a61f8544b90
+#EXTINF:1,Ретро FM Санкт-Петербург (64 kbps, m3u8)
+http://hls-01-retro.emgsound.ru/12/64/playlist.m3u8
+
+#RADIOBROWSERUUID:3e283b98-a373-43e7-b16c-af332c70a1e9
+#EXTINF:1,Radio Caprice - Electro Techno [1]
+http://213.141.131.10:8002/electrotechno
+
+#RADIOBROWSERUUID:24844a7a-bf7b-11e9-8502-52543be04c81
+#EXTINF:1,radio caprice
+http://79.111.14.76:8000/baroque
+
+#RADIOBROWSERUUID:70cac8da-2416-4e2e-9e65-7556af9889bc
+#EXTINF:1,Ретро FM 70e (32 kbps, m3u8)
+http://hls-01-retro70.emgsound.ru/1/32/playlist.m3u8
+
+#RADIOBROWSERUUID:6793afb4-3f6c-11e9-aa55-52543be04c81
+#EXTINF:1,Саба дулкыннары
+http://radio.tatmedia.com:8800/Saba
+
+#RADIOBROWSERUUID:2a1f0041-1d6f-4ac0-a12a-1d0b8ffe77af
+#EXTINF:1,Chekhov Kometa Fm
+http://online.kometa.fm:8000/live
+
+#RADIOBROWSERUUID:99439cbd-f35a-425a-81db-cd4863f03be3
+#EXTINF:1,Radio Caprice - Industrial Music [3]
+http://79.111.14.76:8004/industrial
+
+#RADIOBROWSERUUID:3570a357-07a1-462f-821c-6debf863c9b5
+#EXTINF:1,Ретро FM 90e (64 kbps, m3u8)
+http://hls-01-retro90.emgsound.ru/3/64/playlist.m3u8
+
+#RADIOBROWSERUUID:4033898a-e192-4eb5-a41d-90ed59f0c9c6
+#EXTINF:1,Ретро FM Сан-Ремо (32 kbps, m3u8)
+http://hls-01-sanremo.emgsound.ru/5/32/playlist.m3u8
+
+#RADIOBROWSERUUID:8abb573f-8c33-4459-b7db-e637ac015bb7
+#EXTINF:1,Радио Рекорд Гастарбайтер FM
+http://radiorecord.hostingradio.ru/gast96.aacp
+
+#RADIOBROWSERUUID:49cba1c9-92eb-4977-8102-f24ce32ec74d
+#EXTINF:1,Радио Рекорд X-mas Party
+http://radiorecord.hostingradio.ru/party96.aacp
+
+#RADIOBROWSERUUID:dda16c1b-d49f-4022-845f-d73ebdb9ac96
+#EXTINF:1,Radio Caprice - Eurodance
+http://79.120.39.202:8002/eurodance
+
+#RADIOBROWSERUUID:30a7a9a1-ef32-4af2-b615-37cbd66fa5cd
+#EXTINF:1,Radio Caprice - Slavonic
+http://213.141.131.10:8000/slavonicneofolk.m3u
+
+#RADIOBROWSERUUID:3cd5835d-7240-11ea-b1cf-52543be04c81
+#EXTINF:1,Радио Прокопьевск 107,4
+http://radioserver.27trk.ru:8000/prokopievsk.mp3
+
+#RADIOBROWSERUUID:3c8964b4-5ece-11ea-be63-52543be04c81
+#EXTINF:1,radcap
+http://79.120.77.11:8000/hardrock
+
+#RADIOBROWSERUUID:9622b5c2-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Радио Море (Radio Sea), Симферополь
+http://sea.1tvcrimea.ru:9003/stream_sea.mp3
+
+#RADIOBROWSERUUID:97d4305e-b6e8-49d7-bef6-67c0374338aa
+#EXTINF:1,Radio Gora - Oldies
+http://listen.radiogora.ru:8000/oldies128/;
+
+#RADIOBROWSERUUID:964e506e-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Радио Сектор / Sector NEXT
+http://89.223.45.5:8000/next-160
+
+#RADIOBROWSERUUID:a66d11cf-c95f-11e9-8502-52543be04c81
+#EXTINF:1,Экспресс Радио Орёл
+http://159.253.18.97:8000/128kbit.mp3
+
+#RADIOBROWSERUUID:ca818265-e55d-4539-99ed-b995104201ca
+#EXTINF:1,Mixadance FM
+https://stream.mixadance.fm/mixadancejazz
+
+#RADIOBROWSERUUID:1ff3484a-508f-4588-8fc4-175255249e54
+#EXTINF:1,Radio Caprice - Cyberpunk [1]
+http://79.120.12.130:8002/cyberpunk
+
+#RADIOBROWSERUUID:c5fbde30-8be1-4238-998e-7b3ea0e1c2bc
+#EXTINF:1,Radio Caprice - Cyberpunk [2]
+http://79.120.12.130:8000/cyberpunk
+
+#RADIOBROWSERUUID:7dcc3444-1f92-11e8-a334-52543be04c81
+#EXTINF:1,Юнитон - Radio Uniton
+http://online.uniton.ru:8300/RadioUniton128
+
+#RADIOBROWSERUUID:d858f748-8a6d-11e9-ad01-52543be04c81
+#EXTINF:1,BigNoise
+http://radio.bignoise.club:8000/nonstop
+
+#RADIOBROWSERUUID:eea3074a-218e-4d84-924e-4ef6dc4b9ba9
+#EXTINF:1,netstalk lonesome town
+http://radiotower.netstalking.ru/lonesome_town_320.m3u
+
+#RADIOBROWSERUUID:e43e3b46-d64e-47c4-a491-262451cfc569
+#EXTINF:1,Пилигрим
+http://radiopiligrim.ru:8000/live
+
+#RADIOBROWSERUUID:81ad387a-4c2e-4320-ac14-333ca0ac988e
+#EXTINF:1,Радио Монте Карло - Nights
+https://mc-mcnight.hostingradio.ru/mcnight96.aacp
+
+#RADIOBROWSERUUID:e7aca793-c0aa-4d67-ac0c-0bdac8275f29
+#EXTINF:1,Радио Монте Карло - Summertime
+https://mc-summertime.hostingradio.ru/summertime96.aacp
+
+#RADIOBROWSERUUID:a18fd9d6-dfac-41d4-8b85-2605fa8b2fda
+#EXTINF:1,Радио Монте Карло - Время джаза
+https://mc-mcjazz.hostingradio.ru/mcjazz96.aacp
+
+#RADIOBROWSERUUID:df5eed19-b2ee-11e8-afe1-52543be04c81
+#EXTINF:1,Radio Caprice - Chamber Jazz
+http://79.120.39.202:8002/chamberjazz
+
+#RADIOBROWSERUUID:ebdbb86a-8516-4ef6-a22c-052f0435f56d
+#EXTINF:1,ЯсенБит 128k
+http://radio.yasenbit.net:8000/yasenbit128k
+
+#RADIOBROWSERUUID:5ff0bbfa-b1e0-11e8-afe1-52543be04c81
+#EXTINF:1,imagination
+http://217.70.28.155:8004/radio192
+
+#RADIOBROWSERUUID:df4db278-ae37-4c8c-b8a3-802b0f3baa4a
+#EXTINF:1,Europa Plus Light
+http://emg02.hostingradio.ru/ep-light128.mp3
+
+#RADIOBROWSERUUID:8745276b-fddb-4cd2-b3bb-a93e157c657b
+#EXTINF:1,Radio Caprice - Deep / Chill House [2]
+http://79.120.39.202:8000/deephouse
+
+#RADIOBROWSERUUID:35376c6d-6fcf-413d-aa57-9582ce15be60
+#EXTINF:1,Radio Caprice - Deep / Chill House [3]
+http://79.120.39.202:8004/deephouse
+
+#RADIOBROWSERUUID:f2b08198-5921-4545-985e-0450a776d91a
+#EXTINF:1,Radio Caprice - Lo-Fi [2]
+http://79.111.14.76:8004/lo-fi
+
+#RADIOBROWSERUUID:dabde28b-8b32-4671-8269-5911a2337120
+#EXTINF:1,Радио «Таван»
+http://icecast.ntrk21.ru:8000/tavan
+
+#RADIOBROWSERUUID:0a80f3ca-4445-44ae-9800-8c86d840bdf4
+#EXTINF:1,Radio Caprice - Garage / New York House [3]
+http://79.120.12.130:8004/garagehouse
+
+#RADIOBROWSERUUID:3d1a6d7d-484c-42ae-b547-22432436b4ce
+#EXTINF:1,syg.ma
+https://radio.syg.ma/audio
+
+#RADIOBROWSERUUID:f09dcd56-6b9a-11ea-b1cf-52543be04c81
+#EXTINF:1,Club Re:noize
+http://stream.clubrenoize.com:9001/
+
+#RADIOBROWSERUUID:ca3bebda-25be-455a-a6b8-86a5fc101e63
+#EXTINF:1,Creative Society FM
+https://live.allatra-radio.com/radio/8030/radio.mp3
+
+#RADIOBROWSERUUID:cce80ae5-8210-4ab7-b1cd-efc2faa1c15f
+#EXTINF:1,упоротая волна
+http://i-radio.info:8020/radio
+
+#RADIOBROWSERUUID:163d3e33-2bbf-497d-b1f5-e2cdb58efc40
+#EXTINF:1,Radio Caprice
+http://79.120.77.11:8000/thrashmetal.m3u
+
+#RADIOBROWSERUUID:7b413bd3-15bd-496d-9633-e8794df4f8d1
+#EXTINF:1,Катунь FM
+https://live.katun24.ru:8082/kfm_radio/tracks-a1/mono.m3u8
+
+#RADIOBROWSERUUID:396cb3b4-be7c-4ebf-9a77-3c6aa3186087
+#EXTINF:1,Radio Caprice - Lounge [3]
+http://79.111.14.76:8004/lounge
+
+#RADIOBROWSERUUID:57f0d1cd-75bb-4bc1-9a9f-45b35ddb3047
+#EXTINF:1,Радио Попова
+http://stream.popova.li/
+
+#RADIOBROWSERUUID:1bbd9a3a-fe92-4287-9ad8-625e3394c434
+#EXTINF:1,Radio Caprice - Balearic House / Balearic Beat [2]
+http://213.141.131.10:8000/balearichouse
+
+#RADIOBROWSERUUID:a37d6fc8-981d-44e5-b6fa-476533dfd30a
+#EXTINF:1,Radio Caprice - Thrash Metal
+http://79.120.77.11:8000/thrashmetal.m3u
+
+#RADIOBROWSERUUID:70c73063-861d-4817-add3-a076457085c3
+#EXTINF:1,ЯН ФМ Rock Sochi
+https://listen4.myradio24.com/rtyfm
+
+#RADIOBROWSERUUID:8b9847f5-9fb1-11e9-a787-52543be04c81
+#EXTINF:1,Joy Hits
+http://stream.joyhits.online:8880/joyhits.mp3
+
+#RADIOBROWSERUUID:90e68796-b1e1-11e8-afe1-52543be04c81
+#EXTINF:1,Imagination
+http://217.70.28.155:8004/radio320
+
+#RADIOBROWSERUUID:ca317de1-c2aa-4b08-aaad-aaa25542319a
+#EXTINF:1,Radio Caprice - Electro / Electro Funk [3]
+http://79.111.119.111:8004/electro
+
+#RADIOBROWSERUUID:97f05d93-4256-4259-aa13-4bcc01144382
+#EXTINF:1,Арис Кумертау
+http://195.191.78.200:8080/mp
+
+#RADIOBROWSERUUID:cc58e6d3-74ba-422c-82e9-56f5382d39e5
+#EXTINF:1,Radio Caprice - Musique Concrete / Acousmatic / Electroacoustic [1]
+http://213.141.131.10:8002/musiqueconcrete
+
+#RADIOBROWSERUUID:c1bf2934-ef90-4ab0-8f65-9a883c29c4e3
+#EXTINF:1,Радио Буу!
+http://buu.hostingradio.ru:8005/radio
+
+#RADIOBROWSERUUID:784b72df-c384-11e9-8502-52543be04c81
+#EXTINF:1,Радио Самара-Максимум
+http://85.236.172.22:8000/maximum
+
+#RADIOBROWSERUUID:0e48643c-b1f2-11e9-acb2-52543be04c81
+#EXTINF:1,EuropaPplus Fresh
+http://hls-01-fresh.emgsound.ru//9//playlist.m3u8
+
+#RADIOBROWSERUUID:0dd1ad39-c1c9-4fc5-b1f0-4f4552fda61c
+#EXTINF:1,Радио Болид
+https://icecast-bulteam.cdnvideo.ru/bolid128
+
+#RADIOBROWSERUUID:ffd55d19-712f-4152-bb3c-59ddf44b9321
+#EXTINF:1,NyanServer Radio
+http://station.waveradio.org/nyan.mp3
+
+#RADIOBROWSERUUID:0b5f1a0c-3f39-4255-a99e-62a4c8b20426
+#EXTINF:1,Radio Caprice - Illbient [2]
+http://213.141.131.10:8000/illbient
+
+#RADIOBROWSERUUID:280af9f0-f674-46ec-b8a9-b3e578eaeecf
+#EXTINF:1,Tunguska Radio
+http://revoice.ru:8000/tunguska.mp3
+
+#RADIOBROWSERUUID:e3ced325-05ec-11e9-a3cd-52543be04c81
+#EXTINF:1,Radio 2x2
+http://95.104.192.220:8001/radio2x2.ogg
+
+#RADIOBROWSERUUID:31cc2100-c0ed-11e9-8502-52543be04c81
+#EXTINF:1,Радио России Хабаровск
+http://188.93.129.110:8085/vestikhv
+
+#RADIOBROWSERUUID:964e437d-0601-11e8-ae97-52543be04c81
+#EXTINF:1,Радио Сектор / Sector NEXT (opus)
+http://89.223.45.5:8000/next-56
+
+#RADIOBROWSERUUID:a97e2d06-d304-44fd-9452-8a5702f559a4
+#EXTINF:1,Радио Бодрость
+http://81.94.140.20:8000/
+
+#RADIOBROWSERUUID:27f4e906-e5e0-11e9-a96c-52543be04c81
+#EXTINF:1,OTO Radio
+https://myradio24.org/7859
+
+#RADIOBROWSERUUID:11e9cb05-3700-4ca6-a3cc-dbb28b87373b
+#EXTINF:1,Verdure station
+http://verdure.net/verdure.pls
+
+#RADIOBROWSERUUID:b59c6fec-94fd-45ef-84a0-c1911dbd5f15
+#EXTINF:1,Радио Монте Карло - Chill Lounge
+https://mc-chilllonge.hostingradio.ru/chilllonge96.aacp
+
+#RADIOBROWSERUUID:a392bce8-b107-4a50-b15a-684d8fb0aa18
+#EXTINF:1,Радио Монте Карло - The Best of Crossover
+https://mc-crossover.hostingradio.ru/crossover96.aacp
+
+#RADIOBROWSERUUID:005a729b-16dc-4a3a-8bdc-8309f1737366
+#EXTINF:1,Anima Amoris Electro
+https://amoris.sknt.ru/electro.mp3
+
+#RADIOBROWSERUUID:8c875cad-f00c-43c7-aeab-7425e4b49d8e
+#EXTINF:1,Радио Монте Карло - Monte Italiano
+https://mc-italiano.hostingradio.ru/italiano96.aacp
+
+#RADIOBROWSERUUID:e0107e6a-f00a-4a6c-8ce2-ed3c448060d3
+#EXTINF:1,Radio Caprice - Lo-Fi [2]
+http://79.111.14.76:8000/lo-fi
+
+#RADIOBROWSERUUID:e3a1443a-d314-4578-be34-2f76d80c9848
+#EXTINF:1,Radio Caprice - Garage / New York House [2]
+http://79.120.12.130:8000/garagehouse
+
+#RADIOBROWSERUUID:62b17896-4da8-461e-940b-a0b6b25d5d59
+#EXTINF:1,Радио Монте Карло - Covers
+https://mc-covers.hostingradio.ru/mccovers96.aacp
+
+#RADIOBROWSERUUID:c00d25b3-94ca-4461-b38e-c723f1374ce4
+#EXTINF:1,Радио Монте Карло - Funk Coctail
+https://mc-funkcoctail.hostingradio.ru/funkcoctail96.aacp
+
+#RADIOBROWSERUUID:e947a3f4-e184-4b75-80ef-f2daa7ffd65a
+#EXTINF:1,Radio Caprice - Lo-Fi [1]
+http://79.111.14.76:8002/lo-fi
+
+#RADIOBROWSERUUID:8596a411-e5d2-40cc-8482-d8848f91ab8e
+#EXTINF:1,Radio Caprice - Lo-Fi [3]
+http://79.111.14.76:8004/lo-fi
+
