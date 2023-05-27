@@ -1,0 +1,616 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+#---------------------------------------------------------------#
+# Название плейлиста   : Все    
+# Адрес ссылки         : https://vovkvi.github.io/iptv.m3u8
+# Последнее обновление : 24.04.2023 16:04
+# Использованы сервисы : Okko
+#                        Яндекс
+#                        Wink
+#                        Сибсети
+#                        ФЕДЕРАЛ.ТВ!
+#                        АО "Казахтелеком" (Казахстан)
+#                        Петербургская Интернет Сеть
+#                        PRIDE.NET
+#                        Север-Связь
+#                        BACKUS.TV
+#                        Другие источники
+#---------------------------------------------------------------#
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Okko" tvg-id="sony-turbo" tvg-logo="https://picon.ml/sony-turbo.png",.Black
+https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo/480p.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Okko" tvg-id="sony-tv" tvg-logo="https://picon.ml/sony.png",.Red
+http://okkotv-live.cdnvideo.ru/channel/Sony_ET/480p.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyrigh="Сибсети" tvg-id="1hd" tvg-logo="https://picon.ml/1hd-music.png",1HD 
+http://hlstv.kem.211.ru/239.211.200.33/stream.m3u8
+#EXTINF:-1 group-title="Развлечения" tvg-copyrigh="Wink" tvg-id="2na2" tvg-logo="https://picon.ml/2na2.png",2x2
+#EXTVLCOPT:http-user-agent=WINK/1.40.4 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+#EXTINF:-1 group-title="Новости" tvg-copyrigh="Яндекс" tvg-id="360-podmoskovie" tvg-logo="https://picon.ml/360-podmoskovie.png",360
+https://strm.yandex.ru/kal/360tv/360tv0.m3u8
+#EXTINF:-1 group-title="Новости" tvg-copyrigh="Яндекс" tvg-id="360-news" tvg-logo="https://picon.ml/360-news.png",360 Новости
+https://strm.yandex.ru/kal/360news/360news0.m3u8
+#EXTINF:-1 group-title="Новости" tvg-copyrigh="Сибсети" tvg-id="365-dnej" tvg-logo="https://picon.ml/365-dnej.png",365 дней HD
+http://hlstv.kem.211.ru/239.211.200.138/stream.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Сибсети" tvg-id="49kanal" tvg-logo="https://picon.ml/49kanal.png",49 канал Новосибирск HD
+http://hlstv.kem.211.ru/239.211.211.28/stream.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Казахтелеком (KZ)" tvg-id="7kanal-kz" tvg-logo="https://picon.ml/7kanal-kz.png",7 канал Казахстан
+https://sc.id-tv.kz/7_kanal_34_35.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Петербургская Интернет Сеть" tvg-id="7tv" tvg-logo="https://picon.ml/7tv.png",7ТВ
+http://188.143.128.22:30001/play/p229
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="PRIDE.NET" tvg-id="8kanal-ru" tvg-logo="https://picon.ml/8kanal-ru.png",8 канал
+http://80.251.49.103:8004/play/31
+#EXTINF:-1 group-title="Музыка" tvg-copyrigh="ФЕДЕРАЛ.ТВ!" tvg-id="acb-tv" tvg-logo="https://picon.ml/acb-tv.png",9 волна
+https://federaltv-migra.cdnvideo.ru/9volna/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyrigh="Сибсети" tvg-id="aiva" tvg-logo="https://picon.ml/aiva.png",AIVA HD
+http://hlstv.kem.211.ru/239.211.200.13/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Okko" tvg-id="amedia1" tvg-logo="https://picon.ml/amedia1.png",Amedia 1
+http://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Okko" tvg-id="amedia2" tvg-logo="https://picon.ml/amedia2.png",Amedia 2
+http://okkotv-live.cdnvideo.ru/channel/A2_HD/1080p.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Okko" tvg-id="amedia-hit" tvg-logo="https://picon.ml/amedia-hit.png",Amedia Hit HD
+http://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD/1080p.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Okko" tvg-id="amedia-premium" tvg-logo="https://picon.ml/amedia-premium.png",Amedia Premium HD
+http://okkotv-live.cdnvideo.ru/channel/dash/amedia_premium_hd/playlist.mpd
+#EXTINF:-1 group-title="Детские" tvg-copyrigh="Сибсети" tvg-id="ani" tvg-logo="https://picon.ml/ani.png",Ani
+http://hlstv.kem.211.ru/239.211.211.98/stream.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Казахтелеком (KZ)" tvg-id="astana" tvg-logo="https://picon.ml/astana.png",Astana
+https://sc.id-tv.kz:443/Astana.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyrigh="Сибсети" tvg-id="baby-time" tvg-logo="https://picon.ml/baby-time.png",Baby Time
+http://hlstv.kem.211.ru/239.211.211.51/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="BACKUS.TV" tvg-id="backustv" tvg-logo="https://picon.ml/backustv.png",BackusTV
+http://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="BACKUS.TV" tvg-id="backustv-horror" tvg-logo="https://picon.ml/backustv-horror.png",BackusTV Dark
+http://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyrigh="BACKUS.TV" tvg-id="backustv-music" tvg-logo="https://picon.ml/backustv-music.png",BackusTV Music
+https://stream.backustv.ru/live/vipbtv3/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Казахтелеком (KZ)" tvg-id="bollywood-hd" tvg-logo="https://picon.ml/bollywood-hd.png",Bollywood HD
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Okko" tvg-id="bolt-ru" tvg-logo="https://picon.ml/bolt.png",Bolt HD
+https://okkotv-live.cdnvideo.ru/channel/Bolt_HD/1080p.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyrigh="Яндекс" tvg-id="bridge-tv" tvg-logo="https://picon.ml/bridge-tv.png",Bridge TV
+https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyrigh="Яндекс" tvg-id="bridge-tv-classic" tvg-logo="https://picon.ml/bridge-tv-classic.png",Bridge TV Classic
+https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyrigh="Яндекс" tvg-id="bridge-hd" tvg-logo="https://picon.ml/bridge-hd.png",Bridge TV Deluxe
+https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyrigh="Яндекс" tvg-id="bridge-tv-dance" tvg-logo="https://picon.ml/bridge-tv-dance.png",Bridge TV Hits
+https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyrigh="Яндекс" tvg-id="bridge-tv-fresh" tvg-logo="https://picon.ml/bridge-tv-fresh.png",Bridge TV Rock
+https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyrigh="Яндекс" tvg-id="bridge-tv-ruxit" tvg-logo="https://picon.ml/bridge-tv-ruxit.png",Bridge TV Русский Хит
+https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyrigh="Яндекс" tvg-id="bridge-tv-shlager" tvg-logo="https://picon.ml/bridge-tv-shlager.png",Bridge TV Шлягер
+https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
+#EXTINF:-1 group-title="Путешествия" tvg-copyrigh="Другие источники" tvg-id="brodilo",Brodilo TV
+https://brodilo.tv/brodilotv.m3u
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Сибсети" tvg-id="cinema-ru" tvg-logo="https://picon.ml/cinema.png",Cinema
+http://hlstv.kem.211.ru/239.211.211.106/stream.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-copyrigh="Okko" tvg-id="da-vinci" tvg-logo="https://picon.ml/da-vinci.png",Da Vinci
+https://okkotv-live.cdnvideo.ru/channel/Da_Vinci.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Сибсети" tvg-id="detectivejam" tvg-logo="https://picon.ml/detectivejam.png",DetectiveJam HD
+http://hlstv.kem.211.ru/239.211.200.89/stream.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-copyrigh="Казахтелеком (KZ)" tvg-id="discovery-channel" tvg-logo="https://picon.ml/discovery-channel.png",Discovery Channel
+https://sc.id-tv.kz:443/Disc_chHD_34_35.m3u8
+#EXTINF:-1 group-title="Детские" tvg-copyrigh="Okko" tvg-id="ducktv" tvg-logo="https://picon.ml/ducktv.png",Duck TV
+https://okkotv-live.cdnvideo.ru/channel/DuckTV/480p.m3u8
+#EXTINF:-1 group-title="Развлечения" tvg-copyrigh="ФЕДЕРАЛ.ТВ!" tvg-id="e-tv" tvg-logo="https://picon.ml/e-tv.png",E TV
+https://federaltv-migra.cdnvideo.ru/gsl/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Новости" tvg-copyrigh="Казахтелеком (KZ)" tvg-id="euronews" tvg-logo="https://picon.ml/euronews.png",Euronews
+https://sc.id-tv.kz:443/Euronews_34_35.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyrigh="Другие источники" tvg-id="europa-plus-tv" tvg-logo="https://picon.ml/europa-plus-tv.png",Europa Plus TV HD
+http://hls-europaplus.cdnvideo.ru/europaplus/smil:eurptv3.smil/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-copyrigh="PRIDE.NET" tvg-id="extreme-sports" tvg-logo="https://picon.ml/extreme-sports.png",Extreme sports
+http://80.251.49.103:8004/play/42
+#EXTINF:-1 group-title="Аниме" tvg-copyrigh="Сибсети" tvg-id="fanhd" tvg-logo="https://picon.ml/fanhd.png",FAN HD
+http://hlstv.kem.211.ru/239.211.200.51/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Сибсети" tvg-id="familyjam" tvg-logo="https://picon.ml/familyjam.png",FamilyJam HD
+http://hlstv.kem.211.ru/239.211.200.90/stream.m3u8
+#EXTINF:-1 group-title="Развлечения" tvg-copyrigh="Петербургская Интернет Сеть" tvg-id="fashion-tv" tvg-logo="https://picon.ml/fashion-tv.png",Fashion TV
+http://188.143.128.22:30001/play/p208
+#EXTINF:-1 group-title="Развлечения" tvg-copyrigh="Другие источники" tvg-id="fashion-tv" tvg-logo="https://picon.ml/fashion-tv.png",Fashion TV Midnite Secrets HD
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Развлечения" tvg-copyrigh="Север-Связь" tvg-id="fashionbox-hd" tvg-logo="https://picon.ml/fashionbox-hd.png",FashionBox
+http://146.158.0.56:80/FashionBox/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-copyrigh="Сибсети" tvg-id="fightbox-hd" tvg-logo="https://picon.ml/fightbox-hd.png",FightBox HD
+http://hlstv.kem.211.ru/239.211.211.184/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Сибсети" tvg-id="filmbox-ru" tvg-logo="https://picon.ml/filmbox-ru.png",FilmBox Russia
+http://hlstv.kem.211.ru/239.211.211.185/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Сибсети" tvg-id="filmbox-arthouse" tvg-logo="https://picon.ml/filmbox-arthouse.png",FilmBox ArtHouse
+http://hlstv.kem.211.ru/239.211.211.186/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Казахтелеком (KZ)" tvg-id="fox" tvg-logo="https://picon.ml/fox.png",Fox HD
+https://sc.id-tv.kz/FOX_HD_34_35.m3u8
+#EXTINF:-1 group-title="Развлечения" tvg-copyrigh="Петербургская Интернет Сеть" tvg-id="gags-network" tvg-logo="https://picon.ml/gags-network.png",Gags Network
+http://188.143.128.22:30001/play/p209
+#EXTINF:-1 group-title="Развлечения" tvg-copyrigh="Сибсети" tvg-id="galaxy-tv" tvg-logo="https://picon.ml/galaxy-tv.png",Galaxy
+http://hlstv.kem.211.ru/239.211.211.39/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Другие источники" tvg-id="globalstar" tvg-logo="https://picon.ml/globalstar.png",Globalstar HD
+http://live-1.otcnet.ru/globalstar/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-copyrigh="Казахтелеком (KZ)" tvg-id="gulli-girl" tvg-logo="https://picon.ml/gulli-girl.png",Gulli
+https://sc.id-tv.kz:443/Gulli_34_35.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-copyrigh="Сибсети" tvg-id="hd-life" tvg-logo="https://picon.ml/hdl.png",HD Life
+http://hlstv.kem.211.ru/239.211.200.6/stream.m3u8
+#EXTINF:-1 group-title="Досуг" tvg-copyrigh="Сибсети" tvg-id="home-4k" tvg-logo="https://picon.ml/home4k.png",HOME 4K
+http://hlstv.kem.211.ru/239.211.200.62/stream.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-copyrigh="Казахтелеком (KZ)" tvg-id="history-eu" tvg-logo="https://picon.ml/history-hd.png",History
+https://sc.id-tv.kz/HistoryHD_36_37.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Сибсети" tvg-id="hollywood-hd" tvg-logo="https://picon.ml/hollywood-hd.png",Hollywood HD
+http://hlstv.kem.211.ru/239.211.200.5/stream.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-copyrigh="Okko" tvg-id="kxl" tvg-logo="https://picon.ml/kxl.png",KHL
+https://okkotv-live.cdnvideo.ru/dash/khl_hd_2/playlist.mpd
+#EXTINF:-1 group-title="Спорт" tvg-copyrigh="Okko" tvg-id="kxl-hd" tvg-logo="https://picon.ml/kxl-hd.png",KHL Prime
+https://okkotv-live.cdnvideo.ru/dash/khl_prime_hd/playlist.mpd
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Сибсети" tvg-id="kinojam1" tvg-logo="https://picon.ml/kinojam1.png",Kinojam 1 HD
+http://hlstv.kem.211.ru/239.211.200.87/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Сибсети" tvg-id="kinojam2" tvg-logo="https://picon.ml/kinojam2.png",Kinojam 2 HD
+http://hlstv.kem.211.ru/239.211.200.88/stream.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyrigh="Казахтелеком (KZ)" tvg-id="mezzo" tvg-logo="https://picon.ml/mezzo.png",Mezzo
+https://sc.id-tv.kz:443/mezzo.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyrigh="Петербургская Интернет Сеть" tvg-id="mezzo" tvg-logo="https://picon.ml/mezzo.png",Mezzo Live HD
+http://188.143.128.22:30001/play/p212
+#EXTINF:-1 group-title="Музыка" tvg-copyrigh="Яндекс" tvg-id="musicbox" tvg-logo="https://picon.ml/musicbox.png",MusicBox Gold
+https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
+#EXTINF:-1 group-title="Детские" tvg-copyrigh="Казахтелеком (KZ)" tvg-id="nick-jr" tvg-logo="https://picon.ml/nick-jr.png",Nick Jr
+https://sc.id-tv.kz:443/NickJr_36_37.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyrigh="Сибсети" tvg-id="o2tv" tvg-logo="https://picon.ml/o2tv.png",O2 TV HD
+http://hlstv.kem.211.ru/239.211.200.36/stream.m3u8
+#EXTINF:-1 group-title="Путешествия" tvg-copyrigh="Север-Связь" tvg-id="ocean-tv" tvg-logo="https://picon.ml/ocean-tv.png",Ocean TV
+http://146.158.0.56:80/OceanTV/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Сибсети" tvg-id="plan-b" tvg-logo="https://picon.ml/plan-b.png",Plan B HD
+http://hlstv.kem.211.ru/239.211.200.50/stream.m3u8
+#EXTINF:-1 group-title="Новости" tvg-copyrigh="Яндекс" tvg-id="rtd-ru" tvg-logo="https://picon.ml/rt-doc.png",RT Д HD
+https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
+#EXTINF:-1 group-title="Путешествия" tvg-copyrigh="Яндекс" tvg-id="rtg-hd" tvg-logo="https://picon.ml/rtg-hd.png",RTG HD
+https://strm.yandex.ru/kal/rtg/rtg0.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyrigh="Okko" tvg-id="ru-tv" tvg-logo="https://picon.ml/ru-tv.png",RU.TV HD
+https://okkotv-live.cdnvideo.ru/channel/RUTV_HD/1080p.m3u8
+#EXTINF:-1 group-title="Новости" tvg-copyrigh="ФЕДЕРАЛ.ТВ!" tvg-id="russia-today" tvg-logo="https://picon.ml/russia-today.png",Russia Today HD
+https://federaltv-migra.cdnvideo.ru/RussiaToday/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлечения" tvg-copyrigh="Wink" tvg-id="russian-extreme-uhd" tvg-logo="https://picon.ml/russian-extreme-uhd.png",Russian Extreme Ultra
+#EXTVLCOPT:http-user-agent=WINK/1.40.4 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyrigh="Яндекс" tvg-id="russian-musicbox" tvg-logo="https://picon.ml/russian-musicbox.png",Russian MusicBox
+https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Okko" tvg-id="start-air" tvg-logo="https://picon.ml/start-air.png",START Air
+https://okkotv-live.cdnvideo.ru/channel/START_Air_HD/1080p.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Okko" tvg-id="start-world" tvg-logo="https://picon.ml/start-world.png",START World
+https://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Сибсети" tvg-id="shot-tv" tvg-logo="https://picon.ml/shot-tv.png",Shot TV
+http://hlstv.kem.211.ru/239.211.200.54/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Okko" tvg-id="sony-scifi" tvg-logo="https://picon.ml/sony-scifi.png",Sony Sci-Fi
+https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi/480p.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Okko" tvg-id="star-cinema" tvg-logo="https://picon.ml/star-cinema.png",Star Cinema
+https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/1080p.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Okko" tvg-id="star-family" tvg-logo="https://picon.ml/star-family.png",Star Family HD
+https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/1080p.m3u8
+#EXTINF:-1 group-title="Путешествия" tvg-copyrigh="Okko" tvg-id="terra-ru" tvg-logo="https://picon.ml/terra-ru.png",TERRA
+https://okkotv-live.cdnvideo.ru/channel/NGC_HD/1080p.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="PRIDE.NET" tvg-id="tvxxi" tvg-logo="https://picon.ml/tvxxi.png",TV XXI
+http://80.251.49.103:8002/play/21
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Okko" tvg-id="tv1000-action" tvg-logo="https://picon.ml/tv1000-action.png",TV1000 Action HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD/1080p.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Okko" tvg-id="tv1000" tvg-logo="https://picon.ml/tv1000.png",TV1000 HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/1080p.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Okko" tvg-id="tv1000-russkoe-kino" tvg-logo="https://picon.ml/tv1000-russkoe-kino.png",TV1000 Русское кино HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/1080p.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="ФЕДЕРАЛ.ТВ!" tvg-id="tvmchannel" tvg-logo="https://picon.ml/tvmchannel.png",TVM Channel
+https://federaltv-migra.cdnvideo.ru/tvm_edge/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские" tvg-copyrigh="Сибсети" tvg-id="tiji" tvg-logo="https://picon.ml/tiji.png",TiJi
+http://hlstv.kem.211.ru/239.211.211.43/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Сибсети" tvg-id="timeless-dizi" tvg-logo="https://picon.ml/timeless-dizi.png",Timeless Dizi Channel
+http://hlstv.kem.211.ru/239.211.211.115/stream.m3u8
+#EXTINF:-1 group-title="Путешествия" tvg-copyrigh="Сибсети" tvg-id="travel-adventure" tvg-logo="https://picon.ml/travel-adventure.png",Travel+Adventure HD
+http://hlstv.kem.211.ru/239.211.200.7/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Wink" tvg-id="ultra-hd-cinema" tvg-logo="https://picon.ml/ultra-hd-cinema.png",Ultra HD Cinema
+#EXTVLCOPT:http-user-agent=WINK/1.40.4 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-copyrigh="Другие источники" tvg-id="univer-tv" tvg-logo="https://picon.ml/univer-tv.png",Univer TV HD
+http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Сибсети" tvg-id="vhs-ka",VHS-ka HD 
+http://hlstv.kem.211.ru/239.211.200.32/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Okko" tvg-id="vip-comedy" tvg-logo="https://picon.ml/vip-comedy.png",VIP Comedy HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/1080p.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Okko" tvg-id="vip-megahit" tvg-logo="https://picon.ml/vip-megahit.png",VIP Megahit HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/1080p.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Okko" tvg-id="vip-premiere" tvg-logo="https://picon.ml/vip-premiere.png",VIP Premiere HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD/1080p.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Okko" tvg-id="vip-serial" tvg-logo="https://picon.ml/vip-serial.png",VIP Serial HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/1080p.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyrigh="Другие источники" tvg-id="viva-rus" tvg-logo="https://picon.ml/viva-rus.png",VIVA Russia
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-copyrigh="Okko" tvg-id="viasat-explore" tvg-logo="https://picon.ml/viasat-explore.png",Viasat Explore HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/1080p.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-copyrigh="Okko" tvg-id="viasat-history" tvg-logo="https://picon.ml/viasat-history.png",Viasat History HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
+#EXTINF:-1 group-title="Путешествия" tvg-copyrigh="Okko" tvg-id="viasat-nature" tvg-logo="https://picon.ml/viasat-nature.png",Viasat Nature HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-copyrigh="Okko" tvg-id="viasat-nature-history-hd" tvg-logo="https://picon.ml/viasat-nature-history-hd.png",Viasat Nature/History HD
+http://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_History_HD/1080p.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-copyrigh="Okko" tvg-id="viasat-sport" tvg-logo="https://picon.ml/viasat-sport.png",Viasat Sport HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD.m3u8
+#EXTINF:-1 group-title="Развлечения" tvg-copyrigh="Сибсети" tvg-id="avto-plus" tvg-logo="https://picon.ml/avto-plus.png",Авто Плюс
+http://hlstv.kem.211.ru/239.211.200.150/stream.m3u8
+#EXTINF:-1 group-title="Развлечения" tvg-copyrigh="Казахтелеком (KZ)" tvg-id="avto24" tvg-logo="https://picon.ml/avto24.png",Авто24
+https://sc.id-tv.kz:443/Avto24_36_37.m3u8
+#EXTINF:-1 group-title="Новости" tvg-copyrigh="Петербургская Интернет Сеть" tvg-id="belarus24" tvg-logo="https://picon.ml/belarus24.png",Беларусь 24
+http://188.143.128.22:30001/play/p97
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Сибсети" tvg-id="blokbaster" tvg-logo="https://picon.ml/blokbaster.png",Блокбастер HD
+http://hlstv.kem.211.ru/239.211.200.38/stream.m3u8
+#EXTINF:-1 group-title="Досуг" tvg-copyrigh="Сибсети" tvg-id="bobior" tvg-logo="https://picon.ml/bober.png",Бобёр
+http://hlstv.kem.211.ru/239.211.211.34/stream.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-copyrigh="Сибсети" tvg-id="box-tv" tvg-logo="https://picon.ml/box-tv.png",Бокс ТВ
+http://hlstv.kem.211.ru/239.211.211.14/stream.m3u8
+#EXTINF:-1 group-title="Путешествия" tvg-copyrigh="Сибсети" tvg-id="bolshaya-azia" tvg-logo="https://picon.ml/bolshaya-azia.png",Большая Азия
+http://hlstv.kem.211.ru/239.211.211.162/stream.m3u8
+#EXTINF:-1 group-title="Детские" tvg-copyrigh="Яндекс" tvg-id="v-gostiax-u-skazki" tvg-logo="https://picon.ml/v-gostiax-u-skazki.png",В гостях у сказки
+https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
+#EXTINF:-1 group-title="Путешествия" tvg-copyrigh="Сибсети" tvg-id="v-mire-zhivotnyx-hd" tvg-logo="https://picon.ml/v-mire-zhivotnyx.png",В мире животных HD
+http://hlstv.kem.211.ru/239.211.200.9/stream.m3u8
+#EXTINF:-1 group-title="Новости" tvg-copyrigh="ФЕДЕРАЛ.ТВ!" tvg-id="vmeste-rf" tvg-logo="https://picon.ml/vmeste-rf.png",Вместе-РФ
+https://federaltv-migra.cdnvideo.ru/vmesterf/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Сибсети" tvg-id="vostok-tv" tvg-logo="https://picon.ml/vostok-tv.png",Восток ТВ
+http://hlstv.kem.211.ru/239.211.211.117/stream.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Сибсети" tvg-id="vremia" tvg-logo="https://picon.ml/vremia.png",Время
+http://hlstv.kem.211.ru/239.211.211.197/stream.m3u8
+#EXTINF:-1 group-title="Путешествия" tvg-copyrigh="Сибсети" tvg-id="glazami-turista-4k" tvg-logo="https://picon.ml/glazami-turista-4k.png",Глазами туриста 4K
+http://hlstv.kem.211.ru/239.211.200.61/stream.m3u8
+#EXTINF:-1 group-title="Путешествия" tvg-copyrigh="Сибсети" tvg-id="glazami-turista" tvg-logo="https://picon.ml/glazami-turista.png",Глазами туриста HD
+http://hlstv.kem.211.ru/239.211.200.35/stream.m3u8
+#EXTINF:-1 group-title="Детские" tvg-copyrigh="Сибсети" tvg-id="detsky-mir" tvg-logo="https://picon.ml/detsky-mir.png",Детский мир
+http://hlstv.kem.211.ru/239.211.211.80/stream.m3u8
+#EXTINF:-1 group-title="Досуг" tvg-copyrigh="Яндекс" tvg-id="dialogi-o-rybalke" tvg-logo="https://picon.ml/dialogi-o-rybalke.png",Диалоги о рыбалке
+https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
+#EXTINF:-1 group-title="Досуг" tvg-copyrigh="PRIDE.NET" tvg-id="dikaya-oxota-hd" tvg-logo="https://picon.ml/dikaya-oxota-hd.png",Дикая охота HD
+http://80.251.49.103:8004/play/175
+#EXTINF:-1 group-title="Досуг" tvg-copyrigh="PRIDE.NET" tvg-id="dikaya-rybalka-hd" tvg-logo="https://picon.ml/dikaya-rybalka-hd.png",Дикая рыбалка HD
+http://80.251.49.103:8002/play/55
+#EXTINF:-1 group-title="Досуг" tvg-copyrigh="PRIDE.NET" tvg-id="dikiy" tvg-logo="https://picon.ml/dikiy.png",Дикий
+http://80.251.49.103:8003/play/38
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Wink" tvg-id="doverie" tvg-logo="https://picon.ml/doverie.png",Доверие
+#EXTVLCOPT:http-user-agent=WINK/1.40.4 (AndroidTV/9) HlsWinkPlayer
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-copyrigh="Сибсети" tvg-id="doktor" tvg-logo="https://picon.ml/doktor.png",Доктор
+http://hlstv.kem.211.ru/239.211.211.67/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Сибсети" tvg-id="domkino" tvg-logo="https://picon.ml/domkino.png",Дом кино
+http://hlstv.kem.211.ru/239.211.211.103/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Сибсети" tvg-id="domkino-premium" tvg-logo="https://picon.ml/domkino-premium.png",Дом кино Премиум HD
+http://hlstv.kem.211.ru/239.211.200.103/stream.m3u8
+#EXTINF:-1 group-title="Досуг" tvg-copyrigh="PRIDE.NET" tvg-id="domashnie-zhivotnye" tvg-logo="https://picon.ml/domashnie-zhivotnye.png",Домашние животные
+http://80.251.49.103:8002/play/107
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Okko" tvg-id="domashny" tvg-logo="https://picon.ml/domashny.png",Домашний HD
+http://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/1080p.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Казахтелеком (KZ)" tvg-id="dorama" tvg-logo="https://picon.ml/dorama.png",Дорама HD
+https://sc.id-tv.kz/dorama_hd_34_35.m3u8
+#EXTINF:-1 group-title="Развлечения" tvg-copyrigh="PRIDE.NET" tvg-id="drive" tvg-logo="https://picon.ml/drive.png",Драйв
+http://80.251.49.103:8001/play/104
+#EXTINF:-1 group-title="Познавательные" tvg-copyrigh="Петербургская Интернет Сеть" tvg-id="ege-tv" tvg-logo="https://picon.ml/ege-tv.png",ЕГЭ ТВ
+http://188.143.128.22:30001/play/p147
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="PRIDE.NET" tvg-id="evrokino" tvg-logo="https://picon.ml/eurokino.png",Еврокино
+http://80.251.49.103:8004/play/227
+#EXTINF:-1 group-title="Досуг" tvg-copyrigh="Сибсети" tvg-id="eda-hd" tvg-logo="https://picon.ml/eda-hd.png",Еда HD
+http://hlstv.kem.211.ru/239.211.200.14/stream.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Сибсети" tvg-id="zhar-ptica" tvg-logo="https://picon.ml/zhar-ptica.png",Жар Птица
+http://hlstv.kem.211.ru/239.211.211.155/stream.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyrigh="Петербургская Интернет Сеть" tvg-id="zhara" tvg-logo="https://picon.ml/zhara.png",Жара
+http://188.143.128.22:30001/play/p148
+#EXTINF:-1 group-title="Путешествия" tvg-copyrigh="Петербургская Интернет Сеть" tvg-id="zhivaya-planeta" tvg-logo="https://picon.ml/zhivaya-planeta.png",Живая планета
+http://188.143.128.22:30001/play/p37
+#EXTINF:-1 group-title="Путешествия" tvg-copyrigh="Сибсети" tvg-id="zhivaya-priroda" tvg-logo="https://picon.ml/zhivaya-priroda.png",Живая природа HD
+http://hlstv.kem.211.ru/239.211.200.27/stream.m3u8
+#EXTINF:-1 group-title="Досуг" tvg-copyrigh="Сибсети" tvg-id="zhivi" tvg-logo="https://picon.ml/zhivi.png",Живи
+http://hlstv.kem.211.ru/239.211.211.153/stream.m3u8
+#EXTINF:-1 group-title="Досуг" tvg-copyrigh="Сибсети" tvg-id="zhivi-aktivno" tvg-logo="https://picon.ml/zhivi-aktivno.png",Живи активно HD
+http://hlstv.kem.211.ru/239.211.200.39/stream.m3u8
+#EXTINF:-1 group-title="Досуг" tvg-copyrigh="Казахтелеком (KZ)" tvg-id="zagorodnaya-zhizn" tvg-logo="https://picon.ml/zagorodnaya-zhizn.png",Загородная жизнь
+https://sc.id-tv.kz:443/Zagorod.m3u8
+#EXTINF:-1 group-title="Досуг" tvg-copyrigh="Сибсети" tvg-id="zagorodny" tvg-logo="https://picon.ml/zagorodny.png",Загородный
+http://hlstv.kem.211.ru/239.211.211.62/stream.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Другие источники" tvg-id="zvezda" tvg-logo="https://picon.ml/zvezda.png", Звезда HD
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Север-Связь" tvg-id="zvezda-plus" tvg-logo="https://picon.ml/zvezda-plus.png",Звезда Плюс
+http://146.158.0.56:80/ZvezdaPlus/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-copyrigh="Петербургская Интернет Сеть" tvg-id="zootv" tvg-logo="https://picon.ml/zootv.png",Зоо ТВ
+http://188.143.128.22:30001/play/p159
+#EXTINF:-1 group-title="Новости" tvg-copyrigh="Okko" tvg-id="izvestia" tvg-logo="https://picon.ml/izvestia.png",Известия HD
+https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2/1080p.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Казахтелеком (KZ)" tvg-id="illuzion-plus" tvg-logo="https://picon.ml/illuzion-plus.png",Иллюзион +
+https://sc.id-tv.kz:443/IlluzionPlus_36_37.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Петербургская Интернет Сеть" tvg-id="indiyskoe-kino" tvg-logo="https://picon.ml/indijskoe-kino.png",Индийское кино
+http://188.143.128.22:30001/play/p140
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Петербургская Интернет Сеть" tvg-id="zee-tv" tvg-logo="https://picon.ml/zee-tv.png",Индия
+http://188.143.128.22:30001/play/p48
+#EXTINF:-1 group-title="Познавательные" tvg-copyrigh="Сибсети" tvg-id="istoria" tvg-logo="https://picon.ml/istoria.png",История
+http://hlstv.kem.211.ru/239.211.211.55/stream.m3u8
+#EXTINF:-1 group-title="Развлечения" tvg-copyrigh="Сибсети" tvg-id="kvn-tv" tvg-logo="https://picon.ml/kvn-tv.png",КВН ТВ
+http://hlstv.kem.211.ru/239.211.211.17/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Okko" tvg-id="kineko" tvg-logo="https://picon.ml/kineko.png",КИНЕКО
+https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="ФЕДЕРАЛ.ТВ!" tvg-id="krik-tv" tvg-logo="https://picon.ml/krik-tv.png",КРИК-ТВ
+https://federaltv-migra.cdnvideo.ru/kriktv_edge/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="ФЕДЕРАЛ.ТВ!" tvg-id="kaleydoskop-tv" tvg-logo="https://picon.ml/kaleydoskop.png",Калейдоскоп ТВ
+https://federaltv-migra.cdnvideo.ru/Kaleidoskop_edge/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские" tvg-copyrigh="Сибсети" tvg-id="ginger-hd" tvg-logo="https://picon.ml/capfantast.png",Капитан Фантастика HD
+http://hlstv.kem.211.ru/239.211.200.8/stream.m3u8
+#EXTINF:-1 group-title="Детские" tvg-copyrigh="Wink" tvg-id="karusel" tvg-logo="https://picon.ml/karusel.png",Карусель
+#EXTVLCOPT:http-user-agent=WINK/1.40.4 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Сибсети" tvg-id="kino-tv" tvg-logo="https://picon.ml/kino-tv.png",Кино ТВ
+http://hlstv.kem.211.ru/239.211.211.86/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Сибсети" tvg-id="kinokomedia" tvg-logo="https://picon.ml/kinokomedia.png",Кинокомедия HD
+http://hlstv.kem.211.ru/239.211.200.139/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Сибсети" tvg-id="kinomiks" tvg-logo="https://picon.ml/kinomiks.png",Киномикс HD
+http://hlstv.kem.211.ru/239.211.200.194/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Петербургская Интернет Сеть" tvg-id="kinopokaz" tvg-logo="https://picon.ml/kinopokaz.png",Кинопоказ
+http://188.143.128.22:30001/play/p24
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Сибсети" tvg-id="kinopremiera-hd" tvg-logo="https://picon.ml/kinopremiera.png",Кинопремьера HD
+http://hlstv.kem.211.ru/239.211.200.28/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Петербургская Интернет Сеть" tvg-id="kinosat" tvg-logo="https://picon.ml/kinosat.png",Киносат
+http://188.143.128.22:30001/play/p105
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Сибсети" tvg-id="kinosemiya" tvg-logo="https://picon.ml/kinosemia.png",Киносемья
+http://hlstv.kem.211.ru/239.211.211.140/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Сибсети" tvg-id="kinoseria" tvg-logo="https://picon.ml/kinoseria.png",Киносерия HD
+http://hlstv.kem.211.ru/239.211.200.44/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Сибсети" tvg-id="kinouzhas" tvg-logo="https://picon.ml/kinouzhas.png",Киноужас HD
+http://hlstv.kem.211.ru/239.211.200.43/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Сибсети" tvg-id="kinoxit" tvg-logo="https://picon.ml/kinoxit.png",Кинохит
+http://hlstv.kem.211.ru/239.211.211.142/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="PRIDE.NET" tvg-id="russkaya-komedia" tvg-logo="https://picon.ml/russkaya-komedia.png",Комедия
+http://80.251.49.103:8002/play/128
+#EXTINF:-1 group-title="Досуг" tvg-copyrigh="ФЕДЕРАЛ.ТВ!" tvg-id="konny-mir" tvg-logo="https://picon.ml/konny-mir.png",Конный Мир
+https://federaltv-migra.cdnvideo.ru/konnyimir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Сибсети" tvg-id="krasnaya-linia" tvg-logo="https://picon.ml/krasnaya-linia.png",Красная линия
+http://hlstv.kem.211.ru/239.211.211.125/stream.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-copyrigh="Сибсети" tvg-id="kto-est-kto" tvg-logo="https://picon.ml/kto-est-kto.png",Кто есть кто
+http://hlstv.kem.211.ru/239.211.211.192/stream.m3u8
+#EXTINF:-1 group-title="Досуг" tvg-copyrigh="Сибсети" tvg-id="kuxnia-tv" tvg-logo="https://picon.ml/kuhnia.png",Кухня ТВ HD
+http://hlstv.kem.211.ru/239.211.211.130/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Сибсети" tvg-id="lubimoe-kino" tvg-logo="https://picon.ml/lubimoe-kino.png",Любимое кино
+http://hlstv.kem.211.ru/239.211.211.187/stream.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyrigh="Сибсети" tvg-id="la-minor" tvg-logo="https://picon.ml/la-minor.png",Ля-минор
+http://hlstv.kem.211.ru/239.211.211.20/stream.m3u8
+#EXTINF:-1 group-title="Детские" tvg-copyrigh="Яндекс" tvg-id="liova" tvg-logo="https://picon.ml/liova.png",Лёва
+http://strm.yandex.ru/kal/leva/leva0.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Сибсети" tvg-id="mama" tvg-logo="https://picon.ml/mama.png",Мама
+http://hlstv.kem.211.ru/239.211.211.7/stream.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-copyrigh="Okko" tvg-id="match-tv" tvg-logo="https://picon.ml/match-tv.png",Матч ТВ HD
+https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-copyrigh="ФЕДЕРАЛ.ТВ!" tvg-id="match-arena" tvg-logo="https://picon.ml/match-arena.png",Матч! Арена
+https://federaltv-migra.cdnvideo.ru/marena/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-copyrigh="ФЕДЕРАЛ.ТВ!" tvg-id="match-igra" tvg-logo="https://picon.ml/match-igra.png",Матч! Игра
+https://federaltv-migra.cdnvideo.ru/migra/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-copyrigh="ФЕДЕРАЛ.ТВ!" tvg-id="match-premier" tvg-logo="https://picon.ml/match-premier.png",Матч! Премьер
+https://federaltv-migra.cdnvideo.ru/mpremier/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-copyrigh="ФЕДЕРАЛ.ТВ!" tvg-id="match-nash-sport" tvg-logo="https://picon.ml/match-nash-sport.png",Матч! Страна
+https://federaltv-migra.cdnvideo.ru/mstrana/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-copyrigh="ФЕДЕРАЛ.ТВ!" tvg-id="match-football1" tvg-logo="https://picon.ml/match-football1.png",Матч! Футбол 1
+https://federaltv-migra.cdnvideo.ru/football1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-copyrigh="ФЕДЕРАЛ.ТВ!" tvg-id="match-football2" tvg-logo="https://picon.ml/match-football2.png",Матч! Футбол 2
+https://federaltv-migra.cdnvideo.ru/football2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-copyrigh="ФЕДЕРАЛ.ТВ!" tvg-id="match-football3" tvg-logo="https://picon.ml/match-football3.png",Матч! Футбол 3
+https://federaltv-migra.cdnvideo.ru/football3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="PRIDE.NET" tvg-id="megapolis" tvg-logo="https://picon.ml/megapolis.png",Мегаполис
+http://80.251.49.103:8002/play/222
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Wink" tvg-id="mir" tvg-logo="https://picon.ml/mir.png",Мир
+#EXTVLCOPT:http-user-agent=WINK/1.40.4 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+#EXTINF:-1 group-title="Новости" tvg-copyrigh="Okko" tvg-id="mir-24" tvg-logo="https://picon.ml/mir24.png",Мир 24
+http://okkotv-live.cdnvideo.ru/channel/Mir_24_OTT_HD/1080p.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-copyrigh="Сибсети" tvg-id="mir-vokrug" tvg-logo="https://picon.ml/mir-vokrug.png",Мир вокруг HD
+http://hlstv.kem.211.ru/239.211.211.73/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Сибсети" tvg-id="mir-seriala" tvg-logo="https://picon.ml/mir-seriala.png",Мир сериала
+http://hlstv.kem.211.ru/239.211.211.188/stream.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Петербургская Интернет Сеть" tvg-id="moskva-24" tvg-logo="https://picon.ml/moskva-24.png",Москва 24
+http://188.143.128.22:30001/play/p21
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Сибсети" tvg-id="mosfilm" tvg-logo="https://picon.ml/mosfilm.png",Мосфильм. Золотая коллекция HD
+http://hlstv.kem.211.ru/239.211.200.42/stream.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-copyrigh="Петербургская Интернет Сеть" tvg-id="motorsportv-tv" tvg-logo="https://picon.ml/motorsportv-tv.png",Моторспорт ТВ
+http://188.143.128.22:30001/play/p221
+#EXTINF:-1 group-title="Путешествия" tvg-copyrigh="Сибсети" tvg-id="moya-planeta" tvg-logo="https://picon.ml/moya-planeta.png",Моя Планета HD
+http://hlstv.kem.211.ru/239.211.200.19/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Сибсети" tvg-id="muzhskoe-kino" tvg-logo="https://picon.ml/muzhskoe-kino.png",Мужское Кино HD
+http://hlstv.kem.211.ru/239.211.200.31/stream.m3u8
+#EXTINF:-1 group-title="Досуг" tvg-copyrigh="Казахтелеком (KZ)" tvg-id="muzhskoy" tvg-logo="https://picon.ml/muzhskoy.png",Мужской
+https://sc.id-tv.kz/Mujskoi_34_35.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyrigh="Wink" tvg-id="muztv" tvg-logo="https://picon.ml/muztv.png",МузТВ
+#EXTVLCOPT:http-user-agent=WINK/1.40.4 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyrigh="Сибсети" tvg-id="muzyka-pervogo" tvg-logo="https://picon.ml/muzyka-pervogo.png",Музыка Первого
+http://hlstv.kem.211.ru/239.211.211.196/stream.m3u8
+#EXTINF:-1 group-title="Детские" tvg-copyrigh="Сибсети" tvg-id="mult" tvg-logo="https://picon.ml/mult.png",Мульт
+http://hlstv.kem.211.ru/239.211.211.6/stream.m3u8
+#EXTINF:-1 group-title="Детские" tvg-copyrigh="Okko" tvg-id="multimania" tvg-logo="https://picon.ml/multimania.png",Мультиландия
+https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyrigh="Сибсети" tvg-id="multimuzyka" tvg-logo="https://picon.ml/multimuzyka.png",Мультимузыка
+http://hlstv.kem.211.ru/239.211.211.12/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Сибсети" tvg-id="nst" tvg-logo="https://picon.ml/nst.png",НСТ
+http://hlstv.kem.211.ru/239.211.211.107/stream.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Wink" tvg-id="ntv" tvg-logo="https://picon.ml/ntv.png",НТВ
+#EXTVLCOPT:http-user-agent=WINK/1.40.4 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Яндекс" tvg-id="ntv-pravo" tvg-logo="https://picon.ml/ntv-pravo.png",НТВ Право
+https://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Яндекс" tvg-id="ntv-serial" tvg-logo="https://picon.ml/ntv-serial.png",НТВ Сериал
+https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Яндекс" tvg-id="ntv-style" tvg-logo="https://picon.ml/ntv-style.png",НТВ Стиль
+https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Яндекс" tvg-id="ntv-xit" tvg-logo="https://picon.ml/ntv-xit.png",НТВ Хит
+https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Другие источники" tvg-id="nadezhda" tvg-logo="https://picon.ml/nadezhda.png",Надежда
+https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Петербургская Интернет Сеть" tvg-id="nano-tv" tvg-logo="https://picon.ml/nano-tv.png",Нано ТВ
+http://188.143.128.22:30001/play/p92
+#EXTINF:-1 group-title="Познавательные" tvg-copyrigh="Сибсети" tvg-id="nauka-20" tvg-logo="https://picon.ml/nauka-20.png",Наука 2.0
+http://hlstv.kem.211.ru/239.211.211.10/stream.m3u8
+#EXTINF:-1 group-title="Путешествия" tvg-copyrigh="Яндекс" tvg-id="nasha-sibir" tvg-logo="https://picon.ml/nasha-sibir.png",Наша сибирь HD
+https://strm.yandex.ru/kal/sibir/sibir0.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Сибсети" tvg-id="nashe-novoe-kino" tvg-logo="https://picon.ml/nashe-novoe-kino.png",Наше новое кино
+http://hlstv.kem.211.ru/239.211.211.143/stream.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyrigh="Другие источники",Новое Радио ТВ
+http://hls-video01.cdnvideo.ru/video01/hDvideo01-0O.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Казахтелеком (KZ)" tvg-id="novoe-televidenie" tvg-logo="https://picon.ml/novoe-televidenie.png",Новое телевидение
+https://sc.id-tv.kz:443/NovoeTVHD_34_35.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Петербургская Интернет Сеть" tvg-id="nostalgia" tvg-logo="https://picon.ml/nostalgia.png",Ностальгия
+http://188.143.128.22:30001/play/p175
+#EXTINF:-1 group-title="Детские" tvg-copyrigh="Петербургская Интернет Сеть" tvg-id="o_" tvg-logo="https://picon.ml/o_.png",О!
+http://188.143.128.22:30001/play/p323
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Петербургская Интернет Сеть" tvg-id="okino" tvg-logo="https://picon.ml/okino.png",О!Кино
+http://188.143.128.22:30001/play/p134
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Сибсети" tvg-id="otv-eburg" tvg-logo="https://picon.ml/otv-eburg.png",ОТВ
+http://hlstv.kem.211.ru/239.211.211.122/stream.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Петербургская Интернет Сеть" tvg-id="otr" tvg-logo="https://picon.ml/otr.png",ОТР
+http://188.143.128.22:30001/play/p9
+#EXTINF:-1 group-title="Досуг" tvg-copyrigh="Петербургская Интернет Сеть" tvg-id="oruzhie" tvg-logo="https://picon.ml/oruzhie.png",Оружие
+http://188.143.128.22:30001/play/p96
+#EXTINF:-1 group-title="Путешествия" tvg-copyrigh="Петербургская Интернет Сеть" tvg-id="otkryty-mir" tvg-logo="https://picon.ml/otkryty-mir.png",Открытый мир
+http://188.143.128.22:30001/play/p31
+#EXTINF:-1 group-title="Досуг" tvg-copyrigh="Казахтелеком (KZ)" tvg-id="oxota-i-rybalka" tvg-logo="https://picon.ml/oxota-i-rybalka.png",Охота и рыбалка
+https://sc.id-tv.kz:443/Ribalka_Ohota_36_37.m3u8
+#EXTINF:-1 group-title="Досуг" tvg-copyrigh="Сибсети" tvg-id="oxotnik-i-rybolov" tvg-logo="https://picon.ml/oxotnik-i-rybolov.png",Охотник и рыболов HD
+http://hlstv.kem.211.ru/239.211.211.60/stream.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-copyrigh="Петербургская Интернет Сеть" tvg-id="pro-business" tvg-logo="https://picon.ml/pro-business.png",ПРО Бизнес
+http://188.143.128.22:30001/play/p116
+#EXTINF:-1 group-title="Познавательные" tvg-copyrigh="Сибсети" tvg-id="eureka-hd" tvg-logo="https://picon.ml/kosmichesky.png",Первый Космический HD
+http://hlstv.kem.211.ru/239.211.200.26/stream.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyrigh="Другие источники" tvg-id="onemuz" tvg-logo="https://picon.ml/1muz.png",Первый Музыкальный Канал
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="Музыка" tvg-copyrigh="Другие источники" tvg-id="onemuz" tvg-logo="https://picon.ml/1muz.png",Первый Музыкальный Канал Россия
+http://rtmp.one.by:2300
+#EXTINF:-1 group-title="Досуг" tvg-copyrigh="PRIDE.NET" tvg-id="pervy-vegetariansky" tvg-logo="https://picon.ml/pervy-vegetariansky.png",Первый вегетарианский
+http://80.251.49.103:8002/play/126
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Wink" tvg-id="pervy" tvg-logo="https://picon.ml/pervy.png",Первый канал
+#EXTVLCOPT:http-user-agent=WINK/1.130.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTINF:-1 group-title="Досуг" tvg-copyrigh="Петербургская Интернет Сеть" tvg-id="pes-i-ko" tvg-logo="https://picon.ml/pes-i-ko.png",Пес и Ко
+http://188.143.128.22:30001/play/p231
+#EXTINF:-1 group-title="Детские" tvg-copyrigh="Сибсети" tvg-id="pingvin-lolo" tvg-logo="https://picon.ml/pingvin-lolo.png",Пингвин Лоло
+http://hlstv.kem.211.ru/239.211.211.42/stream.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Петербургская Интернет Сеть" tvg-id="pobeda" tvg-logo="https://picon.ml/pobeda.png",Победа
+http://188.143.128.22:30001/play/p180
+#EXTINF:-1 group-title="Путешествия" tvg-copyrigh="Сибсети" tvg-id="poexali" tvg-logo="https://picon.ml/poexali.png",Поехали!
+http://hlstv.kem.211.ru/239.211.211.102/stream.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Сибсети" tvg-id="prodvizhenie" tvg-logo="https://picon.ml/prodvizhenie.png",Продвижение
+http://hlstv.kem.211.ru/239.211.211.146/stream.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="ФЕДЕРАЛ.ТВ!" tvg-id="prosveschenie" tvg-logo="https://picon.ml/prosveschenie.png",Просвещение
+https://federaltv-migra.cdnvideo.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Okko" tvg-id="piatnica" tvg-logo="https://picon.ml/piatnica.png",Пятница HD
+https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD/1080p.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Wink" tvg-id="5kanal-ru" tvg-logo="https://picon.ml/5kanal-ru.png",Пятый канал
+#EXTVLCOPT:http-user-agent=WINK/1.40.4 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:-1 group-title="Новости" tvg-copyrigh="Сибсети" tvg-id="rbk" tvg-logo="https://picon.ml/rbk.png",РБК
+http://hlstv.kem.211.ru/239.211.211.76/stream.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyrigh="Другие источники" tvg-id="radio-shanson" tvg-logo="https://picon.ml/radio-shanson.png",Радио Шансон ТВ
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Другие источники" tvg-id="radost-moya" tvg-logo="https://picon.ml/radost-moya.png",Радость Моя
+http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Okko" tvg-id="rentv" tvg-logo="https://picon.ml/rentv.png",Рен ТВ HD
+https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/1080p.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="PRIDE.NET" tvg-id="retro-tv" tvg-logo="https://picon.ml/retro-tv.png",Ретро ТВ
+http://80.251.49.103:8004/play/103
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Петербургская Интернет Сеть" tvg-id="rodnoe-kino" tvg-logo="https://picon.ml/rodnoe-kino.png",Родное кино
+http://188.143.128.22:30001/play/p135
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Okko" tvg-id="rossia1" tvg-logo="https://picon.ml/rossia1.png",Россия HD
+http://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8
+#EXTINF:-1 group-title="Новости" tvg-copyrigh="Wink" tvg-id="rossia-24" tvg-logo="https://picon.ml/rossia-24.png",Россия 24
+#EXTVLCOPT:http-user-agent=WINK/1.40.4 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF:-1 group-title="Досуг" tvg-copyrigh="Wink" tvg-id="kultura" tvg-logo="https://picon.ml/kultura.png",Россия К
+#EXTVLCOPT:http-user-agent=WINK/1.40.4 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Сибсети" tvg-id="russky-bestseller" tvg-logo="https://picon.ml/russky-bestseller.png",Русский бестселлер
+http://hlstv.kem.211.ru/239.211.211.137/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Сибсети" tvg-id="russky-detektiv" tvg-logo="https://picon.ml/russky-detektiv.png",Русский Детектив
+http://hlstv.kem.211.ru/239.211.211.95/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Сибсети" tvg-id="russky-roman" tvg-logo="https://picon.ml/russky-roman.png",Русский роман HD
+http://hlstv.kem.211.ru/239.211.200.29/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Казахтелеком (KZ)" tvg-id="russky-illuzion" tvg-logo="https://picon.ml/russky-illuzion.png",Русский иллюзион
+https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
+#EXTINF:-1 group-title="Детские" tvg-copyrigh="Петербургская Интернет Сеть" tvg-id="ryzhy" tvg-logo="https://picon.ml/ryzhy.png",Рыжий
+http://188.143.128.22:30001/play/p185
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Сибсети" tvg-id="sapfir" tvg-logo="https://picon.ml/sapfir.png",Сапфир HD
+http://hlstv.kem.211.ru/239.211.200.18/stream.m3u8
+#EXTINF:-1 group-title="Развлечения" tvg-copyrigh="Сибсети" tvg-id="sarafan" tvg-logo="https://picon.ml/sarafan.png",Сарафан
+http://hlstv.kem.211.ru/239.211.211.97/stream.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Okko" tvg-id="sts" tvg-logo="https://picon.ml/sts.png",СТС HD
+https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
+#EXTINF:-1 group-title="Детские" tvg-copyrigh="Okko" tvg-id="sts-kids-hd" tvg-logo="https://picon.ml/sts-kids-hd.png",СТС Kids HD
+https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD/1080p.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Wink" tvg-id="sts-love" tvg-logo="https://picon.ml/sts-love.png",СТС Love
+#EXTVLCOPT:http-user-agent=WINK/1.40.4 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:-1 group-title="Детские" tvg-copyrigh="Петербургская Интернет Сеть" tvg-id="smaylik-tv" tvg-logo="https://picon.ml/smaylik-tv.png",Смайлик ТВ
+http://188.143.128.22:30001/play/p82
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Яндекс" tvg-id="sovsek" tvg-logo="https://picon.ml/sovsek.png",Совершенно секретно
+https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
+#EXTINF:-1 group-title="Детские" tvg-copyrigh="Wink" tvg-id="solnce" tvg-logo="https://picon.ml/solnce.png",Солнце
+#EXTVLCOPT:http-user-agent=WINK/1.40.4 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Okko" tvg-id="spas" tvg-logo="https://picon.ml/spas.png",Спас
+https://okkotv-live.cdnvideo.ru/channel/Spas/480p.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-copyrigh="Okko" tvg-id="start" tvg-logo="https://picon.ml/start.png",Старт
+http://okkotv-live.cdnvideo.ru/channel/Start.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-copyrigh="Okko" tvg-id="start-triumf" tvg-logo="https://picon.ml/start-triumf.png",Старт Триумф
+https://okkotv-live.cdnvideo.ru/dash/start_triumph_hd/playlist.mpd
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Wink" tvg-id="super" tvg-logo="https://picon.ml/subbota.png",Суббота
+#EXTVLCOPT:http-user-agent=WINK/1.40.4 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:-1 group-title="Детские" tvg-copyrigh="Петербургская Интернет Сеть" tvg-id="malysh" tvg-logo="https://picon.ml/malysh.png",СуперГерои
+http://188.143.128.22:30001/play/p86
+#EXTINF:-1 group-title="Новости" tvg-copyrigh="Петербургская Интернет Сеть" tvg-id="tbn-ru" tvg-logo="https://picon.ml/tbn-ru.png",ТБН Россия
+http://188.143.128.22:30001/play/p98
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Wink" tvg-id="tvcentr" tvg-logo="https://picon.ml/tvcentr.png",ТВ Центр
+#EXTVLCOPT:http-user-agent=WINK/1.40.4 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Okko" tvg-id="tv3-ru" tvg-logo="https://picon.ml/tv3-ru.png",ТВ3 HD
+https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD/1080p.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Okko" tvg-id="tnt" tvg-logo="https://picon.ml/tnt.png",ТНТ HD
+https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyrigh="Okko" tvg-id="tnt-music" tvg-logo="https://picon.ml/tnt-music.png",ТНТ Music
+http://okko-media.cdnvideo.ru/live/okko/tntmusic/hls/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Wink" tvg-id="tnt4" tvg-logo="https://picon.ml/tnt4.png",ТНТ4
+#EXTVLCOPT:http-user-agent=WINK/1.40.4 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Петербургская Интернет Сеть" tvg-id="tayna" tvg-logo="https://picon.ml/tayna.png",Тайна
+http://188.143.128.22:30001/play/p41
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Другие источники" tvg-id="tvoyo-tv-hd" tvg-logo="https://picon.ml/tvoyo-tv-hd.png",Твоё ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 group-title="Досуг" tvg-copyrigh="Петербургская Интернет Сеть" tvg-id="teatr" tvg-logo="https://picon.ml/teatr.png",Театр
+http://188.143.128.22:30001/play/p30
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Сибсети" tvg-id="telekafe" tvg-logo="https://picon.ml/telekafe.png",Телекафе
+http://hlstv.kem.211.ru/239.211.211.198/stream.m3u8
+#EXTINF:-1 group-title="Путешествия" tvg-copyrigh="Петербургская Интернет Сеть" tvg-id="teleputeshestvia" tvg-logo="https://picon.ml/teleputeshestvia.png",Телепутешествия
+http://188.143.128.22:30001/play/p199
+#EXTINF:-1 group-title="Познавательные" tvg-copyrigh="Сибсети" tvg-id="texno-24" tvg-logo="https://picon.ml/texno-24.png",Техно 24
+http://hlstv.kem.211.ru/239.211.211.45/stream.m3u8
+#EXTINF:-1 group-title="Досуг" tvg-copyrigh="Петербургская Интернет Сеть" tvg-id="tnomer" tvg-logo="https://picon.ml/tnomer.png",Тномер
+http://188.143.128.22:30001/play/p89
+#EXTINF:-1 group-title="Досуг" tvg-copyrigh="Петербургская Интернет Сеть" tvg-id="tonus-tv" tvg-logo="https://picon.ml/tonus-tv.png",Тонус
+http://188.143.128.22:30001/play/p26
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Сибсети" tvg-id="tochka-tv" tvg-logo="https://picon.ml/tochka-tv.png",Точка ТВ
+http://hlstv.kem.211.ru/239.211.211.134/stream.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="PRIDE.NET" tvg-id="tochka-otryva" tvg-logo="https://picon.ml/tochka-otryva.png",Точка отрыва
+http://80.251.49.103:8004/play/142
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Сибсети" tvg-id="tri-angela" tvg-logo="https://picon.ml/tri-angela.png",Три Ангела
+http://hlstv.kem.211.ru/239.211.211.152/stream.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-copyrigh="Яндекс" tvg-id="ufc" tvg-logo="https://picon.ml/ufc.png",Удар
+https://strm.yandex.ru/kal/udar/udar0.m3u8
+#EXTINF:-1 group-title="Детские" tvg-copyrigh="PRIDE.NET" tvg-id="detsky" tvg-logo="https://picon.ml/detsky.png",Уникум
+http://80.251.49.103:8001/play/119
+#EXTINF:-1 group-title="Досуг" tvg-copyrigh="PRIDE.NET" tvg-id="usadba" tvg-logo="https://picon.ml/usadba.png",Усадьба
+http://80.251.49.103:8002/play/105
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Север-Связь" tvg-id="uspex" tvg-logo="https://picon.ml/uspex.png",Успех
+http://146.158.0.56:80/Uspeh/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="Okko" tvg-id="feniks-plus-kino" tvg-logo="https://picon.ml/feniks-plus-kino.png",Феникс+Кино
+http://okkotv-live.cdnvideo.ru/channel/Phoenix_HD/1080p.m3u8
+#EXTINF:-1 group-title="Кино" tvg-copyrigh="PRIDE.NET" tvg-id="khit" tvg-logo="https://picon.ml/khit.png",Хит HD
+http://80.251.49.103:8003/play/81
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Петербургская Интернет Сеть" tvg-id="centralnoye-tv" tvg-logo="https://picon.ml/centralnoye-tv.png",Центральное телевидение
+http://188.143.128.22:30001/play/p111
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Wink" tvg-id="che" tvg-logo="https://picon.ml/che.png",Че
+#EXTVLCOPT:http-user-agent=WINK/1.40.4 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyrigh="Север-Связь" tvg-id="shanson-tv" tvg-logo="https://picon.ml/shanson-tv.png",Шансон ТВ
+http://146.158.0.56:80/ShansonTV/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Сибсети" tvg-id="shayantv" tvg-logo="https://picon.ml/shayantv.png",Шаян ТВ
+http://hlstv.kem.211.ru/239.211.211.111/stream.m3u8
+#EXTINF:-1 group-title="Общие" tvg-copyrigh="Wink" tvg-id="yu" tvg-logo="https://picon.ml/yu.png",Ю
+#EXTVLCOPT:http-user-agent=WINK/1.40.4 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
