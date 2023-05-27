@@ -1,0 +1,65 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+#---------------------------------------------------------------#
+# Название плейлиста   : 18+    
+# Адрес ссылки         : https://vovkvi.github.io/adult.m3u8
+# Последнее обновление : 27.05.2023 12:13
+# Использованы сервисы : PRIDE.NET
+#                        AdultIPTV
+#                        Другие источники
+#---------------------------------------------------------------#
+#EXTINF:-1 group-title="18+" tvg-copyright="Другие источники" tvg-id="fashion-tv" tvg-logo="https://picon.ml/fashion-tv.png",Fashion TV Midnite Secrets HD
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="18+" tvg-copyright="PRIDE.NET" tvg-id="blue-hustler" tvg-logo="https://picon.ml/blue-hustler.png",Blue Hustler
+http://80.251.49.103:8004/play/28
+#EXTINF:-1 group-title="18+" tvg-copyright="PRIDE.NET" tvg-id="o-la-la" tvg-logo="https://picon.ml/o-la-la.png",O-la-la
+http://80.251.49.103:8003/play/212
+#EXTINF:-1 group-title="18+" tvg-copyright="PRIDE.NET" tvg-id="russkaya-noch" tvg-logo="https://picon.ml/russkaya-noch.png",Русская ночь
+http://80.251.49.103:8002/play/77
+#EXTINF:-1 group-title="18+" tvg-copyright="Другие источники" tvg-id="sholk",Шелк ТВ HD
+http://live-1.otcnet.ru/shelkhdmts/index.m3u8
+#EXTINF:-1 group-title="18+" tvg-copyright="AdultIPTV",Anal
+http://live.adultiptv.net/anal.m3u8
+#EXTINF:-1 group-title="18+" tvg-copyright="AdultIPTV",Asian
+http://live.adultiptv.net/asian.m3u8
+#EXTINF:-1 group-title="18+" tvg-copyright="AdultIPTV",Big Ass
+http://live.adultiptv.net/bigass.m3u8
+#EXTINF:-1 group-title="18+" tvg-copyright="AdultIPTV",Big Dick
+http://live.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 group-title="18+" tvg-copyright="AdultIPTV",Big Tits
+http://live.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 group-title="18+" tvg-copyright="AdultIPTV",Blonde
+http://live.adultiptv.net/blonde.m3u8
+#EXTINF:-1 group-title="18+" tvg-copyright="AdultIPTV",Blowjob
+http://live.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="18+" tvg-copyright="AdultIPTV",Brunette
+http://live.adultiptv.net/brunette.m3u8
+#EXTINF:-1 group-title="18+" tvg-copyright="AdultIPTV",Compilation
+http://live.adultiptv.net/compilation.m3u8
+#EXTINF:-1 group-title="18+" tvg-copyright="AdultIPTV",Cuckold
+http://live.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 group-title="18+" tvg-copyright="AdultIPTV",Fetish
+http://live.adultiptv.net/fetish.m3u8
+#EXTINF:-1 group-title="18+" tvg-copyright="AdultIPTV",Gangbang
+http://live.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 group-title="18+" tvg-copyright="AdultIPTV",Hardcore
+http://live.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 group-title="18+" tvg-copyright="AdultIPTV",Latina
+http://live.adultiptv.net/latina.m3u8
+#EXTINF:-1 group-title="18+" tvg-copyright="AdultIPTV",Lesbian
+http://live.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="18+" tvg-copyright="AdultIPTV",Live Cams
+http://live.adultiptv.net/livecams.m3u8
+#EXTINF:-1 group-title="18+" tvg-copyright="AdultIPTV",MILF
+http://live.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="18+" tvg-copyright="AdultIPTV",Pornstar
+http://live.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 group-title="18+" tvg-copyright="AdultIPTV",POV
+http://live.adultiptv.net/pov.m3u8
+#EXTINF:-1 group-title="18+" tvg-copyright="AdultIPTV",Rough
+http://live.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="18+" tvg-copyright="AdultIPTV",Russian
+http://live.adultiptv.net/russian.m3u8
+#EXTINF:-1 group-title="18+" tvg-copyright="AdultIPTV",Teen
+http://live.adultiptv.net/teen.m3u8
+#EXTINF:-1 group-title="18+" tvg-copyright="AdultIPTV",Threesome
+http://live.adultiptv.net/threesome.m3u8

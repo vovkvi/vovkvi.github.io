@@ -1,0 +1,86 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+#---------------------------------------------------------------#
+# Название плейлиста   : MUSIC    
+# Адрес ссылки         : https://vovkvi.github.io/music.m3u8
+# Последнее обновление : 27.05.2023 11:50
+# Использованы сервисы : Сибсети
+#                        Okko
+#                        BACKUS.TV
+#                        Другие источники
+#---------------------------------------------------------------#
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Сибсети" tvg-id="1hd" tvg-logo="https://picon.ml/1hd-music.png",1HD 
+http://hlstv.kem.211.ru/239.211.200.33/stream.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Сибсети" tvg-id="aiva" tvg-logo="https://picon.ml/aiva.png",AIVA HD
+http://hlstv.kem.211.ru/239.211.200.13/stream.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyright="BACKUS.TV" tvg-id="backustv-music" tvg-logo="https://picon.ml/backustv-music.png",BackusTV Music
+https://stream.backustv.ru/live/vipbtv3/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Сибсети" tvg-id="bridge-tv-classic" tvg-logo="https://picon.ml/bridge-tv-classic.png",Bridge TV Classic
+http://hlstv.kem.211.ru/239.211.211.21/stream.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Сибсети" tvg-id="bridge-hd" tvg-logo="https://picon.ml/bridge-hd.png",Bridge TV Deluxe HD
+http://hlstv.kem.211.ru/239.211.200.46/stream.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Сибсети" tvg-id="bridge-tv-dance" tvg-logo="https://picon.ml/bridge-tv-dance.png",Bridge TV Hits
+http://hlstv.kem.211.ru/239.211.211.9/stream.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Сибсети" tvg-id="bridge-tv" tvg-logo="https://picon.ml/bridge-tv.png",Bridge TV
+http://hlstv.kem.211.ru/239.211.211.53/stream.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Сибсети" tvg-id="bridge-tv-fresh" tvg-logo="https://picon.ml/bridge-tv-fresh.png",Bridge TV Rock
+http://hlstv.kem.211.ru/239.211.211.23/stream.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Сибсети" tvg-id="bridge-tv-ruxit" tvg-logo="https://picon.ml/bridge-tv-ruxit.png",Bridge TV Русский Хит
+http://hlstv.kem.211.ru/239.211.211.147/stream.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Сибсети" tvg-id="bridge-tv-shlager" tvg-logo="https://picon.ml/bridge-tv-shlager.png",Bridge TV Шлягер
+http://hlstv.kem.211.ru/239.211.211.22/stream.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники" tvg-id="europa-plus-tv" tvg-logo="https://picon.ml/europa-plus-tv.png",Europa Plus TV HD
+http://hls-europaplus.cdnvideo.ru/europaplus/smil:eurptv3.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Сибсети" tvg-id="o2tv" tvg-logo="https://picon.ml/o2tv.png",O2 TV HD
+http://hlstv.kem.211.ru/239.211.200.36/stream.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Сибсети" tvg-id="ru-tv" tvg-logo="https://picon.ml/ru-tv.png",RU.TV
+http://hlstv.kem.211.ru/239.211.211.32/stream.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Сибсети" tvg-id="russian-musicbox" tvg-logo="https://picon.ml/russian-musicbox.png",Russian MusicBox
+http://hlstv.kem.211.ru/239.211.211.85/stream.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Сибсети" tvg-id="russian-musicbox" tvg-logo="https://picon.ml/russian-musicbox.png",Russian MusicBox HD
+http://hlstv.kem.211.ru/239.211.200.3/stream.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники" tvg-id="viva-rus" tvg-logo="https://picon.ml/viva-rus.png",VIVA Russia
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Сибсети" tvg-id="zhara" tvg-logo="https://picon.ml/zhara.png",Жара
+http://hlstv.kem.211.ru/239.211.211.113/stream.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Сибсети" tvg-id="la-minor" tvg-logo="https://picon.ml/la-minor.png",Ля-минор
+http://hlstv.kem.211.ru/239.211.211.20/stream.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Okko" tvg-id="muztv" tvg-logo="https://picon.ml/muztv.png",МузТВ
+https://okkotv-live.cdnvideo.ru/channel/MuzTV/480p.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Сибсети" tvg-id="muzyka-pervogo" tvg-logo="https://picon.ml/muzyka-pervogo.png",Музыка Первого
+http://hlstv.kem.211.ru/239.211.211.196/stream.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники",Новое Радио ТВ
+http://hls-video01.cdnvideo.ru/video01/hDvideo01-0O.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники" tvg-id="onemuz" tvg-logo="https://picon.ml/1muz.png",Первый Музыкальный Канал
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники" tvg-id="onemuz" tvg-logo="https://picon.ml/1muz.png",Первый Музыкальный Канал Россия
+http://rtmp.one.by:2300
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники" tvg-id="radio-shanson" tvg-logo="https://picon.ml/radio-shanson.png",Радио Шансон ТВ
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Сибсети" tvg-id="tnt-music" tvg-logo="https://picon.ml/tnt-music.png",ТНТ Music
+http://hlstv.kem.211.ru/239.211.211.74/stream.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Сибсети" tvg-id="shanson-tv" tvg-logo="https://picon.ml/shanson-tv.png",Шансон ТВ
+http://hlstv.kem.211.ru/239.211.211.78/stream.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники",Kronehit TV
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники",Xite HD
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники",Stingray Alternative HD
+https://stirr.ott-channels.stingray.com/102/master.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники",Stingray Hot Country HD
+https://stirr.ott-channels.stingray.com/108/master.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники",Stingray Pop Adult HD
+https://stirr.ott-channels.stingray.com/104/master.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники",Stingray Hit List HD
+https://stirr.ott-channels.stingray.com/107/master.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники",Stingray Flashback 70S HD
+https://stirr.ott-channels.stingray.com/115/master.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники",Stingray Remember The 80S HD
+https://stirr.ott-channels.stingray.com/128/master.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники",Stingray Hip-Hop/R&B HD
+https://stirr.ott-channels.stingray.com/133/master.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники",Stingray Soul Storm STORM HD
+https://stirr.ott-channels.stingray.com/134/master.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники",Stingray Greatest Hits HD
+https://stirr.ott-channels.stingray.com/155/master.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники",Stingray Exitos Del Momento HD
+https://stirr.ott-channels.stingray.com/190/master.m3u8
