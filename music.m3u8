@@ -51,7 +51,7 @@ http://lova.me/hls/hithd.m3u8
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-copyright="Okko" tvg-id="tnt-music" tvg-logo="https://picon.ml/tnt-music.png",ТНТ Music
 http://okko-media.cdnvideo.ru/live/okko/tntmusic/hls/playlist_hdhigh.m3u8
-#EXTINF:-1group-title="Музыка" tvg-copyright="Север-Связь" tvg-id="la-minor" tvg-logo="https://picon.ml/la-minor.png",Ля-минор
+#EXTINF:-1 group-title="Музыка" tvg-copyright="Север-Связь" tvg-id="la-minor" tvg-logo="https://picon.ml/la-minor.png",Ля-минор
 http://146.158.0.56:80/Lya-Minor/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники",Kronehit TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
