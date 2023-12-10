@@ -1,79 +1,48 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG"
-#---------------------------------------------------------------#
-# Название плейлиста   : Музыка (стабильный)   
-# Адрес ссылки         : https://vovkvi.github.io/music.m3u8
-# Последнее обновление : 15.07.2023 11:42
-# Использованы сервисы : Яндекс
-#                        Okko
-#                        Север-Связь
-#                        BACKUS.TV
-#                        Другие источники
-#---------------------------------------------------------------#
-#EXTINF:-1 group-title="Музыка" tvg-copyright="Север-Связь" tvg-id="1hd" tvg-logo="https://picon.ml/1hd-music.png",1HD
-http://146.158.0.56:80/1HD/index.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-copyright="BACKUS.TV" tvg-id="backustv-music" tvg-logo="https://picon.ml/backustv-music.png",BackusTV Music
-https://stream.backustv.ru/live/vipbtv3/index.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники" tvg-id="europa-plus-tv" tvg-logo="https://picon.ml/europa-plus-tv.png",Europa Plus TV HD
-http://hls-europaplus.cdnvideo.ru/europaplus/smil:eurptv3.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-copyright="Okko" tvg-id="ru-tv" tvg-logo="https://picon.ml/ru-tv.png",RU.TV HD
-https://okkotv-live.cdnvideo.ru/channel/RUTV_HD/1080p.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-copyright="Яндекс" tvg-id="russian-musicbox" tvg-logo="https://picon.ml/russian-musicbox.png",Russian MusicBox
-https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-copyright="Яндекс" tvg-id="musicbox" tvg-logo="https://picon.ml/musicbox.png",MusicBox Gold
-https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-copyright="Яндекс" tvg-id="bridge-hd" tvg-logo="https://picon.ml/bridge-hd.png",Bridge TV Deluxe
-https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-copyright="Яндекс" tvg-id="bridge-tv" tvg-logo="https://picon.ml/bridge-tv.png",Bridge TV
-https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-copyright="Яндекс" tvg-id="bridge-tv-classic" tvg-logo="https://picon.ml/bridge-tv-classic.png",Bridge TV Classic
+#EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz,https://iptvx.one/EPG.gz"
+#EXTINF:-1 tvg-id="baby-time" group-title="Музыка" tvg-logo="https://picon.pp.ua/baby-time.png" tvg-provider="Yandex",Baby Time
+http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
+#EXTINF:-1 tvg-id="4373" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/4373.png" tvg-provider="Yandex",Bridge Classic
 https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-copyright="Яндекс" tvg-id="bridge-tv-fresh" tvg-logo="https://picon.ml/bridge-tv-fresh.png",Bridge TV Rock
-https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-copyright="Яндекс" tvg-id="bridge-tv-dance" tvg-logo="https://picon.ml/bridge-tv-dance.png",Bridge TV Hits
+#EXTINF:-1 tvg-id="2022" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/2022.png" tvg-provider="Yandex",Bridge Deluxe
+https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+#EXTINF:-1 tvg-id="2024" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/2024.png" tvg-provider="Yandex",Bridge Hits
 https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-copyright="Яндекс" tvg-id="bridge-tv-shlager" tvg-logo="https://picon.ml/bridge-tv-shlager.png",Bridge TV Шлягер
-https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-copyright="Яндекс" tvg-id="bridge-tv-ruxit" tvg-logo="https://picon.ml/bridge-tv-ruxit.png",Bridge TV Русский Хит
+#EXTINF:-1 tvg-id="6188" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/6188.png" tvg-provider="Yandex",Bridge Rock
+https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+#EXTINF:-1 tvg-id="151" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/151.png" tvg-provider="Yandex",Bridge TV
+https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
+#EXTINF:-1 tvg-id="591" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/591.png" tvg-provider="Yandex",Bridge Русский Хит
 https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники" tvg-id="viva-rus" tvg-logo="https://picon.ml/viva-rus.png",VIVA Russia
-https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-copyright="Okko" tvg-id="muztv" tvg-logo="https://picon.ml/muztv.png",МузТВ
-https://okkotv-live.cdnvideo.ru/channel/MuzTV/480p.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники",Новое Радио ТВ
-http://hls-video01.cdnvideo.ru/video01/hDvideo01-0O.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники" tvg-id="onemuz" tvg-logo="https://picon.ml/1muz.png",Первый Музыкальный Канал
-http://rtmp.one.by:1300
-#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники" tvg-id="onemuz" tvg-logo="https://picon.ml/1muz.png",Первый Музыкальный Канал Россия
-http://rtmp.one.by:2300
-#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники" tvg-id="khit" tvg-logo="https://picon.ml/khit.png",Радио Хит (Орск)
-http://lova.me/hls/hithd.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники" tvg-id="radio-shanson" tvg-logo="https://picon.ml/radio-shanson.png",Радио Шансон ТВ
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-copyright="Okko" tvg-id="tnt-music" tvg-logo="https://picon.ml/tnt-music.png",ТНТ Music
-http://okko-media.cdnvideo.ru/live/okko/tntmusic/hls/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-copyright="Север-Связь" tvg-id="la-minor" tvg-logo="https://picon.ml/la-minor.png",Ля-минор
-http://146.158.0.56:80/Lya-Minor/index.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники",Kronehit TV
+#EXTINF:-1 tvg-id="4621" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/4621.png" tvg-provider="Yandex",Bridge Шлягер
+https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
+#EXTINF:-1 tvg-id="681" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/681.png" tvg-provider="Yandex",Europa Plus TV
+https://strm.yandex.ru/kal/europa_plus_tv/europa_plus_tv0.m3u8
+#EXTINF:-1 tvg-id="4653" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/4653.png" tvg-provider="Другие",Krone hit FHD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники",Xite HD
-https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники",Stingray Alternative HD
-https://stirr.ott-channels.stingray.com/102/master.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники",Stingray Hot Country HD
-https://stirr.ott-channels.stingray.com/108/master.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники",Stingray Pop Adult HD
-https://stirr.ott-channels.stingray.com/104/master.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники",Stingray Hit List HD
-https://stirr.ott-channels.stingray.com/107/master.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники",Stingray Flashback 70S HD
-https://stirr.ott-channels.stingray.com/115/master.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники",Stingray Remember The 80S HD
-https://stirr.ott-channels.stingray.com/128/master.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники",Stingray Hip-Hop/R&B HD
-https://stirr.ott-channels.stingray.com/133/master.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники",Stingray Soul Storm STORM HD
-https://stirr.ott-channels.stingray.com/134/master.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники",Stingray Greatest Hits HD
-https://stirr.ott-channels.stingray.com/155/master.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-copyright="Другие источники",Stingray Exitos Del Momento HD
-https://stirr.ott-channels.stingray.com/190/master.m3u8
+#EXTINF:-1 tvg-id="4653" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/4653.png" tvg-provider="Другие",Krone hit HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1 tvg-id="5368" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/5368.png" tvg-provider="Yandex",Music Box Gold
+https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
+#EXTINF:-1 tvg-id="2409" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/2409.png" tvg-provider="Yandex",Music Box Russia
+https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
+#EXTINF:-1 tvg-id="2277" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/2277.png" tvg-provider="Okko",RU TV
+https://okkotv-live.cdnvideo.ru/channel/RUTV_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="165" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/165.png" tvg-provider="Okko",Жара
+http://okkotv-live.cdnvideo.ru/channel/Zhara_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="5382" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/5382.png" tvg-provider="Другие",Жара kids HD
+http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
+#EXTINF:-1 tvg-id="897" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/897.png" tvg-provider="Wink",МУЗ-ТВ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 tvg-id="5375" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/5375.png" tvg-provider="Другие",Новое радио FHD
+http://hls-video01.cdnvideo.ru/video01/hDvideo01-0O.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="5364" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/5364.png" tvg-provider="Другие",Первый музыкальный
+http://rtmp.one.by:2300
+#EXTINF:-1 tvg-id="5365" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/5365.png" tvg-provider="Другие",Первый музыкальный BY
+http://rtmp.one.by:1300
+#EXTINF:-1 tvg-id="6191" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/6191.png" tvg-provider="Другие",Радио ХИТ ОРС HD
+http://lova.me/hls/hithd.m3u8
+#EXTINF:-1 tvg-id="6012" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/6012.png" tvg-provider="Другие",Радио Шансон ТВ HD
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1 tvg-id="680" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/680.png" tvg-provider="Yandex",ТНТ Music
+https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
