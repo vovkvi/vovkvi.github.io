@@ -1,0 +1,364 @@
+#EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz,https://iptvx.one/EPG.gz"
+#--------------------------------------------------------------------------------
+#
+#	Всего каналов: 165
+#
+#--------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="935" group-title="Кино" tvg-logo="http://epg.it999.ru/img/935.png" tvg-provider="Okko",.black
+https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo/480p.m3u8
+#EXTINF:-1 tvg-id="311" group-title="Кино" tvg-logo="http://epg.it999.ru/img/311.png" tvg-provider="Okko",.red
+http://okkotv-live.cdnvideo.ru/channel/Sony_ET/480p.m3u8
+#EXTINF:-1 tvg-id="516" group-title="Кино" tvg-logo="http://epg.it999.ru/img/516.png" tvg-provider="Okko",.sci-fi
+https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi/480p.m3u8
+#EXTINF:-1 tvg-id="323" group-title="Развлекательные" tvg-logo="http://epg.it999.ru/img/323.png" tvg-provider="Wink",2x2
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+#EXTINF:-1 tvg-id="2265" group-title="Общие" tvg-logo="http://epg.it999.ru/img/2265.png" tvg-provider="Okko",360
+https://okkotv-live.cdnvideo.ru/dash/360hd/playlist.mpd
+#EXTINF:-1 tvg-id="4458" group-title="Новостные" tvg-logo="http://epg.it999.ru/img/4458.png" tvg-provider="Okko",360 Новости HD
+https://okkotv-live.cdnvideo.ru/channel/360_Novosti_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="1371" group-title="Кино" tvg-logo="http://epg.it999.ru/img/1371.png" tvg-provider="Okko",Amedia 1
+http://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="2492" group-title="Кино" tvg-logo="http://epg.it999.ru/img/2492.png" tvg-provider="Okko",Amedia 2
+http://okkotv-live.cdnvideo.ru/channel/A2_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="2007" group-title="Кино" tvg-logo="http://epg.it999.ru/img/2007.png" tvg-provider="Okko",Amedia Hit
+http://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="1372" group-title="Кино" tvg-logo="http://epg.it999.ru/img/1372.png" tvg-provider="Okko",Amedia Premium
+http://okkotv-live.cdnvideo.ru/channel/dash/amedia_premium_hd/playlist.mpd
+#EXTINF:-1 tvg-provider="AdultIPTV",Anal
+http://live.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-provider="AdultIPTV",Asian
+http://live.adultiptv.net/asian.m3u8
+#EXTINF:-1 tvg-id="2144" group-title="Украина" tvg-logo="http://epg.it999.ru/img/2138.png" tvg-provider="Okko",BOLT
+https://okkotv-live.cdnvideo.ru/channel/Bolt_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="baby-time" group-title="Музыка" tvg-logo="https://picon.pp.ua/baby-time.png" tvg-provider="Yandex",Baby Time
+http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
+#EXTINF:-1 tvg-provider="AdultIPTV",Big Ass
+http://live.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-provider="AdultIPTV",Big Dick
+http://live.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-provider="AdultIPTV",Big Tits
+http://live.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-provider="AdultIPTV",Blonde
+http://live.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-provider="AdultIPTV",Blowjob
+http://live.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-id="4373" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/4373.png" tvg-provider="Yandex",Bridge Classic
+https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
+#EXTINF:-1 tvg-id="2022" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/2022.png" tvg-provider="Yandex",Bridge Deluxe
+https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+#EXTINF:-1 tvg-id="2024" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/2024.png" tvg-provider="Yandex",Bridge Hits
+https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
+#EXTINF:-1 tvg-id="6188" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/6188.png" tvg-provider="Yandex",Bridge Rock
+https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+#EXTINF:-1 tvg-id="151" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/151.png" tvg-provider="Yandex",Bridge TV
+https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
+#EXTINF:-1 tvg-id="591" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/591.png" tvg-provider="Yandex",Bridge Русский Хит
+https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
+#EXTINF:-1 tvg-id="4621" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/4621.png" tvg-provider="Yandex",Bridge Шлягер
+https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
+#EXTINF:-1 tvg-provider="Другие",Brodilo TV
+https://brodilo.tv/brodilotv.m3u
+#EXTINF:-1 tvg-provider="AdultIPTV",Brunette
+http://live.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-provider="Другие",CGTN Русский
+https://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 tvg-provider="AdultIPTV",Compilation
+http://live.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-provider="AdultIPTV",Cuckold
+http://live.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-id="410" group-title="Детские" tvg-logo="http://epg.it999.ru/img/410.png" tvg-provider="Okko",Da Vinci
+https://okkotv-live.cdnvideo.ru/channel/Da_Vinci.m3u8
+#EXTINF:-1 tvg-id="2156" group-title="Детские" tvg-logo="http://epg.it999.ru/img/2156.png" tvg-provider="Okko",Duck TV
+https://okkotv-live.cdnvideo.ru/channel/DuckTV/1080p.m3u8
+#EXTINF:-1 tvg-id="681" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/681.png" tvg-provider="Yandex",Europa Plus TV
+https://strm.yandex.ru/kal/europa_plus_tv/europa_plus_tv0.m3u8
+#EXTINF:-1 tvg-id="2491" group-title="Развлекательные" tvg-logo="http://epg.it999.ru/img/2491.png" tvg-provider="Okko",Fashion TV HD
+https://okkotv-live.cdnvideo.ru/channel/Fashion_TV_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="fashion-tv" group-title="Развлекательные" tvg-logo="https://picon.pp.ua/fashion-tv.png" tvg-provider="Другие",Fashion TV Midnite Secrets HD
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-provider="AdultIPTV",Fetish
+http://live.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-provider="AdultIPTV",Gangbang
+http://live.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="globalstar" group-title="Развлекательные" tvg-logo="https://picon.pp.ua/globalstar.png" tvg-provider="Другие",Globalstar TV
+http://live-1.otcnet.ru/globalstar/index.m3u8
+#EXTINF:-1 tvg-id="5378" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/5378.png" tvg-provider="Yandex",HITV FHD
+https://strm.yandex.ru/kal/hittv/hittv0.m3u8
+#EXTINF:-1 tvg-provider="AdultIPTV",Hardcore
+http://live.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-id="4653" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/4653.png" tvg-provider="Другие",Krone hit FHD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-id="4653" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/4653.png" tvg-provider="Другие",Krone hit HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1 tvg-provider="AdultIPTV",Latina
+http://live.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-provider="AdultIPTV",Lesbian
+http://live.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-provider="AdultIPTV",Live Cams
+http://live.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-provider="Другие",Loupe TV
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-provider="AdultIPTV",MILF
+http://live.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-id="5368" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/5368.png" tvg-provider="Yandex",Music Box Gold
+https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
+#EXTINF:-1 tvg-id="2409" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/2409.png" tvg-provider="Yandex",Music Box Russia
+https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
+#EXTINF:-1 tvg-provider="AdultIPTV",POV
+http://live.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-provider="AdultIPTV",Pornstar
+http://live.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-id="2295" group-title="Познавательные" tvg-logo="http://epg.it999.ru/img/2295.png" tvg-provider="Yandex",RT Documentary HD
+https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
+#EXTINF:-1 tvg-id="648" group-title="Познавательные" tvg-logo="http://epg.it999.ru/img/648.png" tvg-provider="Okko",RTG HD
+https://okkotv-live.cdnvideo.ru/channel/RTG_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="2277" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/2277.png" tvg-provider="Okko",RU TV
+https://okkotv-live.cdnvideo.ru/channel/RUTV_HD/1080p.m3u8
+#EXTINF:-1 tvg-provider="AdultIPTV",Rough
+http://live.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-provider="AdultIPTV",Russian
+http://live.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-id="2497" group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2497.png" tvg-provider="Wink",Russian Extreme HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
+#EXTINF:-1 tvg-id="6241" group-title="Кино" tvg-logo="http://epg.it999.ru/img/6241.png" tvg-provider="Okko",START Air HD
+https://okkotv-live.cdnvideo.ru/channel/START_Air_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="6240" group-title="Кино" tvg-logo="http://epg.it999.ru/img/6240.png" tvg-provider="Okko",START World
+https://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="star-cinema" group-title="Кино" tvg-logo="https://picon.pp.ua/star-cinema.png" tvg-provider="Okko",Star Cinema
+https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="star-family" group-title="Кино" tvg-logo="https://picon.pp.ua/star-family.png" tvg-provider="Okko",Star Family
+https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="5477" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/5477.png" tvg-provider="Stingray",Stingray Alternative HD
+https://stirr.ott-channels.stingray.com/102/master.m3u8
+#EXTINF:-1 tvg-id="5475" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/5475.png" tvg-provider="Stingray",Stingray Classic Rock HD
+https://stirr.ott-channels.stingray.com/101/master.m3u8
+#EXTINF:-1 tvg-id="5471" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/5471.png" tvg-provider="Stingray",Stingray Exitos Del Momento HD
+https://stirr.ott-channels.stingray.com/190/master.m3u8
+#EXTINF:-1 tvg-id="5476" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/5476.png" tvg-provider="Stingray",Stingray Flashback 70S HD
+https://stirr.ott-channels.stingray.com/115/master.m3u8
+#EXTINF:-1 tvg-id="5470" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/5470.png" tvg-provider="Stingray",Stingray Greatest Hits HD
+https://stirr.ott-channels.stingray.com/155/master.m3u8
+#EXTINF:-1 tvg-id="5468" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/5468.png" tvg-provider="Stingray",Stingray Hip Hop/R&B HD
+https://stirr.ott-channels.stingray.com/133/master.m3u8
+#EXTINF:-1 tvg-id="5466" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/5466.png" tvg-provider="Stingray",Stingray Hit List HD
+https://stirr.ott-channels.stingray.com/107/master.m3u8
+#EXTINF:-1 tvg-id="5464" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/5464.png" tvg-provider="Stingray",Stingray Hot Country HD
+https://stirr.ott-channels.stingray.com/108/master.m3u8
+#EXTINF:-1 tvg-id="5465" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/5465.png" tvg-provider="Stingray",Stingray Pop Adult HD
+https://stirr.ott-channels.stingray.com/104/master.m3u8
+#EXTINF:-1 tvg-id="5478" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/5478.png" tvg-provider="Stingray",Stingray Remember The 80S HD
+https://stirr.ott-channels.stingray.com/128/master.m3u8
+#EXTINF:-1 tvg-id="5469" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/5469.png" tvg-provider="Stingray",Stingray Soul Storm STORM HD
+https://stirr.ott-channels.stingray.com/134/master.m3u8
+#EXTINF:-1 tvg-id="7632" group-title="Познавательные" tvg-logo="http://epg.it999.ru/img/7632.png" tvg-provider="Okko",TERRA
+https://okkotv-live.cdnvideo.ru/channel/NGC_HD/1080p.m3u8
+#EXTINF:-1 tvg-provider="AdultIPTV",Teen
+http://live.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-provider="AdultIPTV",Threesome
+http://live.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-id="2743" group-title="Кино" tvg-logo="http://epg.it999.ru/img/2743.png" tvg-provider="Wink",Ultra HD Cinema 4K
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
+#EXTINF:-1 tvg-id="5600" group-title="Познавательные" tvg-logo="http://epg.it999.ru/img/5600.png" tvg-provider="Другие",Univer TV HD
+http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="521" group-title="Познавательные" tvg-logo="http://epg.it999.ru/img/521.png" tvg-provider="Okko",Viju Explore
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="277" group-title="Познавательные" tvg-logo="http://epg.it999.ru/img/277.png" tvg-provider="Okko",Viju History
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="765" group-title="Познавательные" tvg-logo="http://epg.it999.ru/img/765.png" tvg-provider="Okko",Viju Nature
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="127" group-title="Кино" tvg-logo="http://epg.it999.ru/img/127.png" tvg-provider="Okko",Viju TV1000
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="125" group-title="Кино" tvg-logo="http://epg.it999.ru/img/125.png" tvg-provider="Okko",Viju TV1000 Action
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="267" group-title="Кино" tvg-logo="http://epg.it999.ru/img/267.png" tvg-provider="Okko",Viju TV1000 Русское
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="1011" group-title="Кино" tvg-logo="http://epg.it999.ru/img/1011.png" tvg-provider="Okko",Viju+ Comedy HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="1012" group-title="Кино" tvg-logo="http://epg.it999.ru/img/1012.png" tvg-provider="Okko",Viju+ Megahit HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="2012" group-title="Познавательные" tvg-logo="http://epg.it999.ru/img/2012.png" tvg-provider="Okko",Viju+ Planet HD
+http://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_History_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="1013" group-title="Кино" tvg-logo="http://epg.it999.ru/img/1013.png" tvg-provider="Okko",Viju+ Premiere HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="2838" group-title="Кино" tvg-logo="http://epg.it999.ru/img/2838.png" tvg-provider="Okko",Viju+ Serial HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="2055" group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2055.png" tvg-provider="Okko",Viju+ Sport
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD.m3u8
+#EXTINF:-1 tvg-id="4658" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/4658.png" tvg-provider="Другие",Viva HD
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+#EXTINF:-1 tvg-provider="Другие",Xite HD
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
+#EXTINF:-1 tvg-id="2538" group-title="Беларусь" tvg-logo="http://epg.it999.ru/img/2538.png" tvg-provider="Yandex",Беларусь 1
+https://strm.yandex.ru/kal/belarus_1/belarus_10.m3u8
+#EXTINF:-1 tvg-id="2539" group-title="Беларусь" tvg-logo="http://epg.it999.ru/img/2539.png" tvg-provider="Yandex",Беларусь 2
+https://strm.yandex.ru/kal/belarus_2/belarus_20.m3u8
+#EXTINF:-1 tvg-id="2540" group-title="Беларусь" tvg-logo="http://epg.it999.ru/img/2540.png" tvg-provider="Yandex",Беларусь 3
+https://strm.yandex.ru/kal/belarus_3/belarus_30.m3u8
+#EXTINF:-1 tvg-id="2541" group-title="Беларусь" tvg-logo="http://epg.it999.ru/img/2541.png" tvg-provider="Yandex",Беларусь 5 BY
+https://strm.yandex.ru/kal/belarus_5/belarus_50.m3u8
+#EXTINF:-1 tvg-id="2027" group-title="Детские" tvg-logo="http://epg.it999.ru/img/2027.png" tvg-provider="Yandex",В гостях у сказки
+https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
+#EXTINF:-1 tvg-id="2627" group-title="Познавательные" tvg-logo="http://epg.it999.ru/img/2627.png" tvg-provider="Yandex",Диалоги о рыбалке HD
+https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
+#EXTINF:-1 tvg-id="304" group-title="Общие" tvg-logo="http://epg.it999.ru/img/304.png" tvg-provider="Okko",Домашний
+http://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/1080p.m3u8
+#EXTINF:-1 tvg-id="2174" group-title="Кино" tvg-logo="http://epg.it999.ru/img/2174.png" tvg-provider="Okko",Дорама
+http://okkotv-live.cdnvideo.ru/channel/Dorama_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="165" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/165.png" tvg-provider="Okko",Жара
+http://okkotv-live.cdnvideo.ru/channel/Zhara_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="5382" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/5382.png" tvg-provider="Другие",Жара kids HD
+http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
+#EXTINF:-1 tvg-id="405" group-title="Общие" tvg-logo="http://epg.it999.ru/img/405.png" tvg-provider="Wink",Звезда
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:-1 tvg-id="405" group-title="Общие" tvg-logo="http://epg.it999.ru/img/405.png" tvg-provider="Другие",Звезда
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="2271" group-title="Новостные" tvg-logo="http://epg.it999.ru/img/2271.png" tvg-provider="Okko",Известия
+https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2/1080p.m3u8
+#EXTINF:-1 tvg-id="2761" group-title="Развлекательные" tvg-logo="http://epg.it999.ru/img/2761.png" tvg-provider="Другие",Калейдоскоп ТВ
+https://live-1.otcnet.ru/kaleidoskop/index.m3u8
+#EXTINF:-1 tvg-id="740" group-title="Детские" tvg-logo="http://epg.it999.ru/img/740.png" tvg-provider="Wink",Карусель
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:-1 tvg-id="7314" group-title="Кино" tvg-logo="http://epg.it999.ru/img/7314.png" tvg-provider="Okko",Кинеко
+https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="7701" group-title="Региональные" tvg-logo="http://epg.it999.ru/img/7701.png" tvg-provider="Wink",Лен ТВ 24 FHD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
+#EXTINF:-1 tvg-id="liova" group-title="Детские" tvg-logo="https://picon.pp.ua/liova.png" tvg-provider="Yandex",Лёва
+http://strm.yandex.ru/kal/leva/leva0.m3u8
+#EXTINF:-1 tvg-id="897" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/897.png" tvg-provider="Wink",МУЗ-ТВ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 tvg-id="2051" group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2051.png" tvg-provider="Wink",Матч ТВ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:-1 tvg-id="726" group-title="Общие" tvg-logo="http://epg.it999.ru/img/726.png" tvg-provider="Wink",Мир
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+#EXTINF:-1 tvg-id="2078" group-title="Новостные" tvg-logo="http://epg.it999.ru/img/2078.png" tvg-provider="Okko",Мир 24
+http://okkotv-live.cdnvideo.ru/channel/Mir_24_OTT_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="334" group-title="Новостные" tvg-logo="http://epg.it999.ru/img/334.png" tvg-provider="Yandex",Москва 24
+https://strm.yandex.ru/kal/msk24_supres/msk24_supres0.m3u8
+#EXTINF:-1 tvg-id="2308" group-title="Региональные" tvg-logo="http://epg.it999.ru/img/2308.png" tvg-provider="Wink",Москва Доверие
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
+#EXTINF:-1 tvg-id="2757" group-title="Детские" tvg-logo="http://epg.it999.ru/img/2757.png" tvg-provider="Okko",Мультиландия
+https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="162" group-title="Общие" tvg-logo="http://epg.it999.ru/img/162.png" tvg-provider="Wink",НТВ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:-1 tvg-id="6773" group-title="Беларусь" tvg-logo="http://epg.it999.ru/img/6773.png" tvg-provider="Yandex",НТВ Беларусь
+https://strm.yandex.ru/kal/ntv_belarus/ntv_belarus0.m3u8
+#EXTINF:-1 tvg-id="1753" group-title="Познавательные" tvg-logo="http://epg.it999.ru/img/1753.png" tvg-provider="Yandex",НТВ Право
+https://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
+#EXTINF:-1 tvg-id="1754" group-title="Кино" tvg-logo="http://epg.it999.ru/img/1754.png" tvg-provider="Yandex",НТВ Сериал
+https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
+#EXTINF:-1 tvg-id="1755" group-title="Познавательные" tvg-logo="http://epg.it999.ru/img/1755.png" tvg-provider="Yandex",НТВ Стиль
+https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
+#EXTINF:-1 tvg-id="2041" group-title="Кино" tvg-logo="http://epg.it999.ru/img/2041.png" tvg-provider="Yandex",НТВ Хит
+https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
+#EXTINF:-1 tvg-id="1732" group-title="Религиозные" tvg-logo="http://epg.it999.ru/img/1732.png" tvg-provider="Другие",Надежда
+https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1 tvg-id="2746" group-title="Познавательные" tvg-logo="http://epg.it999.ru/img/2746.png" tvg-provider="Wink",Наша Сибирь 4K
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
+#EXTINF:-1 tvg-id="4444" group-title="Познавательные" tvg-logo="http://epg.it999.ru/img/4444.png" tvg-provider="Yandex",Наша Сибирь HD
+https://strm.yandex.ru/kal/sibir/sibir0.m3u8
+#EXTINF:-1 tvg-id="5375" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/5375.png" tvg-provider="Другие",Новое радио FHD
+http://hls-video01.cdnvideo.ru/video01/hDvideo01-0O.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="146" group-title="Общие" tvg-logo="http://epg.it999.ru/img/146.png" tvg-provider="Wink",Первый канал
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTINF:-1 tvg-id="5364" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/5364.png" tvg-provider="Другие",Первый музыкальный
+http://rtmp.one.by:2300
+#EXTINF:-1 tvg-id="5365" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/5365.png" tvg-provider="Другие",Первый музыкальный BY
+http://rtmp.one.by:1300
+#EXTINF:-1 tvg-id="2447" group-title="Кино" tvg-logo="http://epg.it999.ru/img/2447.png" tvg-provider="Другие",Победа
+https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3u8
+#EXTINF:-1 tvg-id="1003" group-title="Общие" tvg-logo="http://epg.it999.ru/img/1003.png" tvg-provider="Wink",Пятница!
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1 tvg-id="427" group-title="Общие" tvg-logo="http://epg.it999.ru/img/427.png" tvg-provider="Okko",Пятый канал
+http://okkotv-live.cdnvideo.ru/channel/5_OTT/480p.m3u8
+#EXTINF:-1 tvg-id="rtr-belarus" group-title="Беларусь" tvg-logo="https://picon.pp.ua/rtr-belarus.png" tvg-provider="Yandex",РТР Беларусь
+https://strm.yandex.ru/kal/rtr_belarus/rtr_belarus0.m3u8
+#EXTINF:-1 tvg-id="6191" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/6191.png" tvg-provider="Другие",Радио ХИТ ОРС HD
+http://lova.me/hls/hithd.m3u8
+#EXTINF:-1 tvg-id="6012" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/6012.png" tvg-provider="Другие",Радио Шансон ТВ HD
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1 tvg-id="2287" group-title="Детские" tvg-logo="http://epg.it999.ru/img/2287.png" tvg-provider="Другие",Радость моя
+http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="18" group-title="Общие" tvg-logo="http://epg.it999.ru/img/18.png" tvg-provider="Wink",Рен ТВ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 tvg-id="711" group-title="Общие" tvg-logo="http://epg.it999.ru/img/711.png" tvg-provider="Wink",Россия 1
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:-1 tvg-id="711" group-title="Общие" tvg-logo="http://epg.it999.ru/img/984.png" tvg-provider="Okko",Россия 1 HD
+http://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8
+#EXTINF:-1 tvg-id="1683" group-title="Новостные" tvg-logo="http://epg.it999.ru/img/1683.png" tvg-provider="Wink",Россия 24
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF:-1 tvg-id="187" group-title="Общие" tvg-logo="http://epg.it999.ru/img/187.png" tvg-provider="Wink",Россия-Культура
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:-1 tvg-id="2141" group-title="Религиозные" tvg-logo="http://epg.it999.ru/img/2141.png" tvg-provider="Wink",СПАС
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
+#EXTINF:-1 tvg-id="79" group-title="Общие" tvg-logo="http://epg.it999.ru/img/79.png" tvg-provider="Wink",СТС
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:-1 tvg-id="2481" group-title="Детские" tvg-logo="http://epg.it999.ru/img/2481.png" tvg-provider="Okko",СТС Kids HD
+https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="1322" group-title="Развлекательные" tvg-logo="http://epg.it999.ru/img/1322.png" tvg-provider="Wink",СТС Love
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:-1 tvg-id="7315" group-title="Кино" tvg-logo="http://epg.it999.ru/img/7315.png" tvg-provider="Okko",Сапфир
+https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="275" group-title="Познавательные" tvg-logo="http://epg.it999.ru/img/275.png" tvg-provider="Yandex",Совершенно секретно
+https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
+#EXTINF:-1 tvg-id="solnce" group-title="Детские" tvg-logo="https://picon.pp.ua/solnce.png" tvg-provider="Wink",Солнце
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+#EXTINF:-1 tvg-id="2530" group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2530.png" tvg-provider="Okko",Старт
+http://okkotv-live.cdnvideo.ru/channel/Start.m3u8
+#EXTINF:-1 tvg-id="start-triumf" group-title="Спорт" tvg-logo="https://picon.pp.ua/start-triumf.png" tvg-provider="Okko",Старт Триумф
+https://okkotv-live.cdnvideo.ru/dash/start_triumph_hd/playlist.mpd
+#EXTINF:-1 tvg-id="2288" group-title="Развлекательные" tvg-logo="http://epg.it999.ru/img/2288.png" tvg-provider="Wink",Суббота
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:-1 tvg-id="698" group-title="Общие" tvg-logo="http://epg.it999.ru/img/698.png" tvg-provider="Wink",ТВ3
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1 tvg-id="649" group-title="Общие" tvg-logo="http://epg.it999.ru/img/649.png" tvg-provider="Wink",ТВЦ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF:-1 tvg-id="353" group-title="Общие" tvg-logo="http://epg.it999.ru/img/353.png" tvg-provider="Wink",ТНТ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1 tvg-id="353" group-title="Общие" tvg-logo="http://epg.it999.ru/img/1767.png" tvg-provider="Okko",ТНТ HD
+https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="680" group-title="Музыка" tvg-logo="http://epg.it999.ru/img/680.png" tvg-provider="Yandex",ТНТ Music
+https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
+#EXTINF:-1 tvg-id="1649" group-title="Развлекательные" tvg-logo="http://epg.it999.ru/img/1649.png" tvg-provider="Wink",ТНТ4
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:-1 tvg-id="5441" group-title="Развлекательные" tvg-logo="http://epg.it999.ru/img/5441.png" tvg-provider="Другие",Твое ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 tvg-id="2469" group-title="Религиозные" tvg-logo="http://epg.it999.ru/img/2469.png" tvg-provider="Другие",Три ангела
+https://hls.tv.3angels.ru/stream.m3u8
+#EXTINF:-1 tvg-id="2480" group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2480.png" tvg-provider="Yandex",Удар
+https://strm.yandex.ru/kal/udar/udar0.m3u8
+#EXTINF:-1 tvg-id="2404" group-title="Кино" tvg-logo="http://epg.it999.ru/img/2404.png" tvg-provider="Okko",Феникс плюс Кино
+http://okkotv-live.cdnvideo.ru/channel/Phoenix_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="1598" group-title="Общие" tvg-logo="http://epg.it999.ru/img/1598.png" tvg-provider="Okko",Че
+http://okkotv-live.cdnvideo.ru/channel/Che_OTT_2/480p.m3u8
+#EXTINF:-1 tvg-id="sholk" group-title="Взрослые" tvg-logo="https://picon.pp.ua/sholk.png" tvg-provider="Другие",Шелк
+http://live-1.otcnet.ru/shelkhdmts/index.m3u8
+#EXTINF:-1 tvg-id="898" group-title="Развлекательные" tvg-logo="http://epg.it999.ru/img/898.png" tvg-provider="Wink",Ю
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
