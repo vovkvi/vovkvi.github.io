@@ -1,103 +1,95 @@
-#EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz,https://iptvx.one/EPG.gz"
+#EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz"
 #--------------------------------------------------------------------------------
 #
-#	Всего каналов: 48
+#	Всего каналов: 44
 #
 #--------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="4037" tvg-logo="http://epg.it999.ru/img/4037.png" tvg-provider="CloudFlare",1HD Music Television
+#EXTINF:-1 tvg-id="4037" tvg-logo="https://vovkvi.github.io/picons/1hd-music.png" tvg-provider="CloudFlare",1HD Music Television
 https://livetv.mylifeisgood.net.ru/channels/1hdmusic.m3u8
-#EXTINF:-1 tvg-id="baby-time" tvg-logo="https://picon.pp.ua/baby-time.png" tvg-provider="Yandex",Baby Time
+#EXTINF:-1 tvg-id="2837" tvg-logo="https://vovkvi.github.io/picons/aiva.png" tvg-provider="Otcnet",AIVA TV
+http://live-1.otcnet.ru/aivaya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://vovkvi.github.io/picons/baby-time.png" tvg-provider="Yandex",Baby Time
 http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
-#EXTINF:-1 tvg-id="6262" tvg-logo="http://epg.it999.ru/img/6262.png" tvg-provider="BackusTV",Backus TV Music HD
+#EXTINF:-1 tvg-id="6262" tvg-logo="https://vovkvi.github.io/picons/backustv-music.png" tvg-provider="BackusTV",Backus TV Music
 https://stream.backustv.ru/live/vipbtv3/index.m3u8
-#EXTINF:-1 tvg-id="4373" tvg-logo="http://epg.it999.ru/img/4373.png" tvg-provider="Yandex",Bridge Classic
+#EXTINF:-1 tvg-id="151" tvg-logo="https://vovkvi.github.io/picons/bridge-tv.png" tvg-provider="Yandex",Bridge
 https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
-#EXTINF:-1 tvg-id="4373" tvg-logo="http://epg.it999.ru/img/4373.png" tvg-provider="CloudFlare",Bridge Classic
-https://livetv.mylifeisgood.net.ru/channels/bridgeclassictv.m3u8
-#EXTINF:-1 tvg-id="2022" tvg-logo="http://epg.it999.ru/img/2022.png" tvg-provider="Yandex",Bridge Deluxe
+#EXTINF:-1 tvg-id="4373" tvg-logo="https://vovkvi.github.io/picons/bridge-tv-classic.png" tvg-provider="Yandex",Bridge Classic
 https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
-#EXTINF:-1 tvg-id="2022" tvg-logo="http://epg.it999.ru/img/2022.png" tvg-provider="CloudFlare",Bridge Deluxe
-https://livetv.mylifeisgood.net.ru/channels/bridgedeluxetv.m3u8
-#EXTINF:-1 tvg-id="2024" tvg-logo="http://epg.it999.ru/img/2024.png" tvg-provider="Yandex",Bridge Hits
+#EXTINF:-1 tvg-id="2022" tvg-logo="https://vovkvi.github.io/picons/bridge-tv-deluxe.png" tvg-provider="Yandex",Bridge Deluxe
 https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
-#EXTINF:-1 tvg-id="2024" tvg-logo="http://epg.it999.ru/img/2024.png" tvg-provider="CloudFlare",Bridge Hits
-https://livetv.mylifeisgood.net.ru/channels/bridgehitstv.m3u8
-#EXTINF:-1 tvg-id="6188" tvg-logo="http://epg.it999.ru/img/6188.png" tvg-provider="Yandex",Bridge Rock
+#EXTINF:-1 tvg-id="2024" tvg-logo="https://vovkvi.github.io/picons/bridge-tv-hits.png" tvg-provider="Yandex",Bridge Hits
 https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
-#EXTINF:-1 tvg-id="151" tvg-logo="http://epg.it999.ru/img/151.png" tvg-provider="CloudFlare",Bridge TV
-https://livetv.mylifeisgood.net.ru/channels/bridgetv24h.m3u8
-#EXTINF:-1 tvg-id="591" tvg-logo="http://epg.it999.ru/img/591.png" tvg-provider="CloudFlare",Bridge Русский Хит
+#EXTINF:-1 tvg-id="6188" tvg-logo="https://vovkvi.github.io/picons/bridge-tv-rock.png" tvg-provider="Yandex",Bridge Rock
+https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
+#EXTINF:-1 tvg-id="591" tvg-logo="https://vovkvi.github.io/picons/bridge-tv-russkiy-hit.png" tvg-provider="CloudFlare",Bridge Русский Хит
 https://livetv.mylifeisgood.net.ru/channels/bridgerushittv.m3u8
-#EXTINF:-1 tvg-id="591" tvg-logo="http://epg.it999.ru/img/591.png" tvg-provider="Yandex",Bridge Русский Хит
-https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
-#EXTINF:-1 tvg-id="4621" tvg-logo="http://epg.it999.ru/img/4621.png" tvg-provider="CloudFlare",Bridge Шлягер
+#EXTINF:-1 tvg-id="4621" tvg-logo="https://vovkvi.github.io/picons/bridge-tv-shlager.png" tvg-provider="CloudFlare",Bridge Шлягер
 https://livetv.mylifeisgood.net.ru/channels/bridgetvshlyager.m3u8
-#EXTINF:-1 tvg-id="4621" tvg-logo="http://epg.it999.ru/img/4621.png" tvg-provider="Yandex",Bridge Шлягер
-https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
-#EXTINF:-1 tvg-id="681" tvg-logo="http://epg.it999.ru/img/681.png" tvg-provider="Yandex",Europa Plus TV
+#EXTINF:-1 tvg-id="681" tvg-logo="https://vovkvi.github.io/picons/europa-plus-tv.png" tvg-provider="Yandex",Europa Plus TV
 https://strm.yandex.ru/kal/europa_plus_tv/europa_plus_tv0.m3u8
-#EXTINF:-1 tvg-id="681" tvg-logo="http://epg.it999.ru/img/681.png" tvg-provider="CloudFlare",Europa Plus TV
-https://livetv.mylifeisgood.net.ru/channels/europaplustv24.m3u8
-#EXTINF:-1 tvg-id="4653" tvg-logo="http://epg.it999.ru/img/4653.png" tvg-provider="Другие",Krone hit FHD
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="4653" tvg-logo="http://epg.it999.ru/img/4653.png" tvg-provider="Другие",Krone hit HD
+#EXTINF:-1 tvg-id="4653" tvg-logo="https://vovkvi.github.io/picons/krone-hit.png" tvg-provider="Другие",Kronehit TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:-1 tvg-provider="Другие",Loupe TV
+#EXTINF:-1 tvg-logo="https://vovkvi.github.io/picons/default.png" tvg-provider="Другие",Kronehit TV FHD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-logo="https://vovkvi.github.io/picons/default.png" tvg-provider="Другие",Loupe TV
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-id="5368" tvg-logo="http://epg.it999.ru/img/5368.png" tvg-provider="Yandex",Music Box Gold
+#EXTINF:-1 tvg-id="5368" tvg-logo="https://vovkvi.github.io/picons/musicbox-gold.png" tvg-provider="Yandex",Music Box Gold
 https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
-#EXTINF:-1 tvg-id="2409" tvg-logo="http://epg.it999.ru/img/2409.png" tvg-provider="Yandex",Music Box Russia
+#EXTINF:-1 tvg-id="2409" tvg-logo="https://vovkvi.github.io/picons/musicbox-russia.png" tvg-provider="Yandex",Music Box Russia
 https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
-#EXTINF:-1 tvg-id="2409" tvg-logo="http://epg.it999.ru/img/2409.png" tvg-provider="CloudFlare",Music Box Russia
-https://livetv.mylifeisgood.net.ru/channels/rusmusicbox.m3u8
-#EXTINF:-1 tvg-id="2277" tvg-logo="http://epg.it999.ru/img/2277.png" tvg-provider="Yandex",RU TV
+#EXTINF:-1 tvg-logo="https://vovkvi.github.io/picons/default.png" tvg-provider="Другие",Music Reload TV
+http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://vovkvi.github.io/picons/default.png" tvg-provider="Другие",On Air TV
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/chunklist_w1284330867.m3u8
+#EXTINF:-1 tvg-id="2277" tvg-logo="https://vovkvi.github.io/picons/ru-tv.png" tvg-provider="Yandex",RU TV
 https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
-#EXTINF:-1 tvg-id="5477" tvg-logo="http://epg.it999.ru/img/5477.png" tvg-provider="Stingray",Stingray Alternative HD
+#EXTINF:-1 tvg-logo="https://vovkvi.github.io/picons/default.png" tvg-provider="Другие",Reload Radio Music Power
+http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
+#EXTINF:-1 tvg-id="5477" tvg-logo="https://vovkvi.github.io/picons/stingray-alternative.png" tvg-provider="Stingray",Stingray Alternative
 https://stirr.ott-channels.stingray.com/102/master.m3u8
-#EXTINF:-1 tvg-id="5475" tvg-logo="http://epg.it999.ru/img/5475.png" tvg-provider="Stingray",Stingray Classic Rock HD
+#EXTINF:-1 tvg-id="5475" tvg-logo="https://vovkvi.github.io/picons/stingray-classic-rock.png" tvg-provider="Stingray",Stingray Classic Rock
 https://stirr.ott-channels.stingray.com/101/master.m3u8
-#EXTINF:-1 tvg-id="5471" tvg-logo="http://epg.it999.ru/img/5471.png" tvg-provider="Stingray",Stingray Exitos Del Momento HD
+#EXTINF:-1 tvg-id="5471" tvg-logo="https://vovkvi.github.io/picons/stingray-exitos-del-momento.png" tvg-provider="Stingray",Stingray Exitos del Momento
 https://stirr.ott-channels.stingray.com/190/master.m3u8
-#EXTINF:-1 tvg-id="5476" tvg-logo="http://epg.it999.ru/img/5476.png" tvg-provider="Stingray",Stingray Flashback 70S HD
+#EXTINF:-1 tvg-id="5476" tvg-logo="https://vovkvi.github.io/picons/stingray-flashback-70s.png" tvg-provider="Stingray",Stingray Flashback 70s
 https://stirr.ott-channels.stingray.com/115/master.m3u8
-#EXTINF:-1 tvg-id="5470" tvg-logo="http://epg.it999.ru/img/5470.png" tvg-provider="Stingray",Stingray Greatest Hits HD
+#EXTINF:-1 tvg-id="5470" tvg-logo="https://vovkvi.github.io/picons/stingray-greatest-hits.png" tvg-provider="Stingray",Stingray Greatest Hits
 https://stirr.ott-channels.stingray.com/155/master.m3u8
-#EXTINF:-1 tvg-id="5468" tvg-logo="http://epg.it999.ru/img/5468.png" tvg-provider="Stingray",Stingray Hip Hop/R&B HD
+#EXTINF:-1 tvg-id="5468" tvg-logo="https://vovkvi.github.io/picons/stingray-hip-hop.png" tvg-provider="Stingray",Stingray Hip-Hop
 https://stirr.ott-channels.stingray.com/133/master.m3u8
-#EXTINF:-1 tvg-id="5466" tvg-logo="http://epg.it999.ru/img/5466.png" tvg-provider="Stingray",Stingray Hit List HD
+#EXTINF:-1 tvg-id="5466" tvg-logo="https://vovkvi.github.io/picons/stingray-hit-list.png" tvg-provider="Stingray",Stingray Hit List
 https://stirr.ott-channels.stingray.com/107/master.m3u8
-#EXTINF:-1 tvg-id="5464" tvg-logo="http://epg.it999.ru/img/5464.png" tvg-provider="Stingray",Stingray Hot Country HD
+#EXTINF:-1 tvg-id="5464" tvg-logo="https://vovkvi.github.io/picons/stingray-hot-country.png" tvg-provider="Stingray",Stingray Hot Country
 https://stirr.ott-channels.stingray.com/108/master.m3u8
-#EXTINF:-1 tvg-id="5465" tvg-logo="http://epg.it999.ru/img/5465.png" tvg-provider="Stingray",Stingray Pop Adult HD
+#EXTINF:-1 tvg-id="5465" tvg-logo="https://vovkvi.github.io/picons/stingray-pop-adult.png" tvg-provider="Stingray",Stingray Pop Adult
 https://stirr.ott-channels.stingray.com/104/master.m3u8
-#EXTINF:-1 tvg-id="5478" tvg-logo="http://epg.it999.ru/img/5478.png" tvg-provider="Stingray",Stingray Remember The 80S HD
+#EXTINF:-1 tvg-id="5478" tvg-logo="https://vovkvi.github.io/picons/stingray-remember-the-80s.png" tvg-provider="Stingray",Stingray Remember the 80s
 https://stirr.ott-channels.stingray.com/128/master.m3u8
-#EXTINF:-1 tvg-id="5469" tvg-logo="http://epg.it999.ru/img/5469.png" tvg-provider="Stingray",Stingray Soul Storm STORM HD
+#EXTINF:-1 tvg-id="5469" tvg-logo="https://vovkvi.github.io/picons/stingray-soul-storm.png" tvg-provider="Stingray",Stingray Soul Storm
 https://stirr.ott-channels.stingray.com/134/master.m3u8
-#EXTINF:-1 tvg-id="4658" tvg-logo="http://epg.it999.ru/img/4658.png" tvg-provider="Другие",Viva HD
+#EXTINF:-1 tvg-id="4658" tvg-logo="https://vovkvi.github.io/picons/viva.png" tvg-provider="Другие",VIVA Russia
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
-#EXTINF:-1 tvg-provider="Другие",Xite HD
+#EXTINF:-1 tvg-logo="https://vovkvi.github.io/picons/xite-music.png" tvg-provider="Другие",Xite HD
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
-#EXTINF:-1 tvg-id="165" tvg-logo="http://epg.it999.ru/img/165.png" tvg-provider="Yandex",Жара
+#EXTINF:-1 tvg-id="165" tvg-logo="https://vovkvi.github.io/picons/zhara.png" tvg-provider="Yandex",Жара
 https://strm.yandex.ru/kal/ot_rassveta_do_zakata_zhara/ot_rassveta_do_zakata_zhara0.m3u8
-#EXTINF:-1 tvg-id="5382" tvg-logo="http://epg.it999.ru/img/5382.png" tvg-provider="Другие",Жара kids HD
+#EXTINF:-1 tvg-id="5382" tvg-logo="https://vovkvi.github.io/picons/zhara-kids.png" tvg-provider="Другие",Жара kids
 http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
-#EXTINF:-1 tvg-id="2408" tvg-logo="http://epg.it999.ru/img/2408.png" tvg-provider="Yandex",Ля-минор ТВ
+#EXTINF:-1 tvg-id="2408" tvg-logo="https://vovkvi.github.io/picons/la-minor.png" tvg-provider="Yandex",Ля-минор
 https://strm.yandex.ru/kal/la_minor_belarus/la_minor_belarus0.m3u8
-#EXTINF:-1 tvg-id="897" tvg-logo="http://epg.it999.ru/img/897.png" tvg-provider="Wink",МУЗ-ТВ
+#EXTINF:-1 tvg-id="897" tvg-logo="https://vovkvi.github.io/picons/muztv.png" tvg-provider="Wink",Муз ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
-#EXTINF:-1 tvg-id="897" tvg-logo="http://epg.it999.ru/img/897.png" tvg-provider="CloudFlare",МУЗ-ТВ
-https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
-#EXTINF:-1 tvg-id="5375" tvg-logo="http://epg.it999.ru/img/5375.png" tvg-provider="Другие",Новое радио FHD
+#EXTINF:-1 tvg-id="5375" tvg-logo="https://vovkvi.github.io/picons/novoe-radio.png" tvg-provider="Другие",Новое Радио ТВ
 http://hls-video01.cdnvideo.ru/video01/hDvideo01-0O.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="5364" tvg-logo="http://epg.it999.ru/img/5364.png" tvg-provider="Другие",Первый музыкальный
-http://rtmp.one.by:2300
-#EXTINF:-1 tvg-id="5365" tvg-logo="http://epg.it999.ru/img/5365.png" tvg-provider="Другие",Первый музыкальный BY
+#EXTINF:-1 tvg-id="5365" tvg-logo="https://vovkvi.github.io/picons/1muz.png" tvg-provider="Другие",Первый музыкальный
 http://rtmp.one.by:1300
-#EXTINF:-1 tvg-id="6191" tvg-logo="http://epg.it999.ru/img/6191.png" tvg-provider="Другие",Радио ХИТ ОРС HD
+#EXTINF:-1 tvg-id="5364" tvg-logo="https://vovkvi.github.io/picons/1muz-ru.png" tvg-provider="Другие",Первый музыкальный RU
+http://rtmp.one.by:2300
+#EXTINF:-1 tvg-id="6191" tvg-logo="https://vovkvi.github.io/picons/hit-orsk.png" tvg-provider="Другие",Радио Хит (Орск)
 http://lova.me/hls/hithd.m3u8
-#EXTINF:-1 tvg-id="6012" tvg-logo="http://epg.it999.ru/img/6012.png" tvg-provider="Другие",Радио Шансон ТВ HD
+#EXTINF:-1 tvg-id="6012" tvg-logo="https://vovkvi.github.io/picons/radio-shanson-tv.png" tvg-provider="Другие",Радио Шансон ТВ
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
-#EXTINF:-1 tvg-id="680" tvg-logo="http://epg.it999.ru/img/680.png" tvg-provider="CloudFlare",ТНТ Music
+#EXTINF:-1 tvg-id="680" tvg-logo="https://vovkvi.github.io/picons/tnt-music.png" tvg-provider="CloudFlare",ТНТ Music
 https://livetv.mylifeisgood.net.ru/channels/tntmusicru.m3u8
