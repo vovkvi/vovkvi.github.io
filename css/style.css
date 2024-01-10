@@ -6,6 +6,13 @@ html {
   font-family: RobotoSlab;
   scroll-behavior: smooth;
 }
+.print-link {
+  font-size: 1.4em;
+}
+.ralign {
+  text-align: right;
+  float: right;
+}
 .btn-success {
 	background-color: #3ed744;
 }
@@ -48,23 +55,32 @@ html {
   left: -29px;
   z-index: 1;
 }
-.timeline-card-primary {
+.timeline-card-blue {
   border-left-color: #4A89DC;
 }
-.timeline-card-primary:before {
+.timeline-card-blue:before {
   border-color: #4A89DC;
 }
-.timeline-card-primary:after {
+.timeline-card-blue:after {
   background-color: #4A89DC;
 }
-.timeline-card-success {
+.timeline-card-green {
   border-left-color: #37BC9B;
 }
-.timeline-card-success:before {
+.timeline-card-green:before {
   border-color: #37BC9B;
 }
-.timeline-card-success:after {
+.timeline-card-green:after {
   background-color: #37BC9B;
+}
+.timeline-card-orange {
+  border-left-color: orange;
+}
+.timeline-card-orange:before {
+  border-color: orange;
+}
+.timeline-card-orange:after {
+  background-color: orange;
 }
 .site-title {
   font-size: 1.25rem;
@@ -124,6 +140,30 @@ footer a:not(.nav-link) {
   height: 240px;
   margin: 15px 0 30px;
 }
+.text-primary {
+  text-align: right;
+}
+
+@media (max-width: 48em) {
+  .mob-col {
+    flex: 0 0 auto;
+    width: 50%
+  }
+  .mob-col-3 {
+    flex: 0 0 auto;
+    width: 30%
+  }
+  .mob-col-7 {
+    flex: 0 0 auto;
+    width: 70%
+  }
+  .mob-mt-3 {
+    margin-top: 1em;
+  }
+  .text-primary {
+    text-align: left;
+  } 
+}
 
 @media (min-width: 48em) {
   .site-title {
@@ -141,6 +181,18 @@ footer a:not(.nav-link) {
 @media print {
   body {
     background-color: #fff;
+  }
+  .row-block {
+    display: block;
+  }
+  .row-block div {
+    width: 100%;
+    margin-bottom: 1em;
+  }
+  .row-block .card-body {
+    padding-top: 1em;
+    padding-bottom: 0;
+    margin-bottom: 0;
   }
   .container {
     width: auto;
@@ -165,12 +217,11 @@ footer a:not(.nav-link) {
   }
   .skills-section,
   .work-experience-section,
-  .education-section,
   .contant-section {
     padding: 1.5rem 5rem 2rem !important;
   }
   .page-break {
-    padding-top: 5rem;
+    padding-top: 2rem;
     page-break-before: always;
   }
 }
