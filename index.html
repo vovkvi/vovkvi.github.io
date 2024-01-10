@@ -4,13 +4,13 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Vitalii Vovk | CV | vCard" />
+    <meta name="description" content="Vitalii Vovk | CV | vCard">
     <title>Виталий Вовк | vCard</title>
     <link rel="shortcut icon" href="./favicon.ico">
     <link rel="stylesheet" type="text/css" href="./libs/aos/aos.css">
     <link rel="stylesheet" type="text/css" href="./libs/bootstrap/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="./css/style.css">
-    <link rel="stylesheet" type="text/css" href="./libs/leaflet/leaflet.css"/>
+	  <link rel="stylesheet" type="text/css" href="./css/style.css">
+    <link rel="stylesheet" type="text/css" href="./libs/leaflet/leaflet.css">
     <script type="text/javascript" src="./libs/leaflet/leaflet.js"></script>
     <noscript>
       <style type="text/css">
@@ -35,7 +35,7 @@
     <header class="d-print-none">
       <div class="container text-center text-lg-left">
         <div class="py-3 clearfix">
-          <h1 class="site-title mb-0">Виталий <span>Вовк</span></h1>
+          <h1 class="site-title mb-0">Визитная <span>карточка</span></h1>
           <div class="site-nav">
             <nav role="navigation">
               <ul class="nav justify-content-center">
@@ -83,10 +83,11 @@
               </div>
               <div class="col-lg-8 col-md-7 text-center text-md-start">
                 <h2 class="h1 mt-2" data-aos="fade-left" data-aos-delay="0">Виталий Вовк</h2>
-				<p data-aos="fade-left" data-aos-delay="100">Python &nbsp;&nbsp;|&nbsp;&nbsp; Kotlin &nbsp;&nbsp;|&nbsp;&nbsp; JavaScript</p>
+                <p class="d-none d-print-block print-link">vetalvovk@gmail.com</p>
+				        <p class="d-print-none" data-aos="fade-left" data-aos-delay="100">Python &nbsp;&nbsp;|&nbsp;&nbsp; Kotlin &nbsp;&nbsp;|&nbsp;&nbsp; JavaScript</p>
                 <div class="d-print-none" data-aos="fade-left" data-aos-delay="200">
                   <a class="btn btn-light text-dark shadow-sm mt-1 me-1" href="./vovk-cv.pdf" target="_blank">Скачать резюме</a>
-                  <a class="btn btn-success shadow-sm mt-1 me-1" href="#contact">Связь со мной</a>
+                  <a class="btn btn-success shadow-sm mt-1 me-1" href="#contact">Написать сообщение</a>
                 </div>
               </div>
             </div>
@@ -95,36 +96,25 @@
           ---                  About Me                      ---
           ----------------------------------------------------->
           <div class="about-section pt-4 px-3 px-lg-4 mt-1">
-            <div class="row">
-              <div class="col-md-6">
+            <div class="row row-block">
+              <div class="col-md-8">
                 <h2 class="h3 mb-3">Обо <span>мне</span></h2>
-                <p>Приветствую! На этой странице Вы получите краткую информацию о моих умениях и опыте, а также найдете все необходимые ссылки для связи со мной.</p>
+                <p class="d-print-none">Приветствую! На этой странице Вы получите краткую информацию о моих умениях и опыте, а также найдете все необходимые ссылки для связи со мной.</p>
+                <p class="d-none d-print-block">Постоянно занимаюсь самообразованием для оптимизации своей профессиональной и социальной деятельности. Интересуюсь сферой информационных технологий, в частности: разработка web и мобильных приложений, программирование микроконтроллеров.<br>В людях ценю открытость и прямолинейность. Уверен, что у каждого человека есть чему поучиться.</p>
               </div>
-              <div class="col-md-5 offset-md-1">
+              <div class="col-md-4 d-print-none">
                 <div class="row mt-2">
-                  <div class="col-sm-4">
-                    <div class="pb-1">Страна</div>
+                  <div class="col-md-6 mob-col-3">
+                    <div class="pb-1 text-primary">Страна</div>
+                    <div class="pb-1 text-primary">Город</div>
+                    <div class="pb-1 text-primary">Опыт работы</div>
+                    <div class="pb-1 text-primary">Образование</div>
                   </div>
-                  <div class="col-sm-8">
-                    <div class="pb-1 text-secondary">Россия</div>
-                  </div>
-                  <div class="col-sm-4">
-                    <div class="pb-1">Город</div>
-                  </div>
-                  <div class="col-sm-8">
-                    <div class="pb-1 text-secondary">Санкт-Петербург</div>
-                  </div>
-                  <div class="col-sm-4">
-                    <div class="pb-1">Опыт работы</div>
-                  </div>
-                  <div class="col-sm-8">
-                    <div class="pb-1 text-secondary">более 10 лет</div>
-                  </div>
-                  <div class="col-sm-4">
-                    <div class="pb-1">Образование</div>
-                  </div>
-                  <div class="col-sm-8">
-                    <div class="pb-1 text-secondary">Высшее</div>
+                  <div class="col-md-6 mob-col-7">
+                     <div class="pb-1 text-secondary">Россия</div>
+                     <div class="pb-1 text-secondary">Санкт-Петербург</div>
+                     <div class="pb-1 text-secondary">более 10 лет</div>
+                     <div class="pb-1 text-secondary">Высшее</div>
                   </div>
                 </div>
               </div>
@@ -158,14 +148,14 @@
                     <div class="progress-bar bg-primary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="300" data-aos-anchor=".skills-section" style="width: 45%" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                 </div>
-				<div class="mb-2"><span>Kotlin</span>
+				        <div class="mb-2"><span>Kotlin</span>
                   <div class="progress my-1">
                     <div class="progress-bar bg-primary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="300" data-aos-anchor=".skills-section" style="width: 35%" aria-valuenow="35" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                 </div>
               </div>
               <div class="col-md-6">
-                <h2 class="h3 mb-3">Прикладное <span>ПО</span></h2>
+                <h2 class="h3 mb-3 mob-mt-3">Программное <span>обеспечение</span></h2>
                 <div class="mb-2"><span>ПК &quot;КОСМОС&quot;</span>
                   <div class="progress my-1">
                     <div class="progress-bar bg-success" role="progressbar" data-aos="zoom-in-right" data-aos-delay="500" data-aos-anchor=".skills-section" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
@@ -181,12 +171,12 @@
                     <div class="progress-bar bg-success" role="progressbar" data-aos="zoom-in-right" data-aos-delay="400" data-aos-anchor=".skills-section" style="width: 65%" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                 </div>
-				<div class="mb-2"><span>EKRASMS</span>
+				        <div class="mb-2"><span>EKRASMS</span>
                   <div class="progress my-1">
                     <div class="progress-bar bg-success" role="progressbar" data-aos="zoom-in-right" data-aos-delay="600" data-aos-anchor=".skills-section" style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                 </div>
-				<div class="mb-2"><span>MT Реле (Механотроника)</span>
+				        <div class="mb-2"><span>MT Реле (Механотроника)</span>
                   <div class="progress my-1">
                     <div class="progress-bar bg-success" role="progressbar" data-aos="zoom-in-right" data-aos-delay="600" data-aos-anchor=".skills-section" style="width: 55%" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
@@ -194,89 +184,100 @@
               </div>
             </div>
           </div>
+          
           <hr class="d-print-none"/>
+          <div class="page-break"></div>
           <!----------------------------------------------------
           ---            Experience & Education              ---
           ----------------------------------------------------->
           <div class="work-experience-section px-3 px-lg-4">
-             <div class="row">
+             <div class="row row-block">
                 <!----------------------------------------------------
                 ---                  Experience                    ---
                 ----------------------------------------------------->
                 <div class="col-md-6">
                   <h2 class="h3 mb-3">Опыт <span>работы</span></h2>
                   <div class="timeline">
-					<div class="timeline-card timeline-card-primary card shadow-sm">
+					          <div class="timeline-card timeline-card-blue card shadow-sm">
                       <div class="card-body">
-                        <div class="h5 mb-1">Инженер по РЗиА 1 категории<br><span class="text-muted h6">ПАО &quot;ТГК-1&quot; филиал &quot;Невский&quot;<br>Первомайская ТЭЦ</span></div>
-                        <div class="text-muted text-small mb-2">Май, 2023 - настоящее время</div>
-                        <div>Электротехническая лаборатория. Электрический цех.</div>
+                        <div class="h5 mb-1">ПАО &quot;ТГК-1&quot; филиал &quot;Невский&quot; Первомайская ТЭЦ-14</div>
+                        <div class="text-muted h6">Санкт-Петербург</div>
+                        <div class="text-muted text-small mb-2">Инженер 1 категории<span class="ralign">2023 - наст. время</span><br>Инженер 2 категории<span class="ralign">2022 - 2023</span></div>
+                        <div>Электрический цех. Электротехническая лаборатория.</div>
                       </div>
                     </div>
-                    <div class="timeline-card timeline-card-primary card shadow-sm">
+                    <div class="timeline-card timeline-card-blue card shadow-sm">
                       <div class="card-body">
-                        <div class="h5 mb-1">Инженер по РЗиА 2 категории<br><span class="text-muted h6">ПАО &quot;ТГК-1&quot; филиал &quot;Невский&quot;<br>Первомайская ТЭЦ</span></div>
-                        <div class="text-muted text-small mb-2">Март, 2022 - Май, 2023</div>
-                        <div>Электротехническая лаборатория. Электрический цех.</div>
-                      </div>
-                    </div>
-                    <div class="timeline-card timeline-card-primary card shadow-sm">
-                      <div class="card-body">
-                        <div class="h5 mb-1">Ведущий инженер по расчётам электрических режимов<br><span class="text-muted h6">РП &quot;Государственная магистральная сетевая компания&quot;</span></div>
-                        <div class="text-muted text-small mb-2">Октябрь, 2020 - Март, 2022</div>
+                        <div class="h5 mb-1">РП &quot;Государственная магистральная сетевая компания&quot;</div>
+                        <div class="text-muted h6">Горловка</div>
+                        <div class="text-muted text-small mb-2">Ведущий инженер<span class="ralign">2020 - 2022</span><br>Инженер 1 категории<span class="ralign">2018 - 2020</span></div>
                         <div>Центральная диспетчерская служба. Сектор расчётов электрических режимов.</div>
                       </div>
                     </div>
-                    <div class="timeline-card timeline-card-primary card shadow-sm">
+                    <div class="timeline-card timeline-card-blue card shadow-sm">
                       <div class="card-body">
-                        <div class="h5 mb-1">Инженер по оптимизации электрических режимов<br><span class="text-muted h6">ГП &quot;НЭК &quot;Укрэнерго&quot; НП &quot;Донбасская ЭС&quot;</span></div>
-                        <div class="text-muted text-small mb-2">Июль, 2016 - Октябрь, 2020</div>
+                        <div class="h5 mb-1">ГП &quot;НЭК &quot;Укрэнерго&quot; НП &quot;Донбасская ЭС&quot;</div>
+                        <div class="text-muted h6">Горловка</div>
+                        <div class="text-muted text-small mb-2">Инженер по режимам<span class="ralign">2016 - 2018</span></div>
                         <div>Центральная диспетчерская служба. Сектор оптимизации режимов.</div>
                       </div>
                     </div>
-                    <div class="timeline-card timeline-card-primary card shadow-sm">
+                    <div class="timeline-card timeline-card-blue card shadow-sm">
                       <div class="card-body">
-                        <div class="h5 mb-1">Электромонтер по эксплуатации распределительных сетей<br><span class="text-muted h6">ПАО &quot;ДТЭК&quot; НП &quot;Горловский РЭС&quot;</span></div>
-                        <div class="text-muted text-small mb-2">Июль, 2012 - Июль, 2016</div>
+                        <div class="h5 mb-1">ПАО &quot;ДТЭК&quot; НП &quot;Горловский РЭС&quot;</div>
+                        <div class="text-muted h6">Горловка</div>
+                        <div class="text-muted text-small mb-2">Электромонтер<span class="ralign">2012 - 2016</span></div>
                         <div>Опреративно-выездная бригада.</div>
                       </div>
                     </div>
                   </div>
                 </div>
                 <!----------------------------------------------------
-                ---                  Education                     ---
+                ---              Courses & Education               ---
                 ----------------------------------------------------->
                 <div class="col-md-6">
-                  <h2 class="h3 mb-3">Повышение <span>квалификации</span></h2>
+                  <div class="page-break"></div>
+                  <!-- Повышение квалификации -->
+                  <h2 class="h3 mb-3 mob-mt-3">Повышение <span>квалификации</span></h2>
                   <div class="timeline">
-                    <div class="timeline-card timeline-card-success card shadow-sm">
+                    <div class="timeline-card timeline-card-green card shadow-sm">
                       <div class="card-body">
-                        <div class="h5 mb-1">ФГАОУ ДПО &quot;ПЭИПК&quot;<br><span class="text-muted h6">Санкт-Петербург</span></div>
-                        <div class="text-muted text-small mb-2">ноябрь 2022</div>
-                        <div>Курсы &quot;Наладка, выбор уставок и обслуживание РЗА электроустановок 0,4 — 110 кВ&quot;</div>
+                        <div class="h5 mb-1">ООО &quot;ПАРМА&quot;</div>
+                        <div class="text-muted h6">Санкт-Петербург<span class="ralign">сентябрь 2023</span></div>
+                        <div>Эксплуатация и техническое обслуживание РАС &quot;ПАРМА РП 4.06М — 4.12&quot;</div>
                       </div>
                     </div>
-                    <div class="timeline-card timeline-card-success card shadow-sm">
+                    <div class="timeline-card timeline-card-green card shadow-sm">
                       <div class="card-body">
-                        <div class="h5 mb-1">УКК ПАО &quot;Донецкоблэнерго&quot;<br><span class="text-muted h6">Горловка</span></div>
-                        <div class="text-muted text-small mb-2">март 2013</div>
-                        <div>Курсы &quot;Электромонтер по эксплуатации распределительных сетей&quot;</div>
+                        <div class="h5 mb-1">ФГАОУ ДПО &quot;ПЭИПК&quot;</div>
+                        <div class="text-muted h6">Санкт-Петербург<span class="ralign">ноябрь 2022</span></div>
+                        <div>Наладка, выбор уставок и обслуживание РЗА электроустановок 0,4 — 110 кВ</div>
+                      </div>
+                    </div>
+                    <div class="timeline-card timeline-card-green card shadow-sm">
+                      <div class="card-body">
+                        <div class="h5 mb-1">УКК ПАО &quot;Донецкоблэнерго&quot;</div>
+                        <div class="text-muted h6">Горловка<span class="ralign">март 2013</span></div>
+                        <div>Электромонтер по эксплуатации распределительных сетей</div>
                       </div>
                     </div>
                   </div>
-                  <h2 class="h3 mb-3 mt-3">Образование</h2>
+                  <!-- Высшее образование -->
+                  <h2 class="h3 mb-3 mt-3">Высшее <span>образование</span></h2>
                   <div class="timeline">
-                    <div class="timeline-card timeline-card-success card shadow-sm">
+                    <div class="timeline-card timeline-card-orange card shadow-sm">
                       <div class="card-body">
-                        <div class="h5 mb-1">Инженер - электрик. Преподаватель дисциплин в отрасли электроэнергетики<br><span class="text-muted h6">УНППИ УИПА</span></div>
-                        <div class="text-muted text-small mb-2">2012 - 2016</div>
+                        <div class="h5 mb-1">УНППИ УИПА</div>
+                        <div class="text-muted h6">Харьков<span class="ralign">2016</span></div>
+                        <div class="text-muted text-small mb-2">Инженер - электрик. Преподаватель дисциплин в отрасли электроэнергетики</div>
                         <div>Электроенергетика</div>
                       </div>
                     </div>
-                    <div class="timeline-card timeline-card-success card shadow-sm">
+                    <div class="timeline-card timeline-card-orange card shadow-sm">
                       <div class="card-body">
-                        <div class="h5 mb-1">Техник - электрик<br><span class="text-muted h6">ГТДонНУ</span></div>
-                        <div class="text-muted text-small mb-2">2008 - 2012</div>
+                        <div class="h5 mb-1">ГТДонНУ</div>
+                        <div class="text-muted h6">Горловка<span class="ralign">2012</span></div>
+                        <div class="text-muted text-small mb-2">Техник - электрик</div>
                         <div>Монтаж и эксплуатация элекрооборудования зданий и гражданских сооружений</div>
                       </div>
                     </div>
@@ -294,7 +295,7 @@
               ---                 Message form                   ---
               ----------------------------------------------------->
               <div class="col-md-6 d-print-none">
-                <h2 class="h3 text mb-3">Связь со <span>мной</span></h2>
+                <h2 class="h3 text mb-3">Написать <span>сообщение</span></h2>
                 <div class="my-2">
                   <form action="https://formspree.io/f/xknawbna" method="POST">
                     <div class="row">
@@ -316,33 +317,8 @@
               ---                  Location                      ---
               ----------------------------------------------------->
               <div class="col-md-6 d-print-none">
-                <h2 class="h3 text mb-3">Моя <span>локация</span></h2>
+                <h2 class="h3 text mb-3 mob-mt-3">Моё <span>местоположение</h2>
                 <div id="map" class="map"></div>
-              </div>
-              <!----------------------------------------------------
-              ---           Contacts for printing                ---
-              ----------------------------------------------------->
-              <div class="col d-none d-print-block">
-                <div class="mt-2">
-                  <div>
-                    <div class="mb-2">
-                      <div class="text-dark"><svg class="ri-icn"><use xlink:href="#ri-instagram-line"></use></svg>&nbsp;&nbsp;&nbsp;<span>https://www.instagram.com/vitalis_wolf</span>
-                      </div>
-                    </div>
-                    <div class="mb-2">
-                      <div class="text-dark"><svg class="ri-icn"><use xlink:href="#ri-telegram-fill"></use></svg>&nbsp;&nbsp;&nbsp;<span>https://t.me/vetalv</span>
-                      </div>
-                    </div>
-                    <div class="mb-2">
-                      <div class="text-dark"><svg class="ri-icn"><use xlink:href="#ri-pinterest-fill"></use></svg>&nbsp;&nbsp;&nbsp;<span>https://pin.it/2lN2mJK</span>
-                      </div>
-                    </div>
-                    <div class="mb-2">
-                      <div class="text-dark"><svg class="ri-icn"><use xlink:href="#ri-github-fill"></use></svg>&nbsp;&nbsp;&nbsp;<span>https://github.com/vovkvi</span>
-                      </div>
-                    </div>
-                  </div>
-                </div>
               </div>
             </div>
           </div>
